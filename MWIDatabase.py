@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sqlite3
 import json
 import numpy as np
@@ -26,8 +27,7 @@ class MWIDatabase:
         # Check that current table does not need additional columns
         for key in row.keys():
             if key not in currentRowHeaders:
-                # Add new column
-                pass
+                cursor.execute(f'ALTER TABLE {name} ADD COLUMN \"{key}\"')
         # Check data is not missing entries
         for header in currentRowHeaders:
             if (header not in row.keys()) and (header != 'time'):
