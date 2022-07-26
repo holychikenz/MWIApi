@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 9,
+      "ask": 14,
       "bid": 5,
       "vendor": 2
     },
@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 38,
-      "bid": 29,
+      "bid": 30,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -152,11 +152,11 @@
     },
     "Blackberry": {
       "ask": 25,
-      "bid": -1,
+      "bid": 5,
       "vendor": 4
     },
     "Blackberry Cake": {
-      "ask": 99,
+      "ask": 98,
       "bid": 51,
       "vendor": 20
     },
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 38,
-      "bid": 34,
+      "bid": 32,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -281,8 +281,8 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 360,
-      "bid": 282,
+      "ask": 342,
+      "bid": 305,
       "vendor": 12
     },
     "Cheese": {
@@ -331,8 +331,8 @@
       "vendor": 60
     },
     "Cheese Mace": {
-      "ask": 932,
-      "bid": 618,
+      "ask": 999,
+      "bid": 167,
       "vendor": 72
     },
     "Cheese Plate Body": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 146,
-      "bid": 119,
+      "bid": 120,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 47,
-      "bid": 44,
+      "bid": 45,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 298,
-      "bid": 216,
+      "bid": 217,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 150,
+      "ask": 149,
       "bid": 67,
       "vendor": 27
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 650,
+      "ask": 9999,
       "bid": 353,
       "vendor": 10
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 105,
+      "ask": -1,
       "bid": 85,
       "vendor": 4
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 412,
+      "ask": 414,
       "bid": 406,
       "vendor": 162
     },
@@ -731,12 +731,12 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 69,
+      "ask": 68,
       "bid": 42,
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 110,
+      "ask": 117,
       "bid": 90,
       "vendor": 40
     },
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 130,
+      "ask": 124,
       "bid": 100,
       "vendor": 18
     },
@@ -827,7 +827,7 @@
     },
     "Peach": {
       "ask": 60,
-      "bid": 16,
+      "bid": 17,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -846,7 +846,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 64069,
+      "ask": 39069,
       "bid": 20013,
       "vendor": 6000
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 180,
+      "ask": 198,
       "bid": 170,
       "vendor": 81
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 217,
+      "ask": 206,
       "bid": 176,
       "vendor": 27
     },
@@ -1027,7 +1027,7 @@
     },
     "Spaceberry": {
       "ask": 32,
-      "bid": -1,
+      "bid": 27,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1041,8 +1041,8 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 353,
-      "bid": 121,
+      "ask": 350,
+      "bid": 130,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1111,12 +1111,12 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 949,
+      "ask": 940,
       "bid": 600,
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 929,
+      "ask": 883,
       "bid": 200,
       "vendor": 40
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 559,
+      "ask": 550,
       "bid": 361,
       "vendor": 75
     },
@@ -1151,8 +1151,8 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 620,
-      "bid": 480,
+      "ask": 614,
+      "bid": 423,
       "vendor": 50
     },
     "Toughness": {
@@ -1162,7 +1162,7 @@
     },
     "Turtle Shell": {
       "ask": 10000,
-      "bid": -1,
+      "bid": 2000,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1658827802.3277383
+  "time": 1658828702.150803
 }
