@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 7,
+      "ask": 8,
       "bid": 5,
       "vendor": 2
     },
@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 17,
-      "bid": 15,
+      "bid": 16,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 894,
+      "ask": 893,
       "bid": 611,
       "vendor": 75
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 158,
+      "ask": 160,
       "bid": 143,
       "vendor": 24
     },
@@ -146,17 +146,17 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 128,
+      "ask": 127,
       "bid": 108,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 24,
+      "ask": 23,
       "bid": 14,
       "vendor": 4
     },
     "Blackberry Cake": {
-      "ask": 197,
+      "ask": 100,
       "bid": 46,
       "vendor": 20
     },
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1850,
+      "ask": 1500,
       "bid": 1251,
       "vendor": 75
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 181,
+      "ask": 179,
       "bid": 163,
       "vendor": 36
     },
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 38,
-      "bid": 35,
+      "bid": 30,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 385,
+      "ask": 365,
       "bid": 351,
       "vendor": 12
     },
@@ -516,8 +516,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 990,
-      "bid": 559,
+      "ask": 989,
+      "bid": 560,
       "vendor": 50
     },
     "Egg": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 98,
+      "ask": 92,
       "bid": 85,
       "vendor": 54
     },
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 539,
+      "ask": 535,
       "bid": 436,
       "vendor": 40
     },
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 36986,
+      "ask": 35000,
       "bid": 27777,
       "vendor": 20000
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 98,
+      "ask": 123,
       "bid": 70,
       "vendor": 4
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 415,
+      "ask": 414,
       "bid": 405,
       "vendor": 162
     },
@@ -796,12 +796,12 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 158,
+      "ask": 157,
       "bid": 151,
       "vendor": 18
     },
     "Orange": {
-      "ask": 8,
+      "ask": 9,
       "bid": 6,
       "vendor": 4
     },
@@ -851,7 +851,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 18,
+      "ask": 17,
       "bid": 10,
       "vendor": 6
     },
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 25000,
+      "ask": 24999,
       "bid": 2010,
       "vendor": 1000
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 29969,
+      "ask": 29950,
       "bid": 10508,
       "vendor": 1000
     },
@@ -956,7 +956,7 @@
       "vendor": 20979
     },
     "Rainbow Pot": {
-      "ask": 22503,
+      "ask": -1,
       "bid": 19050,
       "vendor": 14985
     },
@@ -981,8 +981,8 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 218,
-      "bid": 165,
+      "ask": 206,
+      "bid": 166,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -991,12 +991,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 32045,
+      "ask": 32044,
       "bid": 3703,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 6888,
+      "ask": 7250,
       "bid": 5800,
       "vendor": 1000
     },
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 416,
-      "bid": 375,
+      "bid": 376,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1112,7 +1112,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 980,
-      "bid": 250,
+      "bid": 500,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 955,
+      "ask": 950,
       "bid": 203,
       "vendor": 40
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 14998,
+      "ask": 13000,
       "bid": 9061,
       "vendor": 1000
     },
@@ -1261,7 +1261,7 @@
       "vendor": 420
     },
     "Verdant Pot": {
-      "ask": 3988,
+      "ask": 4000,
       "bid": 460,
       "vendor": 300
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 920,
+      "ask": 987,
       "bid": 880,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1658811602.1247177
+  "time": 1658812501.9060204
 }
