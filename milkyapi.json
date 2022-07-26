@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 61,
+      "ask": 62,
       "bid": 26,
       "vendor": 10
     },
@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 194,
-      "bid": 75,
+      "bid": -1,
       "vendor": 20
     },
     "Azure Boots": {
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 143,
-      "bid": 140,
+      "bid": 141,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 312000,
+      "ask": 296400,
       "bid": 100012,
       "vendor": 3000
     },
@@ -196,7 +196,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 11946,
+      "ask": 11000,
       "bid": 4032,
       "vendor": 2700
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 160,
+      "ask": 165,
       "bid": 149,
       "vendor": 36
     },
@@ -281,12 +281,12 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 356,
+      "ask": 355,
       "bid": 346,
       "vendor": 12
     },
     "Cheese": {
-      "ask": 88,
+      "ask": 87,
       "bid": 67,
       "vendor": 6
     },
@@ -496,7 +496,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 46,
+      "ask": 20,
       "bid": 8,
       "vendor": 5
     },
@@ -512,16 +512,16 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 298,
-      "bid": 270,
+      "bid": 232,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 820,
+      "ask": 819,
       "bid": 706,
       "vendor": 50
     },
     "Egg": {
-      "ask": 16,
+      "ask": 18,
       "bid": 12,
       "vendor": 1
     },
@@ -561,12 +561,12 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 188997,
+      "ask": 188000,
       "bid": 120000,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 845,
+      "ask": 820,
       "bid": 254,
       "vendor": 10
     },
@@ -581,7 +581,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 31,
+      "ask": 30,
       "bid": 28,
       "vendor": 24
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 488704,
+      "ask": 488703,
       "bid": 263572,
       "vendor": 10000
     },
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 457,
-      "bid": 410,
+      "ask": 456,
+      "bid": 411,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -746,7 +746,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 2000000,
+      "ask": 1999999,
       "bid": 1600000,
       "vendor": 1000
     },
@@ -781,7 +781,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 26,
+      "ask": 25,
       "bid": 12,
       "vendor": 9
     },
@@ -872,7 +872,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 248187,
-      "bid": 110001,
+      "bid": 110002,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -886,8 +886,8 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 27998,
-      "bid": 10525,
+      "ask": 25000,
+      "bid": 11000,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 399,
-      "bid": 195,
+      "ask": 398,
+      "bid": 197,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -941,8 +941,8 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 36,
-      "bid": 32,
+      "ask": 37,
+      "bid": 33,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 225,
+      "ask": 224,
       "bid": 200,
       "vendor": 27
     },
@@ -1086,8 +1086,8 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 385,
-      "bid": 263,
+      "ask": 387,
+      "bid": 264,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1096,7 +1096,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1996,
+      "ask": 1995,
       "bid": 500,
       "vendor": 75
     },
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 889,
+      "ask": 888,
       "bid": 500,
       "vendor": 50
     },
@@ -1122,7 +1122,7 @@
     },
     "Super Intelligence Coffee": {
       "ask": 599,
-      "bid": 190,
+      "bid": 191,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1132,11 +1132,11 @@
     },
     "Super Power Coffee": {
       "ask": 536,
-      "bid": 371,
+      "bid": 372,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 409,
+      "ask": 405,
       "bid": 138,
       "vendor": 40
     },
@@ -1201,7 +1201,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": 2988,
+      "ask": 2999,
       "bid": 338,
       "vendor": 300
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1658859302.2991407
+  "time": 1658860202.2766476
 }
