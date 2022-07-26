@@ -51,7 +51,7 @@
       "vendor": 1296
     },
     "Azure Bulwark": {
-      "ask": 14888,
+      "ask": 5000,
       "bid": 2305,
       "vendor": 2160
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 179,
+      "ask": 177,
       "bid": 163,
       "vendor": 36
     },
@@ -281,12 +281,12 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 365,
+      "ask": 364,
       "bid": 351,
       "vendor": 12
     },
     "Cheese": {
-      "ask": 73,
+      "ask": 72,
       "bid": 53,
       "vendor": 6
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 117974,
+      "ask": 118269,
       "bid": 25002,
       "vendor": 1000
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 134,
-      "bid": 113,
+      "bid": 114,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -516,8 +516,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 989,
-      "bid": 560,
+      "ask": 950,
+      "bid": 561,
       "vendor": 50
     },
     "Egg": {
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 45,
+      "ask": 44,
       "bid": 42,
       "vendor": 36
     },
@@ -561,13 +561,13 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 128993,
+      "ask": 252693,
       "bid": 100000,
       "vendor": 1000
     },
     "Gathering Tea": {
       "ask": 799,
-      "bid": 351,
+      "bid": 352,
       "vendor": 10
     },
     "Gator Vest": {
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 35000,
+      "ask": 36986,
       "bid": 27777,
       "vendor": 20000
     },
@@ -636,7 +636,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 69998,
+      "ask": 69997,
       "bid": 100,
       "vendor": 44550
     },
@@ -651,12 +651,12 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 414,
+      "ask": 413,
       "bid": 405,
       "vendor": 162
     },
     "Holy Enhancer": {
-      "ask": 52995,
+      "ask": 61980,
       "bid": 45556,
       "vendor": 44550
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 86,
-      "bid": 67,
+      "bid": 69,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -717,7 +717,7 @@
     },
     "Holy Sword": {
       "ask": 88000,
-      "bid": 62000,
+      "bid": 70000,
       "vendor": 53460
     },
     "Intelligence Coffee": {
@@ -787,7 +787,7 @@
     },
     "Mooberry Cake": {
       "ask": 327,
-      "bid": 220,
+      "bid": 230,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 198,
+      "ask": 197,
       "bid": 168,
       "vendor": 81
     },
@@ -957,7 +957,7 @@
     },
     "Rainbow Pot": {
       "ask": -1,
-      "bid": 19050,
+      "bid": 20000,
       "vendor": 14985
     },
     "Rainbow Shears": {
@@ -1031,8 +1031,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 416,
-      "bid": 376,
+      "ask": 417,
+      "bid": 390,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1046,7 +1046,7 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 115,
+      "ask": 117,
       "bid": 85,
       "vendor": 10
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 414,
+      "ask": 436,
       "bid": 375,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 426,
+      "ask": 420,
       "bid": 206,
       "vendor": 50
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 562,
-      "bid": 361,
+      "bid": 362,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1146,7 +1146,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 94000,
+      "ask": 94759,
       "bid": 70000,
       "vendor": 1000
     },
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": -1,
-      "bid": 1000000,
+      "bid": 1010000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1247,7 +1247,7 @@
     },
     "Verdant Milk": {
       "ask": 26,
-      "bid": 25,
+      "bid": 22,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 6000000,
-      "bid": 2100002,
+      "bid": 2,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 987,
+      "ask": 986,
       "bid": 880,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1658812501.9060204
+  "time": 1658813401.4986036
 }
