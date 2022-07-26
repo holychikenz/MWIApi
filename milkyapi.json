@@ -21,8 +21,8 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 94,
-      "bid": 15,
+      "ask": 92,
+      "bid": 16,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 197,
-      "bid": 54,
+      "bid": 55,
       "vendor": 20
     },
     "Azure Boots": {
@@ -182,7 +182,7 @@
     },
     "Blueberry Donut": {
       "ask": 110,
-      "bid": 32,
+      "bid": 31,
       "vendor": 10
     },
     "Brewing Tea": {
@@ -402,7 +402,7 @@
     },
     "Crimson Brush": {
       "ask": 14690,
-      "bid": 6825,
+      "bid": 10000,
       "vendor": 6480
     },
     "Crimson Buckler": {
@@ -432,7 +432,7 @@
     },
     "Crimson Hammer": {
       "ask": 19689,
-      "bid": 6840,
+      "bid": 10000,
       "vendor": 6480
     },
     "Crimson Helmet": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 491,
+      "ask": 493,
       "bid": 400,
       "vendor": 20
     },
@@ -656,7 +656,7 @@
       "vendor": 162
     },
     "Holy Enhancer": {
-      "ask": 48999,
+      "ask": 52995,
       "bid": 45556,
       "vendor": 44550
     },
@@ -676,12 +676,12 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 76635,
+      "ask": 76634,
       "bid": 63000,
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 86,
+      "ask": 85,
       "bid": 72,
       "vendor": 54
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 344,
+      "ask": 343,
       "bid": 211,
       "vendor": 40
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 25,
+      "ask": 24,
       "bid": 17,
       "vendor": 9
     },
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 10000,
+      "ask": 9999,
       "bid": 2009,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 178,
+      "ask": 177,
       "bid": 160,
       "vendor": 81
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 35,
+      "ask": 36,
       "bid": 29,
       "vendor": 27
     },
@@ -956,7 +956,7 @@
       "vendor": 20979
     },
     "Rainbow Pot": {
-      "ask": 21994,
+      "ask": 22503,
       "bid": 19050,
       "vendor": 14985
     },
@@ -966,7 +966,7 @@
       "vendor": 14985
     },
     "Rainbow Spatula": {
-      "ask": 23669,
+      "ask": 23668,
       "bid": 17666,
       "vendor": 14985
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 160,
+      "ask": 159,
       "bid": 140,
       "vendor": 27
     },
@@ -1031,8 +1031,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 422,
-      "bid": 375,
+      "ask": 424,
+      "bid": 422,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 86,
+      "ask": 87,
       "bid": 72,
       "vendor": 27
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 414,
+      "ask": 436,
       "bid": 402,
       "vendor": 75
     },
@@ -1076,8 +1076,8 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 274,
-      "bid": 101,
+      "ask": 100,
+      "bid": -1,
       "vendor": 30
     },
     "Sugar": {
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 200,
+      "ask": 278,
       "bid": 109,
       "vendor": 108
     },
@@ -1312,7 +1312,7 @@
     },
     "Wisdom Tea": {
       "ask": 996,
-      "bid": 874,
+      "bid": 880,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1658799029.8451457
+  "time": 1658799430.5724056
 }
