@@ -1,0 +1,1061 @@
+{
+  "time": 1658819251.0,
+  "market": {
+    "Apple": {
+      "ask": 8.0,
+      "bid": 5.0
+    },
+    "Apple Gummy": {
+      "ask": 20.5,
+      "bid": 11.0
+    },
+    "Apple Yogurt": {
+      "ask": 68.0,
+      "bid": 31.0
+    },
+    "Aqua Essence": {
+      "ask": 17.0,
+      "bid": 13.0
+    },
+    "Arabica Coffee Bean": {
+      "ask": 80.0,
+      "bid": 16.0
+    },
+    "Artisan Tea": {
+      "ask": 892.0,
+      "bid": 611.0
+    },
+    "Attack Coffee": {
+      "ask": 196.0,
+      "bid": 55.0
+    },
+    "Azure Boots": {
+      "ask": 27777.0,
+      "bid": 1050.0
+    },
+    "Azure Brush": {
+      "ask": 3158.0,
+      "bid": 1250.0
+    },
+    "Azure Buckler": {
+      "ask": 24888.0,
+      "bid": 2025.0
+    },
+    "Azure Bulwark": {
+      "ask": 14888.0,
+      "bid": 2305.0
+    },
+    "Azure Cheese": {
+      "ask": 158.0,
+      "bid": 141.5
+    },
+    "Azure Enhancer": {
+      "ask": 18555.0,
+      "bid": 1655.0
+    },
+    "Azure Gauntlets": {
+      "ask": 30000.0,
+      "bid": 2650.0
+    },
+    "Azure Hammer": {
+      "ask": 8574.0,
+      "bid": 1555.0
+    },
+    "Azure Helmet": {
+      "ask": 25822.0,
+      "bid": 5000.0
+    },
+    "Azure Mace": {
+      "ask": 13999.0,
+      "bid": 1400.0
+    },
+    "Azure Milk": {
+      "ask": 40.0,
+      "bid": 32.0
+    },
+    "Azure Plate Body": {
+      "ask": 9200.0,
+      "bid": 2246.0
+    },
+    "Azure Plate Legs": {
+      "ask": 24642.0,
+      "bid": 5050.0
+    },
+    "Azure Pot": {
+      "ask": 12999.0,
+      "bid": 1370.0
+    },
+    "Azure Shears": {
+      "ask": 4736.0,
+      "bid": 1726.0
+    },
+    "Azure Spatula": {
+      "ask": 13888.0,
+      "bid": 1730.0
+    },
+    "Azure Spear": {
+      "ask": 24888.0,
+      "bid": 1400.0
+    },
+    "Azure Sword": {
+      "ask": 11902.0,
+      "bid": 4400.0
+    },
+    "Bear Essence": {
+      "ask": 55.0,
+      "bid": 53.0
+    },
+    "Berserk": {
+      "ask": 120000.0,
+      "bid": 90000.0
+    },
+    "Black Bear Fluff": {
+      "ask": 329026.0,
+      "bid": 100012.0
+    },
+    "Black Bear Shoes": {
+      "ask": -1.0,
+      "bid": 300000.0
+    },
+    "Black Tea Leaf": {
+      "ask": 136.0,
+      "bid": 110.0
+    },
+    "Blackberry": {
+      "ask": 25.0,
+      "bid": 14.0
+    },
+    "Blackberry Cake": {
+      "ask": 187.0,
+      "bid": 58.5
+    },
+    "Blackberry Donut": {
+      "ask": 105.0,
+      "bid": 40.0
+    },
+    "Blessed Tea": {
+      "ask": 1849.0,
+      "bid": 1300.0
+    },
+    "Blueberry": {
+      "ask": 14.0,
+      "bid": 10.0
+    },
+    "Blueberry Cake": {
+      "ask": 100.0,
+      "bid": 32.0
+    },
+    "Blueberry Donut": {
+      "ask": 50.0,
+      "bid": 13.0
+    },
+    "Brewing Tea": {
+      "ask": 417.0,
+      "bid": 42.0
+    },
+    "Burble Boots": {
+      "ask": 15000.0,
+      "bid": 3175.0
+    },
+    "Burble Brush": {
+      "ask": 11946.0,
+      "bid": 3836.0
+    },
+    "Burble Buckler": {
+      "ask": 34888.0,
+      "bid": 4030.0
+    },
+    "Burble Bulwark": {
+      "ask": 40000.0,
+      "bid": 5725.0
+    },
+    "Burble Cheese": {
+      "ask": 175.0,
+      "bid": 163.0
+    },
+    "Burble Enhancer": {
+      "ask": 40000.0,
+      "bid": 3028.0
+    },
+    "Burble Gauntlets": {
+      "ask": 14861.0,
+      "bid": 3025.0
+    },
+    "Burble Hammer": {
+      "ask": 13537.0,
+      "bid": 3280.0
+    },
+    "Burble Helmet": {
+      "ask": 33820.0,
+      "bid": 5015.0
+    },
+    "Burble Mace": {
+      "ask": 31473.0,
+      "bid": 6020.0
+    },
+    "Burble Milk": {
+      "ask": 37.0,
+      "bid": 31.0
+    },
+    "Burble Plate Body": {
+      "ask": 15000.0,
+      "bid": 8000.0
+    },
+    "Burble Plate Legs": {
+      "ask": 39800.0,
+      "bid": 4555.0
+    },
+    "Burble Pot": {
+      "ask": 9899.0,
+      "bid": 3250.0
+    },
+    "Burble Shears": {
+      "ask": 40000.0,
+      "bid": 3145.0
+    },
+    "Burble Spatula": {
+      "ask": 10922.0,
+      "bid": 3155.0
+    },
+    "Burble Spear": {
+      "ask": 21977.0,
+      "bid": 3400.0
+    },
+    "Burble Sword": {
+      "ask": 34567.0,
+      "bid": 12000.0
+    },
+    "Burble Tea Leaf": {
+      "ask": 378.5,
+      "bid": 339.0
+    },
+    "Cheese": {
+      "ask": 76.0,
+      "bid": 63.0
+    },
+    "Cheese Boots": {
+      "ask": 10000.0,
+      "bid": 135.0
+    },
+    "Cheese Brush": {
+      "ask": 998.0,
+      "bid": 170.0
+    },
+    "Cheese Buckler": {
+      "ask": 1488.0,
+      "bid": 218.0
+    },
+    "Cheese Bulwark": {
+      "ask": 999.0,
+      "bid": 167.0
+    },
+    "Cheese Enhancer": {
+      "ask": 1495.0,
+      "bid": 300.0
+    },
+    "Cheese Gauntlets": {
+      "ask": 10000.0,
+      "bid": 135.0
+    },
+    "Cheese Hammer": {
+      "ask": 999.0,
+      "bid": 165.0
+    },
+    "Cheese Helmet": {
+      "ask": 1980.0,
+      "bid": 178.0
+    },
+    "Cheese Mace": {
+      "ask": 932.0,
+      "bid": 170.0
+    },
+    "Cheese Plate Body": {
+      "ask": 2550.0,
+      "bid": 321.0
+    },
+    "Cheese Plate Legs": {
+      "ask": 1240.0,
+      "bid": 310.0
+    },
+    "Cheese Pot": {
+      "ask": 666.0,
+      "bid": 163.0
+    },
+    "Cheese Shears": {
+      "ask": 7288.0,
+      "bid": 165.0
+    },
+    "Cheese Spatula": {
+      "ask": 515.0,
+      "bid": 160.0
+    },
+    "Cheese Spear": {
+      "ask": 10555.0,
+      "bid": 173.0
+    },
+    "Cheese Sword": {
+      "ask": 4600.0,
+      "bid": 179.0
+    },
+    "Cheesesmithing Tea": {
+      "ask": 698.0,
+      "bid": 300.0
+    },
+    "Cleave": {
+      "ask": 118266.5,
+      "bid": 25003.0
+    },
+    "Coin": {
+      "ask": -1.0,
+      "bid": -1.0
+    },
+    "Cooking Tea": {
+      "ask": 410.0,
+      "bid": 200.0
+    },
+    "Crab Pincer": {
+      "ask": 15269.0,
+      "bid": 12300.0
+    },
+    "Crimson Boots": {
+      "ask": 19990.0,
+      "bid": 5530.0
+    },
+    "Crimson Brush": {
+      "ask": 14690.0,
+      "bid": 6825.0
+    },
+    "Crimson Buckler": {
+      "ask": 37000.0,
+      "bid": 8235.0
+    },
+    "Crimson Bulwark": {
+      "ask": 25000.0,
+      "bid": 13600.0
+    },
+    "Crimson Cheese": {
+      "ask": 134.5,
+      "bid": 119.0
+    },
+    "Crimson Enhancer": {
+      "ask": 25332.0,
+      "bid": 7055.0
+    },
+    "Crimson Gauntlets": {
+      "ask": 28500.0,
+      "bid": 5608.0
+    },
+    "Crimson Hammer": {
+      "ask": 19689.0,
+      "bid": 6840.0
+    },
+    "Crimson Helmet": {
+      "ask": 42750.0,
+      "bid": 6773.0
+    },
+    "Crimson Mace": {
+      "ask": 24636.0,
+      "bid": 8215.0
+    },
+    "Crimson Milk": {
+      "ask": 20.0,
+      "bid": 19.0
+    },
+    "Crimson Plate Body": {
+      "ask": 28175.0,
+      "bid": 16100.0
+    },
+    "Crimson Plate Legs": {
+      "ask": 20000.0,
+      "bid": 9595.0
+    },
+    "Crimson Pot": {
+      "ask": 19917.0,
+      "bid": 6821.0
+    },
+    "Crimson Shears": {
+      "ask": 15984.0,
+      "bid": 6856.0
+    },
+    "Crimson Spatula": {
+      "ask": 14593.5,
+      "bid": 6815.0
+    },
+    "Crimson Spear": {
+      "ask": 17500.0,
+      "bid": 8060.0
+    },
+    "Crimson Sword": {
+      "ask": 29888.0,
+      "bid": 8240.0
+    },
+    "Cupcake": {
+      "ask": 34.0,
+      "bid": 14.0
+    },
+    "Defense Coffee": {
+      "ask": 176.0,
+      "bid": 68.0
+    },
+    "Donut": {
+      "ask": 46.0,
+      "bid": 14.0
+    },
+    "Dragon Fruit": {
+      "ask": 47.0,
+      "bid": 44.0
+    },
+    "Dragon Fruit Gummy": {
+      "ask": 260.0,
+      "bid": 100.0
+    },
+    "Dragon Fruit Yogurt": {
+      "ask": 298.0,
+      "bid": 215.0
+    },
+    "Efficiency Tea": {
+      "ask": 845.0,
+      "bid": 589.0
+    },
+    "Egg": {
+      "ask": 13.0,
+      "bid": 11.0
+    },
+    "Emp Tea Leaf": {
+      "ask": 107.0,
+      "bid": 85.0
+    },
+    "Enhancing Tea": {
+      "ask": 428.0,
+      "bid": 25.0
+    },
+    "Excelsa Coffee Bean": {
+      "ask": 26.0,
+      "bid": 20.0
+    },
+    "Eyessence": {
+      "ask": 43.0,
+      "bid": 40.0
+    },
+    "Fermenting Tea": {
+      "ask": 586.0,
+      "bid": 436.0
+    },
+    "Fieriosa Coffee Bean": {
+      "ask": 150.0,
+      "bid": 67.0
+    },
+    "Foraging Tea": {
+      "ask": 300.0,
+      "bid": 200.0
+    },
+    "Frenzy": {
+      "ask": 188998.0,
+      "bid": 110000.0
+    },
+    "Gathering Tea": {
+      "ask": 799.0,
+      "bid": 350.0
+    },
+    "Gator Vest": {
+      "ask": 29000.0,
+      "bid": 14750.0
+    },
+    "Giant Pouch": {
+      "ask": -1.0,
+      "bid": 5000001.0
+    },
+    "Gobo Essence": {
+      "ask": 44.0,
+      "bid": 33.0
+    },
+    "Gobo Slasher": {
+      "ask": 34799.0,
+      "bid": 21001.0
+    },
+    "Gobo Smasher": {
+      "ask": 35136.0,
+      "bid": 27777.0
+    },
+    "Gobo Stabber": {
+      "ask": 27069.0,
+      "bid": 10285.0
+    },
+    "Goggles": {
+      "ask": 313490.0,
+      "bid": 248501.0
+    },
+    "Gourmet Tea": {
+      "ask": 498.0,
+      "bid": 310.0
+    },
+    "Green Tea Leaf": {
+      "ask": 108.0,
+      "bid": 85.0
+    },
+    "Grizzly Bear Fluff": {
+      "ask": 250000.0,
+      "bid": 201001.0
+    },
+    "Grizzly Bear Shoes": {
+      "ask": 2949999.0,
+      "bid": 1.0
+    },
+    "Gummy": {
+      "ask": 1000000000000.0,
+      "bid": 13.0
+    },
+    "Holy Boots": {
+      "ask": 38830.0,
+      "bid": 2.0
+    },
+    "Holy Brush": {
+      "ask": 68000.0,
+      "bid": 100.0
+    },
+    "Holy Buckler": {
+      "ask": 89980.0,
+      "bid": -1.0
+    },
+    "Holy Bulwark": {
+      "ask": 147999.0,
+      "bid": -1.0
+    },
+    "Holy Cheese": {
+      "ask": 414.0,
+      "bid": 402.0
+    },
+    "Holy Enhancer": {
+      "ask": 61979.0,
+      "bid": 45556.0
+    },
+    "Holy Gauntlets": {
+      "ask": 36899.0,
+      "bid": -1.0
+    },
+    "Holy Hammer": {
+      "ask": 66000.0,
+      "bid": 51.0
+    },
+    "Holy Helmet": {
+      "ask": 75000.0,
+      "bid": -1.0
+    },
+    "Holy Mace": {
+      "ask": 76634.0,
+      "bid": 63000.0
+    },
+    "Holy Milk": {
+      "ask": 86.0,
+      "bid": 71.0
+    },
+    "Holy Plate Body": {
+      "ask": 135000.0,
+      "bid": -1.0
+    },
+    "Holy Plate Legs": {
+      "ask": 100000.0,
+      "bid": -1.0
+    },
+    "Holy Pot": {
+      "ask": 65000.0,
+      "bid": 45555.0
+    },
+    "Holy Shears": {
+      "ask": 66996.0,
+      "bid": 45678.0
+    },
+    "Holy Spatula": {
+      "ask": 89500.0,
+      "bid": 45678.0
+    },
+    "Holy Spear": {
+      "ask": 70000.0,
+      "bid": -1.0
+    },
+    "Holy Sword": {
+      "ask": 83999.5,
+      "bid": 62000.0
+    },
+    "Intelligence Coffee": {
+      "ask": 350.0,
+      "bid": 101.0
+    },
+    "Large Pouch": {
+      "ask": -1.0,
+      "bid": 1810751.0
+    },
+    "Liberica Coffee Bean": {
+      "ask": 69.0,
+      "bid": 42.0
+    },
+    "Lucky Coffee": {
+      "ask": 117.0,
+      "bid": 56.0
+    },
+    "Magnifying Glass": {
+      "ask": 586367.0,
+      "bid": 325521.5
+    },
+    "Maim": {
+      "ask": 5500000.0,
+      "bid": 1600000.0
+    },
+    "Marsberry": {
+      "ask": 26.0,
+      "bid": 20.0
+    },
+    "Marsberry Cake": {
+      "ask": 347.0,
+      "bid": 325.0
+    },
+    "Marsberry Donut": {
+      "ask": -1.0,
+      "bid": 130.0
+    },
+    "Medium Pouch": {
+      "ask": 189727.0,
+      "bid": 55000.0
+    },
+    "Milk": {
+      "ask": 22.0,
+      "bid": 17.0
+    },
+    "Milking Tea": {
+      "ask": 350.0,
+      "bid": 200.0
+    },
+    "Mooberry": {
+      "ask": 12.0,
+      "bid": 9.5
+    },
+    "Mooberry Cake": {
+      "ask": 327.0,
+      "bid": 220.0
+    },
+    "Mooberry Donut": {
+      "ask": 1000.0,
+      "bid": 120.0
+    },
+    "Moolong Tea Leaf": {
+      "ask": 141.0,
+      "bid": 100.0
+    },
+    "Orange": {
+      "ask": 9.0,
+      "bid": 6.0
+    },
+    "Orange Gummy": {
+      "ask": 37.0,
+      "bid": -1.0
+    },
+    "Orange Yogurt": {
+      "ask": 99.0,
+      "bid": 70.0
+    },
+    "Panda Fluff": {
+      "ask": 486281.5,
+      "bid": 375000.0
+    },
+    "Panda Gloves": {
+      "ask": -1.0,
+      "bid": 4000000.0
+    },
+    "Peach": {
+      "ask": 39.0,
+      "bid": 16.0
+    },
+    "Peach Gummy": {
+      "ask": 94.0,
+      "bid": 45.0
+    },
+    "Peach Yogurt": {
+      "ask": 175.0,
+      "bid": 95.0
+    },
+    "Pierce": {
+      "ask": 49999.5,
+      "bid": 18013.0
+    },
+    "Pincer Gloves": {
+      "ask": 39069.0,
+      "bid": 20012.0
+    },
+    "Plum": {
+      "ask": 15.0,
+      "bid": 10.0
+    },
+    "Plum Gummy": {
+      "ask": 99.0,
+      "bid": -1.0
+    },
+    "Plum Yogurt": {
+      "ask": 136.0,
+      "bid": 71.0
+    },
+    "Poke": {
+      "ask": 12000.0,
+      "bid": 2013.5
+    },
+    "Polar Bear Fluff": {
+      "ask": 319199.0,
+      "bid": 267800.0
+    },
+    "Polar Bear Shoes": {
+      "ask": -1.0,
+      "bid": 70000.0
+    },
+    "Power Coffee": {
+      "ask": 96.0,
+      "bid": 53.0
+    },
+    "Precision": {
+      "ask": 29949.0,
+      "bid": 10511.0
+    },
+    "Rainbow Boots": {
+      "ask": 24680.0,
+      "bid": 12400.0
+    },
+    "Rainbow Brush": {
+      "ask": 22999.0,
+      "bid": 17250.0
+    },
+    "Rainbow Buckler": {
+      "ask": -1.0,
+      "bid": -1.0
+    },
+    "Rainbow Bulwark": {
+      "ask": 43498.0,
+      "bid": -1.0
+    },
+    "Rainbow Cheese": {
+      "ask": 198.0,
+      "bid": 169.5
+    },
+    "Rainbow Enhancer": {
+      "ask": 22560.0,
+      "bid": 19000.0
+    },
+    "Rainbow Gauntlets": {
+      "ask": 38000.0,
+      "bid": -1.0
+    },
+    "Rainbow Hammer": {
+      "ask": 27970.0,
+      "bid": 18000.0
+    },
+    "Rainbow Helmet": {
+      "ask": 49999.0,
+      "bid": -1.0
+    },
+    "Rainbow Mace": {
+      "ask": 35917.0,
+      "bid": 25000.0
+    },
+    "Rainbow Milk": {
+      "ask": 34.0,
+      "bid": 30.0
+    },
+    "Rainbow Plate Body": {
+      "ask": 49999.0,
+      "bid": 29000.0
+    },
+    "Rainbow Plate Legs": {
+      "ask": 79997.0,
+      "bid": 34000.0
+    },
+    "Rainbow Pot": {
+      "ask": -1.0,
+      "bid": 20500.0
+    },
+    "Rainbow Shears": {
+      "ask": 21176.0,
+      "bid": 19500.0
+    },
+    "Rainbow Spatula": {
+      "ask": 23668.0,
+      "bid": 19000.0
+    },
+    "Rainbow Spear": {
+      "ask": 35986.0,
+      "bid": 1.0
+    },
+    "Rainbow Sword": {
+      "ask": 35951.0,
+      "bid": 24001.0
+    },
+    "Red Tea Leaf": {
+      "ask": 211.0,
+      "bid": 176.0
+    },
+    "Robusta Coffee Bean": {
+      "ask": 80.0,
+      "bid": 36.0
+    },
+    "Scratch": {
+      "ask": 24999.5,
+      "bid": 3703.5
+    },
+    "Smack": {
+      "ask": 7250.0,
+      "bid": 5000.0
+    },
+    "Small Pouch": {
+      "ask": 5100.0,
+      "bid": 3000.0
+    },
+    "Snail Shell": {
+      "ask": 3654.0,
+      "bid": 2600.0
+    },
+    "Snail Shell Helmet": {
+      "ask": 6296.0,
+      "bid": 5000.0
+    },
+    "Snake Fang": {
+      "ask": 828.0,
+      "bid": 525.0
+    },
+    "Snake Fang Dirk": {
+      "ask": 8234.0,
+      "bid": 2458.0
+    },
+    "Spaceberry": {
+      "ask": 32.0,
+      "bid": 31.0
+    },
+    "Spaceberry Cake": {
+      "ask": 419.0,
+      "bid": 376.0
+    },
+    "Spaceberry Donut": {
+      "ask": -1.0,
+      "bid": 100.0
+    },
+    "Spacia Coffee Bean": {
+      "ask": 354.0,
+      "bid": 121.0
+    },
+    "Stamina Coffee": {
+      "ask": 117.0,
+      "bid": 85.0
+    },
+    "Star Fruit": {
+      "ask": 86.0,
+      "bid": 50.0
+    },
+    "Star Fruit Gummy": {
+      "ask": -1.0,
+      "bid": 80.0
+    },
+    "Star Fruit Yogurt": {
+      "ask": 424.0,
+      "bid": 375.0
+    },
+    "Strawberry": {
+      "ask": 22.0,
+      "bid": 11.0
+    },
+    "Strawberry Cake": {
+      "ask": 246.0,
+      "bid": 131.0
+    },
+    "Strawberry Donut": {
+      "ask": 242.0,
+      "bid": 85.0
+    },
+    "Sugar": {
+      "ask": 7.0,
+      "bid": 5.0
+    },
+    "Super Attack Coffee": {
+      "ask": 484.0,
+      "bid": 200.0
+    },
+    "Super Brewing Tea": {
+      "ask": 950.0,
+      "bid": 55.0
+    },
+    "Super Cheesesmithing Tea": {
+      "ask": 2726.0,
+      "bid": 500.0
+    },
+    "Super Cooking Tea": {
+      "ask": 890.0,
+      "bid": 111.0
+    },
+    "Super Defense Coffee": {
+      "ask": 380.0,
+      "bid": 230.0
+    },
+    "Super Enhancing Tea": {
+      "ask": 980.0,
+      "bid": 500.0
+    },
+    "Super Foraging Tea": {
+      "ask": 883.0,
+      "bid": 200.0
+    },
+    "Super Intelligence Coffee": {
+      "ask": 498.0,
+      "bid": 180.0
+    },
+    "Super Milking Tea": {
+      "ask": 955.0,
+      "bid": 300.0
+    },
+    "Super Power Coffee": {
+      "ask": 562.0,
+      "bid": 366.0
+    },
+    "Super Stamina Coffee": {
+      "ask": 500.0,
+      "bid": 251.0
+    },
+    "Swamp Essence": {
+      "ask": 23.0,
+      "bid": 10.0
+    },
+    "Sweep": {
+      "ask": 94755.0,
+      "bid": 70000.0
+    },
+    "Swiftness Coffee": {
+      "ask": 620.0,
+      "bid": 423.0
+    },
+    "Toughness": {
+      "ask": 15000.0,
+      "bid": 9066.0
+    },
+    "Turtle Shell": {
+      "ask": 12669.0,
+      "bid": 9000.0
+    },
+    "Turtle Shell Body": {
+      "ask": 43555.0,
+      "bid": -1.0
+    },
+    "Turtle Shell Legs": {
+      "ask": 66900.0,
+      "bid": -1.0
+    },
+    "Twilight Essence": {
+      "ask": 590.0,
+      "bid": 111.0
+    },
+    "Vampire Fang": {
+      "ask": -1.0,
+      "bid": 1010000.0
+    },
+    "Vampire Fang Dirk": {
+      "ask": -1.0,
+      "bid": 420.0
+    },
+    "Vampirism": {
+      "ask": 1102500.0,
+      "bid": 300000.0
+    },
+    "Verdant Boots": {
+      "ask": 4900.0,
+      "bid": 290.0
+    },
+    "Verdant Brush": {
+      "ask": 2988.0,
+      "bid": 338.0
+    },
+    "Verdant Buckler": {
+      "ask": 4440.0,
+      "bid": 420.0
+    },
+    "Verdant Bulwark": {
+      "ask": 18888.0,
+      "bid": 675.0
+    },
+    "Verdant Cheese": {
+      "ask": 114.0,
+      "bid": 110.0
+    },
+    "Verdant Enhancer": {
+      "ask": 17888.0,
+      "bid": 350.0
+    },
+    "Verdant Gauntlets": {
+      "ask": 10000.0,
+      "bid": 380.0
+    },
+    "Verdant Hammer": {
+      "ask": 1000.0,
+      "bid": 750.0
+    },
+    "Verdant Helmet": {
+      "ask": 20000.0,
+      "bid": 700.0
+    },
+    "Verdant Mace": {
+      "ask": 4018.0,
+      "bid": -1.0
+    },
+    "Verdant Milk": {
+      "ask": 26.0,
+      "bid": 24.0
+    },
+    "Verdant Plate Body": {
+      "ask": 20000.0,
+      "bid": 630.0
+    },
+    "Verdant Plate Legs": {
+      "ask": 16150.0,
+      "bid": 465.0
+    },
+    "Verdant Pot": {
+      "ask": 4000.0,
+      "bid": 460.0
+    },
+    "Verdant Shears": {
+      "ask": 3750.0,
+      "bid": 465.0
+    },
+    "Verdant Spatula": {
+      "ask": 7219.0,
+      "bid": 465.0
+    },
+    "Verdant Spear": {
+      "ask": 4488.0,
+      "bid": 420.0
+    },
+    "Verdant Sword": {
+      "ask": 20000.0,
+      "bid": 450.0
+    },
+    "Vision Helmet": {
+      "ask": 450000.0,
+      "bid": 200000.0
+    },
+    "Vision Shield": {
+      "ask": 630000.0,
+      "bid": 40000.0
+    },
+    "Werewolf Claw": {
+      "ask": 6000000.0,
+      "bid": 2000000.0
+    },
+    "Werewolf Slasher": {
+      "ask": -1.0,
+      "bid": 1002.0
+    },
+    "Wheat": {
+      "ask": 15.0,
+      "bid": 10.0
+    },
+    "Wisdom Tea": {
+      "ask": 961.0,
+      "bid": 867.0
+    },
+    "Yogurt": {
+      "ask": 150.0,
+      "bid": 11.0
+    }
+  }
+}
