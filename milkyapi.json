@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 100,
-      "bid": 40,
+      "bid": 42,
       "vendor": 20
     },
     "Azure Boots": {
@@ -41,8 +41,8 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 25000,
-      "bid": 1250,
+      "ask": 24888,
+      "bid": 3050,
       "vendor": 1080
     },
     "Azure Buckler": {
@@ -52,11 +52,11 @@
     },
     "Azure Bulwark": {
       "ask": 29000,
-      "bid": 2322,
+      "bid": 2332,
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 143,
+      "ask": 142,
       "bid": 126,
       "vendor": 24
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 110000,
+      "ask": 109999,
       "bid": 90000,
       "vendor": 1000
     },
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 23,
+      "ask": 22,
       "bid": 14,
       "vendor": 4
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 160,
+      "ask": 159,
       "bid": 139,
       "vendor": 36
     },
@@ -481,7 +481,7 @@
       "vendor": 7776
     },
     "Crimson Sword": {
-      "ask": 24988,
+      "ask": 20000,
       "bid": 8245,
       "vendor": 7776
     },
@@ -537,7 +537,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 28,
-      "bid": 21,
+      "bid": 22,
       "vendor": 18
     },
     "Eyessence": {
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 122,
+      "ask": 120,
       "bid": 70,
       "vendor": 27
     },
@@ -566,13 +566,13 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 625,
+      "ask": 620,
       "bid": 301,
       "vendor": 10
     },
     "Gator Vest": {
       "ask": 23077,
-      "bid": 14444,
+      "bid": 14420,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -587,7 +587,7 @@
     },
     "Gobo Slasher": {
       "ask": 32000,
-      "bid": 21001,
+      "bid": 21111,
       "vendor": 20000
     },
     "Gobo Smasher": {
@@ -597,12 +597,12 @@
     },
     "Gobo Stabber": {
       "ask": 24000,
-      "bid": 10285,
+      "bid": 20555,
       "vendor": 20000
     },
     "Goggles": {
       "ask": 450000,
-      "bid": 263577,
+      "bid": 300000,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 429,
+      "ask": 428,
       "bid": 407,
       "vendor": 162
     },
@@ -731,12 +731,12 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 69,
+      "ask": 68,
       "bid": 15,
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 103,
+      "ask": 102,
       "bid": 65,
       "vendor": 40
     },
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 68,
+      "ask": 67,
       "bid": 50,
       "vendor": 18
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 47,
+      "ask": 53,
       "bid": 25,
       "vendor": 9
     },
@@ -861,7 +861,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 148,
+      "ask": 149,
       "bid": 52,
       "vendor": 30
     },
@@ -872,7 +872,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 273599,
-      "bid": 175001,
+      "bid": 175002,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 243,
+      "ask": 244,
       "bid": 186,
       "vendor": 27
     },
@@ -1002,7 +1002,7 @@
     },
     "Small Pouch": {
       "ask": 5386,
-      "bid": 3000,
+      "bid": 3,
       "vendor": 5000
     },
     "Snail Shell": {
@@ -1041,7 +1041,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 247,
+      "ask": 245,
       "bid": 170,
       "vendor": 54
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 385,
+      "ask": 384,
       "bid": 307,
       "vendor": 75
     },
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 710,
+      "ask": 708,
       "bid": 45,
       "vendor": 40
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 1044755,
+      "ask": 1044754,
       "bid": 250000,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1658899801.8155928
+  "time": 1658900701.5489836
 }
