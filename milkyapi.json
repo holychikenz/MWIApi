@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 1649,
-      "bid": 1311,
+      "bid": 1350,
       "vendor": 75
     },
     "Blueberry": {
@@ -281,13 +281,13 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 350,
-      "bid": 321,
+      "ask": 375,
+      "bid": 322,
       "vendor": 12
     },
     "Cheese": {
-      "ask": 84,
-      "bid": 69,
+      "ask": 83,
+      "bid": 71,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -301,7 +301,7 @@
       "vendor": 60
     },
     "Cheese Buckler": {
-      "ask": 665,
+      "ask": 1300,
       "bid": 222,
       "vendor": 72
     },
@@ -406,7 +406,7 @@
       "vendor": 6480
     },
     "Crimson Buckler": {
-      "ask": 40000,
+      "ask": 19000,
       "bid": 18000,
       "vendor": 7776
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 127,
+      "ask": 126,
       "bid": 118,
       "vendor": 54
     },
@@ -521,12 +521,12 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 18,
+      "ask": 19,
       "bid": 16,
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 110,
+      "ask": 117,
       "bid": 100,
       "vendor": 54
     },
@@ -581,13 +581,13 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 26,
+      "ask": 27,
       "bid": 25,
       "vendor": 24
     },
     "Gobo Slasher": {
-      "ask": 23744,
-      "bid": 21001,
+      "ask": 23000,
+      "bid": -1,
       "vendor": 20000
     },
     "Gobo Smasher": {
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 427500,
+      "ask": 427420,
       "bid": 300022,
       "vendor": 10000
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 98,
+      "ask": 90,
       "bid": 67,
       "vendor": 4
     },
@@ -657,7 +657,7 @@
     },
     "Holy Enhancer": {
       "ask": 61977,
-      "bid": 45678,
+      "bid": 1,
       "vendor": 44550
     },
     "Holy Gauntlets": {
@@ -707,7 +707,7 @@
     },
     "Holy Spatula": {
       "ask": 89496,
-      "bid": 45678,
+      "bid": 69,
       "vendor": 44550
     },
     "Holy Spear": {
@@ -742,7 +742,7 @@
     },
     "Magnifying Glass": {
       "ask": 504769,
-      "bid": 325546,
+      "bid": 325547,
       "vendor": 10000
     },
     "Maim": {
@@ -787,7 +787,7 @@
     },
     "Mooberry Cake": {
       "ask": 242,
-      "bid": 190,
+      "bid": 192,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -817,7 +817,7 @@
     },
     "Panda Fluff": {
       "ask": 640000,
-      "bid": 410005,
+      "bid": 410006,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 208,
+      "ask": 211,
       "bid": 193,
       "vendor": 81
     },
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 263,
-      "bid": 221,
+      "bid": 223,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1046,7 +1046,7 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 649,
+      "ask": 640,
       "bid": 116,
       "vendor": 10
     },
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 295,
+      "ask": 298,
       "bid": 104,
       "vendor": 50
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 470,
+      "ask": 469,
       "bid": 420,
       "vendor": 75
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 13204,
+      "ask": 12204,
       "bid": 7700,
       "vendor": 1000
     },
@@ -1217,7 +1217,7 @@
     },
     "Verdant Cheese": {
       "ask": 133,
-      "bid": 111,
+      "bid": 113,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1261,7 +1261,7 @@
       "vendor": 420
     },
     "Verdant Pot": {
-      "ask": 3956,
+      "ask": 3500,
       "bid": 460,
       "vendor": 300
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1658952002.1408038
+  "time": 1658952901.8711293
 }
