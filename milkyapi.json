@@ -151,8 +151,8 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 20,
-      "bid": 16,
+      "ask": 25,
+      "bid": 20,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 34,
+      "ask": 33,
       "bid": 30,
       "vendor": 12
     },
@@ -371,7 +371,7 @@
       "vendor": 72
     },
     "Cheesesmithing Tea": {
-      "ask": 525,
+      "ask": 500,
       "bid": 35,
       "vendor": 30
     },
@@ -392,7 +392,7 @@
     },
     "Crab Pincer": {
       "ask": 18047,
-      "bid": 12304,
+      "bid": 12303,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 184,
+      "ask": 183,
       "bid": 120,
       "vendor": 54
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 19,
+      "ask": 18,
       "bid": 17,
       "vendor": 1
     },
@@ -536,7 +536,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 27,
+      "ask": 34,
       "bid": 21,
       "vendor": 18
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 385666,
+      "ask": 350000,
       "bid": 315034,
       "vendor": 10000
     },
@@ -617,7 +617,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 265999,
-      "bid": 231000,
+      "bid": 231001,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -631,7 +631,7 @@
       "vendor": 5
     },
     "Holy Boots": {
-      "ask": 38497,
+      "ask": 38496,
       "bid": 25789,
       "vendor": 35640
     },
@@ -732,7 +732,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 66,
-      "bid": 37,
+      "bid": 50,
       "vendor": 12
     },
     "Lucky Coffee": {
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 333,
+      "ask": 332,
       "bid": 316,
       "vendor": 50
     },
@@ -817,7 +817,7 @@
     },
     "Panda Fluff": {
       "ask": 568571,
-      "bid": 440002,
+      "bid": 440003,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 174,
+      "ask": 170,
       "bid": 101,
       "vendor": 40
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 12350,
+      "ask": 12349,
       "bid": 3000,
       "vendor": 1000
     },
@@ -906,7 +906,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 39000,
+      "ask": 33333,
       "bid": -1,
       "vendor": 29970
     },
@@ -1037,7 +1037,7 @@
     },
     "Spaceberry Donut": {
       "ask": -1,
-      "bid": 80,
+      "bid": 150,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 64,
+      "ask": 65,
       "bid": 39,
       "vendor": 27
     },
@@ -1061,8 +1061,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 409,
-      "bid": 312,
+      "ask": 408,
+      "bid": 313,
       "vendor": 75
     },
     "Strawberry": {
@@ -1071,7 +1071,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 100,
+      "ask": 99,
       "bid": 87,
       "vendor": 30
     },
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 389,
+      "ask": 484,
       "bid": 314,
       "vendor": 50
     },
@@ -1096,7 +1096,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1190,
+      "ask": 1186,
       "bid": 500,
       "vendor": 75
     },
@@ -1107,7 +1107,7 @@
     },
     "Super Defense Coffee": {
       "ask": 273,
-      "bid": 110,
+      "bid": 111,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1121,8 +1121,8 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 498,
-      "bid": 222,
+      "ask": 500,
+      "bid": 223,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1177,7 +1177,7 @@
     },
     "Twilight Essence": {
       "ask": 256,
-      "bid": 131,
+      "bid": 138,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 19,
+      "ask": 18,
       "bid": 12,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1658981701.777812
+  "time": 1658982601.520826
 }
