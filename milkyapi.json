@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 950,
+      "ask": 1000,
       "bid": 475,
       "vendor": 75
     },
@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 216597,
+      "ask": 216596,
       "bid": 125001,
       "vendor": 3000
     },
@@ -176,7 +176,7 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 92,
+      "ask": 90,
       "bid": 40,
       "vendor": 10
     },
@@ -281,8 +281,8 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 340,
-      "bid": 333,
+      "ask": 365,
+      "bid": 335,
       "vendor": 12
     },
     "Cheese": {
@@ -401,22 +401,22 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 24999,
+      "ask": 25000,
       "bid": 6851,
       "vendor": 6480
     },
     "Crimson Buckler": {
-      "ask": 19000,
+      "ask": 40000,
       "bid": 15000,
       "vendor": 7776
     },
     "Crimson Bulwark": {
-      "ask": 17500,
+      "ask": 25958,
       "bid": 13664,
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 194,
+      "ask": 185,
       "bid": 120,
       "vendor": 54
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 909,
+      "ask": 900,
       "bid": 703,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 117,
+      "ask": 125,
       "bid": 100,
       "vendor": 54
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 437,
-      "bid": 402,
+      "bid": 406,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -746,17 +746,17 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 1999999,
+      "ask": 1999989,
       "bid": 1750000,
       "vendor": 1000
     },
     "Marsberry": {
       "ask": 20,
-      "bid": 19,
+      "bid": 15,
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 334,
+      "ask": 333,
       "bid": 316,
       "vendor": 50
     },
@@ -781,7 +781,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 12,
+      "ask": 13,
       "bid": 11,
       "vendor": 9
     },
@@ -827,7 +827,7 @@
     },
     "Peach": {
       "ask": 19,
-      "bid": 13,
+      "bid": -1,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -881,7 +881,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 120,
+      "ask": 400,
       "bid": 73,
       "vendor": 30
     },
@@ -906,13 +906,13 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 35000,
+      "ask": 39257,
       "bid": -1,
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 210,
-      "bid": 194,
+      "ask": 247,
+      "bid": 195,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 294,
+      "ask": 292,
       "bid": 232,
       "vendor": 27
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 409,
+      "ask": 411,
       "bid": 312,
       "vendor": 75
     },
@@ -1076,8 +1076,8 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 194,
-      "bid": 48,
+      "ask": 190,
+      "bid": 49,
       "vendor": 30
     },
     "Sugar": {
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 489,
+      "ask": 487,
       "bid": 228,
       "vendor": 75
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1658979001.5884006
+  "time": 1658979901.9578571
 }
