@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 177,
+      "ask": 176,
       "bid": 130,
       "vendor": 24
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 138,
+      "ask": 137,
       "bid": 119,
       "vendor": 36
     },
@@ -491,7 +491,7 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 147,
+      "ask": 150,
       "bid": 85,
       "vendor": 20
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 300,
+      "ask": 395,
       "bid": 267,
       "vendor": 50
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 18,
+      "ask": 19,
       "bid": 17,
       "vendor": 1
     },
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 27,
-      "bid": 26,
+      "bid": -1,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -606,12 +606,12 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 498,
+      "ask": 499,
       "bid": 200,
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 78,
+      "ask": 79,
       "bid": 66,
       "vendor": 4
     },
@@ -701,7 +701,7 @@
       "vendor": 44550
     },
     "Holy Shears": {
-      "ask": 250000,
+      "ask": 120000,
       "bid": 45678,
       "vendor": 44550
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 247,
-      "bid": 200,
+      "bid": 201,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 38,
+      "ask": 39,
       "bid": 33,
       "vendor": 27
     },
@@ -1096,7 +1096,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1186,
+      "ask": 1180,
       "bid": 500,
       "vendor": 75
     },
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Verdant Boots": {
-      "ask": 4678,
+      "ask": 4500,
       "bid": 295,
       "vendor": 240
     },
@@ -1291,7 +1291,7 @@
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 465690,
+      "ask": 549999,
       "bid": 100000,
       "vendor": 20000
     },
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 18,
+      "ask": 15,
       "bid": 12,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1658982601.520826
+  "time": 1658983502.1680472
 }
