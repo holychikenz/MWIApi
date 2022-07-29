@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 25,
-      "bid": 6,
+      "bid": 7,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 192,
-      "bid": 168,
+      "bid": 167,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 378,
-      "bid": 370,
+      "bid": 368,
       "vendor": 12
     },
     "Cheese": {
@@ -396,7 +396,7 @@
       "vendor": 1500
     },
     "Crimson Boots": {
-      "ask": 22998,
+      "ask": 22997,
       "bid": 5570,
       "vendor": 5184
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 153,
-      "bid": 127,
+      "bid": 126,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 299,
+      "ask": 284,
       "bid": 248,
       "vendor": 50
     },
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 107,
-      "bid": 90,
+      "bid": 91,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -611,8 +611,8 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 50,
-      "bid": 11,
+      "ask": 57,
+      "bid": 14,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 111,
-      "bid": 88,
+      "bid": 87,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1800000,
+      "ask": -1,
       "bid": 1200000,
       "vendor": 500000
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 315,
+      "ask": 314,
       "bid": 292,
       "vendor": 50
     },
@@ -771,7 +771,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 13,
+      "ask": 12,
       "bid": 10,
       "vendor": 2
     },
@@ -996,7 +996,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 37900,
+      "ask": 32000,
       "bid": 9000,
       "vendor": 1000
     },
@@ -1136,7 +1136,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 169,
+      "ask": 189,
       "bid": 148,
       "vendor": 40
     },
@@ -1147,7 +1147,7 @@
     },
     "Sweep": {
       "ask": 94756,
-      "bid": 41500,
+      "bid": 42000,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1161,7 +1161,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 70000,
+      "ask": 45000,
       "bid": 25000,
       "vendor": 1500
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659087902.7143404
+  "time": 1659088802.5786626
 }
