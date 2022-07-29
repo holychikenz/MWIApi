@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 63,
+      "ask": 1000000000000,
       "bid": 28,
       "vendor": 10
     },
@@ -187,7 +187,7 @@
     },
     "Brewing Tea": {
       "ask": 230,
-      "bid": 62,
+      "bid": 63,
       "vendor": 20
     },
     "Burble Boots": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 159,
-      "bid": 136,
+      "bid": 129,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 76,
+      "ask": 75,
       "bid": 64,
       "vendor": 6
     },
@@ -366,7 +366,7 @@
       "vendor": 72
     },
     "Cheese Sword": {
-      "ask": 995,
+      "ask": 994,
       "bid": 400,
       "vendor": 72
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 69691,
+      "ask": 69688,
       "bid": 36001,
       "vendor": 1000
     },
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 13751,
+      "ask": 13666,
       "bid": 10505,
       "vendor": 1500
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 139600,
+      "ask": 139650,
       "bid": 78757,
       "vendor": 1000
     },
@@ -612,11 +612,11 @@
     },
     "Green Tea Leaf": {
       "ask": 86,
-      "bid": 26,
+      "bid": 27,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 245999,
+      "ask": 244999,
       "bid": 220000,
       "vendor": 3000
     },
@@ -636,7 +636,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 60000,
+      "ask": 65074,
       "bid": 52000,
       "vendor": 44550
     },
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 469,
-      "bid": 435,
+      "ask": 470,
+      "bid": 437,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 137,
-      "bid": 116,
+      "bid": 122,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -746,8 +746,8 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 1994996,
-      "bid": 1150001,
+      "ask": 1950000,
+      "bid": 1160000,
       "vendor": 1000
     },
     "Marsberry": {
@@ -797,7 +797,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 98,
-      "bid": 27,
+      "bid": 28,
       "vendor": 18
     },
     "Orange": {
@@ -896,7 +896,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 44439,
+      "ask": 44438,
       "bid": 24500,
       "vendor": 14985
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 195,
+      "ask": 232,
       "bid": 184,
       "vendor": 81
     },
@@ -946,7 +946,7 @@
       "vendor": 27
     },
     "Rainbow Plate Body": {
-      "ask": 65000,
+      "ask": 64000,
       "bid": 33003,
       "vendor": 26973
     },
@@ -1031,8 +1031,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 569,
-      "bid": 550,
+      "ask": 571,
+      "bid": 457,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 78,
-      "bid": 67,
+      "bid": 68,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1126,8 +1126,8 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 730,
-      "bid": 500,
+      "ask": 728,
+      "bid": 104,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -1216,7 +1216,7 @@
       "vendor": 600
     },
     "Verdant Cheese": {
-      "ask": 122,
+      "ask": 121,
       "bid": 109,
       "vendor": 12
     },
@@ -1281,7 +1281,7 @@
       "vendor": 360
     },
     "Verdant Sword": {
-      "ask": 11887,
+      "ask": 11886,
       "bid": 440,
       "vendor": 360
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 881,
+      "ask": 880,
       "bid": 816,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659132002.4843688
+  "time": 1659132902.4390943
 }
