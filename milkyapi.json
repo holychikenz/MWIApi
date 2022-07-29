@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 23,
+      "ask": 20,
       "bid": 15,
       "vendor": 10
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 83,
+      "ask": 80,
       "bid": 50,
       "vendor": 8
     },
@@ -172,7 +172,7 @@
     },
     "Blueberry": {
       "ask": 15,
-      "bid": 8,
+      "bid": -1,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 74,
+      "ask": 75,
       "bid": 59,
       "vendor": 6
     },
@@ -307,7 +307,7 @@
     },
     "Cheese Bulwark": {
       "ask": 995,
-      "bid": 182,
+      "bid": 181,
       "vendor": 120
     },
     "Cheese Enhancer": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 148,
+      "ask": 145,
       "bid": 100,
       "vendor": 54
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 40,
+      "ask": 39,
       "bid": 37,
       "vendor": 36
     },
@@ -686,7 +686,7 @@
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 134499,
+      "ask": 134500,
       "bid": 82500,
       "vendor": 80190
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 313,
+      "ask": 315,
       "bid": 290,
       "vendor": 50
     },
@@ -806,7 +806,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 40,
+      "ask": 35,
       "bid": 10,
       "vendor": 20
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 53927,
+      "ask": 53926,
       "bid": 6001,
       "vendor": 1000
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 489,
+      "ask": 490,
       "bid": 433,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 420,
+      "ask": 419,
       "bid": 196,
       "vendor": 50
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 730,
-      "bid": 576,
+      "bid": 580,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659086102.7358685
+  "time": 1659087002.2415266
 }
