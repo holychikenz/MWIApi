@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 171,
+      "ask": 170,
       "bid": 120,
       "vendor": 24
     },
@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 56,
-      "bid": 54,
+      "bid": -1,
       "vendor": 54
     },
     "Berserk": {
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 156,
+      "ask": 154,
       "bid": 135,
       "vendor": 36
     },
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 87,
+      "ask": 86,
       "bid": 68,
       "vendor": 6
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 143,
+      "ask": 142,
       "bid": 132,
       "vendor": 54
     },
@@ -491,7 +491,7 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 100,
+      "ask": 1000000000000,
       "bid": 77,
       "vendor": 20
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 33,
+      "ask": 34,
       "bid": 30,
       "vendor": 14
     },
@@ -522,11 +522,11 @@
     },
     "Egg": {
       "ask": 21,
-      "bid": 16,
+      "bid": 15,
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 199,
+      "ask": 189,
       "bid": 102,
       "vendor": 54
     },
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 42,
-      "bid": 35,
+      "bid": 36,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 144632,
+      "ask": 137400,
       "bid": 84000,
       "vendor": 1000
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 650,
+      "ask": 610,
       "bid": 470,
       "vendor": 162
     },
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 449984,
+      "ask": 425000,
       "bid": 383268,
       "vendor": 10000
     },
@@ -767,7 +767,7 @@
     },
     "Medium Pouch": {
       "ask": 110000,
-      "bid": 60000,
+      "bid": 2,
       "vendor": 50000
     },
     "Milk": {
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 469999,
+      "ask": 460000,
       "bid": 400001,
       "vendor": 3000
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 30000,
+      "ask": 29999,
       "bid": 5002,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 210,
+      "ask": 207,
       "bid": 188,
       "vendor": 81
     },
@@ -946,7 +946,7 @@
       "vendor": 27
     },
     "Rainbow Plate Body": {
-      "ask": 64000,
+      "ask": 37000,
       "bid": 33003,
       "vendor": 26973
     },
@@ -982,11 +982,11 @@
     },
     "Red Tea Leaf": {
       "ask": 297,
-      "bid": 289,
+      "bid": 288,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 73,
+      "ask": 74,
       "bid": 35,
       "vendor": 8
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 539,
+      "ask": 540,
       "bid": 461,
       "vendor": 75
     },
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 472,
+      "ask": 471,
       "bid": 250,
       "vendor": 40
     },
@@ -1127,11 +1127,11 @@
     },
     "Super Milking Tea": {
       "ask": 600,
-      "bid": 108,
+      "bid": 300,
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 640,
+      "ask": 639,
       "bid": 600,
       "vendor": 75
     },
@@ -1147,16 +1147,16 @@
     },
     "Sweep": {
       "ask": 94755,
-      "bid": 21016,
+      "bid": 21017,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 500,
+      "ask": 499,
       "bid": 430,
       "vendor": 50
     },
     "Toughness": {
-      "ask": 28000,
+      "ask": 27999,
       "bid": 11002,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659170701.9422758
+  "time": 1659171602.023957
 }
