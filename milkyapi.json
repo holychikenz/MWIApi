@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 1000000000000,
+      "ask": 110,
       "bid": 28,
       "vendor": 10
     },
@@ -52,7 +52,7 @@
     },
     "Azure Bulwark": {
       "ask": 9988,
-      "bid": 4000,
+      "bid": 4001,
       "vendor": 2160
     },
     "Azure Cheese": {
@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 56,
+      "ask": 55,
       "bid": 53,
       "vendor": 54
     },
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 69,
-      "bid": 20,
+      "bid": 22,
       "vendor": 8
     },
     "Blackberry": {
@@ -247,7 +247,7 @@
     },
     "Burble Plate Body": {
       "ask": 15000,
-      "bid": 8026,
+      "bid": 8027,
       "vendor": 4860
     },
     "Burble Plate Legs": {
@@ -306,7 +306,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 997,
+      "ask": 900,
       "bid": 186,
       "vendor": 120
     },
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 820,
-      "bid": 757,
+      "bid": 760,
       "vendor": 50
     },
     "Egg": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 144997,
+      "ask": 144996,
       "bid": 85000,
       "vendor": 1000
     },
@@ -616,7 +616,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 239999,
+      "ask": 239998,
       "bid": 220000,
       "vendor": 3000
     },
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 510,
-      "bid": 466,
+      "ask": 509,
+      "bid": 470,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -667,7 +667,7 @@
     },
     "Holy Hammer": {
       "ask": 66491,
-      "bid": 58001,
+      "bid": 59001,
       "vendor": 44550
     },
     "Holy Helmet": {
@@ -756,8 +756,8 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 337,
-      "bid": 316,
+      "ask": 338,
+      "bid": 317,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -786,8 +786,8 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 187,
-      "bid": 160,
+      "ask": 188,
+      "bid": 187,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -817,7 +817,7 @@
     },
     "Panda Fluff": {
       "ask": 474998,
-      "bid": 325000,
+      "bid": 325001,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 229,
-      "bid": 180,
+      "ask": 228,
+      "bid": 181,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -927,7 +927,7 @@
     },
     "Rainbow Hammer": {
       "ask": 27499,
-      "bid": 24100,
+      "bid": 24450,
       "vendor": 14985
     },
     "Rainbow Helmet": {
@@ -937,7 +937,7 @@
     },
     "Rainbow Mace": {
       "ask": 35917,
-      "bid": 22005,
+      "bid": 25000,
       "vendor": 17982
     },
     "Rainbow Milk": {
@@ -947,17 +947,17 @@
     },
     "Rainbow Plate Body": {
       "ask": 64000,
-      "bid": 33003,
+      "bid": 33005,
       "vendor": 26973
     },
     "Rainbow Plate Legs": {
       "ask": 49998,
-      "bid": 22805,
+      "bid": 26000,
       "vendor": 20979
     },
     "Rainbow Pot": {
       "ask": 39999,
-      "bid": 22001,
+      "bid": 22300,
       "vendor": 14985
     },
     "Rainbow Shears": {
@@ -1031,8 +1031,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 566,
-      "bid": 461,
+      "ask": 550,
+      "bid": 470,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 639,
-      "bid": 475,
+      "bid": 480,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 141,
+      "ask": 140,
       "bid": 119,
       "vendor": 108
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 525000,
+      "ask": 524999,
       "bid": 252001,
       "vendor": 1000
     },
@@ -1247,7 +1247,7 @@
     },
     "Verdant Milk": {
       "ask": 34,
-      "bid": 31,
+      "bid": 30,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 24,
+      "ask": 23,
       "bid": 18,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659144602.502936
+  "time": 1659145502.6424882
 }
