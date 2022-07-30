@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 62,
+      "ask": 55,
       "bid": 44,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 24,
+      "ask": 25,
       "bid": 16,
       "vendor": 4
     },
@@ -246,7 +246,7 @@
       "vendor": 12
     },
     "Burble Plate Body": {
-      "ask": 15000,
+      "ask": -1,
       "bid": 8027,
       "vendor": 4860
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 57754,
+      "ask": 54866,
       "bid": 40000,
       "vendor": 1000
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 140,
-      "bid": 132,
+      "bid": 131,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 283,
+      "ask": 282,
       "bid": 236,
       "vendor": 50
     },
@@ -587,7 +587,7 @@
     },
     "Gobo Slasher": {
       "ask": 20756,
-      "bid": 20500,
+      "bid": 11395,
       "vendor": 20000
     },
     "Gobo Smasher": {
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 401802,
+      "ask": 445212,
       "bid": 325001,
       "vendor": 10000
     },
@@ -637,7 +637,7 @@
     },
     "Holy Brush": {
       "ask": 65074,
-      "bid": 60000,
+      "bid": 52000,
       "vendor": 44550
     },
     "Holy Buckler": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 600,
+      "ask": 599,
       "bid": 473,
       "vendor": 162
     },
@@ -737,7 +737,7 @@
     },
     "Lucky Coffee": {
       "ask": 124,
-      "bid": 105,
+      "bid": 110,
       "vendor": 40
     },
     "Magnifying Glass": {
@@ -841,7 +841,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 37049,
+      "ask": 35197,
       "bid": 12501,
       "vendor": 1000
     },
@@ -977,7 +977,7 @@
     },
     "Rainbow Sword": {
       "ask": 34979,
-      "bid": 25004,
+      "bid": 25000,
       "vendor": 17982
     },
     "Red Tea Leaf": {
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 1299,
+      "ask": 1250,
       "bid": 1001,
       "vendor": 100
     },
@@ -1251,7 +1251,7 @@
       "vendor": 4
     },
     "Verdant Plate Body": {
-      "ask": 10000,
+      "ask": 20000,
       "bid": 625,
       "vendor": 540
     },
@@ -1306,12 +1306,12 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 31,
+      "ask": 30,
       "bid": 15,
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 859,
+      "ask": 866,
       "bid": 815,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659178802.402957
+  "time": 1659179702.6466858
 }
