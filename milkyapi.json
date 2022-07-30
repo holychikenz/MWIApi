@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 17,
-      "bid": 15,
+      "bid": 16,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 650,
+      "ask": 640,
       "bid": -1,
       "vendor": 75
     },
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 12951,
+      "ask": 12950,
       "bid": 10505,
       "vendor": 1500
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 144,
-      "bid": 127,
+      "bid": 128,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 34,
-      "bid": 28,
+      "bid": 29,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 29,
-      "bid": 15,
+      "bid": -1,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 445211,
-      "bid": 410002,
+      "bid": 320001,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -667,7 +667,7 @@
     },
     "Holy Hammer": {
       "ask": 66491,
-      "bid": 59001,
+      "bid": 62000,
       "vendor": 44550
     },
     "Holy Helmet": {
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 449000,
+      "ask": 449983,
       "bid": 383267,
       "vendor": 10000
     },
@@ -772,7 +772,7 @@
     },
     "Milk": {
       "ask": 16,
-      "bid": 13,
+      "bid": 4,
       "vendor": 2
     },
     "Milking Tea": {
@@ -787,7 +787,7 @@
     },
     "Mooberry Cake": {
       "ask": 188,
-      "bid": 187,
+      "bid": 160,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 75,
+      "ask": 74,
       "bid": 32,
       "vendor": 18
     },
@@ -817,7 +817,7 @@
     },
     "Panda Fluff": {
       "ask": 474998,
-      "bid": 350001,
+      "bid": 375000,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 197000,
+      "ask": 197999,
       "bid": 160000,
       "vendor": 3000
     },
@@ -1006,7 +1006,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 5500,
+      "ask": 5490,
       "bid": 2201,
       "vendor": 1500
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 549,
+      "ask": 546,
       "bid": 472,
       "vendor": 75
     },
@@ -1061,12 +1061,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 461,
+      "ask": 458,
       "bid": 436,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 15,
+      "ask": 17,
       "bid": 7,
       "vendor": 6
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659147302.8713543
+  "time": 1659148201.9490793
 }
