@@ -1,2 +1,7 @@
 MilkyBot.py
 updateme.sh
+.ipynb_checkpoints/*
+node_modules/*
+package.json
+package-lock.json
+tsconfig.json
