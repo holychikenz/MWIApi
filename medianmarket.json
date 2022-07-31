@@ -1,5 +1,5 @@
 {
-  "time": 1659233251.5,
+  "time": 1659234151.5,
   "market": {
     "Apple": {
       "ask": 19.0,
@@ -34,8 +34,8 @@
       "bid": 1060.0
     },
     "Azure Brush": {
-      "ask": 19735.0,
-      "bid": 1150.0
+      "ask": 19077.5,
+      "bid": 625.0
     },
     "Azure Buckler": {
       "ask": 24742.0,
@@ -158,16 +158,16 @@
       "bid": 3150.0
     },
     "Burble Brush": {
-      "ask": 39855.0,
+      "ask": 39854.5,
       "bid": 3883.0
     },
     "Burble Buckler": {
-      "ask": 34710.5,
+      "ask": 34854.0,
       "bid": 3576.0
     },
     "Burble Bulwark": {
       "ask": 34999.0,
-      "bid": 5880.5
+      "bid": 5881.0
     },
     "Burble Cheese": {
       "ask": 180.0,
@@ -178,7 +178,7 @@
       "bid": 3106.0
     },
     "Burble Gauntlets": {
-      "ask": 13500.0,
+      "ask": 14750.0,
       "bid": 3010.0
     },
     "Burble Hammer": {
@@ -186,12 +186,12 @@
       "bid": 3910.0
     },
     "Burble Helmet": {
-      "ask": 24655.0,
+      "ask": 24016.0,
       "bid": 5010.0
     },
     "Burble Mace": {
-      "ask": 31432.0,
-      "bid": 6098.0
+      "ask": 31443.5,
+      "bid": 6098.5
     },
     "Burble Milk": {
       "ask": 32.0,
@@ -202,7 +202,7 @@
       "bid": 8027.0
     },
     "Burble Plate Legs": {
-      "ask": 35783.0,
+      "ask": 34786.0,
       "bid": 4415.0
     },
     "Burble Pot": {
@@ -223,11 +223,11 @@
     },
     "Burble Sword": {
       "ask": 18955.0,
-      "bid": 3538.5
+      "bid": 3539.0
     },
     "Burble Tea Leaf": {
       "ask": 335.0,
-      "bid": 320.0
+      "bid": 315.0
     },
     "Cheese": {
       "ask": 76.0,
@@ -303,7 +303,7 @@
     },
     "Cleave": {
       "ask": 57751.0,
-      "bid": 38001.5
+      "bid": 40000.0
     },
     "Coin": {
       "ask": -1.0,
@@ -327,7 +327,7 @@
     },
     "Crimson Buckler": {
       "ask": 49855.0,
-      "bid": 8273.5
+      "bid": 8274.0
     },
     "Crimson Bulwark": {
       "ask": 20085.0,
@@ -335,7 +335,7 @@
     },
     "Crimson Cheese": {
       "ask": 150.0,
-      "bid": 131.5
+      "bid": 132.0
     },
     "Crimson Enhancer": {
       "ask": 26665.0,
@@ -350,12 +350,12 @@
       "bid": 6815.0
     },
     "Crimson Helmet": {
-      "ask": 44887.5,
+      "ask": 44887.0,
       "bid": 6856.0
     },
     "Crimson Mace": {
       "ask": 50000.0,
-      "bid": 8507.5
+      "bid": 8508.0
     },
     "Crimson Milk": {
       "ask": 21.0,
@@ -387,7 +387,7 @@
     },
     "Crimson Sword": {
       "ask": 22000.0,
-      "bid": 8508.5
+      "bid": 8509.0
     },
     "Cupcake": {
       "ask": 38.0,
@@ -450,7 +450,7 @@
       "bid": 100.0
     },
     "Frenzy": {
-      "ask": 120000.0,
+      "ask": 119500.0,
       "bid": 90002.0
     },
     "Gathering Tea": {
@@ -527,7 +527,7 @@
     },
     "Holy Enhancer": {
       "ask": 61972.0,
-      "bid": 1.0
+      "bid": 25000.5
     },
     "Holy Gauntlets": {
       "ask": 35999.0,
@@ -555,11 +555,11 @@
     },
     "Holy Plate Legs": {
       "ask": 200000.0,
-      "bid": 65350.5
+      "bid": 65351.0
     },
     "Holy Pot": {
       "ask": 68999.0,
-      "bid": 55001.0
+      "bid": 57500.5
     },
     "Holy Shears": {
       "ask": 90000.0,
@@ -590,7 +590,7 @@
       "bid": 54.0
     },
     "Lucky Coffee": {
-      "ask": 122.0,
+      "ask": 119.0,
       "bid": 45.0
     },
     "Magnifying Glass": {
@@ -598,12 +598,12 @@
       "bid": 350001.0
     },
     "Maim": {
-      "ask": 1614998.0,
+      "ask": 1657499.0,
       "bid": 1100001.0
     },
     "Marsberry": {
       "ask": 43.0,
-      "bid": 29.5
+      "bid": 30.0
     },
     "Marsberry Cake": {
       "ask": 318.0,
@@ -615,7 +615,7 @@
     },
     "Medium Pouch": {
       "ask": 150000.0,
-      "bid": 57500.0
+      "bid": 60000.0
     },
     "Milk": {
       "ask": 12.0,
@@ -655,7 +655,7 @@
     },
     "Panda Fluff": {
       "ask": 479997.0,
-      "bid": 360003.0
+      "bid": 367501.5
     },
     "Panda Gloves": {
       "ask": -1.0,
@@ -682,7 +682,7 @@
       "bid": 24449.0
     },
     "Plum": {
-      "ask": 10.0,
+      "ask": 9.5,
       "bid": 7.0
     },
     "Plum Gummy": {
@@ -698,7 +698,7 @@
       "bid": 4501.0
     },
     "Polar Bear Fluff": {
-      "ask": 254253.5,
+      "ask": 306499.0,
       "bid": 160001.0
     },
     "Polar Bear Shoes": {
@@ -758,7 +758,7 @@
       "bid": 31.0
     },
     "Rainbow Plate Body": {
-      "ask": 34990.0,
+      "ask": 34989.0,
       "bid": 28500.0
     },
     "Rainbow Plate Legs": {
@@ -798,7 +798,7 @@
       "bid": 8109.0
     },
     "Smack": {
-      "ask": 10801.5,
+      "ask": 10800.0,
       "bid": 9023.0
     },
     "Small Pouch": {
@@ -814,7 +814,7 @@
       "bid": 5000.0
     },
     "Snake Fang": {
-      "ask": 945.0,
+      "ask": 940.0,
       "bid": 668.0
     },
     "Snake Fang Dirk": {
@@ -826,7 +826,7 @@
       "bid": 53.0
     },
     "Spaceberry Cake": {
-      "ask": 506.0,
+      "ask": 505.5,
       "bid": 479.0
     },
     "Spaceberry Donut": {
@@ -851,7 +851,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 495.0,
-      "bid": 455.5
+      "bid": 457.0
     },
     "Strawberry": {
       "ask": 27.0,
@@ -898,7 +898,7 @@
       "bid": 250.0
     },
     "Super Intelligence Coffee": {
-      "ask": 329.5,
+      "ask": 329.0,
       "bid": 117.0
     },
     "Super Milking Tea": {
@@ -915,11 +915,11 @@
     },
     "Swamp Essence": {
       "ask": 14.0,
-      "bid": 9.0
+      "bid": 8.5
     },
     "Sweep": {
       "ask": 94751.0,
-      "bid": 50002.0
+      "bid": 60000.0
     },
     "Swiftness Coffee": {
       "ask": 526.0,
@@ -930,7 +930,7 @@
       "bid": 11002.0
     },
     "Turtle Shell": {
-      "ask": 50586.0,
+      "ask": 49321.5,
       "bid": 20000.0
     },
     "Turtle Shell Body": {
@@ -1039,19 +1039,19 @@
     },
     "Werewolf Claw": {
       "ask": 3970052.0,
-      "bid": 2400012.5
+      "bid": 2400013.0
     },
     "Werewolf Slasher": {
       "ask": -1.0,
       "bid": 25000000.0
     },
     "Wheat": {
-      "ask": 25.0,
+      "ask": 24.5,
       "bid": 16.0
     },
     "Wisdom Tea": {
       "ask": 848.0,
-      "bid": 686.0
+      "bid": 602.0
     },
     "Yogurt": {
       "ask": 48.0,
