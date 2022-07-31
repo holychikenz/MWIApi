@@ -41,7 +41,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 18420,
+      "ask": 18400,
       "bid": 100,
       "vendor": 1080
     },
@@ -72,7 +72,7 @@
     },
     "Azure Hammer": {
       "ask": 100000,
-      "bid": 1580,
+      "bid": 1585,
       "vendor": 1080
     },
     "Azure Helmet": {
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 124998,
+      "ask": 124997,
       "bid": 70014,
       "vendor": 1000
     },
@@ -196,7 +196,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 39854,
+      "ask": 39840,
       "bid": 3883,
       "vendor": 2700
     },
@@ -207,7 +207,7 @@
     },
     "Burble Bulwark": {
       "ask": 34999,
-      "bid": 5882,
+      "bid": 5883,
       "vendor": 5400
     },
     "Burble Cheese": {
@@ -227,7 +227,7 @@
     },
     "Burble Hammer": {
       "ask": 13537,
-      "bid": 3911,
+      "bid": 3055,
       "vendor": 2700
     },
     "Burble Helmet": {
@@ -237,7 +237,7 @@
     },
     "Burble Mace": {
       "ask": 31455,
-      "bid": 6102,
+      "bid": 6103,
       "vendor": 3240
     },
     "Burble Milk": {
@@ -251,12 +251,12 @@
       "vendor": 4860
     },
     "Burble Plate Legs": {
-      "ask": 33894,
+      "ask": 33890,
       "bid": 4415,
       "vendor": 3780
     },
     "Burble Pot": {
-      "ask": -1,
+      "ask": 40000,
       "bid": 5255,
       "vendor": 2700
     },
@@ -277,7 +277,7 @@
     },
     "Burble Sword": {
       "ask": 34432,
-      "bid": 3540,
+      "bid": 3541,
       "vendor": 3240
     },
     "Burble Tea Leaf": {
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 76,
+      "ask": 75,
       "bid": 60,
       "vendor": 6
     },
@@ -296,8 +296,8 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 800,
-      "bid": 176,
+      "ask": 795,
+      "bid": 177,
       "vendor": 60
     },
     "Cheese Buckler": {
@@ -311,7 +311,7 @@
       "vendor": 120
     },
     "Cheese Enhancer": {
-      "ask": 799,
+      "ask": 798,
       "bid": 301,
       "vendor": 60
     },
@@ -321,7 +321,7 @@
       "vendor": 48
     },
     "Cheese Hammer": {
-      "ask": 700,
+      "ask": 699,
       "bid": 175,
       "vendor": 60
     },
@@ -336,28 +336,28 @@
       "vendor": 72
     },
     "Cheese Plate Body": {
-      "ask": 1389,
+      "ask": 1385,
       "bid": 321,
       "vendor": 108
     },
     "Cheese Plate Legs": {
-      "ask": 864,
-      "bid": 309,
+      "ask": 860,
+      "bid": 310,
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 630,
+      "ask": 625,
       "bid": 165,
       "vendor": 60
     },
     "Cheese Shears": {
-      "ask": 799,
-      "bid": 166,
+      "ask": 795,
+      "bid": 167,
       "vendor": 60
     },
     "Cheese Spatula": {
-      "ask": 510,
-      "bid": 164,
+      "ask": 505,
+      "bid": 165,
       "vendor": 60
     },
     "Cheese Spear": {
@@ -401,13 +401,13 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 12999,
+      "ask": 12977,
       "bid": 6908,
       "vendor": 6480
     },
     "Crimson Buckler": {
-      "ask": 49882,
-      "bid": 8275,
+      "ask": 49881,
+      "bid": 8276,
       "vendor": 7776
     },
     "Crimson Bulwark": {
@@ -436,13 +436,13 @@
       "vendor": 6480
     },
     "Crimson Helmet": {
-      "ask": 44885,
+      "ask": 44884,
       "bid": 6856,
       "vendor": 6480
     },
     "Crimson Mace": {
       "ask": 50000,
-      "bid": 8509,
+      "bid": 8510,
       "vendor": 7776
     },
     "Crimson Milk": {
@@ -472,7 +472,7 @@
     },
     "Crimson Spatula": {
       "ask": 22515,
-      "bid": 6904,
+      "bid": 6815,
       "vendor": 6480
     },
     "Crimson Spear": {
@@ -482,7 +482,7 @@
     },
     "Crimson Sword": {
       "ask": 18500,
-      "bid": 8510,
+      "bid": 8511,
       "vendor": 7776
     },
     "Cupcake": {
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 288,
+      "ask": 287,
       "bid": 243,
       "vendor": 50
     },
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 400,
+      "ask": 412,
       "bid": 202,
       "vendor": 40
     },
@@ -622,7 +622,7 @@
     },
     "Grizzly Bear Shoes": {
       "ask": -1,
-      "bid": 70000,
+      "bid": 100000,
       "vendor": 60000
     },
     "Gummy": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 550,
-      "bid": 501,
+      "bid": 502,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 141,
+      "ask": 140,
       "bid": 100,
       "vendor": 54
     },
@@ -692,12 +692,12 @@
     },
     "Holy Plate Legs": {
       "ask": 200000,
-      "bid": 70001,
+      "bid": 70006,
       "vendor": 62370
     },
     "Holy Pot": {
       "ask": 69000,
-      "bid": 60000,
+      "bid": 60006,
       "vendor": 44550
     },
     "Holy Shears": {
@@ -717,7 +717,7 @@
     },
     "Holy Sword": {
       "ask": 85000,
-      "bid": 60017,
+      "bid": 60018,
       "vendor": 53460
     },
     "Intelligence Coffee": {
@@ -767,7 +767,7 @@
     },
     "Medium Pouch": {
       "ask": 160000,
-      "bid": 55000,
+      "bid": 60000,
       "vendor": 50000
     },
     "Milk": {
@@ -841,7 +841,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 29781,
+      "ask": 29780,
       "bid": 12505,
       "vendor": 1000
     },
@@ -877,7 +877,7 @@
     },
     "Polar Bear Shoes": {
       "ask": -1,
-      "bid": 70000,
+      "bid": 100000,
       "vendor": 60000
     },
     "Power Coffee": {
@@ -1001,7 +1001,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 5681,
+      "ask": 5680,
       "bid": 4445,
       "vendor": 5000
     },
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 675,
+      "ask": 682,
       "bid": 52,
       "vendor": 40
     },
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 3970051,
-      "bid": 2650002,
+      "bid": 2650003,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659242702.4600668
+  "time": 1659243601.5866225
 }
