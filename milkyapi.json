@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 23744,
+      "ask": 18373,
       "bid": 900,
       "vendor": 864
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 292,
-      "bid": 211,
+      "bid": 220,
       "vendor": 12
     },
     "Cheese": {
@@ -496,7 +496,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 50,
+      "ask": 48,
       "bid": 9,
       "vendor": 5
     },
@@ -637,7 +637,7 @@
     },
     "Holy Brush": {
       "ask": 65050,
-      "bid": 48000,
+      "bid": 47500,
       "vendor": 44550
     },
     "Holy Buckler": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 624,
-      "bid": 556,
+      "bid": 555,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -667,7 +667,7 @@
     },
     "Holy Hammer": {
       "ask": 64000,
-      "bid": 58000,
+      "bid": 57000,
       "vendor": 44550
     },
     "Holy Helmet": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 149,
+      "ask": 148,
       "bid": 132,
       "vendor": 54
     },
@@ -717,7 +717,7 @@
     },
     "Holy Sword": {
       "ask": 85000,
-      "bid": 62000,
+      "bid": 61000,
       "vendor": 53460
     },
     "Intelligence Coffee": {
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": -1,
+      "ask": 1900000,
       "bid": 1500000,
       "vendor": 500000
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 199998,
+      "ask": 199997,
       "bid": 180000,
       "vendor": 3000
     },
@@ -896,7 +896,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 29996,
+      "ask": 29995,
       "bid": 23000,
       "vendor": 14985
     },
@@ -937,17 +937,17 @@
     },
     "Rainbow Mace": {
       "ask": 32000,
-      "bid": 23500,
+      "bid": 19000,
       "vendor": 17982
     },
     "Rainbow Milk": {
       "ask": 31,
-      "bid": 29,
+      "bid": 28,
       "vendor": 27
     },
     "Rainbow Plate Body": {
       "ask": 34978,
-      "bid": 28500,
+      "bid": -1,
       "vendor": 26973
     },
     "Rainbow Plate Legs": {
@@ -957,12 +957,12 @@
     },
     "Rainbow Pot": {
       "ask": 37987,
-      "bid": 22000,
+      "bid": 21500,
       "vendor": 14985
     },
     "Rainbow Shears": {
       "ask": 28999,
-      "bid": 22000,
+      "bid": 20000,
       "vendor": 14985
     },
     "Rainbow Spatula": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659333602.2365148
+  "time": 1659334502.1356583
 }
