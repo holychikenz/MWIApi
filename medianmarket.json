@@ -1,5 +1,5 @@
 {
-  "time": 1659282752.0,
+  "time": 1659283652.0,
   "market": {
     "Apple": {
       "ask": 19.0,
@@ -11,7 +11,7 @@
     },
     "Apple Yogurt": {
       "ask": 110.0,
-      "bid": 28.0
+      "bid": 28.5
     },
     "Aqua Essence": {
       "ask": 17.0,
@@ -42,12 +42,12 @@
       "bid": 1580.0
     },
     "Azure Bulwark": {
-      "ask": 8771.0,
+      "ask": 8763.0,
       "bid": 6000.0
     },
     "Azure Cheese": {
       "ask": 168.0,
-      "bid": 136.0
+      "bid": 137.0
     },
     "Azure Enhancer": {
       "ask": 16594.0,
@@ -71,7 +71,7 @@
     },
     "Azure Milk": {
       "ask": 31.0,
-      "bid": 25.0
+      "bid": 25.5
     },
     "Azure Plate Body": {
       "ask": 30000.0,
@@ -138,7 +138,7 @@
       "bid": 500.0
     },
     "Blueberry": {
-      "ask": 9.5,
+      "ask": 9.0,
       "bid": 3.0
     },
     "Blueberry Cake": {
@@ -167,14 +167,14 @@
     },
     "Burble Bulwark": {
       "ask": 34999.0,
-      "bid": 5886.0
+      "bid": 5886.5
     },
     "Burble Cheese": {
       "ask": 186.0,
-      "bid": 162.0
+      "bid": 163.0
     },
     "Burble Enhancer": {
-      "ask": 29333.0,
+      "ask": 34666.5,
       "bid": 3106.0
     },
     "Burble Gauntlets": {
@@ -231,7 +231,7 @@
     },
     "Cheese": {
       "ask": 75.0,
-      "bid": 59.0
+      "bid": 58.0
     },
     "Cheese Boots": {
       "ask": 975.0,
@@ -246,8 +246,8 @@
       "bid": 222.0
     },
     "Cheese Bulwark": {
-      "ask": 900.0,
-      "bid": 133.0
+      "ask": 897.5,
+      "bid": 134.0
     },
     "Cheese Enhancer": {
       "ask": 796.0,
@@ -266,8 +266,8 @@
       "bid": 263.0
     },
     "Cheese Mace": {
-      "ask": 582.0,
-      "bid": 161.0
+      "ask": 581.0,
+      "bid": 161.5
     },
     "Cheese Plate Body": {
       "ask": 1384.0,
@@ -302,7 +302,7 @@
       "bid": 35.0
     },
     "Cleave": {
-      "ask": 67344.0,
+      "ask": 79843.5,
       "bid": 40001.0
     },
     "Coin": {
@@ -335,7 +335,7 @@
     },
     "Crimson Cheese": {
       "ask": 151.0,
-      "bid": 134.5
+      "bid": 135.0
     },
     "Crimson Enhancer": {
       "ask": 26665.0,
@@ -402,7 +402,7 @@
       "bid": 9.0
     },
     "Dragon Fruit": {
-      "ask": 36.0,
+      "ask": 39.0,
       "bid": 24.0
     },
     "Dragon Fruit Gummy": {
@@ -422,8 +422,8 @@
       "bid": 14.0
     },
     "Emp Tea Leaf": {
-      "ask": 126.5,
-      "bid": 112.0
+      "ask": 126.0,
+      "bid": 112.5
     },
     "Enhancing Tea": {
       "ask": 175.0,
@@ -490,19 +490,19 @@
       "bid": 310.0
     },
     "Green Tea Leaf": {
-      "ask": 34.5,
+      "ask": 34.0,
       "bid": 21.0
     },
     "Grizzly Bear Fluff": {
       "ask": 246381.0,
-      "bid": 180000.0
+      "bid": 180000.5
     },
     "Grizzly Bear Shoes": {
       "ask": -1.0,
       "bid": 70000.0
     },
     "Gummy": {
-      "ask": 199.5,
+      "ask": 197.0,
       "bid": 13.0
     },
     "Holy Boots": {
@@ -522,7 +522,7 @@
       "bid": 91000.0
     },
     "Holy Cheese": {
-      "ask": 553.0,
+      "ask": 553.5,
       "bid": 510.0
     },
     "Holy Enhancer": {
@@ -550,11 +550,11 @@
       "bid": 113.0
     },
     "Holy Plate Body": {
-      "ask": 129977.5,
+      "ask": 129977.0,
       "bid": 81000.0
     },
     "Holy Plate Legs": {
-      "ask": 197500.0,
+      "ask": 195000.0,
       "bid": 70010.0
     },
     "Holy Pot": {
@@ -583,7 +583,7 @@
     },
     "Large Pouch": {
       "ask": -1.0,
-      "bid": 1675000.5
+      "bid": 1650001.0
     },
     "Liberica Coffee Bean": {
       "ask": 66.0,
@@ -623,7 +623,7 @@
     },
     "Milking Tea": {
       "ask": 140.0,
-      "bid": 50.0
+      "bid": 50.5
     },
     "Mooberry": {
       "ask": 10.0,
@@ -642,7 +642,7 @@
       "bid": 20.0
     },
     "Orange": {
-      "ask": 9.5,
+      "ask": 10.0,
       "bid": 7.0
     },
     "Orange Gummy": {
@@ -683,7 +683,7 @@
     },
     "Plum": {
       "ask": 10.0,
-      "bid": 7.0
+      "bid": 7.5
     },
     "Plum Gummy": {
       "ask": 68.0,
@@ -698,7 +698,7 @@
       "bid": 2550.0
     },
     "Polar Bear Fluff": {
-      "ask": 292124.0,
+      "ask": 285000.0,
       "bid": 150001.0
     },
     "Polar Bear Shoes": {
@@ -714,7 +714,7 @@
       "bid": 5006.0
     },
     "Rainbow Boots": {
-      "ask": 22611.0,
+      "ask": 23000.0,
       "bid": 12401.0
     },
     "Rainbow Brush": {
@@ -771,7 +771,7 @@
     },
     "Rainbow Shears": {
       "ask": 28999.0,
-      "bid": 20000.0
+      "bid": 21000.0
     },
     "Rainbow Spatula": {
       "ask": 34997.0,
@@ -786,7 +786,7 @@
       "bid": 25001.0
     },
     "Red Tea Leaf": {
-      "ask": 261.5,
+      "ask": 261.0,
       "bid": 225.5
     },
     "Robusta Coffee Bean": {
@@ -807,7 +807,7 @@
     },
     "Snail Shell": {
       "ask": 4899.0,
-      "bid": 2401.0
+      "bid": 2401.5
     },
     "Snail Shell Helmet": {
       "ask": 6543.0,
@@ -819,11 +819,11 @@
     },
     "Snake Fang Dirk": {
       "ask": 18530.0,
-      "bid": 2752.0
+      "bid": 2776.0
     },
     "Spaceberry": {
       "ask": 72.0,
-      "bid": 54.5
+      "bid": 55.0
     },
     "Spaceberry Cake": {
       "ask": 497.5,
@@ -838,16 +838,16 @@
       "bid": 73.0
     },
     "Stamina Coffee": {
-      "ask": 282.0,
-      "bid": 85.0
+      "ask": 280.0,
+      "bid": 85.5
     },
     "Star Fruit": {
       "ask": 97.0,
-      "bid": 58.5
+      "bid": 59.0
     },
     "Star Fruit Gummy": {
       "ask": -1.0,
-      "bid": 120.0
+      "bid": 120.5
     },
     "Star Fruit Yogurt": {
       "ask": 485.0,
@@ -871,7 +871,7 @@
     },
     "Super Attack Coffee": {
       "ask": 697.0,
-      "bid": 500.5
+      "bid": 500.0
     },
     "Super Brewing Tea": {
       "ask": 650.0,
@@ -890,7 +890,7 @@
       "bid": 300.0
     },
     "Super Enhancing Tea": {
-      "ask": 1250.0,
+      "ask": 1225.0,
       "bid": 800.0
     },
     "Super Foraging Tea": {
@@ -898,7 +898,7 @@
       "bid": 250.0
     },
     "Super Intelligence Coffee": {
-      "ask": 295.0,
+      "ask": 289.0,
       "bid": 119.0
     },
     "Super Milking Tea": {
@@ -906,8 +906,8 @@
       "bid": 325.0
     },
     "Super Power Coffee": {
-      "ask": 635.5,
-      "bid": 583.5
+      "ask": 634.5,
+      "bid": 584.5
     },
     "Super Stamina Coffee": {
       "ask": 178.0,
@@ -970,7 +970,7 @@
       "bid": 420.0
     },
     "Verdant Bulwark": {
-      "ask": 7099.0,
+      "ask": 7097.0,
       "bid": 1235.0
     },
     "Verdant Cheese": {
@@ -994,7 +994,7 @@
       "bid": 803.0
     },
     "Verdant Mace": {
-      "ask": 4018.0,
+      "ask": 4009.0,
       "bid": 385.0
     },
     "Verdant Milk": {
@@ -1050,8 +1050,8 @@
       "bid": 14.0
     },
     "Wisdom Tea": {
-      "ask": 820.0,
-      "bid": 604.0
+      "ask": 819.5,
+      "bid": 604.5
     },
     "Yogurt": {
       "ask": 106.0,
