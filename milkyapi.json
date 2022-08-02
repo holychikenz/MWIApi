@@ -26,13 +26,13 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 529,
+      "ask": 528,
       "bid": 350,
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 1000,
-      "bid": 133,
+      "ask": 220,
+      "bid": 134,
       "vendor": 20
     },
     "Azure Boots": {
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 154,
-      "bid": 125,
+      "bid": 119,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 226,
-      "bid": 173,
+      "bid": 180,
       "vendor": 12
     },
     "Cheese": {
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 782,
-      "bid": 605,
+      "bid": 403,
       "vendor": 50
     },
     "Egg": {
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 797,
+      "ask": 795,
       "bid": 350,
       "vendor": 40
     },
@@ -567,7 +567,7 @@
     },
     "Gathering Tea": {
       "ask": 573,
-      "bid": 211,
+      "bid": 212,
       "vendor": 10
     },
     "Gator Vest": {
@@ -666,7 +666,7 @@
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": 79604,
+      "ask": 75000,
       "bid": 57000,
       "vendor": 44550
     },
@@ -772,17 +772,17 @@
     },
     "Milk": {
       "ask": 9,
-      "bid": 7,
+      "bid": 5,
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 320,
+      "ask": 315,
       "bid": 150,
       "vendor": 10
     },
     "Mooberry": {
       "ask": 15,
-      "bid": 12,
+      "bid": 10,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 399999,
+      "ask": 399998,
       "bid": 175000,
       "vendor": 3000
     },
@@ -882,7 +882,7 @@
     },
     "Power Coffee": {
       "ask": 249,
-      "bid": 129,
+      "bid": 130,
       "vendor": 30
     },
     "Precision": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 230,
-      "bid": 189,
+      "bid": 175,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -981,13 +981,13 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 259,
-      "bid": 203,
+      "ask": 260,
+      "bid": 204,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
       "ask": 217,
-      "bid": 61,
+      "bid": 65,
       "vendor": 8
     },
     "Scratch": {
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 233,
+      "ask": 230,
       "bid": 150,
       "vendor": 27
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 443,
+      "ask": 442,
       "bid": 416,
       "vendor": 75
     },
@@ -1096,7 +1096,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 989,
+      "ask": 987,
       "bid": 600,
       "vendor": 75
     },
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 1196,
+      "ask": 1195,
       "bid": 524,
       "vendor": 50
     },
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 3449999,
-      "bid": 3000000,
+      "bid": 3000001,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1311,8 +1311,8 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 769,
-      "bid": 651,
+      "ask": 749,
+      "bid": 652,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659452402.2333486
+  "time": 1659453302.7720354
 }
