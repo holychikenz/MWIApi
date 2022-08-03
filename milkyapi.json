@@ -52,7 +52,7 @@
     },
     "Azure Bulwark": {
       "ask": 7855,
-      "bid": 6000,
+      "bid": 1,
       "vendor": 2160
     },
     "Azure Cheese": {
@@ -131,8 +131,8 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 94997,
-      "bid": 80015,
+      "ask": 94996,
+      "bid": 80100,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 34,
+      "ask": 33,
       "bid": 9,
       "vendor": 2
     },
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 32,
-      "bid": 26,
+      "bid": 25,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 150,
+      "ask": 149,
       "bid": 141,
       "vendor": 54
     },
@@ -436,7 +436,7 @@
       "vendor": 6480
     },
     "Crimson Helmet": {
-      "ask": 37286,
+      "ask": 41766,
       "bid": 6858,
       "vendor": 6480
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 84,
+      "ask": 83,
       "bid": 44,
       "vendor": 14
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 237,
+      "ask": 225,
       "bid": 188,
       "vendor": 50
     },
@@ -521,12 +521,12 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 16,
+      "ask": 19,
       "bid": 15,
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 95,
+      "ask": 99,
       "bid": 85,
       "vendor": 54
     },
@@ -556,7 +556,7 @@
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": 238,
+      "ask": 237,
       "bid": 100,
       "vendor": 10
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 402,
+      "ask": 399,
       "bid": 300,
       "vendor": 10
     },
@@ -606,12 +606,12 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 296,
+      "ask": 313,
       "bid": 202,
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 74,
+      "ask": 70,
       "bid": 30,
       "vendor": 4
     },
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": -1,
+      "ask": 1885275,
       "bid": 1675000,
       "vendor": 500000
     },
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 449989,
+      "ask": 448865,
       "bid": 300003,
       "vendor": 10000
     },
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 322999,
+      "ask": 310000,
       "bid": 175013,
       "vendor": 3000
     },
@@ -841,8 +841,8 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 34195,
-      "bid": 12666,
+      "ask": 34165,
+      "bid": 12587,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -861,7 +861,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 147,
+      "ask": 150,
       "bid": 69,
       "vendor": 30
     },
@@ -997,7 +997,7 @@
     },
     "Smack": {
       "ask": 9815,
-      "bid": 4003,
+      "bid": 5000,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 145,
+      "ask": 100,
       "bid": 64,
       "vendor": 27
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 691,
+      "ask": 689,
       "bid": 453,
       "vendor": 75
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 14888,
+      "ask": 14000,
       "bid": 5100,
       "vendor": 1000
     },
@@ -1176,8 +1176,8 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 166,
-      "bid": 140,
+      "ask": 150,
+      "bid": 138,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 3449999,
-      "bid": 2750001,
+      "bid": 2750002,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 14,
+      "ask": 18,
       "bid": 13,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659493802.4877589
+  "time": 1659494702.293422
 }
