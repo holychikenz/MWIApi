@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 500,
-      "bid": 250,
+      "bid": 251,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 153,
+      "ask": 152,
       "bid": 128,
       "vendor": 24
     },
@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 43,
-      "bid": 28,
+      "bid": 21,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 79,
-      "bid": 42,
+      "bid": 43,
       "vendor": 8
     },
     "Blackberry": {
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 33,
-      "bid": 25,
+      "bid": 27,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -392,7 +392,7 @@
     },
     "Crab Pincer": {
       "ask": 15000,
-      "bid": 10527,
+      "bid": 10528,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 47,
-      "bid": 39,
+      "bid": 40,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -527,7 +527,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 86,
-      "bid": 55,
+      "bid": 56,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 30,
+      "ask": 31,
       "bid": 18,
       "vendor": 14
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 169,
+      "ask": 168,
       "bid": 135,
       "vendor": 40
     },
@@ -816,8 +816,8 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 309990,
-      "bid": 225016,
+      "ask": 310000,
+      "bid": 235000,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 168,
+      "ask": 174,
       "bid": 93,
       "vendor": 40
     },
@@ -861,7 +861,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 122,
+      "ask": 121,
       "bid": 35,
       "vendor": 30
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Milk": {
       "ask": 33,
-      "bid": 29,
+      "bid": 31,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 697,
-      "bid": 251,
+      "bid": 212,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 440,
-      "bid": 394,
+      "bid": 395,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1046,7 +1046,7 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 209,
+      "ask": 249,
       "bid": 140,
       "vendor": 10
     },
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 609,
-      "bid": 550,
+      "bid": 539,
       "vendor": 75
     },
     "Strawberry": {
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 19,
+      "ask": 20,
       "bid": 15,
       "vendor": 8
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 593,
+      "ask": 592,
       "bid": 548,
       "vendor": 50
     },
@@ -1177,12 +1177,12 @@
     },
     "Twilight Essence": {
       "ask": 163,
-      "bid": 138,
+      "bid": 139,
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 2399998,
-      "bid": 1400000,
+      "ask": 2279998,
+      "bid": 1750000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 3399998,
+      "ask": 3399997,
       "bid": 2750000,
       "vendor": 10000
     },
@@ -1306,13 +1306,13 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 17,
-      "bid": 12,
+      "ask": 16,
+      "bid": 15,
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 699,
-      "bid": 250,
+      "ask": 630,
+      "bid": 251,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659566702.307779
+  "time": 1659567602.389198
 }
