@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 15,
-      "bid": 7,
+      "bid": -1,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 333,
-      "bid": 136,
+      "bid": 138,
       "vendor": 20
     },
     "Azure Boots": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 137,
+      "ask": 139,
       "bid": 131,
       "vendor": 54
     },
@@ -492,7 +492,7 @@
     },
     "Defense Coffee": {
       "ask": 580,
-      "bid": 121,
+      "bid": 122,
       "vendor": 20
     },
     "Donut": {
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 44,
+      "ask": 75,
       "bid": 31,
       "vendor": 14
     },
@@ -516,8 +516,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 917,
-      "bid": 850,
+      "ask": 916,
+      "bid": 800,
       "vendor": 50
     },
     "Egg": {
@@ -527,7 +527,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 98,
-      "bid": 60,
+      "bid": 62,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -541,8 +541,8 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 64,
-      "bid": 37,
+      "ask": 63,
+      "bid": 38,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 127914,
+      "ask": 134646,
       "bid": 120001,
       "vendor": 1000
     },
@@ -611,12 +611,12 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 59,
+      "ask": 60,
       "bid": 30,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 234999,
+      "ask": 234410,
       "bid": 182000,
       "vendor": 3000
     },
@@ -651,22 +651,22 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 526,
-      "bid": 494,
+      "ask": 525,
+      "bid": 495,
       "vendor": 162
     },
     "Holy Enhancer": {
-      "ask": 69069,
+      "ask": 68969,
       "bid": 55001,
       "vendor": 44550
     },
     "Holy Gauntlets": {
-      "ask": 35988,
+      "ask": 35969,
       "bid": 25412,
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": 69998,
+      "ask": 69969,
       "bid": 58888,
       "vendor": 44550
     },
@@ -676,13 +676,13 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 75000,
+      "ask": 77869,
       "bid": 63001,
       "vendor": 53460
     },
     "Holy Milk": {
       "ask": 153,
-      "bid": 121,
+      "bid": 123,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -696,17 +696,17 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 64999,
+      "ask": 64969,
       "bid": 46868,
       "vendor": 44550
     },
     "Holy Shears": {
-      "ask": 89998,
+      "ask": 89969,
       "bid": 50000,
       "vendor": 44550
     },
     "Holy Spatula": {
-      "ask": 66665,
+      "ask": 66569,
       "bid": 56000,
       "vendor": 44550
     },
@@ -716,7 +716,7 @@
       "vendor": 53460
     },
     "Holy Sword": {
-      "ask": 70889,
+      "ask": 70869,
       "bid": 61000,
       "vendor": 53460
     },
@@ -727,7 +727,7 @@
     },
     "Large Pouch": {
       "ask": -1,
-      "bid": 1625000,
+      "bid": 1625001,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
@@ -746,18 +746,18 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 549999,
+      "ask": 549998,
       "bid": 250003,
       "vendor": 1000
     },
     "Marsberry": {
       "ask": 30,
-      "bid": 19,
+      "bid": 20,
       "vendor": 14
     },
     "Marsberry Cake": {
       "ask": 210,
-      "bid": 185,
+      "bid": 186,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 308999,
+      "ask": 308990,
       "bid": 275000,
       "vendor": 3000
     },
@@ -882,11 +882,11 @@
     },
     "Power Coffee": {
       "ask": 230,
-      "bid": 155,
+      "bid": 157,
       "vendor": 30
     },
     "Precision": {
-      "ask": 14999,
+      "ask": 24495,
       "bid": 10014,
       "vendor": 1000
     },
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 269,
-      "bid": 180,
+      "ask": 264,
+      "bid": 181,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 426,
-      "bid": 300,
+      "bid": 301,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -996,7 +996,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 9999,
+      "ask": 9000,
       "bid": 7400,
       "vendor": 1000
     },
@@ -1017,7 +1017,7 @@
     },
     "Snake Fang": {
       "ask": 1800,
-      "bid": 1002,
+      "bid": 1001,
       "vendor": 100
     },
     "Snake Fang Dirk": {
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 600,
-      "bid": 451,
+      "bid": 452,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 588,
-      "bid": 543,
+      "bid": 544,
       "vendor": 75
     },
     "Strawberry": {
@@ -1106,12 +1106,12 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 498,
+      "ask": 497,
       "bid": 260,
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 925,
+      "ask": 924,
       "bid": 697,
       "vendor": 50
     },
@@ -1141,8 +1141,8 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 22,
-      "bid": 14,
+      "ask": 21,
+      "bid": 9,
       "vendor": 8
     },
     "Sweep": {
@@ -1217,7 +1217,7 @@
     },
     "Verdant Cheese": {
       "ask": 130,
-      "bid": 102,
+      "bid": 103,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 680,
+      "ask": 689,
       "bid": 310,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659610801.8283064
+  "time": 1659611702.1425116
 }
