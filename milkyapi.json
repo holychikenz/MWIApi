@@ -51,7 +51,7 @@
       "vendor": 1296
     },
     "Azure Bulwark": {
-      "ask": 6800,
+      "ask": 6750,
       "bid": 2300,
       "vendor": 2160
     },
@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 1000000000000,
+      "ask": 1000,
       "bid": 24,
       "vendor": 8
     },
@@ -126,8 +126,8 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 85,
-      "bid": 54,
+      "ask": 83,
+      "bid": 55,
       "vendor": 54
     },
     "Berserk": {
@@ -206,8 +206,8 @@
       "vendor": 3240
     },
     "Burble Bulwark": {
-      "ask": 28999,
-      "bid": 5514,
+      "ask": 28955,
+      "bid": 5515,
       "vendor": 5400
     },
     "Burble Cheese": {
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 33,
+      "ask": 32,
       "bid": 27,
       "vendor": 12
     },
@@ -277,7 +277,7 @@
     },
     "Burble Sword": {
       "ask": 15000,
-      "bid": 3567,
+      "bid": 3568,
       "vendor": 3240
     },
     "Burble Tea Leaf": {
@@ -307,7 +307,7 @@
     },
     "Cheese Bulwark": {
       "ask": 848,
-      "bid": 164,
+      "bid": 165,
       "vendor": 120
     },
     "Cheese Enhancer": {
@@ -407,16 +407,16 @@
     },
     "Crimson Buckler": {
       "ask": 49888,
-      "bid": 8296,
+      "bid": 8297,
       "vendor": 7776
     },
     "Crimson Bulwark": {
       "ask": 20000,
-      "bid": -1,
+      "bid": 13500,
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 146,
+      "ask": 145,
       "bid": 130,
       "vendor": 54
     },
@@ -482,7 +482,7 @@
     },
     "Crimson Sword": {
       "ask": 15000,
-      "bid": 8900,
+      "bid": 8901,
       "vendor": 7776
     },
     "Cupcake": {
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 17,
-      "bid": 6,
+      "bid": 7,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -541,12 +541,12 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 70,
+      "ask": 69,
       "bid": 40,
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 699,
+      "ask": 775,
       "bid": 450,
       "vendor": 40
     },
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 31,
+      "ask": 30,
       "bid": 21,
       "vendor": 14
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 156,
+      "ask": 155,
       "bid": 135,
       "vendor": 40
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 30,
+      "ask": 29,
       "bid": 12,
       "vendor": 9
     },
@@ -906,7 +906,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 78887,
+      "ask": 78850,
       "bid": 35000,
       "vendor": 29970
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 387,
+      "ask": 449,
       "bid": 250,
       "vendor": 27
     },
@@ -1022,7 +1022,7 @@
     },
     "Snake Fang Dirk": {
       "ask": 24555,
-      "bid": 3011,
+      "bid": 3020,
       "vendor": 2000
     },
     "Spaceberry": {
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 425,
+      "ask": 448,
       "bid": 394,
       "vendor": 75
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 600,
+      "ask": 601,
       "bid": 543,
       "vendor": 75
     },
@@ -1156,13 +1156,13 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 7988,
+      "ask": 15998,
       "bid": 5060,
       "vendor": 1000
     },
     "Turtle Shell": {
       "ask": 22888,
-      "bid": 3056,
+      "bid": 3060,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -1177,7 +1177,7 @@
     },
     "Twilight Essence": {
       "ask": 160,
-      "bid": 144,
+      "bid": 140,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Verdant Boots": {
-      "ask": 3800,
+      "ask": 3788,
       "bid": 265,
       "vendor": 240
     },
@@ -1226,7 +1226,7 @@
       "vendor": 300
     },
     "Verdant Gauntlets": {
-      "ask": 6555,
+      "ask": 6544,
       "bid": 380,
       "vendor": 240
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659578402.0706816
+  "time": 1659579302.090519
 }
