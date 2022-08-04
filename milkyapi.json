@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 64,
-      "bid": 58,
+      "bid": 57,
       "vendor": 54
     },
     "Berserk": {
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 69,
+      "ask": 60,
       "bid": 45,
       "vendor": 8
     },
@@ -201,7 +201,7 @@
       "vendor": 2700
     },
     "Burble Buckler": {
-      "ask": 18465,
+      "ask": 18464,
       "bid": 3455,
       "vendor": 3240
     },
@@ -261,7 +261,7 @@
       "vendor": 2700
     },
     "Burble Shears": {
-      "ask": 14524,
+      "ask": 14554,
       "bid": 3360,
       "vendor": 2700
     },
@@ -281,8 +281,8 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 261,
-      "bid": 225,
+      "ask": 263,
+      "bid": 230,
       "vendor": 12
     },
     "Cheese": {
@@ -401,7 +401,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 16333,
+      "ask": 16000,
       "bid": 6819,
       "vendor": 6480
     },
@@ -431,7 +431,7 @@
       "vendor": 5184
     },
     "Crimson Hammer": {
-      "ask": 28144,
+      "ask": 25000,
       "bid": 6815,
       "vendor": 6480
     },
@@ -491,7 +491,7 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 550,
+      "ask": 540,
       "bid": 123,
       "vendor": 20
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 95,
+      "ask": 90,
       "bid": 69,
       "vendor": 54
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 44,
+      "ask": 45,
       "bid": 38,
       "vendor": 36
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 184130,
+      "ask": 184128,
       "bid": 125005,
       "vendor": 1000
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 420068,
+      "ask": 380000,
       "bid": 292003,
       "vendor": 10000
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 158,
+      "ask": 164,
       "bid": 140,
       "vendor": 54
     },
@@ -707,7 +707,7 @@
     },
     "Holy Spatula": {
       "ask": 66568,
-      "bid": 61001,
+      "bid": 61000,
       "vendor": 44550
     },
     "Holy Spear": {
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 308888,
+      "ask": 300000,
       "bid": 248000,
       "vendor": 3000
     },
@@ -872,7 +872,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 174999,
-      "bid": 117001,
+      "bid": 120000,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -881,7 +881,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 248,
+      "ask": 247,
       "bid": 187,
       "vendor": 30
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 235,
+      "ask": 237,
       "bid": 205,
       "vendor": 81
     },
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 159,
-      "bid": 101,
+      "bid": 60,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1091,7 +1091,7 @@
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 472,
+      "ask": 350,
       "bid": 83,
       "vendor": 50
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 586,
+      "ask": 350,
       "bid": 62,
       "vendor": 50
     },
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 17,
+      "ask": 20,
       "bid": 11,
       "vendor": 8
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 558,
+      "ask": 550,
       "bid": 475,
       "vendor": 50
     },
@@ -1161,7 +1161,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 23554,
+      "ask": 23552,
       "bid": 4050,
       "vendor": 1500
     },
@@ -1306,12 +1306,12 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 17,
+      "ask": 14,
       "bid": 13,
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 722,
+      "ask": 721,
       "bid": 510,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659644102.097655
+  "time": 1659645002.2482135
 }
