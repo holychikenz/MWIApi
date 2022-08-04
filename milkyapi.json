@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 15,
-      "bid": -1,
+      "bid": 3,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 22,
+      "ask": 21,
       "bid": 18,
       "vendor": 16
     },
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 511,
+      "ask": 509,
       "bid": 400,
       "vendor": 75
     },
@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 49,
+      "ask": 48,
       "bid": 31,
       "vendor": 8
     },
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 15,
+      "ask": 14,
       "bid": 9,
       "vendor": 4
     },
@@ -166,12 +166,12 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 900,
+      "ask": 899,
       "bid": 638,
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 30,
+      "ask": 29,
       "bid": 10,
       "vendor": 2
     },
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 216,
+      "ask": 200,
       "bid": 181,
       "vendor": 12
     },
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 17144,
+      "ask": 17143,
       "bid": 10530,
       "vendor": 1500
     },
@@ -501,8 +501,8 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 75,
-      "bid": 31,
+      "ask": 74,
+      "bid": 32,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 16,
+      "ask": 15,
       "bid": 11,
       "vendor": 1
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 134646,
+      "ask": 134309,
       "bid": 120001,
       "vendor": 1000
     },
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 28500,
+      "ask": 28495,
       "bid": 20500,
       "vendor": 20000
     },
@@ -671,7 +671,7 @@
       "vendor": 44550
     },
     "Holy Helmet": {
-      "ask": 66665,
+      "ask": 60000,
       "bid": 33456,
       "vendor": 44550
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 153,
+      "ask": 152,
       "bid": 123,
       "vendor": 54
     },
@@ -752,7 +752,7 @@
     },
     "Marsberry": {
       "ask": 30,
-      "bid": 20,
+      "bid": 21,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 34,
+      "ask": 33,
       "bid": 11,
       "vendor": 9
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 24495,
+      "ask": 33333,
       "bid": 10014,
       "vendor": 1000
     },
@@ -901,7 +901,7 @@
       "vendor": 14985
     },
     "Rainbow Buckler": {
-      "ask": 39806,
+      "ask": 41901,
       "bid": -1,
       "vendor": 17982
     },
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 264,
-      "bid": 181,
+      "ask": 284,
+      "bid": 183,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 426,
-      "bid": 301,
+      "bid": 330,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1006,7 +1006,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 4654,
+      "ask": 4653,
       "bid": 2404,
       "vendor": 1500
     },
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 1800,
+      "ask": 1799,
       "bid": 1001,
       "vendor": 100
     },
@@ -1067,7 +1067,7 @@
     },
     "Strawberry": {
       "ask": 46,
-      "bid": 15,
+      "bid": 20,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 924,
+      "ask": 899,
       "bid": 697,
       "vendor": 50
     },
@@ -1161,7 +1161,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 23749,
+      "ask": 23748,
       "bid": 4050,
       "vendor": 1500
     },
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 154,
+      "ask": 152,
       "bid": 127,
       "vendor": 108
     },
@@ -1292,11 +1292,11 @@
     },
     "Vision Shield": {
       "ask": 490000,
-      "bid": 200000,
+      "bid": 40000,
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2999999,
+      "ask": 2999998,
       "bid": 2,
       "vendor": 10000
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 689,
+      "ask": 655,
       "bid": 310,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659611702.1425116
+  "time": 1659612602.3367107
 }
