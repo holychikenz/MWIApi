@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 15,
-      "bid": 3,
+      "bid": 4,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 158,
+      "ask": 150,
       "bid": 130,
       "vendor": 24
     },
@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 54,
+      "ask": 50,
       "bid": 32,
       "vendor": 8
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 92999,
+      "ask": 88349,
       "bid": 88000,
       "vendor": 1000
     },
@@ -211,8 +211,8 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 161,
-      "bid": 155,
+      "ask": 149,
+      "bid": 113,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 89992,
+      "ask": 85492,
       "bid": 40011,
       "vendor": 1000
     },
@@ -416,8 +416,8 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 139,
-      "bid": 131,
+      "ask": 130,
+      "bid": 128,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 20,
+      "ask": 19,
       "bid": 18,
       "vendor": 18
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 915,
+      "ask": 916,
       "bid": 800,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 98,
+      "ask": 99,
       "bid": 62,
       "vendor": 54
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 112,
+      "ask": 113,
       "bid": 100,
       "vendor": 27
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 435000,
+      "ask": 434000,
       "bid": 292003,
       "vendor": 10000
     },
@@ -616,7 +616,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 234410,
+      "ask": 211556,
       "bid": 183000,
       "vendor": 3000
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 525,
+      "ask": 527,
       "bid": 501,
       "vendor": 162
     },
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 30,
+      "ask": 31,
       "bid": 21,
       "vendor": 14
     },
@@ -791,7 +791,7 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 181,
+      "ask": 180,
       "bid": 45,
       "vendor": 40
     },
@@ -831,12 +831,12 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 74,
+      "ask": 73,
       "bid": 51,
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 167,
+      "ask": 166,
       "bid": 85,
       "vendor": 40
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 281,
+      "ask": 280,
       "bid": 182,
       "vendor": 81
     },
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 130,
+      "ask": 129,
       "bid": 62,
       "vendor": 27
     },
@@ -1041,7 +1041,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 114,
+      "ask": 113,
       "bid": 98,
       "vendor": 54
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 146,
+      "ask": 145,
       "bid": 125,
       "vendor": 27
     },
@@ -1146,7 +1146,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 200000,
+      "ask": 221993,
       "bid": 40000,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659614402.626122
+  "time": 1659615302.50244
 }
