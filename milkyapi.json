@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 13,
-      "bid": 6,
+      "ask": 14,
+      "bid": 9,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 40,
+      "ask": 45,
       "bid": 26,
       "vendor": 8
     },
@@ -161,7 +161,7 @@
       "vendor": 20
     },
     "Blackberry Donut": {
-      "ask": 135,
+      "ask": 50,
       "bid": 25,
       "vendor": 20
     },
@@ -197,7 +197,7 @@
     },
     "Burble Brush": {
       "ask": 12522,
-      "bid": 3887,
+      "bid": 3890,
       "vendor": 2700
     },
     "Burble Buckler": {
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 147,
+      "ask": 140,
       "bid": 132,
       "vendor": 36
     },
@@ -301,7 +301,7 @@
       "vendor": 60
     },
     "Cheese Buckler": {
-      "ask": 930,
+      "ask": 371,
       "bid": 224,
       "vendor": 72
     },
@@ -412,7 +412,7 @@
     },
     "Crimson Bulwark": {
       "ask": 25888,
-      "bid": 13551,
+      "bid": 13560,
       "vendor": 12960
     },
     "Crimson Cheese": {
@@ -517,11 +517,11 @@
     },
     "Efficiency Tea": {
       "ask": 953,
-      "bid": 702,
+      "bid": 701,
       "vendor": 50
     },
     "Egg": {
-      "ask": 18,
+      "ask": 19,
       "bid": 15,
       "vendor": 1
     },
@@ -646,13 +646,13 @@
       "vendor": 53460
     },
     "Holy Bulwark": {
-      "ask": 101071,
+      "ask": 101070,
       "bid": -1,
       "vendor": 89100
     },
     "Holy Cheese": {
       "ask": 535,
-      "bid": 506,
+      "bid": 507,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -666,12 +666,12 @@
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": 61500,
+      "ask": 61499,
       "bid": 61000,
       "vendor": 44550
     },
     "Holy Helmet": {
-      "ask": 60000,
+      "ask": 59999,
       "bid": 33456,
       "vendor": 44550
     },
@@ -686,7 +686,7 @@
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 105000,
+      "ask": 104999,
       "bid": -1,
       "vendor": 80190
     },
@@ -696,22 +696,22 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 63999,
+      "ask": 63998,
       "bid": 46868,
       "vendor": 44550
     },
     "Holy Shears": {
-      "ask": 89968,
+      "ask": 89967,
       "bid": 50000,
       "vendor": 44550
     },
     "Holy Spatula": {
-      "ask": 66569,
+      "ask": 66568,
       "bid": 61000,
       "vendor": 44550
     },
     "Holy Spear": {
-      "ask": 53999,
+      "ask": 53998,
       "bid": 45000,
       "vendor": 53460
     },
@@ -776,7 +776,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 350,
+      "ask": 300,
       "bid": 150,
       "vendor": 10
     },
@@ -841,7 +841,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 24998,
+      "ask": 24500,
       "bid": 13422,
       "vendor": 1000
     },
@@ -906,12 +906,12 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 71144,
+      "ask": 71100,
       "bid": -1,
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 234,
+      "ask": 240,
       "bid": 205,
       "vendor": 81
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 387,
+      "ask": 386,
       "bid": 339,
       "vendor": 27
     },
@@ -1027,7 +1027,7 @@
     },
     "Spaceberry": {
       "ask": 124,
-      "bid": 67,
+      "bid": 68,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 565,
+      "ask": 564,
       "bid": 555,
       "vendor": 75
     },
@@ -1081,7 +1081,7 @@
       "vendor": 30
     },
     "Sugar": {
-      "ask": 5,
+      "ask": 6,
       "bid": 3,
       "vendor": 1
     },
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 16,
+      "ask": 17,
       "bid": 11,
       "vendor": 8
     },
@@ -1181,7 +1181,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 2109000,
+      "ask": 2100000,
       "bid": 10000,
       "vendor": 10000
     },
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2849973,
+      "ask": 2849972,
       "bid": 1700000,
       "vendor": 10000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659637801.6619456
+  "time": 1659638702.1763191
 }
