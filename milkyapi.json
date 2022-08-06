@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 17,
+      "ask": 15,
       "bid": 3,
       "vendor": 2
     },
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 477,
+      "ask": 479,
       "bid": 450,
       "vendor": 75
     },
@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 9155,
+      "ask": 9192,
       "bid": -1,
       "vendor": 864
     },
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 156,
-      "bid": 153,
+      "bid": 154,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -91,12 +91,12 @@
       "vendor": 8
     },
     "Azure Plate Body": {
-      "ask": 20688,
+      "ask": 21777,
       "bid": 2050,
       "vendor": 1944
     },
     "Azure Plate Legs": {
-      "ask": 17700,
+      "ask": 17711,
       "bid": 5000,
       "vendor": 1512
     },
@@ -121,7 +121,7 @@
       "vendor": 1296
     },
     "Azure Sword": {
-      "ask": 9025,
+      "ask": 10000,
       "bid": 1875,
       "vendor": 1296
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 23,
+      "ask": 20,
       "bid": 10,
       "vendor": 2
     },
@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 67,
-      "bid": 60,
+      "bid": 58,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -516,12 +516,12 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 825,
+      "ask": 892,
       "bid": 666,
       "vendor": 50
     },
     "Egg": {
-      "ask": 25,
+      "ask": 20,
       "bid": 17,
       "vendor": 1
     },
@@ -757,7 +757,7 @@
     },
     "Marsberry Cake": {
       "ask": 260,
-      "bid": 202,
+      "bid": 204,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -801,7 +801,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 13,
+      "ask": 12,
       "bid": 6,
       "vendor": 4
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 192,
-      "bid": 145,
+      "bid": 146,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 34,
+      "ask": 35,
       "bid": 29,
       "vendor": 27
     },
@@ -1021,7 +1021,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 17999,
+      "ask": 18007,
       "bid": 3015,
       "vendor": 2000
     },
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 20,
+      "ask": 19,
       "bid": 10,
       "vendor": 8
     },
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1600000,
-      "bid": 150000,
+      "bid": 1111111,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 820,
+      "ask": 800,
       "bid": 550,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659753902.2206738
+  "time": 1659754802.098772
 }
