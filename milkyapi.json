@@ -156,7 +156,7 @@
       "vendor": 4
     },
     "Blackberry Cake": {
-      "ask": 139,
+      "ask": 138,
       "bid": 43,
       "vendor": 20
     },
@@ -447,7 +447,7 @@
     },
     "Crimson Milk": {
       "ask": 22,
-      "bid": 19,
+      "bid": -1,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 948,
-      "bid": 673,
+      "bid": 750,
       "vendor": 50
     },
     "Egg": {
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 414981,
+      "ask": 380000,
       "bid": 280000,
       "vendor": 10000
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 554,
-      "bid": 520,
+      "bid": 519,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 404601,
+      "ask": 370000,
       "bid": 320005,
       "vendor": 10000
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 292,
+      "ask": 270,
       "bid": 233,
       "vendor": 27
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 610,
+      "ask": 609,
       "bid": 570,
       "vendor": 75
     },
@@ -1066,12 +1066,12 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 41,
+      "ask": 43,
       "bid": 32,
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 126,
+      "ask": 128,
       "bid": 83,
       "vendor": 30
     },
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 580,
+      "ask": 577,
       "bid": 503,
       "vendor": 50
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 774,
-      "bid": 675,
+      "bid": 709,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1151,12 +1151,12 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 610,
+      "ask": 608,
       "bid": 540,
       "vendor": 50
     },
     "Toughness": {
-      "ask": 10000,
+      "ask": 11347,
       "bid": 5153,
       "vendor": 1000
     },
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2200000,
+      "ask": 2090000,
       "bid": 1300000,
       "vendor": 10000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659780902.712697
+  "time": 1659781802.3489132
 }
