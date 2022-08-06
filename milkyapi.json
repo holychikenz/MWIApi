@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 57,
+      "ask": 58,
       "bid": 55,
       "vendor": 54
     },
@@ -177,7 +177,7 @@
     },
     "Blueberry Cake": {
       "ask": 72,
-      "bid": 30,
+      "bid": 27,
       "vendor": 10
     },
     "Blueberry Donut": {
@@ -266,7 +266,7 @@
       "vendor": 2700
     },
     "Burble Spatula": {
-      "ask": 9443,
+      "ask": 9444,
       "bid": 3050,
       "vendor": 2700
     },
@@ -511,17 +511,17 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 242,
+      "ask": 246,
       "bid": 225,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 929,
+      "ask": 945,
       "bid": 750,
       "vendor": 50
     },
     "Egg": {
-      "ask": 20,
+      "ask": 23,
       "bid": 17,
       "vendor": 1
     },
@@ -551,8 +551,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 348,
-      "bid": 110,
+      "ask": 335,
+      "bid": 111,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 164877,
+      "ask": 148801,
       "bid": 134001,
       "vendor": 1000
     },
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 570,
-      "bid": 549,
+      "ask": 575,
+      "bid": 550,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 178,
+      "ask": 180,
       "bid": 161,
       "vendor": 54
     },
@@ -731,7 +731,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": -1,
+      "ask": 1000000,
       "bid": 140,
       "vendor": 12
     },
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 120,
+      "ask": 131,
       "bid": 105,
       "vendor": 27
     },
@@ -1061,8 +1061,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 508,
-      "bid": 472,
+      "ask": 500,
+      "bid": -1,
       "vendor": 75
     },
     "Strawberry": {
@@ -1136,7 +1136,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 440,
+      "ask": 996,
       "bid": 43,
       "vendor": 40
     },
@@ -1161,7 +1161,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 12666,
+      "ask": 15200,
       "bid": 4050,
       "vendor": 1500
     },
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 34,
+      "ask": 35,
       "bid": 14,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659825002.117006
+  "time": 1659825902.5104723
 }
