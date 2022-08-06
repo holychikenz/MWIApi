@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 479,
-      "bid": 450,
+      "bid": 455,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 44,
+      "ask": 40,
       "bid": 27,
       "vendor": 12
     },
@@ -282,12 +282,12 @@
     },
     "Burble Tea Leaf": {
       "ask": 244,
-      "bid": 205,
+      "bid": 206,
       "vendor": 12
     },
     "Cheese": {
       "ask": 67,
-      "bid": 58,
+      "bid": 55,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 134,
+      "ask": 135,
       "bid": 114,
       "vendor": 54
     },
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 21,
+      "ask": 20,
       "bid": 18,
       "vendor": 18
     },
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 892,
-      "bid": 666,
+      "bid": 670,
       "vendor": 50
     },
     "Egg": {
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 212,
+      "ask": 400,
       "bid": 75,
       "vendor": 27
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 290,
+      "ask": 289,
       "bid": 231,
       "vendor": 50
     },
@@ -836,8 +836,8 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 185,
-      "bid": 90,
+      "ask": 184,
+      "bid": 92,
       "vendor": 40
     },
     "Pierce": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 185,
-      "bid": 159,
+      "bid": 160,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 587,
+      "ask": 585,
       "bid": 503,
       "vendor": 50
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 780,
-      "bid": 670,
+      "bid": 675,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1242,7 +1242,7 @@
     },
     "Verdant Mace": {
       "ask": 4000,
-      "bid": 2700,
+      "bid": -1,
       "vendor": 360
     },
     "Verdant Milk": {
@@ -1312,7 +1312,7 @@
     },
     "Wisdom Tea": {
       "ask": 810,
-      "bid": 550,
+      "bid": 485,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659775502.0203302
+  "time": 1659776401.9932845
 }
