@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 158,
+      "ask": 157,
       "bid": 125,
       "vendor": 24
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 250,
-      "bid": 206,
+      "bid": 207,
       "vendor": 12
     },
     "Cheese": {
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 948,
-      "bid": 671,
+      "bid": 673,
       "vendor": 50
     },
     "Egg": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 167,
+      "ask": 170,
       "bid": 150,
       "vendor": 54
     },
@@ -702,7 +702,7 @@
     },
     "Holy Shears": {
       "ask": 79999,
-      "bid": 60000,
+      "bid": 3,
       "vendor": 44550
     },
     "Holy Spatula": {
@@ -756,12 +756,12 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 270,
+      "ask": 269,
       "bid": 231,
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 579,
+      "ask": 575,
       "bid": 135,
       "vendor": 50
     },
@@ -782,7 +782,7 @@
     },
     "Mooberry": {
       "ask": 14,
-      "bid": 12,
+      "bid": -1,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -796,8 +796,8 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 73,
-      "bid": 38,
+      "ask": 72,
+      "bid": 39,
       "vendor": 18
     },
     "Orange": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 292,
-      "bid": 232,
+      "bid": 233,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1031,12 +1031,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 611,
+      "ask": 610,
       "bid": 570,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 890,
+      "ask": 700,
       "bid": 105,
       "vendor": 75
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 523,
+      "ask": 522,
       "bid": 485,
       "vendor": 75
     },
@@ -1076,7 +1076,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 199,
+      "ask": 197,
       "bid": 35,
       "vendor": 30
     },
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 585,
+      "ask": 580,
       "bid": 503,
       "vendor": 50
     },
@@ -1131,12 +1131,12 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 775,
+      "ask": 774,
       "bid": 675,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 475,
+      "ask": 470,
       "bid": 300,
       "vendor": 40
     },
@@ -1181,7 +1181,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1450000,
+      "ask": 1400000,
       "bid": 1075000,
       "vendor": 10000
     },
@@ -1311,8 +1311,8 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 810,
-      "bid": 485,
+      "ask": 808,
+      "bid": 750,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659780002.300227
+  "time": 1659780902.712697
 }
