@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 78,
-      "bid": 50,
+      "bid": 35,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 156,
+      "ask": 157,
       "bid": 125,
       "vendor": 24
     },
@@ -106,7 +106,7 @@
       "vendor": 1080
     },
     "Azure Shears": {
-      "ask": 7355,
+      "ask": 7354,
       "bid": 1304,
       "vendor": 1080
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 123999,
-      "bid": 91001,
+      "bid": 91002,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 59,
+      "ask": 58,
       "bid": 36,
       "vendor": 8
     },
@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 875,
-      "bid": 651,
+      "bid": 700,
       "vendor": 75
     },
     "Blueberry": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 274,
+      "ask": 273,
       "bid": 230,
       "vendor": 12
     },
@@ -306,7 +306,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 795,
+      "ask": 755,
       "bid": 164,
       "vendor": 120
     },
@@ -516,8 +516,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 944,
-      "bid": 810,
+      "ask": 940,
+      "bid": 850,
       "vendor": 50
     },
     "Egg": {
@@ -526,8 +526,8 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 92,
-      "bid": 74,
+      "ask": 90,
+      "bid": 75,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 173563,
-      "bid": 131001,
+      "bid": 131002,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 550,
-      "bid": 528,
+      "bid": 529,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -721,7 +721,7 @@
       "vendor": 53460
     },
     "Intelligence Coffee": {
-      "ask": 215,
+      "ask": 204,
       "bid": 130,
       "vendor": 10
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 266,
+      "ask": 265,
       "bid": 231,
       "vendor": 50
     },
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 249375,
+      "ask": 245000,
       "bid": 200000,
       "vendor": 3000
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 23,
+      "ask": 24,
       "bid": 19,
       "vendor": 9
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 174,
+      "ask": 173,
       "bid": 120,
       "vendor": 40
     },
@@ -846,7 +846,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 44999,
+      "ask": 45000,
       "bid": 24462,
       "vendor": 6000
     },
@@ -881,7 +881,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 298,
+      "ask": 296,
       "bid": 225,
       "vendor": 30
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Milk": {
       "ask": 36,
-      "bid": 31,
+      "bid": 32,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 275,
-      "bid": 252,
+      "bid": 257,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1072,7 +1072,7 @@
     },
     "Strawberry Cake": {
       "ask": 128,
-      "bid": 83,
+      "bid": 86,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 711,
+      "ask": 712,
       "bid": 601,
       "vendor": 50
     },
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 415,
+      "ask": 414,
       "bid": 45,
       "vendor": 40
     },
@@ -1177,7 +1177,7 @@
     },
     "Twilight Essence": {
       "ask": 200,
-      "bid": 150,
+      "bid": 151,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1211,13 +1211,13 @@
       "vendor": 360
     },
     "Verdant Bulwark": {
-      "ask": 6400,
+      "ask": 6080,
       "bid": 1237,
       "vendor": 600
     },
     "Verdant Cheese": {
       "ask": 129,
-      "bid": 115,
+      "bid": 114,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659792601.9268894
+  "time": 1659793501.903421
 }
