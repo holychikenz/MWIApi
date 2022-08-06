@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 476,
+      "ask": 475,
       "bid": -1,
       "vendor": 75
     },
@@ -181,7 +181,7 @@
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 199,
+      "ask": 999999999999,
       "bid": 12,
       "vendor": 10
     },
@@ -211,8 +211,8 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 150,
-      "bid": 136,
+      "ask": 162,
+      "bid": 137,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -251,7 +251,7 @@
       "vendor": 4860
     },
     "Burble Plate Legs": {
-      "ask": 30773,
+      "ask": 29234,
       "bid": 4000,
       "vendor": 3780
     },
@@ -371,7 +371,7 @@
       "vendor": 72
     },
     "Cheesesmithing Tea": {
-      "ask": 510,
+      "ask": 600,
       "bid": 300,
       "vendor": 30
     },
@@ -386,7 +386,7 @@
       "vendor": 0
     },
     "Cooking Tea": {
-      "ask": 207,
+      "ask": 206,
       "bid": 25,
       "vendor": 20
     },
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 19,
+      "ask": 18,
       "bid": 17,
       "vendor": 18
     },
@@ -516,12 +516,12 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 900,
-      "bid": 850,
+      "ask": 904,
+      "bid": 750,
       "vendor": 50
     },
     "Egg": {
-      "ask": 21,
+      "ask": 24,
       "bid": 16,
       "vendor": 1
     },
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 496,
+      "ask": 350,
       "bid": 150,
       "vendor": 40
     },
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 28499,
+      "ask": 28500,
       "bid": 10800,
       "vendor": 20000
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 163,
-      "bid": 151,
+      "bid": 155,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -772,7 +772,7 @@
     },
     "Milk": {
       "ask": 13,
-      "bid": 7,
+      "bid": 8,
       "vendor": 2
     },
     "Milking Tea": {
@@ -812,7 +812,7 @@
     },
     "Orange Yogurt": {
       "ask": 180,
-      "bid": 56,
+      "bid": 57,
       "vendor": 20
     },
     "Panda Fluff": {
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 294,
+      "ask": 295,
       "bid": 277,
       "vendor": 27
     },
@@ -1026,8 +1026,8 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 122,
-      "bid": 83,
+      "ask": 124,
+      "bid": 100,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 517,
+      "ask": 515,
       "bid": 444,
       "vendor": 75
     },
@@ -1091,7 +1091,7 @@
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 473,
+      "ask": 470,
       "bid": 89,
       "vendor": 50
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 605,
+      "ask": 604,
       "bid": 513,
       "vendor": 50
     },
@@ -1201,7 +1201,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": 3789,
+      "ask": -1,
       "bid": 335,
       "vendor": 300
     },
@@ -1247,7 +1247,7 @@
     },
     "Verdant Milk": {
       "ask": 34,
-      "bid": 24,
+      "bid": 25,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 13,
+      "ask": 37,
       "bid": 12,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659809702.1905754
+  "time": 1659810602.6358044
 }
