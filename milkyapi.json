@@ -137,7 +137,7 @@
     },
     "Black Bear Fluff": {
       "ask": 90021,
-      "bid": 70000,
+      "bid": 2,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 148,
-      "bid": 131,
+      "bid": 132,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 135,
+      "ask": 134,
       "bid": 114,
       "vendor": 54
     },
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 20,
+      "ask": 25,
       "bid": 18,
       "vendor": 18
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 237,
+      "ask": 236,
       "bid": 201,
       "vendor": 50
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 167,
+      "ask": 166,
       "bid": 151,
       "vendor": 54
     },
@@ -741,18 +741,18 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 390000,
+      "ask": 425896,
       "bid": 320005,
       "vendor": 10000
     },
     "Maim": {
-      "ask": 805479,
+      "ask": 805480,
       "bid": 250006,
       "vendor": 1000
     },
     "Marsberry": {
       "ask": 27,
-      "bid": 20,
+      "bid": 22,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 580,
+      "ask": 579,
       "bid": 135,
       "vendor": 50
     },
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 185,
-      "bid": 160,
+      "ask": 191,
+      "bid": 161,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 292,
-      "bid": 233,
+      "bid": 232,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1027,7 +1027,7 @@
     },
     "Spaceberry": {
       "ask": 120,
-      "bid": 74,
+      "bid": 75,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 156,
-      "bid": 120,
+      "bid": 102,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1450000,
-      "bid": 600000,
+      "bid": 1075000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659776401.9932845
+  "time": 1659777302.6382499
 }
