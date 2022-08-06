@@ -31,7 +31,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 335,
+      "ask": 330,
       "bid": 200,
       "vendor": 20
     },
@@ -42,7 +42,7 @@
     },
     "Azure Brush": {
       "ask": 11055,
-      "bid": 1150,
+      "bid": 1151,
       "vendor": 1080
     },
     "Azure Buckler": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 271,
+      "ask": 274,
       "bid": 250,
       "vendor": 12
     },
@@ -646,13 +646,13 @@
       "vendor": 53460
     },
     "Holy Bulwark": {
-      "ask": 101069,
-      "bid": -1,
+      "ask": 100000,
+      "bid": 75666,
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 550,
-      "bid": 529,
+      "ask": 560,
+      "bid": 530,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -702,7 +702,7 @@
     },
     "Holy Shears": {
       "ask": 79999,
-      "bid": 59000,
+      "bid": 55000,
       "vendor": 44550
     },
     "Holy Spatula": {
@@ -721,7 +721,7 @@
       "vendor": 53460
     },
     "Intelligence Coffee": {
-      "ask": 255,
+      "ask": 250,
       "bid": 130,
       "vendor": 10
     },
@@ -732,11 +732,11 @@
     },
     "Liberica Coffee Bean": {
       "ask": 165,
-      "bid": 114,
+      "bid": 113,
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 109,
+      "ask": 108,
       "bid": 48,
       "vendor": 40
     },
@@ -746,7 +746,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 765204,
+      "ask": 765203,
       "bid": 250006,
       "vendor": 1000
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 262,
+      "ask": 261,
       "bid": 204,
       "vendor": 50
     },
@@ -776,7 +776,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 220,
+      "ask": 215,
       "bid": 150,
       "vendor": 10
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 165,
+      "ask": 167,
       "bid": 121,
       "vendor": 40
     },
@@ -881,8 +881,8 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 260,
-      "bid": 225,
+      "ask": 333,
+      "bid": 227,
       "vendor": 30
     },
     "Precision": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 200,
+      "ask": 201,
       "bid": 133,
       "vendor": 81
     },
@@ -1046,7 +1046,7 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 247,
+      "ask": 245,
       "bid": 95,
       "vendor": 10
     },
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 445,
+      "ask": 430,
       "bid": 250,
       "vendor": 40
     },
@@ -1126,12 +1126,12 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 414,
+      "ask": 375,
       "bid": 45,
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 768,
+      "ask": 759,
       "bid": 709,
       "vendor": 75
     },
@@ -1181,7 +1181,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 2000000,
+      "ask": 1900000,
       "bid": 800000,
       "vendor": 10000
     },
@@ -1241,7 +1241,7 @@
       "vendor": 300
     },
     "Verdant Mace": {
-      "ask": 4500,
+      "ask": -1,
       "bid": -1,
       "vendor": 360
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659803402.2626112
+  "time": 1659804301.9169261
 }
