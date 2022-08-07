@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 50,
+      "ask": 49,
       "bid": 40,
       "vendor": 8
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 281,
-      "bid": 254,
+      "bid": 253,
       "vendor": 12
     },
     "Cheese": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1100,
+      "ask": 1400,
       "bid": 900,
       "vendor": 50
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 45,
+      "ask": 44,
       "bid": 37,
       "vendor": 36
     },
@@ -566,12 +566,12 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 900,
+      "ask": 600,
       "bid": 161,
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 41087,
+      "ask": 40000,
       "bid": 15005,
       "vendor": 5000
     },
@@ -611,8 +611,8 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 50,
-      "bid": 40,
+      "ask": 45,
+      "bid": 20,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 572,
-      "bid": 549,
+      "bid": 536,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,27 +681,27 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 179,
+      "ask": 178,
       "bid": 167,
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 100000,
+      "ask": 98690,
       "bid": 90000,
       "vendor": 80190
     },
     "Holy Plate Legs": {
-      "ask": 100000,
+      "ask": 98690,
       "bid": 74002,
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 69999,
+      "ask": 65000,
       "bid": 60000,
       "vendor": 44550
     },
     "Holy Shears": {
-      "ask": 79969,
+      "ask": 75000,
       "bid": 61200,
       "vendor": 44550
     },
@@ -797,7 +797,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 56,
-      "bid": 36,
+      "bid": 24,
       "vendor": 18
     },
     "Orange": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 195,
-      "bid": 152,
+      "bid": 153,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 282,
+      "ask": 281,
       "bid": 242,
       "vendor": 27
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659840301.9750845
+  "time": 1659841202.5873575
 }
