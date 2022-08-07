@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 11,
+      "ask": 10,
       "bid": 4,
       "vendor": 2
     },
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 472,
+      "ask": 471,
       "bid": 100,
       "vendor": 75
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 111176,
+      "ask": 110000,
       "bid": 99750,
       "vendor": 1000
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 281,
-      "bid": 249,
+      "bid": 250,
       "vendor": 12
     },
     "Cheese": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 333,
-      "bid": 113,
+      "bid": 114,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -567,7 +567,7 @@
     },
     "Gathering Tea": {
       "ask": 1000,
-      "bid": 160,
+      "bid": 161,
       "vendor": 10
     },
     "Gator Vest": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 574,
+      "ask": 573,
       "bid": 562,
       "vendor": 162
     },
@@ -746,7 +746,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 765201,
+      "ask": 726941,
       "bid": 260007,
       "vendor": 1000
     },
@@ -772,7 +772,7 @@
     },
     "Milk": {
       "ask": 19,
-      "bid": 7,
+      "bid": 8,
       "vendor": 2
     },
     "Milking Tea": {
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 12222,
+      "ask": 12221,
       "bid": 10016,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 194,
+      "ask": 195,
       "bid": 150,
       "vendor": 81
     },
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 280,
-      "bid": 279,
+      "bid": 278,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1021,17 +1021,17 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 17999,
+      "ask": 17998,
       "bid": 3015,
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 120,
-      "bid": 107,
+      "ask": 129,
+      "bid": 108,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 698,
+      "ask": 695,
       "bid": 515,
       "vendor": 75
     },
@@ -1087,7 +1087,7 @@
     },
     "Super Attack Coffee": {
       "ask": 575,
-      "bid": 515,
+      "bid": 514,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1107,7 +1107,7 @@
     },
     "Super Defense Coffee": {
       "ask": 484,
-      "bid": 430,
+      "bid": 431,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 795,
+      "ask": 790,
       "bid": 250,
       "vendor": 40
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 769,
-      "bid": 684,
+      "bid": 700,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1151,13 +1151,13 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 599,
+      "ask": 598,
       "bid": 521,
       "vendor": 50
     },
     "Toughness": {
-      "ask": 16000,
-      "bid": 5157,
+      "ask": 15999,
+      "bid": 5158,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 190,
+      "ask": 193,
       "bid": 153,
       "vendor": 108
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659832201.7864347
+  "time": 1659833102.262539
 }
