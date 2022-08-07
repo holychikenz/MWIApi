@@ -26,8 +26,8 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 471,
-      "bid": 250,
+      "ask": 487,
+      "bid": 300,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 34,
+      "ask": 38,
       "bid": 23,
       "vendor": 12
     },
@@ -281,8 +281,8 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 258,
-      "bid": 253,
+      "ask": 271,
+      "bid": 254,
       "vendor": 12
     },
     "Cheese": {
@@ -396,7 +396,7 @@
       "vendor": 1500
     },
     "Crimson Boots": {
-      "ask": 21743,
+      "ask": 21689,
       "bid": 12000,
       "vendor": 5184
     },
@@ -436,7 +436,7 @@
       "vendor": 6480
     },
     "Crimson Helmet": {
-      "ask": 25000,
+      "ask": -1,
       "bid": 6871,
       "vendor": 6480
     },
@@ -481,7 +481,7 @@
       "vendor": 7776
     },
     "Crimson Sword": {
-      "ask": 22000,
+      "ask": -1,
       "bid": 9001,
       "vendor": 7776
     },
@@ -516,13 +516,13 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1166,
+      "ask": 1044,
       "bid": 902,
       "vendor": 50
     },
     "Egg": {
       "ask": 21,
-      "bid": 17,
+      "bid": 15,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 680,
+      "ask": 700,
       "bid": 500,
       "vendor": 10
     },
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 345000,
-      "bid": 300001,
+      "bid": 300003,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -617,7 +617,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 189997,
-      "bid": 156000,
+      "bid": 157000,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -652,11 +652,11 @@
     },
     "Holy Cheese": {
       "ask": 580,
-      "bid": 555,
+      "bid": 556,
       "vendor": 162
     },
     "Holy Enhancer": {
-      "ask": 65000,
+      "ask": -1,
       "bid": 55000,
       "vendor": 44550
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 169,
+      "ask": 168,
       "bid": 162,
       "vendor": 54
     },
@@ -872,7 +872,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 189998,
-      "bid": 110001,
+      "bid": 120002,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 33,
+      "ask": 32,
       "bid": 29,
       "vendor": 27
     },
@@ -982,11 +982,11 @@
     },
     "Red Tea Leaf": {
       "ask": 323,
-      "bid": 301,
+      "bid": 302,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 120,
+      "ask": 125,
       "bid": 89,
       "vendor": 8
     },
@@ -1026,12 +1026,12 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 124,
+      "ask": 123,
       "bid": 100,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 667,
+      "ask": 666,
       "bid": 550,
       "vendor": 75
     },
@@ -1177,7 +1177,7 @@
     },
     "Twilight Essence": {
       "ask": 185,
-      "bid": 157,
+      "bid": 158,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1286,7 +1286,7 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 399994,
+      "ask": 390000,
       "bid": 50000,
       "vendor": 20000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659870001.4141989
+  "time": 1659870902.600885
 }
