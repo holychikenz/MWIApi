@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 9,
+      "ask": 8,
       "bid": 4,
       "vendor": 2
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 172,
+      "ask": 171,
       "bid": 142,
       "vendor": 36
     },
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 36,
+      "ask": 34,
       "bid": 23,
       "vendor": 12
     },
@@ -501,8 +501,8 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 33,
-      "bid": 26,
+      "ask": 32,
+      "bid": 23,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -516,17 +516,17 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1149,
+      "ask": 1050,
       "bid": 902,
       "vendor": 50
     },
     "Egg": {
       "ask": 21,
-      "bid": 19,
+      "bid": 18,
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 85,
+      "ask": 83,
       "bid": 64,
       "vendor": 54
     },
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 297,
-      "bid": 123,
+      "bid": 125,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 35,
+      "ask": 33,
       "bid": 21,
       "vendor": 4
     },
@@ -637,7 +637,7 @@
     },
     "Holy Brush": {
       "ask": 64000,
-      "bid": 61000,
+      "bid": 52001,
       "vendor": 44550
     },
     "Holy Buckler": {
@@ -651,12 +651,12 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 575,
+      "ask": 580,
       "bid": 554,
       "vendor": 162
     },
     "Holy Enhancer": {
-      "ask": 60000,
+      "ask": 65000,
       "bid": 55000,
       "vendor": 44550
     },
@@ -702,12 +702,12 @@
     },
     "Holy Shears": {
       "ask": 79968,
-      "bid": 61200,
+      "bid": 3,
       "vendor": 44550
     },
     "Holy Spatula": {
       "ask": 66268,
-      "bid": 61100,
+      "bid": 69,
       "vendor": 44550
     },
     "Holy Spear": {
@@ -737,7 +737,7 @@
     },
     "Lucky Coffee": {
       "ask": 100,
-      "bid": 49,
+      "bid": 50,
       "vendor": 40
     },
     "Magnifying Glass": {
@@ -746,7 +746,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 557292,
+      "ask": 529427,
       "bid": 272326,
       "vendor": 1000
     },
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 147,
-      "bid": 80,
+      "bid": 90,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1052,7 +1052,7 @@
     },
     "Star Fruit": {
       "ask": 90,
-      "bid": 70,
+      "bid": 75,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1071,7 +1071,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 108,
+      "ask": 107,
       "bid": 45,
       "vendor": 30
     },
@@ -1176,12 +1176,12 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 189,
-      "bid": 155,
+      "ask": 188,
+      "bid": 156,
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1850000,
+      "ask": 1849999,
       "bid": 1200000,
       "vendor": 10000
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 160000,
+      "ask": 159999,
       "bid": 76000,
       "vendor": 1000
     },
@@ -1217,7 +1217,7 @@
     },
     "Verdant Cheese": {
       "ask": 131,
-      "bid": 115,
+      "bid": 116,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1286,7 +1286,7 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 399992,
+      "ask": 399994,
       "bid": 50000,
       "vendor": 20000
     },
@@ -1296,8 +1296,8 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1349999,
-      "bid": 1102500,
+      "ask": 1550000,
+      "bid": 1050001,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1307,7 +1307,7 @@
     },
     "Wheat": {
       "ask": 30,
-      "bid": 14,
+      "bid": 16,
       "vendor": 1
     },
     "Wisdom Tea": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659867301.8934007
+  "time": 1659868202.2426653
 }
