@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 8,
-      "bid": 4,
+      "ask": 9,
+      "bid": 8,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 175,
-      "bid": 46,
+      "bid": 50,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -66,7 +66,7 @@
       "vendor": 1080
     },
     "Azure Gauntlets": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 3602,
       "vendor": 864
     },
@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 58,
+      "ask": 57,
       "bid": 55,
       "vendor": 54
     },
@@ -157,7 +157,7 @@
     },
     "Blackberry Cake": {
       "ask": 60,
-      "bid": 21,
+      "bid": 22,
       "vendor": 20
     },
     "Blackberry Donut": {
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 168,
+      "ask": 170,
       "bid": 143,
       "vendor": 36
     },
@@ -346,7 +346,7 @@
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 650,
+      "ask": 666,
       "bid": 165,
       "vendor": 60
     },
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 17144,
+      "ask": -1,
       "bid": 10531,
       "vendor": 1500
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 134,
+      "ask": 135,
       "bid": 127,
       "vendor": 54
     },
@@ -461,7 +461,7 @@
       "vendor": 9072
     },
     "Crimson Pot": {
-      "ask": 22065,
+      "ask": 22000,
       "bid": 10001,
       "vendor": 6480
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 989,
+      "ask": 986,
       "bid": 850,
       "vendor": 50
     },
@@ -561,12 +561,12 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 164881,
+      "ask": 164880,
       "bid": 134000,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 400,
+      "ask": 380,
       "bid": 200,
       "vendor": 10
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 339999,
+      "ask": 340000,
       "bid": 300003,
       "vendor": 10000
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 48,
-      "bid": 22,
+      "bid": 35,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 580,
-      "bid": 563,
+      "bid": 561,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 165,
+      "ask": 170,
       "bid": 150,
       "vendor": 54
     },
@@ -721,7 +721,7 @@
       "vendor": 53460
     },
     "Intelligence Coffee": {
-      "ask": 335,
+      "ask": 200,
       "bid": 130,
       "vendor": 10
     },
@@ -882,7 +882,7 @@
     },
     "Power Coffee": {
       "ask": 1000,
-      "bid": 301,
+      "bid": 302,
       "vendor": 30
     },
     "Precision": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 180,
-      "bid": 160,
+      "bid": 161,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 658,
+      "ask": 656,
       "bid": 450,
       "vendor": 75
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 100,
+      "ask": 95,
       "bid": 75,
       "vendor": 27
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 777,
+      "ask": 784,
       "bid": 691,
       "vendor": 75
     },
@@ -1146,8 +1146,8 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 131539,
-      "bid": 80001,
+      "ask": 131538,
+      "bid": 80002,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1176,8 +1176,8 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 180,
-      "bid": 125,
+      "ask": 179,
+      "bid": 126,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659880801.900005
+  "time": 1659881702.3591912
 }
