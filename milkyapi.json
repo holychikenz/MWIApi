@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 155,
+      "ask": 154,
       "bid": 129,
       "vendor": 24
     },
@@ -406,7 +406,7 @@
       "vendor": 6480
     },
     "Crimson Buckler": {
-      "ask": 44777,
+      "ask": 30000,
       "bid": 12001,
       "vendor": 7776
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 132,
+      "ask": 137,
       "bid": 123,
       "vendor": 54
     },
@@ -436,7 +436,7 @@
       "vendor": 6480
     },
     "Crimson Helmet": {
-      "ask": 36500,
+      "ask": 25000,
       "bid": 6871,
       "vendor": 6480
     },
@@ -501,8 +501,8 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 34,
-      "bid": 24,
+      "ask": 35,
+      "bid": 25,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 250,
+      "ask": 249,
       "bid": 218,
       "vendor": 50
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 44,
+      "ask": 45,
       "bid": 37,
       "vendor": 36
     },
@@ -637,7 +637,7 @@
     },
     "Holy Brush": {
       "ask": 64000,
-      "bid": 61001,
+      "bid": 61000,
       "vendor": 44550
     },
     "Holy Buckler": {
@@ -812,7 +812,7 @@
     },
     "Orange Yogurt": {
       "ask": 180,
-      "bid": 58,
+      "bid": 59,
       "vendor": 20
     },
     "Panda Fluff": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 195,
+      "ask": 196,
       "bid": 155,
       "vendor": 81
     },
@@ -996,7 +996,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 11500,
+      "ask": 12000,
       "bid": 9101,
       "vendor": 1000
     },
@@ -1041,8 +1041,8 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 147,
-      "bid": 111,
+      "ask": 146,
+      "bid": 1,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1107,7 +1107,7 @@
     },
     "Super Defense Coffee": {
       "ask": 483,
-      "bid": 440,
+      "bid": 460,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 15,
+      "ask": 31,
       "bid": 14,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659846602.2710433
+  "time": 1659847502.358346
 }
