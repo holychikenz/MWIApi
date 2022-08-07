@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 20,
+      "ask": 21,
       "bid": 11,
       "vendor": 4
     },
@@ -196,7 +196,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 34124,
+      "ask": 15000,
       "bid": 3895,
       "vendor": 2700
     },
@@ -226,7 +226,7 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": 15000,
+      "ask": 13000,
       "bid": 3054,
       "vendor": 2700
     },
@@ -261,7 +261,7 @@
       "vendor": 2700
     },
     "Burble Shears": {
-      "ask": 14554,
+      "ask": 12000,
       "bid": 3360,
       "vendor": 2700
     },
@@ -276,13 +276,13 @@
       "vendor": 3240
     },
     "Burble Sword": {
-      "ask": -1,
+      "ask": 26000,
       "bid": 3574,
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 271,
-      "bid": 253,
+      "ask": 272,
+      "bid": 252,
       "vendor": 12
     },
     "Cheese": {
@@ -491,7 +491,7 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 180,
+      "ask": 250,
       "bid": 122,
       "vendor": 20
     },
@@ -511,12 +511,12 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 239,
+      "ask": 240,
       "bid": 220,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1150,
+      "ask": 1133,
       "bid": 904,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 80,
+      "ask": 79,
       "bid": 64,
       "vendor": 54
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 500,
+      "ask": 400,
       "bid": 200,
       "vendor": 10
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 580,
-      "bid": 562,
+      "bid": 563,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -707,7 +707,7 @@
     },
     "Holy Spatula": {
       "ask": 66268,
-      "bid": 69,
+      "bid": 60000,
       "vendor": 44550
     },
     "Holy Spear": {
@@ -732,7 +732,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 283,
-      "bid": 136,
+      "bid": 140,
       "vendor": 12
     },
     "Lucky Coffee": {
@@ -752,11 +752,11 @@
     },
     "Marsberry": {
       "ask": 33,
-      "bid": 31,
+      "bid": 23,
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 294,
+      "ask": 260,
       "bid": 204,
       "vendor": 50
     },
@@ -981,8 +981,8 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 322,
-      "bid": 307,
+      "ask": 321,
+      "bid": 310,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1096,7 +1096,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1069,
+      "ask": 1068,
       "bid": 600,
       "vendor": 75
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 777,
-      "bid": 700,
+      "bid": 691,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1147,7 +1147,7 @@
     },
     "Sweep": {
       "ask": 131539,
-      "bid": 80000,
+      "bid": 80001,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1206,7 +1206,7 @@
       "vendor": 300
     },
     "Verdant Buckler": {
-      "ask": 3989,
+      "ask": 3990,
       "bid": 420,
       "vendor": 360
     },
@@ -1247,7 +1247,7 @@
     },
     "Verdant Milk": {
       "ask": 33,
-      "bid": 26,
+      "bid": 27,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659878101.866536
+  "time": 1659879001.6213965
 }
