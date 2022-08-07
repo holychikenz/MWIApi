@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 30,
+      "ask": 40,
       "bid": 18,
       "vendor": 2
     },
@@ -416,8 +416,8 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 178,
-      "bid": 132,
+      "ask": 177,
+      "bid": 160,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 38,
+      "ask": 39,
       "bid": 35,
       "vendor": 36
     },
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 590,
-      "bid": 564,
+      "ask": 592,
+      "bid": 565,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 168,
+      "ask": 169,
       "bid": 144,
       "vendor": 54
     },
@@ -731,22 +731,22 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 184,
+      "ask": 180,
       "bid": 144,
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 99,
+      "ask": 98,
       "bid": 55,
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 303000,
+      "ask": 299998,
       "bid": 100000,
       "vendor": 10000
     },
     "Maim": {
-      "ask": 407250,
+      "ask": 386888,
       "bid": 272326,
       "vendor": 1000
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 165,
+      "ask": 160,
       "bid": 141,
       "vendor": 40
     },
@@ -841,7 +841,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 29554,
+      "ask": 29553,
       "bid": 16000,
       "vendor": 1000
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 636,
+      "ask": 635,
       "bid": 500,
       "vendor": 75
     },
@@ -1041,8 +1041,8 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 144,
-      "bid": 108,
+      "ask": 143,
+      "bid": 109,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 584,
+      "ask": 583,
       "bid": 503,
       "vendor": 50
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 607,
+      "ask": 606,
       "bid": 575,
       "vendor": 50
     },
@@ -1177,7 +1177,7 @@
     },
     "Twilight Essence": {
       "ask": 176,
-      "bid": 134,
+      "bid": 135,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1192,7 +1192,7 @@
     },
     "Vampirism": {
       "ask": 150000,
-      "bid": 75003,
+      "bid": 75500,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659902401.7979267
+  "time": 1659903302.7063124
 }
