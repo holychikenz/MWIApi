@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 24,
-      "bid": 20,
+      "bid": 21,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -31,7 +31,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 249,
+      "ask": 248,
       "bid": 200,
       "vendor": 20
     },
@@ -261,7 +261,7 @@
       "vendor": 2700
     },
     "Burble Shears": {
-      "ask": 11999,
+      "ask": 10000,
       "bid": 3361,
       "vendor": 2700
     },
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 324,
+      "ask": 326,
       "bid": 236,
       "vendor": 12
     },
@@ -527,7 +527,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 300,
-      "bid": 100,
+      "bid": 101,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -541,8 +541,8 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 58,
-      "bid": 50,
+      "ask": 57,
+      "bid": 49,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -637,7 +637,7 @@
     },
     "Holy Brush": {
       "ask": 63998,
-      "bid": 60069,
+      "bid": 60000,
       "vendor": 44550
     },
     "Holy Buckler": {
@@ -651,13 +651,13 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 628,
-      "bid": 570,
+      "ask": 627,
+      "bid": 571,
       "vendor": 162
     },
     "Holy Enhancer": {
       "ask": 100000,
-      "bid": 65000,
+      "bid": 69000,
       "vendor": 44550
     },
     "Holy Gauntlets": {
@@ -677,12 +677,12 @@
     },
     "Holy Mace": {
       "ask": 77900,
-      "bid": 64000,
+      "bid": 63002,
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 159,
-      "bid": 150,
+      "ask": 172,
+      "bid": 149,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 32,
+      "ask": 35,
       "bid": 23,
       "vendor": 6
     },
@@ -1087,7 +1087,7 @@
     },
     "Super Attack Coffee": {
       "ask": 583,
-      "bid": 330,
+      "bid": 400,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1131,18 +1131,18 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 538,
-      "bid": 421,
+      "ask": 537,
+      "bid": 422,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 539,
+      "ask": 538,
       "bid": 43,
       "vendor": 40
     },
     "Swamp Essence": {
       "ask": 25,
-      "bid": 14,
+      "bid": 12,
       "vendor": 8
     },
     "Sweep": {
@@ -1152,7 +1152,7 @@
     },
     "Swiftness Coffee": {
       "ask": 603,
-      "bid": 450,
+      "bid": 451,
       "vendor": 50
     },
     "Toughness": {
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 259,
+      "ask": 257,
       "bid": 173,
       "vendor": 108
     },
@@ -1266,7 +1266,7 @@
       "vendor": 300
     },
     "Verdant Shears": {
-      "ask": 1999,
+      "ask": 1500,
       "bid": 435,
       "vendor": 300
     },
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1899989,
+      "ask": 1889987,
       "bid": 1050000,
       "vendor": 10000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659985202.6146362
+  "time": 1659986101.954655
 }
