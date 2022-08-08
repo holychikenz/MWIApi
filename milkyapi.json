@@ -37,7 +37,7 @@
     },
     "Azure Boots": {
       "ask": 8000,
-      "bid": 3600,
+      "bid": -1,
       "vendor": 864
     },
     "Azure Brush": {
@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 42865,
+      "ask": 47498,
       "bid": 15001,
       "vendor": 3000
     },
@@ -192,7 +192,7 @@
     },
     "Burble Boots": {
       "ask": 23949,
-      "bid": 4001,
+      "bid": 4000,
       "vendor": 2160
     },
     "Burble Brush": {
@@ -292,7 +292,7 @@
     },
     "Cheese Boots": {
       "ask": 746,
-      "bid": 131,
+      "bid": 130,
       "vendor": 48
     },
     "Cheese Brush": {
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 291,
+      "ask": 289,
       "bid": 133,
       "vendor": 27
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 174,
-      "bid": 160,
+      "bid": 161,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -822,7 +822,7 @@
     },
     "Panda Gloves": {
       "ask": -1,
-      "bid": 1500000,
+      "bid": 1800000,
       "vendor": 60000
     },
     "Peach": {
@@ -887,7 +887,7 @@
     },
     "Precision": {
       "ask": 18998,
-      "bid": 11115,
+      "bid": 11122,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -987,7 +987,7 @@
     },
     "Robusta Coffee Bean": {
       "ask": 125,
-      "bid": 90,
+      "bid": 89,
       "vendor": 8
     },
     "Scratch": {
@@ -1157,7 +1157,7 @@
     },
     "Toughness": {
       "ask": 10998,
-      "bid": 5201,
+      "bid": 5500,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -1197,7 +1197,7 @@
     },
     "Verdant Boots": {
       "ask": 3800,
-      "bid": 265,
+      "bid": -1,
       "vendor": 240
     },
     "Verdant Brush": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659941102.2304895
+  "time": 1659942002.3702884
 }
