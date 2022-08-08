@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 8600,
+      "ask": 9155,
       "bid": -1,
       "vendor": 864
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 169,
+      "ask": 168,
       "bid": 132,
       "vendor": 24
     },
@@ -66,7 +66,7 @@
       "vendor": 1080
     },
     "Azure Gauntlets": {
-      "ask": 15000,
+      "ask": -1,
       "bid": 3602,
       "vendor": 864
     },
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 35,
-      "bid": 28,
+      "bid": 29,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 299,
-      "bid": 223,
+      "bid": 224,
       "vendor": 12
     },
     "Cheese": {
@@ -556,7 +556,7 @@
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": 290,
+      "ask": 250,
       "bid": 123,
       "vendor": 10
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 479,
+      "ask": 400,
       "bid": -1,
       "vendor": 10
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 334000,
+      "ask": 333333,
       "bid": 300000,
       "vendor": 10000
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 61,
+      "ask": 62,
       "bid": 43,
       "vendor": 4
     },
@@ -631,7 +631,7 @@
       "vendor": 5
     },
     "Holy Boots": {
-      "ask": 35995,
+      "ask": 35994,
       "bid": 26243,
       "vendor": 35640
     },
@@ -671,18 +671,18 @@
       "vendor": 44550
     },
     "Holy Helmet": {
-      "ask": 55000,
+      "ask": 54999,
       "bid": 37456,
       "vendor": 44550
     },
     "Holy Mace": {
       "ask": 77900,
-      "bid": 63000,
+      "bid": 63002,
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 183,
-      "bid": 165,
+      "ask": 182,
+      "bid": 160,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -701,7 +701,7 @@
       "vendor": 44550
     },
     "Holy Shears": {
-      "ask": 74999,
+      "ask": 74997,
       "bid": 64000,
       "vendor": 44550
     },
@@ -731,7 +731,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 186,
+      "ask": 150,
       "bid": 106,
       "vendor": 12
     },
@@ -941,8 +941,8 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 36,
-      "bid": 27,
+      "ask": 35,
+      "bid": 28,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -991,7 +991,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 19710,
+      "ask": 19708,
       "bid": 6230,
       "vendor": 1000
     },
@@ -1027,11 +1027,11 @@
     },
     "Spaceberry": {
       "ask": 117,
-      "bid": 67,
+      "bid": 68,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 597,
+      "ask": 596,
       "bid": 400,
       "vendor": 75
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 97,
+      "ask": 96,
       "bid": 71,
       "vendor": 27
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 593,
+      "ask": 569,
       "bid": 375,
       "vendor": 75
     },
@@ -1181,8 +1181,8 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1100000,
-      "bid": 1000000,
+      "ask": 1175000,
+      "bid": 900777,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1291,12 +1291,12 @@
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 433197,
+      "ask": 479997,
       "bid": 40001,
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1989990,
+      "ask": 1989989,
       "bid": 1050000,
       "vendor": 10000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659964501.7663674
+  "time": 1659965402.2397945
 }
