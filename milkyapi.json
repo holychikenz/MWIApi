@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 300,
+      "ask": 100,
       "bid": 3,
       "vendor": 2
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 40,
+      "ask": 39,
       "bid": 21,
       "vendor": 8
     },
@@ -171,12 +171,12 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 52,
+      "ask": 50,
       "bid": 11,
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 71,
+      "ask": 72,
       "bid": 27,
       "vendor": 10
     },
@@ -212,12 +212,12 @@
     },
     "Burble Cheese": {
       "ask": 182,
-      "bid": 155,
+      "bid": 156,
       "vendor": 36
     },
     "Burble Enhancer": {
       "ask": -1,
-      "bid": 3006,
+      "bid": 3007,
       "vendor": 2700
     },
     "Burble Gauntlets": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 260,
-      "bid": 224,
+      "bid": 223,
       "vendor": 12
     },
     "Cheese": {
@@ -511,8 +511,8 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 250,
-      "bid": 220,
+      "ask": 248,
+      "bid": 211,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -526,8 +526,8 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 107,
-      "bid": 81,
+      "ask": 150,
+      "bid": 82,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 249,
+      "ask": 248,
       "bid": 125,
       "vendor": 27
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 497,
+      "ask": 450,
       "bid": -1,
       "vendor": 10
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 100,
+      "ask": 114,
       "bid": 44,
       "vendor": 4
     },
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 671,
-      "bid": 550,
+      "ask": 672,
+      "bid": 560,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -697,17 +697,17 @@
     },
     "Holy Pot": {
       "ask": 69999,
-      "bid": 64000,
+      "bid": 53000,
       "vendor": 44550
     },
     "Holy Shears": {
       "ask": 74997,
-      "bid": 64000,
+      "bid": 3,
       "vendor": 44550
     },
     "Holy Spatula": {
       "ask": 66268,
-      "bid": 64000,
+      "bid": 69,
       "vendor": 44550
     },
     "Holy Spear": {
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 285,
+      "ask": 283,
       "bid": 263,
       "vendor": 50
     },
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 197555,
+      "ask": 219449,
       "bid": 145000,
       "vendor": 3000
     },
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 300,
-      "bid": 247,
+      "bid": 248,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1027,7 +1027,7 @@
     },
     "Spaceberry": {
       "ask": 119,
-      "bid": 69,
+      "bid": 70,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 488,
+      "ask": 487,
       "bid": 380,
       "vendor": 75
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 538,
-      "bid": 400,
+      "bid": 500,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1142,7 +1142,7 @@
     },
     "Swamp Essence": {
       "ask": 29,
-      "bid": 16,
+      "bid": 13,
       "vendor": 8
     },
     "Sweep": {
@@ -1152,7 +1152,7 @@
     },
     "Swiftness Coffee": {
       "ask": 603,
-      "bid": 450,
+      "bid": 565,
       "vendor": 50
     },
     "Toughness": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1659971702.7222536
+  "time": 1659972602.0923078
 }
