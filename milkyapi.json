@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 360999,
-      "bid": 310000,
+      "bid": 310001,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 589,
-      "bid": 560,
+      "bid": 561,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -686,7 +686,7 @@
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 89999,
+      "ask": 90000,
       "bid": 85000,
       "vendor": 80190
     },
@@ -746,8 +746,8 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 379995,
-      "bid": 300000,
+      "ask": 360995,
+      "bid": 272325,
       "vendor": 1000
     },
     "Marsberry": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 212,
+      "ask": 199,
       "bid": 178,
       "vendor": 81
     },
@@ -1001,7 +1001,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 9498,
+      "ask": 9400,
       "bid": 5000,
       "vendor": 5000
     },
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 449,
-      "bid": 371,
+      "bid": 352,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 1899998,
-      "bid": 1050002,
+      "bid": 1050003,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1312,7 +1312,7 @@
     },
     "Wisdom Tea": {
       "ask": 792,
-      "bid": 752,
+      "bid": 753,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660032902.55614
+  "time": 1660033802.0648003
 }
