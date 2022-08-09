@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 68,
-      "bid": 22,
+      "bid": 23,
       "vendor": 8
     },
     "Blackberry": {
@@ -511,8 +511,8 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 299,
-      "bid": 165,
+      "ask": 298,
+      "bid": -1,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -527,7 +527,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 212,
-      "bid": 149,
+      "bid": 150,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -607,7 +607,7 @@
     },
     "Gourmet Tea": {
       "ask": 335,
-      "bid": 102,
+      "bid": 103,
       "vendor": 20
     },
     "Green Tea Leaf": {
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 581,
-      "bid": 561,
+      "ask": 587,
+      "bid": 563,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -751,8 +751,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 30,
-      "bid": 26,
+      "ask": 28,
+      "bid": 19,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 168,
+      "ask": 169,
       "bid": 126,
       "vendor": 40
     },
@@ -861,7 +861,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 190,
+      "ask": 200,
       "bid": 70,
       "vendor": 30
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 260,
-      "bid": 202,
+      "bid": 205,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -942,7 +942,7 @@
     },
     "Rainbow Milk": {
       "ask": 39,
-      "bid": 33,
+      "bid": 32,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -991,7 +991,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 15000,
+      "ask": 14999,
       "bid": 6500,
       "vendor": 1000
     },
@@ -1027,11 +1027,11 @@
     },
     "Spaceberry": {
       "ask": 80,
-      "bid": 67,
+      "bid": 61,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 423,
+      "ask": 484,
       "bid": 340,
       "vendor": 75
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 490,
+      "ask": 498,
       "bid": 426,
       "vendor": 75
     },
@@ -1181,7 +1181,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1500000,
+      "ask": 1496250,
       "bid": 1100000,
       "vendor": 10000
     },
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 1749998,
-      "bid": 1055555,
+      "bid": 1055556,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660086002.3234324
+  "time": 1660086902.7582073
 }
