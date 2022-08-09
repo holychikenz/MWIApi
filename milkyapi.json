@@ -37,7 +37,7 @@
     },
     "Azure Boots": {
       "ask": 9154,
-      "bid": 3500,
+      "bid": -1,
       "vendor": 864
     },
     "Azure Brush": {
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 120000,
+      "ask": 123000,
       "bid": 95500,
       "vendor": 1000
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 35,
+      "ask": 34,
       "bid": 12,
       "vendor": 2
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 169999,
+      "ask": 170000,
       "bid": 110002,
       "vendor": 1000
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 171,
-      "bid": 154,
+      "bid": 161,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -702,7 +702,7 @@
     },
     "Holy Shears": {
       "ask": 74998,
-      "bid": 58000,
+      "bid": 3,
       "vendor": 44550
     },
     "Holy Spatula": {
@@ -731,7 +731,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 185,
+      "ask": 184,
       "bid": 108,
       "vendor": 12
     },
@@ -747,7 +747,7 @@
     },
     "Maim": {
       "ask": 379995,
-      "bid": 272325,
+      "bid": 300000,
       "vendor": 1000
     },
     "Marsberry": {
@@ -817,7 +817,7 @@
     },
     "Panda Fluff": {
       "ask": 232721,
-      "bid": 126000,
+      "bid": 132300,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 38,
+      "ask": 37,
       "bid": 31,
       "vendor": 27
     },
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 107,
+      "ask": 106,
       "bid": 78,
       "vendor": 27
     },
@@ -1146,7 +1146,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 175745,
+      "ask": 200000,
       "bid": 108000,
       "vendor": 1000
     },
@@ -1216,7 +1216,7 @@
       "vendor": 600
     },
     "Verdant Cheese": {
-      "ask": 167,
+      "ask": 166,
       "bid": 131,
       "vendor": 12
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660032001.7820594
+  "time": 1660032902.55614
 }
