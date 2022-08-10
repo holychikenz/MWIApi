@@ -146,8 +146,8 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 64,
-      "bid": 28,
+      "ask": 63,
+      "bid": 29,
       "vendor": 8
     },
     "Blackberry": {
@@ -281,12 +281,12 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 261,
-      "bid": 236,
+      "ask": 260,
+      "bid": 240,
       "vendor": 12
     },
     "Cheese": {
-      "ask": 65,
+      "ask": 71,
       "bid": 59,
       "vendor": 6
     },
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 21,
-      "bid": 18,
+      "bid": 12,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 377,
+      "ask": 376,
       "bid": 45,
       "vendor": 40
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 399,
+      "ask": 499,
       "bid": 300,
       "vendor": 10
     },
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 575,
-      "bid": 560,
+      "ask": 584,
+      "bid": 550,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,8 +681,8 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 169,
-      "bid": 155,
+      "ask": 172,
+      "bid": 154,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1899997,
+      "ask": 1899996,
       "bid": 500000,
       "vendor": 500000
     },
@@ -757,7 +757,7 @@
     },
     "Marsberry Cake": {
       "ask": 375,
-      "bid": 275,
+      "bid": 300,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -787,7 +787,7 @@
     },
     "Mooberry Cake": {
       "ask": 189,
-      "bid": 126,
+      "bid": 127,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 7000,
+      "ask": 3500,
       "bid": 1151,
       "vendor": 1000
     },
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 497,
-      "bid": 445,
+      "bid": 446,
       "vendor": 75
     },
     "Strawberry": {
@@ -1116,8 +1116,8 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 750,
-      "bid": 650,
+      "ask": 795,
+      "bid": -1,
       "vendor": 40
     },
     "Super Intelligence Coffee": {
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 630,
+      "ask": 629,
       "bid": 401,
       "vendor": 75
     },
@@ -1157,7 +1157,7 @@
     },
     "Toughness": {
       "ask": 9500,
-      "bid": 5502,
+      "bid": 5503,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 447,
+      "ask": 440,
       "bid": 400,
       "vendor": 108
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 750,
+      "ask": 762,
       "bid": 603,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660100402.574731
+  "time": 1660101302.4782603
 }
