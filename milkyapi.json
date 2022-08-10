@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 216,
+      "ask": 210,
       "bid": 69,
       "vendor": 4
     },
@@ -31,7 +31,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 249,
+      "ask": 500,
       "bid": 150,
       "vendor": 20
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 159999,
+      "ask": 159998,
       "bid": 125005,
       "vendor": 1000
     },
@@ -386,8 +386,8 @@
       "vendor": 0
     },
     "Cooking Tea": {
-      "ask": 340,
-      "bid": 25,
+      "ask": 399,
+      "bid": 340,
       "vendor": 20
     },
     "Crab Pincer": {
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 187,
+      "ask": 188,
       "bid": 52,
       "vendor": 27
     },
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 160000,
-      "bid": 110008,
+      "bid": 115000,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 144,
+      "ask": 143,
       "bid": 120,
       "vendor": 4
     },
@@ -636,7 +636,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": -1,
+      "ask": 90000,
       "bid": 55004,
       "vendor": 44550
     },
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1499995,
+      "ask": 1499996,
       "bid": 500000,
       "vendor": 500000
     },
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 299995,
+      "ask": 290000,
       "bid": 150002,
       "vendor": 10000
     },
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 26,
+      "ask": 28,
       "bid": 19,
       "vendor": 14
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 40,
+      "ask": 39,
       "bid": 29,
       "vendor": 27
     },
@@ -986,7 +986,7 @@
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 120,
+      "ask": 110,
       "bid": 91,
       "vendor": 8
     },
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 1799,
+      "ask": 1700,
       "bid": 401,
       "vendor": 100
     },
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 513,
-      "bid": 475,
+      "bid": 480,
       "vendor": 75
     },
     "Strawberry": {
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 1499999,
-      "bid": 1060005,
+      "bid": 1060006,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 21,
+      "ask": 20,
       "bid": 16,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660169702.0903716
+  "time": 1660170602.511461
 }
