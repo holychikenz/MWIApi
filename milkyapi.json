@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 58,
+      "ask": 57,
       "bid": 34,
       "vendor": 8
     },
@@ -172,7 +172,7 @@
     },
     "Blueberry": {
       "ask": 28,
-      "bid": 21,
+      "bid": 20,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -436,7 +436,7 @@
       "vendor": 6480
     },
     "Crimson Helmet": {
-      "ask": 21000,
+      "ask": -1,
       "bid": 6871,
       "vendor": 6480
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 160000,
+      "ask": 159999,
       "bid": 115000,
       "vendor": 1000
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 42750,
+      "ask": 45000,
       "bid": 12009,
       "vendor": 5000
     },
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 349995,
-      "bid": 255001,
+      "bid": 280000,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -681,8 +681,8 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 145,
-      "bid": 139,
+      "ask": 143,
+      "bid": 136,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1499996,
+      "ask": 1499995,
       "bid": 500000,
       "vendor": 500000
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 175,
+      "ask": 160,
       "bid": 94,
       "vendor": 40
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 13800,
+      "ask": 13799,
       "bid": 10006,
       "vendor": 1000
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 39,
+      "ask": 38,
       "bid": 29,
       "vendor": 27
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 318,
+      "ask": 317,
       "bid": 309,
       "vendor": 27
     },
@@ -1192,7 +1192,7 @@
     },
     "Vampirism": {
       "ask": 295000,
-      "bid": 80003,
+      "bid": 80004,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1286,7 +1286,7 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 381643,
+      "ask": 380000,
       "bid": 50001,
       "vendor": 20000
     },
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 1499999,
-      "bid": 1060006,
+      "bid": 1060007,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660171502.6040573
+  "time": 1660172402.6100485
 }
