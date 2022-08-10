@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 894,
-      "bid": 461,
+      "bid": 484,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 26,
+      "ask": 30,
       "bid": 13,
       "vendor": 2
     },
@@ -411,7 +411,7 @@
       "vendor": 7776
     },
     "Crimson Bulwark": {
-      "ask": 28025,
+      "ask": -1,
       "bid": 15001,
       "vendor": 12960
     },
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 21,
+      "ask": 25,
       "bid": 19,
       "vendor": 18
     },
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 21,
-      "bid": 12,
+      "bid": 13,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -567,7 +567,7 @@
     },
     "Gathering Tea": {
       "ask": 450,
-      "bid": 300,
+      "bid": 310,
       "vendor": 10
     },
     "Gator Vest": {
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 34,
-      "bid": 28,
+      "bid": 27,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 338999,
-      "bid": 320000,
+      "bid": 320001,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -747,7 +747,7 @@
     },
     "Maim": {
       "ask": 312265,
-      "bid": 128337,
+      "bid": 125011,
       "vendor": 1000
     },
     "Marsberry": {
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 20,
+      "ask": 19,
       "bid": 10,
       "vendor": 9
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 247,
+      "ask": 246,
       "bid": 240,
       "vendor": 81
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 38,
+      "ask": 37,
       "bid": 30,
       "vendor": 27
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 342,
+      "ask": 341,
       "bid": 272,
       "vendor": 27
     },
@@ -1041,7 +1041,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 217,
+      "ask": 210,
       "bid": 113,
       "vendor": 54
     },
@@ -1107,7 +1107,7 @@
     },
     "Super Defense Coffee": {
       "ask": 699,
-      "bid": -1,
+      "bid": 100,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 9499,
+      "ask": 11998,
       "bid": 5503,
       "vendor": 1000
     },
@@ -1176,8 +1176,8 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 404,
-      "bid": 180,
+      "ask": 398,
+      "bid": 185,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660108501.943362
+  "time": 1660109402.4048994
 }
