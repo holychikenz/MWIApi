@@ -26,8 +26,8 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 891,
-      "bid": 486,
+      "ask": 890,
+      "bid": 487,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 55,
-      "bid": 32,
+      "bid": 33,
       "vendor": 8
     },
     "Blackberry": {
@@ -162,7 +162,7 @@
     },
     "Blackberry Donut": {
       "ask": 65,
-      "bid": 20,
+      "bid": -1,
       "vendor": 20
     },
     "Blessed Tea": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 278,
+      "ask": 307,
       "bid": 245,
       "vendor": 12
     },
@@ -371,7 +371,7 @@
       "vendor": 72
     },
     "Cheesesmithing Tea": {
-      "ask": 509,
+      "ask": 499,
       "bid": -1,
       "vendor": 30
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 164,
+      "ask": 165,
       "bid": 162,
       "vendor": 54
     },
@@ -471,7 +471,7 @@
       "vendor": 6480
     },
     "Crimson Spatula": {
-      "ask": 20242,
+      "ask": 21309,
       "bid": 10001,
       "vendor": 6480
     },
@@ -491,7 +491,7 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 340,
+      "ask": 330,
       "bid": 126,
       "vendor": 20
     },
@@ -551,22 +551,22 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 188,
+      "ask": 187,
       "bid": -1,
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": 269,
+      "ask": 255,
       "bid": 122,
       "vendor": 10
     },
     "Frenzy": {
       "ask": 172546,
-      "bid": 145001,
+      "bid": 145002,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 449,
+      "ask": 439,
       "bid": 313,
       "vendor": 10
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 103,
-      "bid": 81,
+      "bid": 86,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 580,
-      "bid": 560,
+      "bid": 561,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -731,7 +731,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 177,
+      "ask": 120,
       "bid": 31,
       "vendor": 12
     },
@@ -886,8 +886,8 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 14999,
-      "bid": 10004,
+      "ask": 14998,
+      "bid": 10005,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -982,17 +982,17 @@
     },
     "Red Tea Leaf": {
       "ask": 330,
-      "bid": 283,
+      "bid": 285,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 124,
+      "ask": 120,
       "bid": 90,
       "vendor": 8
     },
     "Scratch": {
       "ask": 12213,
-      "bid": 6567,
+      "bid": 6568,
       "vendor": 1000
     },
     "Smack": {
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 480,
-      "bid": 342,
+      "bid": 377,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1051,8 +1051,8 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 79,
-      "bid": 78,
+      "ask": 80,
+      "bid": 77,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 513,
-      "bid": 449,
+      "bid": 451,
       "vendor": 75
     },
     "Strawberry": {
@@ -1091,12 +1091,12 @@
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 457,
+      "ask": 456,
       "bid": 100,
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 946,
+      "ask": 945,
       "bid": 500,
       "vendor": 75
     },
@@ -1106,12 +1106,12 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 999,
+      "ask": 998,
       "bid": 200,
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 823,
+      "ask": 822,
       "bid": 530,
       "vendor": 50
     },
@@ -1192,7 +1192,7 @@
     },
     "Vampirism": {
       "ask": 299998,
-      "bid": 75505,
+      "bid": 75506,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1306,12 +1306,12 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 21,
+      "ask": 20,
       "bid": 15,
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 744,
+      "ask": 742,
       "bid": 604,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660138202.5682392
+  "time": 1660139101.715802
 }

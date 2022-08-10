@@ -1,13 +1,13 @@
 {
-  "time": 1660095452.0,
+  "time": 1660096352.0,
   "market": {
     "Apple": {
       "ask": 45.0,
-      "bid": 20.0
+      "bid": 20.5
     },
     "Apple Gummy": {
       "ask": 26.0,
-      "bid": 4.5
+      "bid": -1.0
     },
     "Apple Yogurt": {
       "ask": 1000000000000.0,
@@ -46,8 +46,8 @@
       "bid": 2300.0
     },
     "Azure Cheese": {
-      "ask": 162.5,
-      "bid": 136.0
+      "ask": 162.0,
+      "bid": 131.5
     },
     "Azure Enhancer": {
       "ask": 10700.0,
@@ -106,8 +106,8 @@
       "bid": 59.0
     },
     "Berserk": {
-      "ask": 159999.0,
-      "bid": 117504.5
+      "ask": 159998.5,
+      "bid": 120000.0
     },
     "Black Bear Fluff": {
       "ask": 37997.0,
@@ -147,7 +147,7 @@
     },
     "Blueberry Donut": {
       "ask": 100.0,
-      "bid": 12.0
+      "bid": 12.5
     },
     "Brewing Tea": {
       "ask": 170.0,
@@ -331,7 +331,7 @@
     },
     "Crimson Bulwark": {
       "ask": 21999.0,
-      "bid": 15000.0
+      "bid": 15000.5
     },
     "Crimson Cheese": {
       "ask": 165.0,
@@ -399,7 +399,7 @@
     },
     "Donut": {
       "ask": 46.0,
-      "bid": 8.0
+      "bid": 8.5
     },
     "Dragon Fruit": {
       "ask": 37.0,
@@ -494,7 +494,7 @@
       "bid": 66.0
     },
     "Grizzly Bear Fluff": {
-      "ask": 161499.5,
+      "ask": 160000.0,
       "bid": 120000.0
     },
     "Grizzly Bear Shoes": {
@@ -595,7 +595,7 @@
     },
     "Magnifying Glass": {
       "ask": 383360.0,
-      "bid": 200000.0
+      "bid": 200000.5
     },
     "Maim": {
       "ask": 346000.0,
@@ -630,7 +630,7 @@
       "bid": 11.0
     },
     "Mooberry Cake": {
-      "ask": 169.0,
+      "ask": 178.5,
       "bid": 126.0
     },
     "Mooberry Donut": {
@@ -651,7 +651,7 @@
     },
     "Orange Yogurt": {
       "ask": 125.0,
-      "bid": 59.0
+      "bid": 60.5
     },
     "Panda Fluff": {
       "ask": 225000.0,
@@ -690,7 +690,7 @@
       "bid": 30.0
     },
     "Plum Yogurt": {
-      "ask": 500000000100.0,
+      "ask": 1000000000000.0,
       "bid": 70.0
     },
     "Poke": {
@@ -786,7 +786,7 @@
       "bid": 18500.0
     },
     "Red Tea Leaf": {
-      "ask": 326.0,
+      "ask": 329.5,
       "bid": 267.0
     },
     "Robusta Coffee Bean": {
@@ -795,7 +795,7 @@
     },
     "Scratch": {
       "ask": 14998.0,
-      "bid": 6501.0
+      "bid": 6533.0
     },
     "Smack": {
       "ask": 16899.0,
@@ -806,7 +806,7 @@
       "bid": 23.0
     },
     "Snail Shell": {
-      "ask": 4142.0,
+      "ask": 4071.0,
       "bid": 2400.0
     },
     "Snail Shell Helmet": {
@@ -818,7 +818,7 @@
       "bid": 401.0
     },
     "Snake Fang Dirk": {
-      "ask": 13748.5,
+      "ask": 12499.0,
       "bid": 3016.0
     },
     "Spaceberry": {
@@ -875,7 +875,7 @@
     },
     "Super Brewing Tea": {
       "ask": 459.0,
-      "bid": 88.0
+      "bid": 94.0
     },
     "Super Cheesesmithing Tea": {
       "ask": 949.0,
@@ -883,7 +883,7 @@
     },
     "Super Cooking Tea": {
       "ask": 750.0,
-      "bid": 69.0
+      "bid": 84.5
     },
     "Super Defense Coffee": {
       "ask": 699.0,
@@ -891,7 +891,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 825.0,
-      "bid": 526.0
+      "bid": 526.5
     },
     "Super Foraging Tea": {
       "ask": 777.0,
@@ -942,7 +942,7 @@
       "bid": -1.0
     },
     "Twilight Essence": {
-      "ask": 224.5,
+      "ask": 304.0,
       "bid": 180.0
     },
     "Vampire Fang": {
@@ -1050,7 +1050,7 @@
       "bid": 13.0
     },
     "Wisdom Tea": {
-      "ask": 762.5,
+      "ask": 761.5,
       "bid": 603.0
     },
     "Yogurt": {
