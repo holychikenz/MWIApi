@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 278,
+      "ask": 275,
       "bid": 230,
       "vendor": 50
     },
@@ -531,7 +531,7 @@
       "vendor": 54
     },
     "Enhancing Tea": {
-      "ask": -1,
+      "ask": 100,
       "bid": 76,
       "vendor": 20
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 45000,
+      "ask": 44000,
       "bid": 12010,
       "vendor": 5000
     },
@@ -702,7 +702,7 @@
     },
     "Holy Shears": {
       "ask": 74998,
-      "bid": 58000,
+      "bid": 58001,
       "vendor": 44550
     },
     "Holy Spatula": {
@@ -756,13 +756,13 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 295,
+      "ask": 294,
       "bid": 207,
       "vendor": 50
     },
     "Marsberry Donut": {
       "ask": 399,
-      "bid": 251,
+      "bid": 275,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 318,
-      "bid": 309,
+      "bid": 303,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -991,8 +991,8 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 50000,
-      "bid": 6602,
+      "ask": -1,
+      "bid": 10000,
       "vendor": 1000
     },
     "Smack": {
@@ -1067,7 +1067,7 @@
     },
     "Strawberry": {
       "ask": 20,
-      "bid": 14,
+      "bid": 15,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1121,7 +1121,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 391,
+      "ask": 390,
       "bid": 220,
       "vendor": 40
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660184102.802358
+  "time": 1660185001.8142393
 }
