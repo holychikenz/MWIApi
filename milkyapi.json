@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 46,
+      "ask": 45,
       "bid": 37,
       "vendor": 8
     },
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 254,
+      "ask": 255,
       "bid": 234,
       "vendor": 12
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 924,
+      "ask": 927,
       "bid": 704,
       "vendor": 50
     },
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 41,
-      "bid": 30,
+      "bid": 31,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 139,
+      "ask": 142,
       "bid": 110,
       "vendor": 4
     },
@@ -677,12 +677,12 @@
     },
     "Holy Mace": {
       "ask": 90025,
-      "bid": 80000,
+      "bid": 76000,
       "vendor": 53460
     },
     "Holy Milk": {
       "ask": 155,
-      "bid": 142,
+      "bid": 125,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Plate Legs": {
-      "ask": 95000,
+      "ask": -1,
       "bid": -1,
       "vendor": 62370
     },
@@ -717,7 +717,7 @@
     },
     "Holy Sword": {
       "ask": 79800,
-      "bid": 60001,
+      "bid": 63000,
       "vendor": 53460
     },
     "Intelligence Coffee": {
@@ -727,7 +727,7 @@
     },
     "Large Pouch": {
       "ask": 1900000,
-      "bid": 500000,
+      "bid": 1500000,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
@@ -747,7 +747,7 @@
     },
     "Maim": {
       "ask": 312264,
-      "bid": 115514,
+      "bid": 115666,
       "vendor": 1000
     },
     "Marsberry": {
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 263,
+      "ask": 262,
       "bid": 207,
       "vendor": 50
     },
@@ -872,7 +872,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 154999,
-      "bid": 140001,
+      "bid": 145000,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 250,
+      "ask": 249,
       "bid": 246,
       "vendor": 81
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 511,
+      "ask": 512,
       "bid": 457,
       "vendor": 75
     },
@@ -1071,7 +1071,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 88,
+      "ask": 87,
       "bid": 60,
       "vendor": 30
     },
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 499,
+      "ask": 497,
       "bid": 51,
       "vendor": 50
     },
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 271,
+      "ask": 270,
       "bid": 206,
       "vendor": 108
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660252502.4337337
+  "time": 1660253401.855647
 }
