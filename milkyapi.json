@@ -677,16 +677,16 @@
     },
     "Holy Mace": {
       "ask": 90025,
-      "bid": 75000,
+      "bid": 80000,
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 156,
+      "ask": 155,
       "bid": 142,
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 97000,
+      "ask": 96999,
       "bid": -1,
       "vendor": 80190
     },
@@ -752,7 +752,7 @@
     },
     "Marsberry": {
       "ask": 25,
-      "bid": 20,
+      "bid": 19,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -896,7 +896,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 15000,
+      "ask": 27000,
       "bid": 100,
       "vendor": 14985
     },
@@ -906,7 +906,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 56858,
+      "ask": 56000,
       "bid": -1,
       "vendor": 29970
     },
@@ -976,7 +976,7 @@
       "vendor": 17982
     },
     "Rainbow Sword": {
-      "ask": 21999,
+      "ask": 24000,
       "bid": 1,
       "vendor": 17982
     },
@@ -1026,12 +1026,12 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 85,
+      "ask": 60,
       "bid": 45,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 505,
+      "ask": 506,
       "bid": 426,
       "vendor": 75
     },
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 511,
-      "bid": 456,
+      "bid": 457,
       "vendor": 75
     },
     "Strawberry": {
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 708,
+      "ask": 699,
       "bid": 550,
       "vendor": 50
     },
@@ -1142,7 +1142,7 @@
     },
     "Swamp Essence": {
       "ask": 21,
-      "bid": 19,
+      "bid": 16,
       "vendor": 8
     },
     "Sweep": {
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 21931,
+      "ask": 20000,
       "bid": 5610,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660251602.5271103
+  "time": 1660252502.4337337
 }
