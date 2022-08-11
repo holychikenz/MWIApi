@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 887,
+      "ask": 886,
       "bid": 500,
       "vendor": 75
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 155000,
-      "bid": 110000,
+      "bid": 120000,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1131,
+      "ask": 1130,
       "bid": 780,
       "vendor": 75
     },
@@ -192,7 +192,7 @@
     },
     "Burble Boots": {
       "ask": 40000,
-      "bid": 4001,
+      "bid": -1,
       "vendor": 2160
     },
     "Burble Brush": {
@@ -371,7 +371,7 @@
       "vendor": 72
     },
     "Cheesesmithing Tea": {
-      "ask": 450,
+      "ask": 449,
       "bid": -1,
       "vendor": 30
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 887,
+      "ask": 885,
       "bid": 700,
       "vendor": 50
     },
@@ -527,7 +527,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 240,
-      "bid": 181,
+      "bid": 182,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 600,
+      "ask": 599,
       "bid": 314,
       "vendor": 10
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 134,
-      "bid": 70,
+      "bid": 71,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -676,7 +676,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 72500,
+      "ask": 76685,
       "bid": 58000,
       "vendor": 53460
     },
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1350000,
+      "ask": 1349999,
       "bid": 500000,
       "vendor": 500000
     },
@@ -756,8 +756,8 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 298,
-      "bid": 206,
+      "ask": 280,
+      "bid": 205,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 270000,
+      "ask": 231491,
       "bid": 175000,
       "vendor": 3000
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 170000,
+      "ask": 169999,
       "bid": 117004,
       "vendor": 3000
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Milk": {
       "ask": 38,
-      "bid": 31,
+      "bid": 28,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1026,8 +1026,8 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 74,
-      "bid": 29,
+      "ask": 73,
+      "bid": 30,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1037,7 +1037,7 @@
     },
     "Spaceberry Donut": {
       "ask": 650,
-      "bid": 110,
+      "bid": 400,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1057,11 +1057,11 @@
     },
     "Star Fruit Gummy": {
       "ask": 900,
-      "bid": 105,
+      "bid": 400,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 513,
+      "ask": 514,
       "bid": 512,
       "vendor": 75
     },
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 644,
+      "ask": 643,
       "bid": 452,
       "vendor": 50
     },
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 814,
+      "ask": 813,
       "bid": 550,
       "vendor": 50
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 539,
-      "bid": 500,
+      "bid": 477,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 22,
+      "ask": 23,
       "bid": 15,
       "vendor": 8
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 631,
+      "ask": 630,
       "bid": 555,
       "vendor": 50
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 762,
+      "ask": 761,
       "bid": 610,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660179601.7606413
+  "time": 1660180502.0462725
 }
