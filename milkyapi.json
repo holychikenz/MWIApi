@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 32,
+      "ask": 31,
       "bid": 25,
       "vendor": 2
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 158,
+      "ask": 157,
       "bid": 122,
       "vendor": 24
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 25,
+      "ask": 24,
       "bid": 15,
       "vendor": 2
     },
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 74499,
-      "bid": 50001,
+      "bid": 50002,
       "vendor": 1000
     },
     "Coin": {
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 38,
+      "ask": 37,
       "bid": 22,
       "vendor": 14
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 210,
+      "ask": 200,
       "bid": 105,
       "vendor": 27
     },
@@ -561,8 +561,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 155000,
-      "bid": 115001,
+      "ask": 150000,
+      "bid": 115002,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 44000,
-      "bid": 12010,
+      "bid": 12011,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 330,
+      "ask": 335,
       "bid": 208,
       "vendor": 20
     },
@@ -637,7 +637,7 @@
     },
     "Holy Brush": {
       "ask": 90000,
-      "bid": 55006,
+      "bid": 55007,
       "vendor": 44550
     },
     "Holy Buckler": {
@@ -726,12 +726,12 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1349999,
+      "ask": 1350000,
       "bid": 500000,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 175,
+      "ask": 117,
       "bid": 80,
       "vendor": 12
     },
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 25,
+      "ask": 24,
       "bid": 19,
       "vendor": 14
     },
@@ -766,7 +766,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 51485,
+      "ask": 44142,
       "bid": 25645,
       "vendor": 50000
     },
@@ -781,7 +781,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 14,
+      "ask": 13,
       "bid": 11,
       "vendor": 9
     },
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 32,
+      "ask": 30,
       "bid": 22,
       "vendor": 18
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 20,
+      "ask": 19,
       "bid": 13,
       "vendor": 9
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 155,
+      "ask": 160,
       "bid": 94,
       "vendor": 40
     },
@@ -851,7 +851,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 15,
+      "ask": 14,
       "bid": 7,
       "vendor": 6
     },
@@ -881,7 +881,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 350,
+      "ask": 284,
       "bid": 150,
       "vendor": 30
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 39,
+      "ask": 40,
       "bid": 29,
       "vendor": 27
     },
@@ -992,7 +992,7 @@
     },
     "Scratch": {
       "ask": -1,
-      "bid": 10000,
+      "bid": 10001,
       "vendor": 1000
     },
     "Smack": {
@@ -1036,7 +1036,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 650,
+      "ask": 900,
       "bid": 400,
       "vendor": 75
     },
@@ -1061,12 +1061,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 513,
-      "bid": 486,
+      "ask": 514,
+      "bid": 513,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 20,
+      "ask": 18,
       "bid": 15,
       "vendor": 6
     },
@@ -1112,7 +1112,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 813,
-      "bid": 550,
+      "bid": 750,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 17,
+      "ask": 20,
       "bid": 16,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660185902.1331651
+  "time": 1660186802.2108111
 }
