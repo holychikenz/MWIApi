@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 147250,
-      "bid": 85000,
+      "bid": 100000,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 925,
+      "ask": 924,
       "bid": 704,
       "vendor": 50
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 60,
+      "ask": 63,
       "bid": 45,
       "vendor": 36
     },
@@ -646,12 +646,12 @@
       "vendor": 53460
     },
     "Holy Bulwark": {
-      "ask": 94995,
+      "ask": 94994,
       "bid": 75666,
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 561,
+      "ask": 560,
       "bid": 541,
       "vendor": 162
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 155,
+      "ask": 154,
       "bid": 125,
       "vendor": 54
     },
@@ -806,7 +806,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 24,
+      "ask": 2000000,
       "bid": 20,
       "vendor": 20
     },
@@ -856,7 +856,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 54,
+      "ask": 98,
       "bid": 32,
       "vendor": 30
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 380,
+      "ask": 400,
       "bid": 288,
       "vendor": 27
     },
@@ -1086,8 +1086,8 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 622,
-      "bid": 521,
+      "ask": 621,
+      "bid": 453,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1177,7 +1177,7 @@
     },
     "Twilight Essence": {
       "ask": 270,
-      "bid": 206,
+      "bid": 200,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660254302.3643348
+  "time": 1660255202.3617253
 }
