@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 28,
+      "ask": 27,
       "bid": 6,
       "vendor": 2
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 500000,
+      "ask": 400000,
       "bid": 100003,
       "vendor": 1000
     },
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 25,
+      "ask": 24,
       "bid": 22,
       "vendor": 4
     },
@@ -361,7 +361,7 @@
       "vendor": 60
     },
     "Cheese Spear": {
-      "ask": 3351,
+      "ask": 4342,
       "bid": 171,
       "vendor": 72
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 170,
+      "ask": 169,
       "bid": 156,
       "vendor": 54
     },
@@ -501,22 +501,22 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 62,
+      "ask": 61,
       "bid": 32,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 370,
+      "ask": 400,
       "bid": 160,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 265,
+      "ask": 255,
       "bid": 240,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 849,
+      "ask": 847,
       "bid": 750,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 228,
+      "ask": 227,
       "bid": 204,
       "vendor": 54
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 144000,
+      "ask": 168999,
       "bid": 61004,
       "vendor": 1000
     },
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 42,
-      "bid": 28,
+      "bid": 23,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 23495,
+      "ask": 23494,
       "bid": 20000,
       "vendor": 20000
     },
@@ -752,7 +752,7 @@
     },
     "Marsberry": {
       "ask": 22,
-      "bid": 18,
+      "bid": 19,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 145000,
+      "ask": 144998,
       "bid": 110000,
       "vendor": 3000
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 419,
+      "ask": 418,
       "bid": 307,
       "vendor": 27
     },
@@ -1021,13 +1021,13 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 12448,
+      "ask": 11849,
       "bid": 3016,
       "vendor": 2000
     },
     "Spaceberry": {
       "ask": 75,
-      "bid": 53,
+      "bid": 54,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1036,7 +1036,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 674,
+      "ask": 670,
       "bid": 450,
       "vendor": 75
     },
@@ -1081,7 +1081,7 @@
       "vendor": 30
     },
     "Sugar": {
-      "ask": 4,
+      "ask": 5,
       "bid": 3,
       "vendor": 1
     },
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 599,
+      "ask": 590,
       "bid": 51,
       "vendor": 50
     },
@@ -1122,7 +1122,7 @@
     },
     "Super Intelligence Coffee": {
       "ask": 388,
-      "bid": 305,
+      "bid": 303,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1131,8 +1131,8 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 595,
-      "bid": 505,
+      "ask": 594,
+      "bid": 479,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 29,
+      "ask": 59,
       "bid": 20,
       "vendor": 8
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 944,
+      "ask": 943,
       "bid": 517,
       "vendor": 50
     },
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1279995,
+      "ask": 1279994,
       "bid": 1060008,
       "vendor": 10000
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 739,
+      "ask": 737,
       "bid": 502,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660325402.3762827
+  "time": 1660326302.698832
 }
