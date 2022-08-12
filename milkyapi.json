@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 999999999999,
+      "ask": 80,
       "bid": 10,
       "vendor": 10
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 174,
+      "ask": 173,
       "bid": 168,
       "vendor": 24
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 142500,
-      "bid": 100000,
+      "bid": 100001,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 28,
-      "bid": 25,
+      "bid": 27,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -506,7 +506,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": -1,
+      "ask": 400,
       "bid": 157,
       "vendor": 50
     },
@@ -616,8 +616,8 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 149997,
-      "bid": 110002,
+      "ask": 149996,
+      "bid": 110003,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 606,
-      "bid": 549,
+      "bid": 550,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -787,7 +787,7 @@
     },
     "Mooberry Cake": {
       "ask": 194,
-      "bid": 127,
+      "bid": 135,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -806,7 +806,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 2000000,
+      "ask": 100,
       "bid": 20,
       "vendor": 20
     },
@@ -831,7 +831,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 250,
+      "ask": 249,
       "bid": 65,
       "vendor": 40
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 248,
-      "bid": 231,
+      "bid": 232,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1001,7 +1001,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 13498,
+      "ask": 13499,
       "bid": 23,
       "vendor": 5000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660297501.860156
+  "time": 1660298402.672988
 }
