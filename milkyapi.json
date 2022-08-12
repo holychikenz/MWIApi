@@ -21,13 +21,13 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 120,
+      "ask": 100,
       "bid": 71,
       "vendor": 4
     },
     "Artisan Tea": {
       "ask": 872,
-      "bid": 511,
+      "bid": 512,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 172,
+      "ask": 171,
       "bid": 146,
       "vendor": 24
     },
@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 29913,
+      "ask": 29912,
       "bid": 22500,
       "vendor": 3000
     },
@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 98,
-      "bid": 66,
+      "bid": 68,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 169,
+      "ask": 170,
       "bid": 157,
       "vendor": 54
     },
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 42,
-      "bid": 24,
+      "bid": 25,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 375,
+      "ask": 380,
       "bid": 250,
       "vendor": 20
     },
@@ -697,12 +697,12 @@
     },
     "Holy Pot": {
       "ask": 69998,
-      "bid": 63000,
+      "bid": 46868,
       "vendor": 44550
     },
     "Holy Shears": {
       "ask": 74998,
-      "bid": 63000,
+      "bid": 61000,
       "vendor": 44550
     },
     "Holy Spatula": {
@@ -766,7 +766,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 54199,
+      "ask": 54000,
       "bid": 25645,
       "vendor": 50000
     },
@@ -806,7 +806,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 149,
+      "ask": 60,
       "bid": 20,
       "vendor": 20
     },
@@ -831,7 +831,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 239,
+      "ask": 200,
       "bid": 67,
       "vendor": 40
     },
@@ -856,12 +856,12 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 198,
+      "ask": 150,
       "bid": 32,
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 149,
+      "ask": 119,
       "bid": 77,
       "vendor": 30
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 247,
+      "ask": 245,
       "bid": 237,
       "vendor": 81
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 40,
+      "ask": 39,
       "bid": 32,
       "vendor": 27
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 709,
+      "ask": 708,
       "bid": 504,
       "vendor": 75
     },
@@ -1121,7 +1121,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 388,
+      "ask": 387,
       "bid": 303,
       "vendor": 40
     },
@@ -1131,12 +1131,12 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 583,
+      "ask": 552,
       "bid": 484,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 440,
+      "ask": 439,
       "bid": 43,
       "vendor": 40
     },
@@ -1151,8 +1151,8 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 942,
-      "bid": 521,
+      "ask": 900,
+      "bid": 522,
       "vendor": 50
     },
     "Toughness": {
@@ -1216,7 +1216,7 @@
       "vendor": 600
     },
     "Verdant Cheese": {
-      "ask": 144,
+      "ask": 143,
       "bid": 137,
       "vendor": 12
     },
@@ -1286,12 +1286,12 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 349999,
+      "ask": 250000,
       "bid": 50003,
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 374998,
+      "ask": 250000,
       "bid": 40002,
       "vendor": 20000
     },
@@ -1312,7 +1312,7 @@
     },
     "Wisdom Tea": {
       "ask": 698,
-      "bid": 502,
+      "bid": 503,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660333502.4931948
+  "time": 1660334402.4827366
 }
