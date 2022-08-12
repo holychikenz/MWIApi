@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 867,
+      "ask": 866,
       "bid": 512,
       "vendor": 75
     },
@@ -46,7 +46,7 @@
       "vendor": 1080
     },
     "Azure Buckler": {
-      "ask": 12998,
+      "ask": 13000,
       "bid": 1566,
       "vendor": 1296
     },
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 170,
-      "bid": 146,
+      "bid": 147,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 32,
+      "ask": 31,
       "bid": 30,
       "vendor": 8
     },
@@ -101,7 +101,7 @@
       "vendor": 1512
     },
     "Azure Pot": {
-      "ask": 9974,
+      "ask": 10000,
       "bid": 1150,
       "vendor": 1080
     },
@@ -211,8 +211,8 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 181,
-      "bid": 166,
+      "ask": 192,
+      "bid": 167,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 33,
+      "ask": 32,
       "bid": 30,
       "vendor": 12
     },
@@ -581,7 +581,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 42,
+      "ask": 41,
       "bid": 25,
       "vendor": 24
     },
@@ -792,7 +792,7 @@
     },
     "Mooberry Donut": {
       "ask": 161,
-      "bid": 80,
+      "bid": -1,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 13535,
+      "ask": 13533,
       "bid": 1150,
       "vendor": 1000
     },
@@ -1026,12 +1026,12 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 75,
+      "ask": 74,
       "bid": 57,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 625,
+      "ask": 650,
       "bid": 505,
       "vendor": 75
     },
@@ -1052,7 +1052,7 @@
     },
     "Star Fruit": {
       "ask": 266,
-      "bid": 84,
+      "bid": 85,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 609,
+      "ask": 605,
       "bid": 501,
       "vendor": 50
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 846,
+      "ask": 938,
       "bid": 523,
       "vendor": 50
     },
@@ -1217,7 +1217,7 @@
     },
     "Verdant Cheese": {
       "ask": 143,
-      "bid": 137,
+      "bid": 138,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660346101.7640975
+  "time": 1660347002.0812836
 }
