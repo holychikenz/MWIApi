@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 28,
+      "ask": 29,
       "bid": 4,
       "vendor": 2
     },
@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 43,
+      "ask": 42,
       "bid": 23,
       "vendor": 16
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 250,
-      "bid": 235,
+      "bid": 236,
       "vendor": 12
     },
     "Cheese": {
@@ -326,7 +326,7 @@
       "vendor": 60
     },
     "Cheese Helmet": {
-      "ask": 1999,
+      "ask": -1,
       "bid": 267,
       "vendor": 60
     },
@@ -336,7 +336,7 @@
       "vendor": 72
     },
     "Cheese Plate Body": {
-      "ask": 1188,
+      "ask": 1250,
       "bid": 321,
       "vendor": 108
     },
@@ -407,7 +407,7 @@
     },
     "Crimson Buckler": {
       "ask": 44887,
-      "bid": 12001,
+      "bid": 12000,
       "vendor": 7776
     },
     "Crimson Bulwark": {
@@ -616,12 +616,12 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 149996,
+      "ask": 150000,
       "bid": 121001,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
-      "ask": -1,
+      "ask": 1800000,
       "bid": 70000,
       "vendor": 60000
     },
@@ -791,7 +791,7 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 161,
+      "ask": 162,
       "bid": -1,
       "vendor": 40
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 164,
+      "ask": 173,
       "bid": 89,
       "vendor": 40
     },
@@ -981,8 +981,8 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 328,
-      "bid": 292,
+      "ask": 335,
+      "bid": 293,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 699,
+      "ask": 698,
       "bid": 550,
       "vendor": 50
     },
@@ -1146,7 +1146,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 130000,
+      "ask": 150000,
       "bid": 120008,
       "vendor": 1000
     },
@@ -1236,7 +1236,7 @@
       "vendor": 300
     },
     "Verdant Helmet": {
-      "ask": 4498,
+      "ask": -1,
       "bid": 800,
       "vendor": 300
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660267802.271759
+  "time": 1660268702.419723
 }
