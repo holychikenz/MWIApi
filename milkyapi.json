@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 173,
-      "bid": 143,
+      "bid": 144,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -501,8 +501,8 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 46,
-      "bid": 27,
+      "ask": 45,
+      "bid": 29,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 60,
+      "ask": 55,
       "bid": 42,
       "vendor": 36
     },
@@ -566,12 +566,12 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 480,
+      "ask": 490,
       "bid": 370,
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 25000,
+      "ask": 21435,
       "bid": 12613,
       "vendor": 5000
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 127,
-      "bid": 117,
+      "bid": 116,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -681,18 +681,18 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 151,
-      "bid": 142,
+      "ask": 152,
+      "bid": 143,
       "vendor": 54
     },
     "Holy Plate Body": {
       "ask": 96000,
-      "bid": -1,
+      "bid": 84000,
       "vendor": 80190
     },
     "Holy Plate Legs": {
       "ask": -1,
-      "bid": -1,
+      "bid": 66666,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -702,7 +702,7 @@
     },
     "Holy Shears": {
       "ask": 74998,
-      "bid": 63000,
+      "bid": 65000,
       "vendor": 44550
     },
     "Holy Spatula": {
@@ -797,7 +797,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 27,
-      "bid": 22,
+      "bid": 21,
       "vendor": 18
     },
     "Orange": {
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 800,
-      "bid": 444,
+      "bid": 445,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1087,7 +1087,7 @@
     },
     "Super Attack Coffee": {
       "ask": 618,
-      "bid": 550,
+      "bid": 501,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 603,
+      "ask": 604,
       "bid": 478,
       "vendor": 75
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 940,
+      "ask": 944,
       "bid": 516,
       "vendor": 50
     },
@@ -1226,7 +1226,7 @@
       "vendor": 300
     },
     "Verdant Gauntlets": {
-      "ask": 20000,
+      "ask": -1,
       "bid": 380,
       "vendor": 240
     },
@@ -1256,7 +1256,7 @@
       "vendor": 540
     },
     "Verdant Plate Legs": {
-      "ask": 16150,
+      "ask": 17000,
       "bid": 455,
       "vendor": 420
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 725,
+      "ask": 700,
       "bid": 555,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660315501.9546702
+  "time": 1660316402.45897
 }
