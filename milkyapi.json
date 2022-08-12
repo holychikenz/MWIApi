@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 160000,
+      "ask": 500000,
       "bid": 100003,
       "vendor": 1000
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 180,
+      "ask": 182,
       "bid": 166,
       "vendor": 36
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 272,
-      "bid": 242,
+      "bid": 244,
       "vendor": 12
     },
     "Cheese": {
@@ -302,17 +302,17 @@
     },
     "Cheese Buckler": {
       "ask": -1,
-      "bid": 213,
+      "bid": 214,
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 969,
+      "ask": 2388,
       "bid": 163,
       "vendor": 120
     },
     "Cheese Enhancer": {
       "ask": 798,
-      "bid": 301,
+      "bid": 302,
       "vendor": 60
     },
     "Cheese Gauntlets": {
@@ -342,7 +342,7 @@
     },
     "Cheese Plate Legs": {
       "ask": -1,
-      "bid": 313,
+      "bid": 314,
       "vendor": 84
     },
     "Cheese Pot": {
@@ -367,7 +367,7 @@
     },
     "Cheese Sword": {
       "ask": 1000,
-      "bid": 161,
+      "bid": 162,
       "vendor": 72
     },
     "Cheesesmithing Tea": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 171,
+      "ask": 170,
       "bid": 155,
       "vendor": 54
     },
@@ -511,8 +511,8 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 264,
-      "bid": 230,
+      "ask": 265,
+      "bid": 240,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -567,7 +567,7 @@
     },
     "Gathering Tea": {
       "ask": 470,
-      "bid": 400,
+      "bid": 318,
       "vendor": 10
     },
     "Gator Vest": {
@@ -611,8 +611,8 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 126,
-      "bid": 116,
+      "ask": 135,
+      "bid": 119,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -811,7 +811,7 @@
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 1000000000000,
+      "ask": 250,
       "bid": 35,
       "vendor": 20
     },
@@ -831,7 +831,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 239,
+      "ask": 240,
       "bid": 67,
       "vendor": 40
     },
@@ -861,7 +861,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 307,
+      "ask": 150,
       "bid": 77,
       "vendor": 30
     },
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 419,
-      "bid": 306,
+      "bid": 307,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1021,7 +1021,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 8000,
+      "ask": 12448,
       "bid": 3016,
       "vendor": 2000
     },
@@ -1046,13 +1046,13 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 349,
+      "ask": 330,
       "bid": 100,
       "vendor": 10
     },
     "Star Fruit": {
       "ask": 110,
-      "bid": 79,
+      "bid": 80,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1061,12 +1061,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 798,
+      "ask": 797,
       "bid": 600,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 27,
+      "ask": 26,
       "bid": 19,
       "vendor": 6
     },
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 644,
+      "ask": 643,
       "bid": 601,
       "vendor": 50
     },
@@ -1122,7 +1122,7 @@
     },
     "Super Intelligence Coffee": {
       "ask": 388,
-      "bid": 303,
+      "bid": 305,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 600,
+      "ask": 595,
       "bid": 505,
       "vendor": 75
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 741,
+      "ask": 739,
       "bid": 502,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660322702.4068186
+  "time": 1660323602.495177
 }
