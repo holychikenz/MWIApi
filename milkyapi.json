@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 100,
-      "bid": 71,
+      "bid": 72,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 20,
+      "ask": 18,
       "bid": 7,
       "vendor": 4
     },
@@ -306,7 +306,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 2388,
+      "ask": 2300,
       "bid": 164,
       "vendor": 120
     },
@@ -411,7 +411,7 @@
       "vendor": 7776
     },
     "Crimson Bulwark": {
-      "ask": 17000,
+      "ask": -1,
       "bid": -1,
       "vendor": 12960
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 265,
+      "ask": 250,
       "bid": 240,
       "vendor": 50
     },
@@ -537,7 +537,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 64,
-      "bid": 38,
+      "bid": 39,
       "vendor": 18
     },
     "Eyessence": {
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 136,
-      "bid": 121,
+      "bid": 122,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 152,
-      "bid": 137,
+      "bid": 138,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -716,7 +716,7 @@
       "vendor": 53460
     },
     "Holy Sword": {
-      "ask": 74900,
+      "ask": 74000,
       "bid": 64001,
       "vendor": 53460
     },
@@ -766,7 +766,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 54000,
+      "ask": 55999,
       "bid": 25645,
       "vendor": 50000
     },
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 22,
+      "ask": 23,
       "bid": 21,
       "vendor": 18
     },
@@ -881,7 +881,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 330,
+      "ask": 329,
       "bid": 230,
       "vendor": 30
     },
@@ -896,8 +896,8 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 20892,
-      "bid": 15250,
+      "ask": 25650,
+      "bid": 19000,
       "vendor": 14985
     },
     "Rainbow Buckler": {
@@ -906,7 +906,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 39106,
+      "ask": 35000,
       "bid": -1,
       "vendor": 29970
     },
@@ -926,7 +926,7 @@
       "vendor": 11988
     },
     "Rainbow Hammer": {
-      "ask": 30999,
+      "ask": 30000,
       "bid": 3,
       "vendor": 14985
     },
@@ -1001,7 +1001,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 10000,
+      "ask": 9500,
       "bid": 23,
       "vendor": 5000
     },
@@ -1021,7 +1021,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 11849,
+      "ask": 10159,
       "bid": 3016,
       "vendor": 2000
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 270,
+      "ask": 280,
       "bid": 82,
       "vendor": 27
     },
@@ -1081,12 +1081,12 @@
       "vendor": 30
     },
     "Sugar": {
-      "ask": 4,
+      "ask": 5,
       "bid": 3,
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 612,
+      "ask": 610,
       "bid": 501,
       "vendor": 50
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 545,
+      "ask": 544,
       "bid": 401,
       "vendor": 75
     },
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 16,
+      "ask": 17,
       "bid": 10,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660342502.8654318
+  "time": 1660343401.5945246
 }
