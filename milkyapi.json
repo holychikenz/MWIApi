@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 168,
-      "bid": 136,
+      "bid": 137,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 41,
+      "ask": 48,
       "bid": 39,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 28,
+      "ask": 30,
       "bid": 21,
       "vendor": 4
     },
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 69728,
-      "bid": 50005,
+      "bid": 50006,
       "vendor": 1000
     },
     "Coin": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 213,
-      "bid": 164,
+      "bid": 165,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 131100,
+      "ask": 130000,
       "bid": 106,
       "vendor": 1000
     },
@@ -936,7 +936,7 @@
       "vendor": 14985
     },
     "Rainbow Mace": {
-      "ask": 45000,
+      "ask": 50000,
       "bid": 22000,
       "vendor": 17982
     },
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 314,
-      "bid": 297,
+      "bid": 298,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -991,7 +991,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 39999,
+      "ask": -1,
       "bid": 10000,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660283101.7046075
+  "time": 1660284002.210044
 }
