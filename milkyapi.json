@@ -131,13 +131,13 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 300000,
+      "ask": 285000,
       "bid": 125001,
       "vendor": 1000
     },
     "Black Bear Fluff": {
       "ask": 29910,
-      "bid": 22500,
+      "bid": 22501,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -236,7 +236,7 @@
       "vendor": 2700
     },
     "Burble Mace": {
-      "ask": 10000,
+      "ask": 9500,
       "bid": -1,
       "vendor": 3240
     },
@@ -491,8 +491,8 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 1000000000000,
-      "bid": 221,
+      "ask": 1000,
+      "bid": 222,
       "vendor": 20
     },
     "Donut": {
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 264,
-      "bid": 210,
+      "bid": 51,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -537,7 +537,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 64,
-      "bid": 32,
+      "bid": 35,
       "vendor": 18
     },
     "Eyessence": {
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 479,
+      "ask": 475,
       "bid": 45,
       "vendor": 40
     },
@@ -612,12 +612,12 @@
     },
     "Green Tea Leaf": {
       "ask": 127,
-      "bid": 95,
+      "bid": 97,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 159997,
-      "bid": 80000,
+      "ask": 144397,
+      "bid": 81000,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -646,13 +646,13 @@
       "vendor": 53460
     },
     "Holy Bulwark": {
-      "ask": 94994,
+      "ask": 94993,
       "bid": 76000,
       "vendor": 89100
     },
     "Holy Cheese": {
       "ask": 598,
-      "bid": 583,
+      "bid": 563,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,8 +681,8 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 151,
-      "bid": 137,
+      "ask": 150,
+      "bid": 138,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -692,12 +692,12 @@
     },
     "Holy Plate Legs": {
       "ask": 100000,
-      "bid": -1,
+      "bid": 73500,
       "vendor": 62370
     },
     "Holy Pot": {
       "ask": 69998,
-      "bid": 46868,
+      "bid": 52000,
       "vendor": 44550
     },
     "Holy Shears": {
@@ -707,7 +707,7 @@
     },
     "Holy Spatula": {
       "ask": 66666,
-      "bid": 55000,
+      "bid": 58000,
       "vendor": 44550
     },
     "Holy Spear": {
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 30,
+      "ask": 29,
       "bid": 16,
       "vendor": 14
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 254,
-      "bid": 172,
+      "bid": 173,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -936,7 +936,7 @@
       "vendor": 14985
     },
     "Rainbow Mace": {
-      "ask": 39999,
+      "ask": 39998,
       "bid": 23000,
       "vendor": 17982
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 364,
+      "ask": 350,
       "bid": 333,
       "vendor": 27
     },
@@ -996,7 +996,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 22800,
+      "ask": 24000,
       "bid": 20004,
       "vendor": 1000
     },
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 1400,
+      "ask": 1399,
       "bid": 505,
       "vendor": 100
     },
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 203,
-      "bid": 151,
+      "bid": 155,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 585,
+      "ask": 582,
       "bid": 520,
       "vendor": 50
     },
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 595,
+      "ask": 594,
       "bid": 353,
       "vendor": 50
     },
@@ -1147,7 +1147,7 @@
     },
     "Sweep": {
       "ask": 199895,
-      "bid": 120031,
+      "bid": 135000,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 17,
+      "ask": 12,
       "bid": 11,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660406401.7260551
+  "time": 1660407302.4427547
 }
