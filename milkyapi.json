@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 196,
+      "ask": 195,
       "bid": 171,
       "vendor": 36
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 170,
+      "ask": 169,
       "bid": 167,
       "vendor": 54
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 60,
+      "ask": 50,
       "bid": 36,
       "vendor": 14
     },
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 260,
-      "bid": 200,
+      "bid": 201,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 168997,
+      "ask": 150000,
       "bid": 99404,
       "vendor": 1000
     },
@@ -751,13 +751,13 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 31,
+      "ask": 30,
       "bid": 16,
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 260,
-      "bid": 211,
+      "ask": 259,
+      "bid": 212,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 19,
+      "ask": 18,
       "bid": 12,
       "vendor": 9
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 199,
+      "ask": 200,
       "bid": 101,
       "vendor": 40
     },
@@ -856,12 +856,12 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 220,
+      "ask": 350,
       "bid": 33,
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 150,
+      "ask": 304,
       "bid": 78,
       "vendor": 30
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 18640,
+      "ask": 18600,
       "bid": 10055,
       "vendor": 1000
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 258,
-      "bid": 159,
+      "bid": 165,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -941,8 +941,8 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 40,
-      "bid": 31,
+      "ask": 39,
+      "bid": 32,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -977,11 +977,11 @@
     },
     "Rainbow Sword": {
       "ask": 27000,
-      "bid": 1,
+      "bid": 17982,
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 370,
+      "ask": 368,
       "bid": 332,
       "vendor": 27
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 250,
+      "ask": 245,
       "bid": 96,
       "vendor": 27
     },
@@ -1061,12 +1061,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 720,
-      "bid": 576,
+      "ask": 699,
+      "bid": 577,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 27,
+      "ask": 26,
       "bid": 19,
       "vendor": 6
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 39000,
+      "ask": 35000,
       "bid": 6007,
       "vendor": 1000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 230,
+      "ask": 229,
       "bid": 202,
       "vendor": 108
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 225000,
+      "ask": 224999,
       "bid": 108501,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660398302.269535
+  "time": 1660399201.994447
 }
