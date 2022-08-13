@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 192,
+      "ask": 191,
       "bid": 167,
       "vendor": 36
     },
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 32,
+      "ask": 33,
       "bid": 21,
       "vendor": 12
     },
@@ -416,8 +416,8 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 176,
-      "bid": 158,
+      "ask": 177,
+      "bid": 160,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -452,7 +452,7 @@
     },
     "Crimson Plate Body": {
       "ask": 17000,
-      "bid": 11664,
+      "bid": -1,
       "vendor": 11664
     },
     "Crimson Plate Legs": {
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 77,
-      "bid": 34,
+      "bid": 35,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -542,17 +542,17 @@
     },
     "Eyessence": {
       "ask": 49,
-      "bid": 45,
+      "bid": 46,
       "vendor": 36
     },
     "Fermenting Tea": {
       "ask": 479,
-      "bid": 300,
+      "bid": 315,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
       "ask": 210,
-      "bid": 174,
+      "bid": 175,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 607,
+      "ask": 606,
       "bid": 591,
       "vendor": 162
     },
@@ -677,12 +677,12 @@
     },
     "Holy Mace": {
       "ask": 100000,
-      "bid": 80000,
+      "bid": 85000,
       "vendor": 53460
     },
     "Holy Milk": {
       "ask": 147,
-      "bid": 140,
+      "bid": 135,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 236869,
+      "ask": 236868,
       "bid": 182000,
       "vendor": 3000
     },
@@ -861,7 +861,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 322,
+      "ask": 252,
       "bid": 78,
       "vendor": 30
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 120000,
+      "ask": 119999,
       "bid": 60000,
       "vendor": 3000
     },
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 391,
-      "bid": 321,
+      "bid": 322,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660358702.6542468
+  "time": 1660359602.0077357
 }
