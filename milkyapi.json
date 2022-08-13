@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 99,
-      "bid": 30,
+      "bid": 31,
       "vendor": 8
     },
     "Blackberry": {
@@ -241,8 +241,8 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 32,
-      "bid": 30,
+      "ask": 33,
+      "bid": 28,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 272,
+      "ask": 300,
       "bid": 253,
       "vendor": 12
     },
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 483,
+      "ask": 482,
       "bid": 300,
       "vendor": 40
     },
@@ -791,7 +791,7 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 161,
+      "ask": 162,
       "bid": -1,
       "vendor": 40
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 27,
+      "ask": 30,
       "bid": 20,
       "vendor": 6
     },
@@ -1107,7 +1107,7 @@
     },
     "Super Defense Coffee": {
       "ask": 589,
-      "bid": 500,
+      "bid": 250,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1286,7 +1286,7 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 349998,
+      "ask": 299999,
       "bid": 50003,
       "vendor": 20000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660347902.763104
+  "time": 1660348802.3490462
 }
