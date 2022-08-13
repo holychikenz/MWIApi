@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 852,
+      "ask": 851,
       "bid": 515,
       "vendor": 75
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 199,
+      "ask": 198,
       "bid": 152,
       "vendor": 24
     },
@@ -126,12 +126,12 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 67,
+      "ask": 71,
       "bid": 58,
       "vendor": 54
     },
     "Berserk": {
-      "ask": 299999,
+      "ask": 275000,
       "bid": 135000,
       "vendor": 1000
     },
@@ -162,7 +162,7 @@
     },
     "Blackberry Donut": {
       "ask": 139,
-      "bid": 90,
+      "bid": -1,
       "vendor": 20
     },
     "Blessed Tea": {
@@ -211,8 +211,8 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 249,
-      "bid": 173,
+      "ask": 248,
+      "bid": 172,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -282,12 +282,12 @@
     },
     "Burble Tea Leaf": {
       "ask": 287,
-      "bid": 240,
+      "bid": 239,
       "vendor": 12
     },
     "Cheese": {
       "ask": 97,
-      "bid": 70,
+      "bid": 69,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 20,
+      "ask": 19,
       "bid": 18,
       "vendor": 18
     },
@@ -517,16 +517,16 @@
     },
     "Efficiency Tea": {
       "ask": 796,
-      "bid": 706,
+      "bid": 703,
       "vendor": 50
     },
     "Egg": {
-      "ask": 19,
+      "ask": 17,
       "bid": 9,
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 205,
+      "ask": 210,
       "bid": 142,
       "vendor": 54
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 199,
+      "ask": 209,
       "bid": 188,
       "vendor": 27
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 603,
-      "bid": 549,
+      "bid": 550,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 154,
-      "bid": 146,
+      "bid": 145,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -811,7 +811,7 @@
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 220,
+      "ask": 125,
       "bid": 22,
       "vendor": 20
     },
@@ -861,7 +861,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 261,
+      "ask": 150,
       "bid": 78,
       "vendor": 30
     },
@@ -891,7 +891,7 @@
       "vendor": 1000
     },
     "Rainbow Boots": {
-      "ask": 18950,
+      "ask": 18000,
       "bid": 12303,
       "vendor": 11988
     },
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 1399,
+      "ask": 1140,
       "bid": 505,
       "vendor": 100
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 648,
+      "ask": 625,
       "bid": 526,
       "vendor": 75
     },
@@ -1046,7 +1046,7 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 300,
+      "ask": 340,
       "bid": 100,
       "vendor": 10
     },
@@ -1146,7 +1146,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 199895,
+      "ask": 199000,
       "bid": 120032,
       "vendor": 1000
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 645,
+      "ask": 679,
       "bid": 505,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660427102.5119288
+  "time": 1660428001.7136428
 }
