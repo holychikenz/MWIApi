@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 320,
-      "bid": 121,
+      "bid": 220,
       "vendor": 20
     },
     "Azure Boots": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 196,
-      "bid": 169,
+      "bid": 170,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -492,7 +492,7 @@
     },
     "Defense Coffee": {
       "ask": 319,
-      "bid": 211,
+      "bid": 220,
       "vendor": 20
     },
     "Donut": {
@@ -506,8 +506,8 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 200,
-      "bid": 161,
+      "ask": 398,
+      "bid": 160,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 208,
-      "bid": 174,
+      "bid": 185,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 605,
+      "ask": 604,
       "bid": 587,
       "vendor": 162
     },
@@ -757,7 +757,7 @@
     },
     "Marsberry Cake": {
       "ask": 250,
-      "bid": 207,
+      "bid": 230,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -827,7 +827,7 @@
     },
     "Peach": {
       "ask": 16,
-      "bid": 13,
+      "bid": 12,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -901,7 +901,7 @@
       "vendor": 14985
     },
     "Rainbow Buckler": {
-      "ask": 39155,
+      "ask": -1,
       "bid": -1,
       "vendor": 17982
     },
@@ -912,16 +912,16 @@
     },
     "Rainbow Cheese": {
       "ask": 259,
-      "bid": 222,
+      "bid": 225,
       "vendor": 81
     },
     "Rainbow Enhancer": {
-      "ask": 45119,
+      "ask": 45120,
       "bid": 1,
       "vendor": 14985
     },
     "Rainbow Gauntlets": {
-      "ask": 26530,
+      "ask": 26531,
       "bid": 12500,
       "vendor": 11988
     },
@@ -931,7 +931,7 @@
       "vendor": 14985
     },
     "Rainbow Helmet": {
-      "ask": 47498,
+      "ask": 47499,
       "bid": -1,
       "vendor": 14985
     },
@@ -951,12 +951,12 @@
       "vendor": 26973
     },
     "Rainbow Plate Legs": {
-      "ask": 40601,
+      "ask": 42738,
       "bid": 22001,
       "vendor": 20979
     },
     "Rainbow Pot": {
-      "ask": 37985,
+      "ask": 37986,
       "bid": 2,
       "vendor": 14985
     },
@@ -971,7 +971,7 @@
       "vendor": 14985
     },
     "Rainbow Spear": {
-      "ask": 40000,
+      "ask": -1,
       "bid": 15000,
       "vendor": 17982
     },
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 204,
-      "bid": 142,
+      "bid": 145,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1822499,
-      "bid": 760000,
+      "bid": 1000000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 688,
+      "ask": 687,
       "bid": 501,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660381202.6443434
+  "time": 1660382102.4189272
 }
