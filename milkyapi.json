@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 32,
-      "bid": 27,
+      "bid": 26,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -466,7 +466,7 @@
       "vendor": 6480
     },
     "Crimson Shears": {
-      "ask": 26000,
+      "ask": -1,
       "bid": 10000,
       "vendor": 6480
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 260,
+      "ask": 255,
       "bid": 200,
       "vendor": 50
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 153,
+      "ask": 154,
       "bid": 145,
       "vendor": 54
     },
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 219980,
+      "ask": 219979,
       "bid": 75000,
       "vendor": 10000
     },
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 21,
+      "ask": 31,
       "bid": 16,
       "vendor": 14
     },
@@ -806,7 +806,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 1000000000000,
+      "ask": 200,
       "bid": 21,
       "vendor": 20
     },
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 219999,
+      "ask": 219997,
       "bid": 182001,
       "vendor": 3000
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 200,
+      "ask": 199,
       "bid": 101,
       "vendor": 40
     },
@@ -856,7 +856,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 1000000000000,
+      "ask": 220,
       "bid": 33,
       "vendor": 30
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 39,
+      "ask": 40,
       "bid": 31,
       "vendor": 27
     },
@@ -991,12 +991,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 17097,
+      "ask": 15000,
       "bid": 10001,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 27750,
+      "ask": 24000,
       "bid": 20004,
       "vendor": 1000
     },
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 740,
-      "bid": 513,
+      "bid": 514,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1136,7 +1136,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 438,
+      "ask": 437,
       "bid": 44,
       "vendor": 40
     },
@@ -1152,7 +1152,7 @@
     },
     "Swiftness Coffee": {
       "ask": 688,
-      "bid": 527,
+      "bid": 528,
       "vendor": 50
     },
     "Toughness": {
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1800000,
-      "bid": 1050000,
+      "bid": 1100000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1192,7 +1192,7 @@
     },
     "Vampirism": {
       "ask": 225000,
-      "bid": 108500,
+      "bid": 108501,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660396502.1071098
+  "time": 1660397402.3580022
 }
