@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 853,
+      "ask": 852,
       "bid": 515,
       "vendor": 75
     },
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 198,
-      "bid": 152,
+      "bid": 160,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 277,
+      "ask": 288,
       "bid": 265,
       "vendor": 12
     },
@@ -507,11 +507,11 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 397,
-      "bid": 172,
+      "bid": 173,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 263,
+      "ask": 225,
       "bid": 107,
       "vendor": 50
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 604,
-      "bid": 571,
+      "bid": 575,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Plate Legs": {
-      "ask": 100000,
+      "ask": -1,
       "bid": 80000,
       "vendor": 62370
     },
@@ -756,8 +756,8 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 260,
-      "bid": 220,
+      "ask": 225,
+      "bid": 222,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -787,7 +787,7 @@
     },
     "Mooberry Cake": {
       "ask": 190,
-      "bid": 146,
+      "bid": 145,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -812,7 +812,7 @@
     },
     "Orange Yogurt": {
       "ask": 250,
-      "bid": 35,
+      "bid": 21,
       "vendor": 20
     },
     "Panda Fluff": {
@@ -832,12 +832,12 @@
     },
     "Peach Gummy": {
       "ask": 350,
-      "bid": 68,
+      "bid": 69,
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 200,
-      "bid": 125,
+      "ask": 180,
+      "bid": 100,
       "vendor": 40
     },
     "Pierce": {
@@ -862,7 +862,7 @@
     },
     "Plum Yogurt": {
       "ask": 261,
-      "bid": 100,
+      "bid": 78,
       "vendor": 30
     },
     "Poke": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 255,
-      "bid": 205,
+      "bid": 210,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 344,
-      "bid": 331,
+      "bid": 330,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1031,8 +1031,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 693,
-      "bid": 521,
+      "ask": 674,
+      "bid": 525,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1072,7 +1072,7 @@
     },
     "Strawberry Cake": {
       "ask": 350,
-      "bid": 90,
+      "bid": 80,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1082,11 +1082,11 @@
     },
     "Sugar": {
       "ask": 5,
-      "bid": 4,
+      "bid": 3,
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 579,
+      "ask": 575,
       "bid": 521,
       "vendor": 50
     },
@@ -1147,7 +1147,7 @@
     },
     "Sweep": {
       "ask": 199895,
-      "bid": 135001,
+      "bid": 120032,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1307,11 +1307,11 @@
     },
     "Wheat": {
       "ask": 16,
-      "bid": 11,
+      "bid": 12,
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 678,
+      "ask": 600,
       "bid": 500,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660420802.4448493
+  "time": 1660421702.225578
 }
