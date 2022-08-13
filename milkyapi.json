@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 32,
+      "ask": 100,
       "bid": 26,
       "vendor": 8
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 211,
+      "ask": 249,
       "bid": 175,
       "vendor": 36
     },
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 276,
+      "ask": 275,
       "bid": 265,
       "vendor": 12
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 169,
+      "ask": 168,
       "bid": 166,
       "vendor": 54
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 47,
+      "ask": 46,
       "bid": 45,
       "vendor": 36
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 127,
-      "bid": 97,
+      "bid": 100,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -636,7 +636,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 93500,
+      "ask": 93000,
       "bid": 65000,
       "vendor": 44550
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 598,
-      "bid": 566,
+      "bid": 575,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 149,
+      "ask": 150,
       "bid": 139,
       "vendor": 54
     },
@@ -692,7 +692,7 @@
     },
     "Holy Plate Legs": {
       "ask": 100000,
-      "bid": 73500,
+      "bid": 80000,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -876,7 +876,7 @@
       "vendor": 3000
     },
     "Polar Bear Shoes": {
-      "ask": 1400000,
+      "ask": -1,
       "bid": 70000,
       "vendor": 60000
     },
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 254,
-      "bid": 174,
+      "ask": 253,
+      "bid": 176,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -941,8 +941,8 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 38,
-      "bid": 36,
+      "ask": 39,
+      "bid": 37,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 347,
+      "ask": 346,
       "bid": 331,
       "vendor": 27
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 27,
+      "ask": 29,
       "bid": 20,
       "vendor": 6
     },
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 582,
+      "ask": 580,
       "bid": 520,
       "vendor": 50
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 517,
+      "ask": 516,
       "bid": 452,
       "vendor": 75
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660410902.177727
+  "time": 1660411802.1862607
 }
