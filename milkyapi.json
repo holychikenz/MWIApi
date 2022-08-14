@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 117,
-      "bid": 102,
+      "bid": 103,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1900000,
+      "ask": -1,
       "bid": 750000,
       "vendor": 500000
     },
@@ -757,7 +757,7 @@
     },
     "Marsberry Cake": {
       "ask": 400,
-      "bid": 241,
+      "bid": 242,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 33,
+      "ask": 32,
       "bid": 21,
       "vendor": 18
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 17,
+      "ask": 18,
       "bid": 12,
       "vendor": 9
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 15420,
+      "ask": 15400,
       "bid": 10056,
       "vendor": 1000
     },
@@ -1027,7 +1027,7 @@
     },
     "Spaceberry": {
       "ask": 78,
-      "bid": 63,
+      "bid": 51,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1052,12 +1052,12 @@
     },
     "Star Fruit": {
       "ask": 249,
-      "bid": 104,
+      "bid": 102,
       "vendor": 27
     },
     "Star Fruit Gummy": {
       "ask": 900,
-      "bid": 300,
+      "bid": 105,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 33,
+      "ask": 32,
       "bid": 21,
       "vendor": 6
     },
@@ -1112,7 +1112,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 591,
-      "bid": 500,
+      "bid": 570,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 1149993,
-      "bid": 1060010,
+      "bid": 1060011,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660453202.2960615
+  "time": 1660454101.9917903
 }
