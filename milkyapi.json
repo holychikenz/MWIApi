@@ -7,7 +7,7 @@
     },
     "Apple Gummy": {
       "ask": 123,
-      "bid": 40,
+      "bid": 41,
       "vendor": 10
     },
     "Apple Yogurt": {
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 220000,
+      "ask": 244999,
       "bid": 135005,
       "vendor": 1000
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 64838,
+      "ask": 65000,
       "bid": 50026,
       "vendor": 1000
     },
@@ -501,18 +501,18 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 51,
+      "ask": 50,
       "bid": 40,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 357,
+      "ask": 356,
       "bid": 120,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
       "ask": 249,
-      "bid": 155,
+      "bid": 160,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 466,
+      "ask": 465,
       "bid": 100,
       "vendor": 40
     },
@@ -616,7 +616,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 149999,
+      "ask": 149998,
       "bid": 85001,
       "vendor": 3000
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 156,
+      "ask": 150,
       "bid": 144,
       "vendor": 54
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 275,
+      "ask": 289,
       "bid": 252,
       "vendor": 50
     },
@@ -806,7 +806,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 540,
+      "ask": 539,
       "bid": 30,
       "vendor": 20
     },
@@ -831,7 +831,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 315,
+      "ask": 314,
       "bid": 120,
       "vendor": 40
     },
@@ -856,13 +856,13 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 313,
+      "ask": 312,
       "bid": 70,
       "vendor": 30
     },
     "Plum Yogurt": {
       "ask": 289,
-      "bid": 130,
+      "bid": 131,
       "vendor": 30
     },
     "Poke": {
@@ -906,7 +906,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 40000,
+      "ask": 56858,
       "bid": -1,
       "vendor": 29970
     },
@@ -946,7 +946,7 @@
       "vendor": 27
     },
     "Rainbow Plate Body": {
-      "ask": 33500,
+      "ask": 33499,
       "bid": -1,
       "vendor": 26973
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 296,
+      "ask": 295,
       "bid": 202,
       "vendor": 27
     },
@@ -1081,7 +1081,7 @@
       "vendor": 30
     },
     "Sugar": {
-      "ask": 4,
+      "ask": 5,
       "bid": 3,
       "vendor": 1
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 496,
+      "ask": 497,
       "bid": 447,
       "vendor": 75
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660482002.3582196
+  "time": 1660482901.9346402
 }
