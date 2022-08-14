@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 60,
+      "ask": 40,
       "bid": 28,
       "vendor": 8
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 270000,
+      "ask": 250000,
       "bid": 135001,
       "vendor": 1000
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 225,
+      "ask": 247,
       "bid": 172,
       "vendor": 36
     },
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 32,
+      "ask": 33,
       "bid": 31,
       "vendor": 12
     },
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 19,
+      "ask": 20,
       "bid": 18,
       "vendor": 18
     },
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 598,
-      "bid": 580,
+      "ask": 608,
+      "bid": 581,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -667,7 +667,7 @@
     },
     "Holy Hammer": {
       "ask": 69998,
-      "bid": 51,
+      "bid": 55000,
       "vendor": 44550
     },
     "Holy Helmet": {
@@ -697,7 +697,7 @@
     },
     "Holy Pot": {
       "ask": 69997,
-      "bid": 46868,
+      "bid": 55000,
       "vendor": 44550
     },
     "Holy Shears": {
@@ -731,7 +731,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 139,
+      "ask": 140,
       "bid": 102,
       "vendor": 12
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 297,
+      "ask": 285,
       "bid": 237,
       "vendor": 50
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 40,
+      "ask": 39,
       "bid": 31,
       "vendor": 27
     },
@@ -991,7 +991,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 18000,
+      "ask": 69999,
       "bid": 10002,
       "vendor": 1000
     },
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 76,
+      "ask": 80,
       "bid": 63,
       "vendor": 27
     },
@@ -1061,17 +1061,17 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 709,
+      "ask": 710,
       "bid": 666,
       "vendor": 75
     },
     "Strawberry": {
       "ask": 33,
-      "bid": 20,
+      "bid": 21,
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 315,
+      "ask": 314,
       "bid": 80,
       "vendor": 30
     },
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 499,
+      "ask": 500,
       "bid": 50,
       "vendor": 50
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 498,
+      "ask": 499,
       "bid": 432,
       "vendor": 75
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 545,
+      "ask": 574,
       "bid": 447,
       "vendor": 50
     },
@@ -1162,7 +1162,7 @@
     },
     "Turtle Shell": {
       "ask": 10000,
-      "bid": 3000,
+      "bid": 3001,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660438802.4523594
+  "time": 1660439702.7767215
 }
