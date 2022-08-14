@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 185,
-      "bid": 112,
+      "bid": 111,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -76,12 +76,12 @@
       "vendor": 1080
     },
     "Azure Helmet": {
-      "ask": 9000,
+      "ask": -1,
       "bid": 3600,
       "vendor": 1080
     },
     "Azure Mace": {
-      "ask": 7121,
+      "ask": 13992,
       "bid": 3342,
       "vendor": 1296
     },
@@ -121,7 +121,7 @@
       "vendor": 1296
     },
     "Azure Sword": {
-      "ask": 7499,
+      "ask": 9025,
       "bid": 1875,
       "vendor": 1296
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 238799,
+      "ask": 238798,
       "bid": 140003,
       "vendor": 1000
     },
@@ -176,7 +176,7 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 155,
+      "ask": 154,
       "bid": 23,
       "vendor": 10
     },
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 32,
+      "ask": 33,
       "bid": 31,
       "vendor": 12
     },
@@ -291,7 +291,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 597,
+      "ask": 596,
       "bid": 131,
       "vendor": 48
     },
@@ -461,7 +461,7 @@
       "vendor": 9072
     },
     "Crimson Pot": {
-      "ask": 15000,
+      "ask": -1,
       "bid": 10001,
       "vendor": 6480
     },
@@ -581,7 +581,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 30,
+      "ask": 35,
       "bid": 25,
       "vendor": 24
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 158,
+      "ask": 160,
       "bid": 142,
       "vendor": 54
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 270,
+      "ask": 280,
       "bid": 260,
       "vendor": 50
     },
@@ -766,7 +766,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 61746,
+      "ask": 61747,
       "bid": 25645,
       "vendor": 50000
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 243,
-      "bid": 206,
+      "bid": 207,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1072,7 +1072,7 @@
     },
     "Strawberry Cake": {
       "ask": 306,
-      "bid": 80,
+      "bid": 90,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1287,7 +1287,7 @@
     },
     "Vision Helmet": {
       "ask": 299999,
-      "bid": 50002,
+      "bid": 75000,
       "vendor": 20000
     },
     "Vision Shield": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660513501.956992
+  "time": 1660514401.9757874
 }
