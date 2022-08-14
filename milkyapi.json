@@ -86,17 +86,17 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 38,
+      "ask": 39,
       "bid": 29,
       "vendor": 8
     },
     "Azure Plate Body": {
-      "ask": 19999,
+      "ask": 18999,
       "bid": 2050,
       "vendor": 1944
     },
     "Azure Plate Legs": {
-      "ask": -1,
+      "ask": 50000,
       "bid": 5000,
       "vendor": 1512
     },
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 16,
+      "ask": 17,
       "bid": 12,
       "vendor": 4
     },
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 269,
-      "bid": 169,
+      "bid": 200,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -387,7 +387,7 @@
     },
     "Cooking Tea": {
       "ask": 265,
-      "bid": 120,
+      "bid": 150,
       "vendor": 20
     },
     "Crab Pincer": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 717,
+      "ask": 916,
       "bid": 703,
       "vendor": 50
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 500,
+      "ask": 490,
       "bid": 351,
       "vendor": 10
     },
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 28,
+      "ask": 29,
       "bid": 22,
       "vendor": 14
     },
@@ -862,7 +862,7 @@
     },
     "Plum Yogurt": {
       "ask": 274,
-      "bid": 133,
+      "bid": 134,
       "vendor": 30
     },
     "Poke": {
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 249,
+      "ask": 248,
       "bid": 217,
       "vendor": 27
     },
@@ -1137,7 +1137,7 @@
     },
     "Super Stamina Coffee": {
       "ask": 434,
-      "bid": 100,
+      "bid": 225,
       "vendor": 40
     },
     "Swamp Essence": {
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 635,
+      "ask": 634,
       "bid": 427,
       "vendor": 50
     },
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1149996,
+      "ask": 1149995,
       "bid": 1060011,
       "vendor": 10000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660503602.5723
+  "time": 1660504501.9490652
 }
