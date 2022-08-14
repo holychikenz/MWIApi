@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 249,
-      "bid": 172,
+      "bid": 167,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -232,7 +232,7 @@
     },
     "Burble Helmet": {
       "ask": 14248,
-      "bid": 3000,
+      "bid": -1,
       "vendor": 2700
     },
     "Burble Mace": {
@@ -516,12 +516,12 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 797,
+      "ask": 796,
       "bid": 738,
       "vendor": 50
     },
     "Egg": {
-      "ask": 17,
+      "ask": 15,
       "bid": 11,
       "vendor": 1
     },
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 200,
-      "bid": 189,
+      "bid": 188,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 116,
-      "bid": 103,
+      "bid": 104,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 608,
+      "ask": 607,
       "bid": 580,
       "vendor": 162
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 300,
+      "ask": 299,
       "bid": 242,
       "vendor": 50
     },
@@ -811,7 +811,7 @@
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 125,
+      "ask": 60,
       "bid": 50,
       "vendor": 20
     },
@@ -832,7 +832,7 @@
     },
     "Peach Gummy": {
       "ask": 332,
-      "bid": 70,
+      "bid": 72,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 568,
+      "ask": 567,
       "bid": 526,
       "vendor": 50
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 29000,
+      "ask": 28999,
       "bid": 6666,
       "vendor": 1000
     },
@@ -1187,12 +1187,12 @@
     },
     "Vampire Fang Dirk": {
       "ask": -1,
-      "bid": 4000000,
+      "bid": 18000000,
       "vendor": 400000
     },
     "Vampirism": {
       "ask": 213742,
-      "bid": 108506,
+      "bid": 108507,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660455901.7010906
+  "time": 1660456801.9362345
 }
