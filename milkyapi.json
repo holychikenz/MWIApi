@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 72,
+      "ask": 73,
       "bid": 58,
       "vendor": 54
     },
@@ -452,7 +452,7 @@
     },
     "Crimson Plate Body": {
       "ask": 26365,
-      "bid": 20000,
+      "bid": -1,
       "vendor": 11664
     },
     "Crimson Plate Legs": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 607,
+      "ask": 606,
       "bid": 580,
       "vendor": 162
     },
@@ -811,7 +811,7 @@
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 60,
+      "ask": 125,
       "bid": 50,
       "vendor": 20
     },
@@ -832,7 +832,7 @@
     },
     "Peach Gummy": {
       "ask": 332,
-      "bid": 72,
+      "bid": 120,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -857,12 +857,12 @@
     },
     "Plum Gummy": {
       "ask": 329,
-      "bid": 50,
+      "bid": 70,
       "vendor": 30
     },
     "Plum Yogurt": {
       "ask": 289,
-      "bid": 121,
+      "bid": 122,
       "vendor": 30
     },
     "Poke": {
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 103784,
+      "ask": 103783,
       "bid": 80000,
       "vendor": 3000
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 15400,
+      "ask": 15069,
       "bid": 10056,
       "vendor": 1000
     },
@@ -906,7 +906,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 34209,
+      "ask": 32580,
       "bid": -1,
       "vendor": 29970
     },
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 612,
-      "bid": 526,
+      "bid": 540,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 498,
-      "bid": 460,
+      "bid": 465,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 28999,
+      "ask": 28998,
       "bid": 6666,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660456801.9362345
+  "time": 1660457702.8663812
 }
