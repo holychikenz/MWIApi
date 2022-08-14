@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 78,
+      "ask": 77,
       "bid": 49,
       "vendor": 8
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 176,
-      "bid": 165,
+      "bid": 161,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 263,
+      "ask": 250,
       "bid": 153,
       "vendor": 50
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 157,
-      "bid": 146,
+      "bid": 144,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -751,12 +751,12 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 26,
-      "bid": 20,
+      "ask": 31,
+      "bid": 15,
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 298,
+      "ask": 275,
       "bid": 252,
       "vendor": 50
     },
@@ -811,7 +811,7 @@
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 125,
+      "ask": 1000000000000,
       "bid": 52,
       "vendor": 20
     },
@@ -841,7 +841,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 17954,
+      "ask": 17999,
       "bid": 3000,
       "vendor": 1000
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 39,
+      "ask": 40,
       "bid": 31,
       "vendor": 27
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 246,
+      "ask": 245,
       "bid": 102,
       "vendor": 27
     },
@@ -1066,8 +1066,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 32,
-      "bid": 21,
+      "ask": 33,
+      "bid": 32,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660477502.2387826
+  "time": 1660478403.078912
 }
