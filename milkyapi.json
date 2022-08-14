@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 40,
+      "ask": 54,
       "bid": 28,
       "vendor": 8
     },
@@ -296,7 +296,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 9500,
+      "ask": 9499,
       "bid": 171,
       "vendor": 60
     },
@@ -486,7 +486,7 @@
       "vendor": 7776
     },
     "Cupcake": {
-      "ask": 249,
+      "ask": 248,
       "bid": 16,
       "vendor": 5
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 130000,
+      "ask": 123500,
       "bid": 99405,
       "vendor": 1000
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": -1,
+      "ask": 65000,
       "bid": 20006,
       "vendor": 5000
     },
@@ -626,7 +626,7 @@
       "vendor": 60000
     },
     "Gummy": {
-      "ask": 1000000000000,
+      "ask": 60,
       "bid": 5,
       "vendor": 5
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 608,
-      "bid": 581,
+      "bid": 582,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -687,7 +687,7 @@
     },
     "Holy Plate Body": {
       "ask": 95999,
-      "bid": 85000,
+      "bid": -1,
       "vendor": 80190
     },
     "Holy Plate Legs": {
@@ -782,12 +782,12 @@
     },
     "Mooberry": {
       "ask": 14,
-      "bid": 11,
+      "bid": 10,
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 189,
-      "bid": 146,
+      "ask": 188,
+      "bid": 147,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -861,12 +861,12 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 320,
+      "ask": 319,
       "bid": 78,
       "vendor": 30
     },
     "Poke": {
-      "ask": 12180,
+      "ask": 12175,
       "bid": 200,
       "vendor": 1000
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 338,
+      "ask": 336,
       "bid": 281,
       "vendor": 27
     },
@@ -991,12 +991,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 69999,
+      "ask": 60000,
       "bid": 10002,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 27750,
+      "ask": 27745,
       "bid": 20005,
       "vendor": 1000
     },
@@ -1061,13 +1061,13 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 710,
+      "ask": 709,
       "bid": 666,
       "vendor": 75
     },
     "Strawberry": {
       "ask": 33,
-      "bid": 21,
+      "bid": 22,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1177,11 +1177,11 @@
     },
     "Twilight Essence": {
       "ask": 224,
-      "bid": 203,
+      "bid": 201,
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1799999,
+      "ask": 1750000,
       "bid": 1255010,
       "vendor": 10000
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 213747,
+      "ask": 213743,
       "bid": 108503,
       "vendor": 1000
     },
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1149993,
+      "ask": 1100000,
       "bid": 1060011,
       "vendor": 10000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660439702.7767215
+  "time": 1660440602.6474764
 }
