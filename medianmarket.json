@@ -1,5 +1,5 @@
 {
-  "time": 1660481551.5,
+  "time": 1660482451.5,
   "market": {
     "Apple": {
       "ask": 28.0,
@@ -7,7 +7,7 @@
     },
     "Apple Gummy": {
       "ask": 102.0,
-      "bid": 40.0
+      "bid": 40.5
     },
     "Apple Yogurt": {
       "ask": 1000000000000.0,
@@ -70,7 +70,7 @@
       "bid": 3342.0
     },
     "Azure Milk": {
-      "ask": 46.0,
+      "ask": 44.0,
       "bid": 29.0
     },
     "Azure Plate Body": {
@@ -102,7 +102,7 @@
       "bid": 1875.0
     },
     "Bear Essence": {
-      "ask": 72.5,
+      "ask": 73.0,
       "bid": 58.0
     },
     "Berserk": {
@@ -110,7 +110,7 @@
       "bid": 135005.0
     },
     "Black Bear Fluff": {
-      "ask": 29913.5,
+      "ask": 29914.0,
       "bid": 22900.0
     },
     "Black Bear Shoes": {
@@ -334,7 +334,7 @@
       "bid": -1.0
     },
     "Crimson Cheese": {
-      "ask": 178.5,
+      "ask": 179.0,
       "bid": 161.0
     },
     "Crimson Enhancer": {
@@ -407,11 +407,11 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 357.0,
-      "bid": 175.0
+      "bid": 175.5
     },
     "Dragon Fruit Yogurt": {
       "ask": 262.5,
-      "bid": 157.5
+      "bid": 160.0
     },
     "Efficiency Tea": {
       "ask": 796.0,
@@ -430,7 +430,7 @@
       "bid": 20.0
     },
     "Excelsa Coffee Bean": {
-      "ask": 63.5,
+      "ask": 64.0,
       "bid": 44.0
     },
     "Eyessence": {
@@ -438,7 +438,7 @@
       "bid": 43.0
     },
     "Fermenting Tea": {
-      "ask": 466.0,
+      "ask": 465.5,
       "bid": 100.0
     },
     "Fieriosa Coffee Bean": {
@@ -494,8 +494,8 @@
       "bid": 104.0
     },
     "Grizzly Bear Fluff": {
-      "ask": 142828.0,
-      "bid": 85000.5
+      "ask": 142799.0,
+      "bid": 85001.0
     },
     "Grizzly Bear Shoes": {
       "ask": 1800000.0,
@@ -599,14 +599,14 @@
     },
     "Maim": {
       "ask": 1389994.5,
-      "bid": 210002.0
+      "bid": 220002.0
     },
     "Marsberry": {
       "ask": 27.0,
       "bid": 17.0
     },
     "Marsberry Cake": {
-      "ask": 287.0,
+      "ask": 285.0,
       "bid": 252.0
     },
     "Marsberry Donut": {
@@ -646,7 +646,7 @@
       "bid": 6.0
     },
     "Orange Gummy": {
-      "ask": 540.0,
+      "ask": 539.5,
       "bid": 30.0
     },
     "Orange Yogurt": {
@@ -666,7 +666,7 @@
       "bid": 12.0
     },
     "Peach Gummy": {
-      "ask": 315.0,
+      "ask": 314.5,
       "bid": 120.0
     },
     "Peach Yogurt": {
@@ -686,12 +686,12 @@
       "bid": 6.0
     },
     "Plum Gummy": {
-      "ask": 313.0,
+      "ask": 312.5,
       "bid": 70.0
     },
     "Plum Yogurt": {
       "ask": 274.0,
-      "bid": 130.0
+      "bid": 130.5
     },
     "Poke": {
       "ask": 10436.0,
@@ -706,7 +706,7 @@
       "bid": 70000.0
     },
     "Power Coffee": {
-      "ask": 292.5,
+      "ask": 292.0,
       "bid": 150.0
     },
     "Precision": {
@@ -726,12 +726,12 @@
       "bid": -1.0
     },
     "Rainbow Bulwark": {
-      "ask": 40000.0,
+      "ask": 48429.0,
       "bid": -1.0
     },
     "Rainbow Cheese": {
       "ask": 258.0,
-      "bid": 193.5
+      "bid": 194.5
     },
     "Rainbow Enhancer": {
       "ask": 45123.0,
@@ -758,7 +758,7 @@
       "bid": 31.0
     },
     "Rainbow Plate Body": {
-      "ask": 33500.0,
+      "ask": 33499.5,
       "bid": -1.0
     },
     "Rainbow Plate Legs": {
@@ -786,8 +786,8 @@
       "bid": 17982.0
     },
     "Red Tea Leaf": {
-      "ask": 296.0,
-      "bid": 244.0
+      "ask": 295.5,
+      "bid": 218.0
     },
     "Robusta Coffee Bean": {
       "ask": 98.0,
@@ -799,7 +799,7 @@
     },
     "Smack": {
       "ask": 26356.0,
-      "bid": 20503.0
+      "bid": 21000.0
     },
     "Small Pouch": {
       "ask": 9000.0,
@@ -835,7 +835,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 192.0,
-      "bid": 158.5
+      "bid": 159.0
     },
     "Stamina Coffee": {
       "ask": 330.0,
@@ -843,7 +843,7 @@
     },
     "Star Fruit": {
       "ask": 245.0,
-      "bid": 98.0
+      "bid": 94.0
     },
     "Star Fruit Gummy": {
       "ask": 900.0,
@@ -946,7 +946,7 @@
       "bid": 202.0
     },
     "Vampire Fang": {
-      "ask": 1650000.0,
+      "ask": 1600000.0,
       "bid": 1255011.0
     },
     "Vampire Fang Dirk": {
