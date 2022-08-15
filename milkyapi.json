@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 234410,
+      "ask": 222690,
       "bid": 140010,
       "vendor": 1000
     },
@@ -187,7 +187,7 @@
     },
     "Brewing Tea": {
       "ask": 170,
-      "bid": 98,
+      "bid": -1,
       "vendor": 20
     },
     "Burble Boots": {
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 299,
+      "ask": 257,
       "bid": 201,
       "vendor": 36
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 190,
+      "ask": 239,
       "bid": 150,
       "vendor": 54
     },
@@ -681,8 +681,8 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 170,
-      "bid": 142,
+      "ask": 169,
+      "bid": 143,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -736,7 +736,7 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 197,
+      "ask": 196,
       "bid": 90,
       "vendor": 40
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 94045,
+      "ask": 99000,
       "bid": 70005,
       "vendor": 3000
     },
@@ -1031,13 +1031,13 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 627,
+      "ask": 628,
       "bid": 535,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 640,
-      "bid": 301,
+      "bid": 310,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1142,7 +1142,7 @@
     },
     "Swamp Essence": {
       "ask": 36,
-      "bid": 26,
+      "bid": 27,
       "vendor": 8
     },
     "Sweep": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660551302.1970417
+  "time": 1660552201.964837
 }
