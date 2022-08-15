@@ -236,7 +236,7 @@
       "vendor": 2700
     },
     "Burble Mace": {
-      "ask": 9500,
+      "ask": 16485,
       "bid": -1,
       "vendor": 3240
     },
@@ -331,7 +331,7 @@
       "vendor": 60
     },
     "Cheese Mace": {
-      "ask": 949,
+      "ask": -1,
       "bid": 166,
       "vendor": 72
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 68728,
+      "ask": 73000,
       "bid": 50052,
       "vendor": 1000
     },
@@ -456,7 +456,7 @@
       "vendor": 11664
     },
     "Crimson Plate Legs": {
-      "ask": 27073,
+      "ask": 29999,
       "bid": -1,
       "vendor": 9072
     },
@@ -526,8 +526,8 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 200,
-      "bid": 155,
+      "ask": 349,
+      "bid": 200,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 592,
+      "ask": 591,
       "bid": 587,
       "vendor": 162
     },
@@ -671,7 +671,7 @@
       "vendor": 44550
     },
     "Holy Helmet": {
-      "ask": 49999,
+      "ask": 50000,
       "bid": 37456,
       "vendor": 44550
     },
@@ -711,7 +711,7 @@
       "vendor": 44550
     },
     "Holy Spear": {
-      "ask": 55715,
+      "ask": 58989,
       "bid": 45000,
       "vendor": 53460
     },
@@ -752,7 +752,7 @@
     },
     "Marsberry": {
       "ask": 25,
-      "bid": 22,
+      "bid": 23,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -877,7 +877,7 @@
     },
     "Polar Bear Shoes": {
       "ask": -1,
-      "bid": 70000,
+      "bid": 103422,
       "vendor": 60000
     },
     "Power Coffee": {
@@ -971,7 +971,7 @@
       "vendor": 14985
     },
     "Rainbow Spear": {
-      "ask": 30000,
+      "ask": -1,
       "bid": 15000,
       "vendor": 17982
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 691,
+      "ask": 690,
       "bid": 608,
       "vendor": 75
     },
@@ -1136,7 +1136,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 433,
+      "ask": 410,
       "bid": 200,
       "vendor": 40
     },
@@ -1177,7 +1177,7 @@
     },
     "Twilight Essence": {
       "ask": 216,
-      "bid": 200,
+      "bid": 198,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 626,
+      "ask": 627,
       "bid": 566,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660534203.5210314
+  "time": 1660535102.1295528
 }
