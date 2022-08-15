@@ -21,12 +21,12 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 124,
+      "ask": 120,
       "bid": 55,
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 838,
+      "ask": 830,
       "bid": 600,
       "vendor": 75
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 178,
+      "ask": 177,
       "bid": 121,
       "vendor": 24
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 68,
+      "ask": 65,
       "bid": 27,
       "vendor": 8
     },
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 219,
+      "ask": 237,
       "bid": 216,
       "vendor": 12
     },
@@ -511,13 +511,13 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 285,
+      "ask": 287,
       "bid": 268,
       "vendor": 50
     },
     "Efficiency Tea": {
       "ask": 918,
-      "bid": 745,
+      "bid": 800,
       "vendor": 50
     },
     "Egg": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 325,
+      "ask": 275,
       "bid": 205,
       "vendor": 54
     },
@@ -606,18 +606,18 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 445,
+      "ask": 440,
       "bid": 315,
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 103,
-      "bid": 100,
+      "ask": 99,
+      "bid": 92,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
       "ask": 115000,
-      "bid": 90302,
+      "bid": 90301,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -736,7 +736,7 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 196,
+      "ask": 195,
       "bid": 102,
       "vendor": 40
     },
@@ -772,7 +772,7 @@
     },
     "Milk": {
       "ask": 20,
-      "bid": 5,
+      "bid": 6,
       "vendor": 2
     },
     "Milking Tea": {
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 541499,
+      "ask": 499999,
       "bid": 183005,
       "vendor": 3000
     },
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 5087,
+      "ask": 4833,
       "bid": 1002,
       "vendor": 1000
     },
@@ -881,7 +881,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 287,
+      "ask": 200,
       "bid": 195,
       "vendor": 30
     },
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 328,
-      "bid": 205,
+      "ask": 327,
+      "bid": 204,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -991,12 +991,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 31069,
+      "ask": 29516,
       "bid": 10008,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 30898,
+      "ask": 29353,
       "bid": 21006,
       "vendor": 1000
     },
@@ -1061,17 +1061,17 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 679,
+      "ask": 680,
       "bid": 610,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 29,
+      "ask": 30,
       "bid": 24,
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 238,
+      "ask": 235,
       "bid": 46,
       "vendor": 30
     },
@@ -1126,12 +1126,12 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": -1,
+      "ask": 700,
       "bid": 102,
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 474,
+      "ask": 473,
       "bid": 352,
       "vendor": 75
     },
@@ -1141,12 +1141,12 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 36,
+      "ask": 35,
       "bid": 27,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 191999,
+      "ask": 182399,
       "bid": 130015,
       "vendor": 1000
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 21849,
+      "ask": 20000,
       "bid": 8500,
       "vendor": 1000
     },
@@ -1246,7 +1246,7 @@
       "vendor": 360
     },
     "Verdant Milk": {
-      "ask": 30,
+      "ask": 29,
       "bid": 26,
       "vendor": 4
     },
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1149995,
+      "ask": 1149994,
       "bid": 400000,
       "vendor": 10000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660564803.4823058
+  "time": 1660565702.530438
 }
