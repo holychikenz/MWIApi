@@ -41,7 +41,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 9977,
+      "ask": 5000,
       "bid": 1150,
       "vendor": 1080
     },
@@ -737,7 +737,7 @@
     },
     "Lucky Coffee": {
       "ask": 196,
-      "bid": 90,
+      "bid": 100,
       "vendor": 40
     },
     "Magnifying Glass": {
@@ -746,7 +746,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 1100000,
+      "ask": 1099999,
       "bid": 400000,
       "vendor": 1000
     },
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 498,
+      "ask": 497,
       "bid": -1,
       "vendor": 50
     },
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 600000,
+      "ask": 569999,
       "bid": 183005,
       "vendor": 3000
     },
@@ -836,8 +836,8 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 199,
-      "bid": 180,
+      "ask": 198,
+      "bid": 145,
       "vendor": 40
     },
     "Pierce": {
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 7286,
+      "ask": 7285,
       "bid": 1002,
       "vendor": 1000
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 13888,
+      "ask": 13887,
       "bid": 10060,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 329,
+      "ask": 328,
       "bid": 226,
       "vendor": 81
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 266,
+      "ask": 265,
       "bid": 213,
       "vendor": 27
     },
@@ -991,7 +991,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 31073,
+      "ask": 31069,
       "bid": 10007,
       "vendor": 1000
     },
@@ -1147,11 +1147,11 @@
     },
     "Sweep": {
       "ask": 191999,
-      "bid": 130013,
+      "bid": 130014,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 603,
+      "ask": 600,
       "bid": 431,
       "vendor": 50
     },
@@ -1177,7 +1177,7 @@
     },
     "Twilight Essence": {
       "ask": 222,
-      "bid": 201,
+      "bid": 205,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1191,8 +1191,8 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 496423,
-      "bid": 108521,
+      "ask": 496422,
+      "bid": 108522,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660559401.8661823
+  "time": 1660560302.6552618
 }
