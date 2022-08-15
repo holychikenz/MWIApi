@@ -17,16 +17,16 @@
     },
     "Aqua Essence": {
       "ask": 56,
-      "bid": 29,
+      "bid": 30,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
       "ask": 125,
-      "bid": 73,
+      "bid": 55,
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 839,
+      "ask": 838,
       "bid": 597,
       "vendor": 75
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 238,
-      "bid": 150,
+      "bid": 151,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 20,
+      "ask": 19,
       "bid": 18,
       "vendor": 18
     },
@@ -521,12 +521,12 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 17,
+      "ask": 16,
       "bid": 10,
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 327,
+      "ask": 326,
       "bid": 205,
       "vendor": 54
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 41,
+      "ask": 42,
       "bid": 38,
       "vendor": 36
     },
@@ -581,7 +581,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 31,
+      "ask": 33,
       "bid": 25,
       "vendor": 24
     },
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 35000,
+      "ask": 34999,
       "bid": 20000,
       "vendor": 20000
     },
@@ -616,7 +616,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 120000,
+      "ask": 115000,
       "bid": 90302,
       "vendor": 3000
     },
@@ -836,8 +836,8 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 198,
-      "bid": 145,
+      "ask": 199,
+      "bid": 138,
       "vendor": 40
     },
     "Pierce": {
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 7285,
+      "ask": 6921,
       "bid": 1002,
       "vendor": 1000
     },
@@ -876,12 +876,12 @@
       "vendor": 3000
     },
     "Polar Bear Shoes": {
-      "ask": -1,
+      "ask": 1600000,
       "bid": 103422,
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 289,
+      "ask": 288,
       "bid": 195,
       "vendor": 30
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 265,
+      "ask": 264,
       "bid": 213,
       "vendor": 27
     },
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 1135,
+      "ask": 1134,
       "bid": 500,
       "vendor": 100
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 218,
+      "ask": 217,
       "bid": 93,
       "vendor": 27
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660560302.6552618
+  "time": 1660561201.6639817
 }
