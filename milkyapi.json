@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 21,
+      "ask": 19,
       "bid": 6,
       "vendor": 2
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 55,
+      "ask": 53,
       "bid": 40,
       "vendor": 8
     },
@@ -521,8 +521,8 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 19,
-      "bid": 11,
+      "ask": 17,
+      "bid": 10,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 100,
+      "ask": 98,
       "bid": 75,
       "vendor": 4
     },
@@ -751,8 +751,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 27,
-      "bid": 23,
+      "ask": 28,
+      "bid": 24,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -762,7 +762,7 @@
     },
     "Marsberry Donut": {
       "ask": 488,
-      "bid": 250,
+      "bid": 255,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -862,11 +862,11 @@
     },
     "Plum Yogurt": {
       "ask": 195,
-      "bid": 146,
+      "bid": 147,
       "vendor": 30
     },
     "Poke": {
-      "ask": 5827,
+      "ask": 5536,
       "bid": 1004,
       "vendor": 1000
     },
@@ -991,12 +991,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 23464,
+      "ask": 22291,
       "bid": 12011,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 30785,
+      "ask": 29246,
       "bid": 18007,
       "vendor": 1000
     },
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 552,
-      "bid": 418,
+      "bid": 420,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 175,
+      "ask": 174,
       "bid": 109,
       "vendor": 27
     },
@@ -1141,12 +1141,12 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 30,
+      "ask": 28,
       "bid": 21,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 240000,
+      "ask": 228000,
       "bid": 135000,
       "vendor": 1000
     },
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1819997,
-      "bid": 1400003,
+      "bid": 1401000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 470418,
+      "ask": 470000,
       "bid": 115005,
       "vendor": 1000
     },
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 15,
+      "ask": 16,
       "bid": 12,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660669201.930454
+  "time": 1660670102.7277656
 }
