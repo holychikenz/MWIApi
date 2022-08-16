@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 22,
+      "ask": 15,
       "bid": 6,
       "vendor": 2
     },
@@ -12,7 +12,7 @@
     },
     "Apple Yogurt": {
       "ask": 1000000000000,
-      "bid": 50,
+      "bid": 15,
       "vendor": 10
     },
     "Aqua Essence": {
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 172,
+      "ask": 171,
       "bid": 124,
       "vendor": 24
     },
@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 39,
+      "ask": 35,
       "bid": 30,
       "vendor": 8
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 16,
+      "ask": 14,
       "bid": 10,
       "vendor": 2
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 270,
+      "ask": 269,
       "bid": 201,
       "vendor": 36
     },
@@ -281,13 +281,13 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 229,
+      "ask": 225,
       "bid": 220,
       "vendor": 12
     },
     "Cheese": {
-      "ask": 137,
-      "bid": 79,
+      "ask": 136,
+      "bid": 77,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -501,13 +501,13 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 76,
+      "ask": 70,
       "bid": 45,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 825,
-      "bid": 201,
+      "ask": 824,
+      "bid": 300,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 49,
+      "ask": 45,
       "bid": 36,
       "vendor": 36
     },
@@ -551,8 +551,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 208,
-      "bid": 181,
+      "ask": 199,
+      "bid": 172,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -567,7 +567,7 @@
     },
     "Gathering Tea": {
       "ask": 405,
-      "bid": 355,
+      "bid": 320,
       "vendor": 10
     },
     "Gator Vest": {
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 108,
+      "ask": 107,
       "bid": 72,
       "vendor": 4
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 593,
+      "ask": 591,
       "bid": 563,
       "vendor": 162
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 168,
+      "ask": 167,
       "bid": 142,
       "vendor": 54
     },
@@ -751,17 +751,17 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 29,
+      "ask": 25,
       "bid": 20,
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 280,
+      "ask": 270,
       "bid": 211,
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 483,
+      "ask": 482,
       "bid": 100,
       "vendor": 50
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 500,
+      "ask": 387,
       "bid": 171,
       "vendor": 40
     },
@@ -801,7 +801,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 7,
+      "ask": 6,
       "bid": 5,
       "vendor": 4
     },
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 300000,
+      "ask": 295000,
       "bid": 185005,
       "vendor": 3000
     },
@@ -826,13 +826,13 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 18,
+      "ask": 16,
       "bid": 15,
       "vendor": 9
     },
     "Peach Gummy": {
       "ask": 298,
-      "bid": 71,
+      "bid": 150,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -851,7 +851,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 16,
+      "ask": 14,
       "bid": 6,
       "vendor": 6
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 119995,
+      "ask": 105000,
       "bid": 81001,
       "vendor": 3000
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 28898,
+      "ask": 20000,
       "bid": 10060,
       "vendor": 1000
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 257,
+      "ask": 250,
       "bid": 240,
       "vendor": 27
     },
@@ -991,12 +991,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 25999,
+      "ask": 24699,
       "bid": 12005,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 25999,
+      "ask": 24699,
       "bid": 21008,
       "vendor": 1000
     },
@@ -1027,12 +1027,12 @@
     },
     "Spaceberry": {
       "ask": 104,
-      "bid": 59,
+      "bid": 90,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 591,
-      "bid": 415,
+      "ask": 589,
+      "bid": 416,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1046,7 +1046,7 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 300,
+      "ask": 299,
       "bid": 100,
       "vendor": 10
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 28,
+      "ask": 26,
       "bid": 25,
       "vendor": 6
     },
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 505,
+      "ask": 508,
       "bid": 455,
       "vendor": 50
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 18049,
+      "ask": 18000,
       "bid": 8502,
       "vendor": 1000
     },
@@ -1192,7 +1192,7 @@
     },
     "Vampirism": {
       "ask": 496422,
-      "bid": 108529,
+      "bid": 115000,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1216,7 +1216,7 @@
       "vendor": 600
     },
     "Verdant Cheese": {
-      "ask": 135,
+      "ask": 134,
       "bid": 112,
       "vendor": 12
     },
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1999999,
+      "ask": 1800000,
       "bid": 1050069,
       "vendor": 10000
     },
@@ -1317,9 +1317,9 @@
     },
     "Yogurt": {
       "ask": 999,
-      "bid": 50,
+      "bid": 8,
       "vendor": 5
     }
   },
-  "time": 1660608002.4208143
+  "time": 1660608902.0123613
 }
