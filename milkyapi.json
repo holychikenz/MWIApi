@@ -186,7 +186,7 @@
       "vendor": 10
     },
     "Brewing Tea": {
-      "ask": 165,
+      "ask": 164,
       "bid": -1,
       "vendor": 20
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 839,
+      "ask": 919,
       "bid": 704,
       "vendor": 50
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 161693,
+      "ask": 193611,
       "bid": 120000,
       "vendor": 10000
     },
@@ -616,7 +616,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 80000,
+      "ask": 90000,
       "bid": 60000,
       "vendor": 3000
     },
@@ -771,12 +771,12 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 30,
+      "ask": 32,
       "bid": 10,
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 272,
+      "ask": 500,
       "bid": 151,
       "vendor": 10
     },
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 224438,
+      "ask": 224437,
       "bid": 100000,
       "vendor": 3000
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 642,
+      "ask": 643,
       "bid": 578,
       "vendor": 75
     },
@@ -1081,7 +1081,7 @@
       "vendor": 30
     },
     "Sugar": {
-      "ask": 4,
+      "ask": 5,
       "bid": 3,
       "vendor": 1
     },
@@ -1126,8 +1126,8 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 950,
-      "bid": 102,
+      "ask": -1,
+      "bid": 365,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 599,
+      "ask": 600,
       "bid": 322,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660677302.8310797
+  "time": 1660678202.5685298
 }
