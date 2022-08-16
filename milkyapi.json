@@ -516,8 +516,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 868,
-      "bid": 850,
+      "ask": 867,
+      "bid": 780,
       "vendor": 50
     },
     "Egg": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 174999,
+      "ask": 150000,
       "bid": 105024,
       "vendor": 1000
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 158,
-      "bid": 147,
+      "bid": 145,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1000000,
+      "ask": -1,
       "bid": 577500,
       "vendor": 500000
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 250,
+      "ask": 265,
       "bid": 239,
       "vendor": 27
     },
@@ -1031,12 +1031,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 557,
+      "ask": 556,
       "bid": 417,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 799,
+      "ask": 797,
       "bid": 502,
       "vendor": 75
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 181,
+      "ask": 180,
       "bid": 110,
       "vendor": 27
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660655702.7186027
+  "time": 1660656602.3540912
 }
