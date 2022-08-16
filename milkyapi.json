@@ -132,12 +132,12 @@
     },
     "Berserk": {
       "ask": 187634,
-      "bid": 151090,
+      "bid": 151091,
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 89996,
-      "bid": 21000,
+      "ask": 80000,
+      "bid": 21001,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 238,
+      "ask": 230,
       "bid": 176,
       "vendor": 36
     },
@@ -221,7 +221,7 @@
       "vendor": 2700
     },
     "Burble Gauntlets": {
-      "ask": 17416,
+      "ask": -1,
       "bid": 4002,
       "vendor": 2160
     },
@@ -231,7 +231,7 @@
       "vendor": 2700
     },
     "Burble Helmet": {
-      "ask": 19619,
+      "ask": 20652,
       "bid": -1,
       "vendor": 2700
     },
@@ -246,12 +246,12 @@
       "vendor": 12
     },
     "Burble Plate Body": {
-      "ask": 25000,
+      "ask": -1,
       "bid": 6000,
       "vendor": 4860
     },
     "Burble Plate Legs": {
-      "ask": 18810,
+      "ask": 19800,
       "bid": -1,
       "vendor": 3780
     },
@@ -281,8 +281,8 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 229,
-      "bid": 200,
+      "ask": 230,
+      "bid": 201,
       "vendor": 12
     },
     "Cheese": {
@@ -412,11 +412,11 @@
     },
     "Crimson Bulwark": {
       "ask": 40000,
-      "bid": -1,
+      "bid": 16000,
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 207,
+      "ask": 205,
       "bid": 181,
       "vendor": 54
     },
@@ -511,12 +511,12 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 286,
+      "ask": 287,
       "bid": 271,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 850,
+      "ask": 849,
       "bid": 704,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 565,
+      "ask": 550,
       "bid": 303,
       "vendor": 54
     },
@@ -562,11 +562,11 @@
     },
     "Frenzy": {
       "ask": 133000,
-      "bid": 105050,
+      "bid": 105051,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 458,
+      "ask": 459,
       "bid": 321,
       "vendor": 10
     },
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 26982,
+      "ask": 26981,
       "bid": 20000,
       "vendor": 20000
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 199969,
+      "ask": 199968,
       "bid": 160001,
       "vendor": 10000
     },
@@ -617,7 +617,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 99996,
-      "bid": 75000,
+      "bid": 60000,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -681,8 +681,8 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 150,
-      "bid": 140,
+      "ask": 153,
+      "bid": 141,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -756,13 +756,13 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 275,
+      "ask": 279,
       "bid": 233,
       "vendor": 50
     },
     "Marsberry Donut": {
       "ask": 489,
-      "bid": 210,
+      "bid": 240,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 229421,
+      "ask": 225000,
       "bid": 100000,
       "vendor": 3000
     },
@@ -831,7 +831,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 380,
+      "ask": 394,
       "bid": 167,
       "vendor": 40
     },
@@ -872,7 +872,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 99997,
-      "bid": 85001,
+      "bid": 85002,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -981,8 +981,8 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 259,
-      "bid": 239,
+      "ask": 258,
+      "bid": 241,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1036,8 +1036,8 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 720,
-      "bid": 502,
+      "ask": 714,
+      "bid": 550,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1081,7 +1081,7 @@
       "vendor": 30
     },
     "Sugar": {
-      "ask": 5,
+      "ask": 4,
       "bid": 3,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660663802.1944122
+  "time": 1660664702.4225447
 }
