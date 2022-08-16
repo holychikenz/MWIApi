@@ -7,7 +7,7 @@
     },
     "Apple Gummy": {
       "ask": 146,
-      "bid": 56,
+      "bid": 57,
       "vendor": 10
     },
     "Apple Yogurt": {
@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 47,
-      "bid": 18,
+      "bid": 19,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 199498,
-      "bid": 155001,
+      "bid": 155002,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -182,7 +182,7 @@
     },
     "Blueberry Donut": {
       "ask": 999999999999,
-      "bid": 12,
+      "bid": 12345,
       "vendor": 10
     },
     "Brewing Tea": {
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 215,
+      "ask": 204,
       "bid": 177,
       "vendor": 36
     },
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 49,
+      "ask": 48,
       "bid": 35,
       "vendor": 12
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 880,
+      "ask": 879,
       "bid": 705,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 540,
+      "ask": 539,
       "bid": 303,
       "vendor": 54
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 592,
+      "ask": 590,
       "bid": 561,
       "vendor": 162
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 149,
+      "ask": 148,
       "bid": 145,
       "vendor": 54
     },
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Plate Legs": {
-      "ask": 105000,
+      "ask": 99750,
       "bid": -1,
       "vendor": 62370
     },
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 124000,
+      "ask": 123999,
       "bid": 60000,
       "vendor": 10000
     },
@@ -757,7 +757,7 @@
     },
     "Marsberry Cake": {
       "ask": 250,
-      "bid": 241,
+      "bid": 240,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -776,7 +776,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": -1,
+      "ask": 1000,
       "bid": 151,
       "vendor": 10
     },
@@ -1036,7 +1036,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 699,
+      "ask": 702,
       "bid": 550,
       "vendor": 75
     },
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 900,
+      "ask": 1080,
       "bid": 105,
       "vendor": 75
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660685401.9486804
+  "time": 1660686302.4626133
 }
