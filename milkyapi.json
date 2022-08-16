@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 64,
+      "ask": 63,
       "bid": 62,
       "vendor": 54
     },
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 22,
-      "bid": 10,
+      "bid": 15,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 97,
+      "ask": 103,
       "bid": 74,
       "vendor": 4
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 152,
+      "ask": 144,
       "bid": 141,
       "vendor": 54
     },
@@ -761,17 +761,17 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 489,
+      "ask": 488,
       "bid": 255,
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 79000,
+      "ask": 75050,
       "bid": 25645,
       "vendor": 50000
     },
     "Milk": {
-      "ask": 32,
+      "ask": 30,
       "bid": 10,
       "vendor": 2
     },
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 44900,
+      "ask": 30000,
       "bid": 1004,
       "vendor": 1000
     },
@@ -1311,8 +1311,8 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 599,
-      "bid": 501,
+      "ask": 450,
+      "bid": 322,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660674602.1321952
+  "time": 1660675502.4769936
 }
