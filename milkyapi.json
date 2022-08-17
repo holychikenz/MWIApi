@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 40,
-      "bid": 28,
+      "bid": 30,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -126,8 +126,8 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 173,
-      "bid": 67,
+      "ask": 172,
+      "bid": 68,
       "vendor": 54
     },
     "Berserk": {
@@ -261,7 +261,7 @@
       "vendor": 2700
     },
     "Burble Shears": {
-      "ask": 14554,
+      "ask": 13826,
       "bid": 3360,
       "vendor": 2700
     },
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 69003,
-      "bid": 51074,
+      "bid": 51075,
       "vendor": 1000
     },
     "Coin": {
@@ -411,7 +411,7 @@
       "vendor": 7776
     },
     "Crimson Bulwark": {
-      "ask": 30000,
+      "ask": 25000,
       "bid": 17000,
       "vendor": 12960
     },
@@ -466,7 +466,7 @@
       "vendor": 6480
     },
     "Crimson Shears": {
-      "ask": 15000,
+      "ask": -1,
       "bid": 10000,
       "vendor": 6480
     },
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 177950,
-      "bid": 136002,
+      "bid": 136003,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 26971,
+      "ask": 25000,
       "bid": 20000,
       "vendor": 20000
     },
@@ -636,7 +636,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 91999,
+      "ask": 71000,
       "bid": 68000,
       "vendor": 44550
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 580,
-      "bid": 541,
+      "bid": 544,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -677,12 +677,12 @@
     },
     "Holy Mace": {
       "ask": 99998,
-      "bid": 84000,
+      "bid": 85000,
       "vendor": 53460
     },
     "Holy Milk": {
       "ask": 145,
-      "bid": 129,
+      "bid": 130,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -731,7 +731,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 120,
+      "ask": 119,
       "bid": 110,
       "vendor": 12
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 219,
+      "ask": 218,
       "bid": 135,
       "vendor": 40
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 13,
+      "ask": 15,
       "bid": 12,
       "vendor": 9
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 207,
+      "ask": 200,
       "bid": 156,
       "vendor": 40
     },
@@ -856,7 +856,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 194,
+      "ask": 195,
       "bid": 160,
       "vendor": 30
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 40,
+      "ask": 41,
       "bid": 39,
       "vendor": 27
     },
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 90,
+      "ask": 89,
       "bid": 68,
       "vendor": 27
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 446,
+      "ask": 445,
       "bid": 390,
       "vendor": 75
     },
@@ -1146,12 +1146,12 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 192908,
-      "bid": 150008,
+      "ask": 183263,
+      "bid": 150009,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 514,
+      "ask": 513,
       "bid": 212,
       "vendor": 50
     },
@@ -1191,8 +1191,8 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 383154,
-      "bid": 200012,
+      "ask": 380000,
+      "bid": 200013,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1286,18 +1286,18 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 250000,
+      "ask": 269000,
       "bid": 50001,
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 239999,
+      "ask": 239998,
       "bid": 50000,
       "vendor": 20000
     },
     "Werewolf Claw": {
       "ask": 2493748,
-      "bid": 1155010,
+      "bid": 1155011,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660765501.8148487
+  "time": 1660766401.8709397
 }
