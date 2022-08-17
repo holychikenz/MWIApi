@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 849,
+      "ask": 848,
       "bid": 652,
       "vendor": 75
     },
@@ -166,8 +166,8 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 625,
-      "bid": 420,
+      "ask": 624,
+      "bid": -1,
       "vendor": 75
     },
     "Blueberry": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 201,
+      "ask": 200,
       "bid": 173,
       "vendor": 54
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 46,
+      "ask": 47,
       "bid": 41,
       "vendor": 36
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 178000,
+      "ask": 177999,
       "bid": 135012,
       "vendor": 1000
     },
@@ -596,7 +596,7 @@
       "vendor": 20000
     },
     "Gobo Stabber": {
-      "ask": 19140,
+      "ask": 19139,
       "bid": 10,
       "vendor": 20000
     },
@@ -676,7 +676,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 86242,
+      "ask": 86312,
       "bid": 85000,
       "vendor": 53460
     },
@@ -766,7 +766,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 70000,
+      "ask": 65000,
       "bid": 25645,
       "vendor": 50000
     },
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 277,
-      "bid": 255,
+      "ask": 276,
+      "bid": 226,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1086,8 +1086,8 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 493,
-      "bid": 450,
+      "ask": 492,
+      "bid": 418,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 529,
+      "ask": 528,
       "bid": 125,
       "vendor": 50
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 534,
+      "ask": 532,
       "bid": 460,
       "vendor": 50
     },
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1600000,
-      "bid": 839999,
+      "bid": 849999,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660720502.6840615
+  "time": 1660721402.303076
 }
