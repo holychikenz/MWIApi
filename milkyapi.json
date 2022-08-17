@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 21,
-      "bid": 6,
+      "ask": 22,
+      "bid": 7,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 624,
+      "ask": 968,
       "bid": 450,
       "vendor": 75
     },
@@ -301,7 +301,7 @@
       "vendor": 60
     },
     "Cheese Buckler": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 214,
       "vendor": 72
     },
@@ -511,12 +511,12 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 285,
+      "ask": 287,
       "bid": 268,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 909,
+      "ask": 900,
       "bid": 711,
       "vendor": 50
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 45,
+      "ask": 47,
       "bid": 41,
       "vendor": 36
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 99,
-      "bid": 79,
+      "bid": 80,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 999998,
+      "ask": 950000,
       "bid": 606399,
       "vendor": 500000
     },
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 375,
+      "ask": 445,
       "bid": 170,
       "vendor": 50
     },
@@ -771,12 +771,12 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 24,
+      "ask": 25,
       "bid": 9,
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 499,
+      "ask": 1000,
       "bid": 200,
       "vendor": 10
     },
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 32,
+      "ask": 35,
       "bid": 22,
       "vendor": 18
     },
@@ -817,7 +817,7 @@
     },
     "Panda Fluff": {
       "ask": 173559,
-      "bid": 100001,
+      "bid": 100010,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 114995,
+      "ask": 109245,
       "bid": 90001,
       "vendor": 3000
     },
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 271,
-      "bid": 228,
+      "ask": 275,
+      "bid": 227,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -942,7 +942,7 @@
     },
     "Rainbow Milk": {
       "ask": 41,
-      "bid": 38,
+      "bid": 39,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 263,
-      "bid": 251,
+      "bid": 252,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 91,
+      "ask": 90,
       "bid": 68,
       "vendor": 27
     },
@@ -1036,7 +1036,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 500,
+      "ask": 498,
       "bid": 120,
       "vendor": 75
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 143,
+      "ask": 138,
       "bid": 85,
       "vendor": 27
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 639,
+      "ask": 635,
       "bid": 600,
       "vendor": 75
     },
@@ -1127,12 +1127,12 @@
     },
     "Super Milking Tea": {
       "ask": -1,
-      "bid": 1000,
+      "bid": 102,
       "vendor": 40
     },
     "Super Power Coffee": {
       "ask": 447,
-      "bid": 391,
+      "bid": 392,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1161,7 +1161,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 18048,
+      "ask": 18047,
       "bid": 5000,
       "vendor": 1500
     },
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 255,
+      "ask": 250,
       "bid": 177,
       "vendor": 108
     },
@@ -1311,8 +1311,8 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 589,
-      "bid": 525,
+      "ask": 587,
+      "bid": 505,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660757402.4478872
+  "time": 1660758302.5706196
 }
