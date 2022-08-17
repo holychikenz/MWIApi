@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 21,
+      "ask": 20,
       "bid": 7,
       "vendor": 2
     },
@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 167,
+      "ask": 166,
       "bid": 70,
       "vendor": 54
     },
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 50,
-      "bid": 41,
+      "bid": 42,
       "vendor": 8
     },
     "Blackberry": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 193,
-      "bid": 169,
+      "bid": 167,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 188,
-      "bid": 91,
+      "bid": 90,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 92,
-      "bid": 80,
+      "bid": 81,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 572,
-      "bid": 530,
+      "ask": 571,
+      "bid": 531,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -776,7 +776,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 663,
+      "ask": 500,
       "bid": 210,
       "vendor": 10
     },
@@ -832,7 +832,7 @@
     },
     "Peach Gummy": {
       "ask": 319,
-      "bid": 170,
+      "bid": 169,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 259,
-      "bid": 253,
+      "bid": 254,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 545,
-      "bid": 418,
+      "bid": 419,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1162,7 +1162,7 @@
     },
     "Turtle Shell": {
       "ask": 17000,
-      "bid": 5001,
+      "bid": 5005,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -1291,7 +1291,7 @@
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 239996,
+      "ask": 239995,
       "bid": 50000,
       "vendor": 20000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660777202.2299762
+  "time": 1660778102.77183
 }
