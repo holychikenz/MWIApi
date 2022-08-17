@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": -1,
+      "ask": 60000,
       "bid": 20001,
       "vendor": 1500
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 950,
+      "ask": 959,
       "bid": 800,
       "vendor": 50
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 432,
+      "ask": 431,
       "bid": 321,
       "vendor": 10
     },
@@ -581,7 +581,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 44,
+      "ask": 43,
       "bid": 27,
       "vendor": 24
     },
@@ -617,7 +617,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 119999,
-      "bid": 73001,
+      "bid": 73002,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 588,
+      "ask": 587,
       "bid": 542,
       "vendor": 162
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 144,
+      "ask": 143,
       "bid": 107,
       "vendor": 54
     },
@@ -776,8 +776,8 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": -1,
-      "bid": 151,
+      "ask": 1000,
+      "bid": 200,
       "vendor": 10
     },
     "Mooberry": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 274,
+      "ask": 273,
       "bid": 227,
       "vendor": 81
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 270,
+      "ask": 257,
       "bid": 244,
       "vendor": 27
     },
@@ -1036,13 +1036,13 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 574,
+      "ask": 573,
       "bid": 502,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
       "ask": 178,
-      "bid": 142,
+      "bid": 145,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 649,
+      "ask": -1,
       "bid": 202,
       "vendor": 50
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 530,
+      "ask": 529,
       "bid": 433,
       "vendor": 50
     },
@@ -1171,12 +1171,12 @@
       "vendor": 9000
     },
     "Turtle Shell Legs": {
-      "ask": 23999,
+      "ask": 24000,
       "bid": -1,
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 255,
+      "ask": 242,
       "bid": 173,
       "vendor": 108
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 403321,
+      "ask": 383155,
       "bid": 200006,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660734001.4807513
+  "time": 1660734902.5156991
 }
