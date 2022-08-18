@@ -386,7 +386,7 @@
       "vendor": 0
     },
     "Cooking Tea": {
-      "ask": 398,
+      "ask": 390,
       "bid": 100,
       "vendor": 20
     },
@@ -506,7 +506,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 558,
+      "ask": 556,
       "bid": 175,
       "vendor": 50
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": -1,
+      "ask": 300000,
       "bid": 50001,
       "vendor": 5000
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 560,
+      "ask": 559,
       "bid": 543,
       "vendor": 162
     },
@@ -746,7 +746,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 628592,
+      "ask": 628591,
       "bid": 425001,
       "vendor": 1000
     },
@@ -807,11 +807,11 @@
     },
     "Orange Gummy": {
       "ask": 144,
-      "bid": 50,
+      "bid": 100,
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 1000,
+      "ask": 150,
       "bid": 50,
       "vendor": 20
     },
@@ -856,7 +856,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 192,
+      "ask": 194,
       "bid": 71,
       "vendor": 30
     },
@@ -906,7 +906,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 55888,
+      "ask": 55000,
       "bid": -1,
       "vendor": 29970
     },
@@ -991,7 +991,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 18000,
+      "ask": 17000,
       "bid": 12353,
       "vendor": 1000
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 122,
+      "ask": 121,
       "bid": 90,
       "vendor": 27
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 307000,
+      "ask": 306999,
       "bid": 200019,
       "vendor": 1000
     },
@@ -1222,7 +1222,7 @@
     },
     "Verdant Enhancer": {
       "ask": 15300,
-      "bid": 401,
+      "bid": 402,
       "vendor": 300
     },
     "Verdant Gauntlets": {
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 2382038,
-      "bid": 1258003,
+      "bid": 1259000,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660860002.5195713
+  "time": 1660860901.627648
 }
