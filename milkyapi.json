@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 155,
+      "ask": 147,
       "bid": 130,
       "vendor": 24
     },
@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 36,
+      "ask": 33,
       "bid": 27,
       "vendor": 8
     },
@@ -126,13 +126,13 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 118,
-      "bid": 78,
+      "ask": 115,
+      "bid": 76,
       "vendor": 54
     },
     "Berserk": {
       "ask": 219969,
-      "bid": 161008,
+      "bid": 161009,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 220,
+      "ask": 241,
       "bid": 211,
       "vendor": 12
     },
@@ -291,7 +291,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 548,
+      "ask": 550,
       "bid": 133,
       "vendor": 48
     },
@@ -301,7 +301,7 @@
       "vendor": 60
     },
     "Cheese Buckler": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 215,
       "vendor": 72
     },
@@ -316,7 +316,7 @@
       "vendor": 60
     },
     "Cheese Gauntlets": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 174,
       "vendor": 48
     },
@@ -326,7 +326,7 @@
       "vendor": 60
     },
     "Cheese Helmet": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 269,
       "vendor": 60
     },
@@ -336,12 +336,12 @@
       "vendor": 72
     },
     "Cheese Plate Body": {
-      "ask": 4188,
+      "ask": 4197,
       "bid": 322,
       "vendor": 108
     },
     "Cheese Plate Legs": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 315,
       "vendor": 84
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 410,
+      "ask": 395,
       "bid": 235,
       "vendor": 54
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 170952,
+      "ask": 165000,
       "bid": 140006,
       "vendor": 1000
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 575,
+      "ask": 574,
       "bid": 530,
       "vendor": 162
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 146,
+      "ask": 145,
       "bid": 131,
       "vendor": 54
     },
@@ -781,7 +781,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 11,
+      "ask": 12,
       "bid": 10,
       "vendor": 9
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 13,
+      "ask": 14,
       "bid": 12,
       "vendor": 9
     },
@@ -851,7 +851,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 15,
+      "ask": 16,
       "bid": 6,
       "vendor": 6
     },
@@ -867,7 +867,7 @@
     },
     "Poke": {
       "ask": 5988,
-      "bid": 1120,
+      "bid": 1125,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -887,7 +887,7 @@
     },
     "Precision": {
       "ask": 13300,
-      "bid": 10113,
+      "bid": 10114,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 515,
+      "ask": 516,
       "bid": 422,
       "vendor": 75
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 141,
+      "ask": 140,
       "bid": 85,
       "vendor": 27
     },
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 650,
-      "bid": 591,
+      "bid": 592,
       "vendor": 75
     },
     "Strawberry": {
@@ -1122,7 +1122,7 @@
     },
     "Super Intelligence Coffee": {
       "ask": 387,
-      "bid": 240,
+      "bid": 250,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1157,7 +1157,7 @@
     },
     "Toughness": {
       "ask": 16958,
-      "bid": 9100,
+      "bid": 9105,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -1192,7 +1192,7 @@
     },
     "Vampirism": {
       "ask": 341236,
-      "bid": 200017,
+      "bid": 200018,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660826702.0346158
+  "time": 1660827602.3692262
 }
