@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 128,
+      "ask": 127,
       "bid": 60,
       "vendor": 10
     },
@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 122,
-      "bid": 76,
+      "bid": 78,
       "vendor": 54
     },
     "Berserk": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 195,
+      "ask": 192,
       "bid": 180,
       "vendor": 54
     },
@@ -506,12 +506,12 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 578,
+      "ask": 577,
       "bid": 151,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 285,
+      "ask": 284,
       "bid": 250,
       "vendor": 50
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 420,
+      "ask": 433,
       "bid": 314,
       "vendor": 10
     },
@@ -601,13 +601,13 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 239999,
+      "ask": 199999,
       "bid": 150000,
       "vendor": 10000
     },
     "Gourmet Tea": {
       "ask": 409,
-      "bid": 300,
+      "bid": 270,
       "vendor": 20
     },
     "Green Tea Leaf": {
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 439,
+      "ask": 437,
       "bid": 172,
       "vendor": 50
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 194,
+      "ask": 190,
       "bid": 130,
       "vendor": 40
     },
@@ -806,13 +806,13 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 190,
+      "ask": 189,
       "bid": 21,
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 100,
-      "bid": 50,
+      "ask": 40,
+      "bid": -1,
       "vendor": 20
     },
     "Panda Fluff": {
@@ -831,12 +831,12 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 319,
+      "ask": 318,
       "bid": 169,
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 203,
+      "ask": 202,
       "bid": 160,
       "vendor": 40
     },
@@ -856,7 +856,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 192,
+      "ask": 191,
       "bid": 160,
       "vendor": 30
     },
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 643,
-      "bid": 588,
+      "bid": 589,
       "vendor": 75
     },
     "Strawberry": {
@@ -1192,7 +1192,7 @@
     },
     "Vampirism": {
       "ask": 341236,
-      "bid": 200018,
+      "bid": 200017,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1271,7 +1271,7 @@
       "vendor": 300
     },
     "Verdant Spatula": {
-      "ask": 3999,
+      "ask": 3750,
       "bid": 465,
       "vendor": 300
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660804201.7077525
+  "time": 1660805102.5426567
 }
