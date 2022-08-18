@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 234987,
+      "ask": 223000,
       "bid": 161008,
       "vendor": 1000
     },
@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 75,
+      "ask": 76,
       "bid": 43,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 17,
+      "ask": 18,
       "bid": 13,
       "vendor": 4
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 9,
+      "ask": 10,
       "bid": 7,
       "vendor": 2
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 191,
+      "ask": 192,
       "bid": 163,
       "vendor": 36
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 18,
+      "ask": 19,
       "bid": 11,
       "vendor": 1
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 409,
+      "ask": 408,
       "bid": 270,
       "vendor": 20
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 575,
-      "bid": 511,
+      "bid": 525,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 145,
-      "bid": 135,
+      "bid": 130,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -811,7 +811,7 @@
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 100,
+      "ask": 1000000000000,
       "bid": 22,
       "vendor": 20
     },
@@ -881,8 +881,8 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 315,
-      "bid": 35,
+      "ask": 314,
+      "bid": 100,
       "vendor": 30
     },
     "Precision": {
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 244,
+      "ask": 243,
       "bid": 179,
       "vendor": 108
     },
@@ -1311,8 +1311,8 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 588,
-      "bid": 550,
+      "ask": 586,
+      "bid": 471,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660813202.5449405
+  "time": 1660814102.1863532
 }
