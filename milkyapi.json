@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 20,
+      "ask": 19,
       "bid": 7,
       "vendor": 2
     },
@@ -122,7 +122,7 @@
     },
     "Azure Sword": {
       "ask": 9025,
-      "bid": 1900,
+      "bid": 1875,
       "vendor": 1296
     },
     "Bear Essence": {
@@ -137,7 +137,7 @@
     },
     "Black Bear Fluff": {
       "ask": 73618,
-      "bid": 23335,
+      "bid": 25000,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 76,
+      "ask": 75,
       "bid": 43,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 18,
+      "ask": 17,
       "bid": 13,
       "vendor": 4
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 10,
+      "ask": 9,
       "bid": 7,
       "vendor": 2
     },
@@ -277,11 +277,11 @@
     },
     "Burble Sword": {
       "ask": 15678,
-      "bid": 4000,
+      "bid": 3573,
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 243,
+      "ask": 242,
       "bid": 201,
       "vendor": 12
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 19,
+      "ask": 18,
       "bid": 13,
       "vendor": 1
     },
@@ -566,13 +566,13 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 419,
+      "ask": 420,
       "bid": 314,
       "vendor": 10
     },
     "Gator Vest": {
       "ask": 100000,
-      "bid": 30000,
+      "bid": 30001,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -611,13 +611,13 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 92,
+      "ask": 91,
       "bid": 79,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
       "ask": 300000,
-      "bid": 80004,
+      "bid": 80005,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -727,7 +727,7 @@
     },
     "Large Pouch": {
       "ask": 1437236,
-      "bid": 500000,
+      "bid": 510000,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
@@ -781,7 +781,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 13,
+      "ask": 12,
       "bid": 11,
       "vendor": 9
     },
@@ -1062,11 +1062,11 @@
     },
     "Star Fruit Yogurt": {
       "ask": 643,
-      "bid": 587,
+      "bid": 588,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 28,
+      "ask": 27,
       "bid": 16,
       "vendor": 6
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 448,
-      "bid": 391,
+      "bid": 395,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2388013,
+      "ask": 2388012,
       "bid": 1155013,
       "vendor": 10000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660803302.370667
+  "time": 1660804201.7077525
 }
