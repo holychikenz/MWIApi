@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 129,
+      "ask": 128,
       "bid": 60,
       "vendor": 10
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 154,
+      "ask": 155,
       "bid": 131,
       "vendor": 24
     },
@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 123,
-      "bid": 74,
+      "bid": 75,
       "vendor": 54
     },
     "Berserk": {
@@ -506,8 +506,8 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 579,
-      "bid": 150,
+      "ask": 578,
+      "bid": 151,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": -1,
+      "ask": 100000,
       "bid": 30000,
       "vendor": 5000
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 573,
-      "bid": 541,
+      "bid": 542,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -806,7 +806,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 191,
+      "ask": 190,
       "bid": 21,
       "vendor": 20
     },
@@ -831,12 +831,12 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 318,
+      "ask": 317,
       "bid": 169,
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 205,
+      "ask": 204,
       "bid": 160,
       "vendor": 40
     },
@@ -856,7 +856,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 193,
+      "ask": 192,
       "bid": 160,
       "vendor": 30
     },
@@ -991,12 +991,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 19000,
+      "ask": 18999,
       "bid": 12036,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 50000,
+      "ask": 49999,
       "bid": 21004,
       "vendor": 1000
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 448,
+      "ask": 449,
       "bid": 391,
       "vendor": 75
     },
@@ -1146,7 +1146,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 174099,
+      "ask": 173664,
       "bid": 150011,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660798802.5933886
+  "time": 1660799702.568399
 }
