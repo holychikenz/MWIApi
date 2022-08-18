@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 37,
+      "ask": 63,
       "bid": 28,
       "vendor": 16
     },
@@ -46,7 +46,7 @@
       "vendor": 1080
     },
     "Azure Buckler": {
-      "ask": 24800,
+      "ask": 5000,
       "bid": 1565,
       "vendor": 1296
     },
@@ -126,13 +126,13 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 114,
+      "ask": 115,
       "bid": 77,
       "vendor": 54
     },
     "Berserk": {
       "ask": 219969,
-      "bid": 165000,
+      "bid": 165001,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 238,
-      "bid": 212,
+      "bid": 213,
       "vendor": 12
     },
     "Cheese": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 191,
+      "ask": 190,
       "bid": 174,
       "vendor": 54
     },
@@ -501,18 +501,18 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 58,
+      "ask": 56,
       "bid": 45,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 500,
-      "bid": 154,
+      "ask": 567,
+      "bid": 175,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
       "ask": 285,
-      "bid": 284,
+      "bid": 220,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -577,7 +577,7 @@
     },
     "Giant Pouch": {
       "ask": -1,
-      "bid": 7000000,
+      "bid": 15000000,
       "vendor": 5000000
     },
     "Gobo Essence": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 568,
-      "bid": 530,
+      "bid": 535,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 249998,
+      "ask": 230000,
       "bid": 143000,
       "vendor": 10000
     },
@@ -762,7 +762,7 @@
     },
     "Marsberry Donut": {
       "ask": 429,
-      "bid": 182,
+      "bid": 185,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -807,7 +807,7 @@
     },
     "Orange Gummy": {
       "ask": 150,
-      "bid": 40,
+      "bid": 21,
       "vendor": 20
     },
     "Orange Yogurt": {
@@ -837,7 +837,7 @@
     },
     "Peach Yogurt": {
       "ask": 201,
-      "bid": 162,
+      "bid": 163,
       "vendor": 40
     },
     "Pierce": {
@@ -1021,7 +1021,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 8888,
+      "ask": 8444,
       "bid": 2500,
       "vendor": 2000
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 647,
+      "ask": 646,
       "bid": 601,
       "vendor": 75
     },
@@ -1071,7 +1071,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 208,
+      "ask": 207,
       "bid": 48,
       "vendor": 30
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 449,
+      "ask": 450,
       "bid": 410,
       "vendor": 75
     },
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 41,
+      "ask": 55,
       "bid": 26,
       "vendor": 8
     },
@@ -1217,7 +1217,7 @@
     },
     "Verdant Cheese": {
       "ask": 138,
-      "bid": 117,
+      "bid": 116,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660835702.5466938
+  "time": 1660836601.5643396
 }
