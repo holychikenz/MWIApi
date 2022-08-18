@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 200,
+      "ask": 100,
       "bid": 12,
       "vendor": 10
     },
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 241,
+      "ask": 242,
       "bid": 206,
       "vendor": 12
     },
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 186,
-      "bid": 92,
+      "bid": 95,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -881,7 +881,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 314,
+      "ask": 300,
       "bid": 100,
       "vendor": 30
     },
@@ -1096,7 +1096,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1234,
+      "ask": -1,
       "bid": 800,
       "vendor": 75
     },
@@ -1147,7 +1147,7 @@
     },
     "Sweep": {
       "ask": 173664,
-      "bid": 150012,
+      "bid": 150011,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 2382041,
-      "bid": 1155014,
+      "bid": 1155015,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660816802.1546175
+  "time": 1660817702.730581
 }
