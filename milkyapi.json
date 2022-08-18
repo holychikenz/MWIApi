@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 19,
+      "ask": 18,
       "bid": 7,
       "vendor": 2
     },
@@ -157,16 +157,16 @@
     },
     "Blackberry Cake": {
       "ask": 222,
-      "bid": 21,
+      "bid": 22,
       "vendor": 20
     },
     "Blackberry Donut": {
-      "ask": 200,
-      "bid": -1,
+      "ask": 198,
+      "bid": 25,
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 968,
+      "ask": 960,
       "bid": 800,
       "vendor": 75
     },
@@ -176,13 +176,13 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 200,
-      "bid": 22,
+      "ask": 198,
+      "bid": 23,
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 125,
-      "bid": 12,
+      "ask": 124,
+      "bid": 11,
       "vendor": 10
     },
     "Brewing Tea": {
@@ -486,8 +486,8 @@
       "vendor": 7776
     },
     "Cupcake": {
-      "ask": 199,
-      "bid": 15,
+      "ask": 198,
+      "bid": 14,
       "vendor": 5
     },
     "Defense Coffee": {
@@ -496,7 +496,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 99,
+      "ask": 98,
       "bid": 8,
       "vendor": 5
     },
@@ -626,7 +626,7 @@
       "vendor": 60000
     },
     "Gummy": {
-      "ask": 150,
+      "ask": 148,
       "bid": 10,
       "vendor": 5
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 575,
-      "bid": 553,
+      "bid": 552,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -781,7 +781,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 12,
+      "ask": 13,
       "bid": 11,
       "vendor": 9
     },
@@ -791,7 +791,7 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 250,
+      "ask": 245,
       "bid": 135,
       "vendor": 40
     },
@@ -806,13 +806,13 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 189,
+      "ask": 187,
       "bid": 21,
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 40,
-      "bid": -1,
+      "ask": 100,
+      "bid": 22,
       "vendor": 20
     },
     "Panda Fluff": {
@@ -831,7 +831,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 318,
+      "ask": 317,
       "bid": 169,
       "vendor": 40
     },
@@ -856,8 +856,8 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 191,
-      "bid": 160,
+      "ask": 190,
+      "bid": 35,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 9000,
+      "ask": 8988,
       "bid": 1120,
       "vendor": 1000
     },
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 268,
-      "bid": 207,
+      "ask": 267,
+      "bid": 206,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1072,11 +1072,11 @@
     },
     "Strawberry Cake": {
       "ask": 211,
-      "bid": 47,
+      "bid": 48,
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 278,
+      "ask": 275,
       "bid": 111,
       "vendor": 30
     },
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 229,
+      "ask": 228,
       "bid": 150,
       "vendor": 40
     },
@@ -1161,7 +1161,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 17000,
+      "ask": 16888,
       "bid": 5005,
       "vendor": 1500
     },
@@ -1316,10 +1316,10 @@
       "vendor": 30
     },
     "Yogurt": {
-      "ask": 949,
-      "bid": 8,
+      "ask": 945,
+      "bid": 7,
       "vendor": 5
     }
   },
-  "time": 1660806001.967747
+  "time": 1660806902.038317
 }
