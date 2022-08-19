@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 834,
-      "bid": 350,
+      "bid": 80,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -132,11 +132,11 @@
     },
     "Berserk": {
       "ask": 220996,
-      "bid": 182002,
+      "bid": 182003,
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 49986,
+      "ask": 49985,
       "bid": 30002,
       "vendor": 3000
     },
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1188,
+      "ask": 1184,
       "bid": 451,
       "vendor": 75
     },
@@ -292,7 +292,7 @@
     },
     "Cheese Boots": {
       "ask": 548,
-      "bid": 133,
+      "bid": 132,
       "vendor": 48
     },
     "Cheese Brush": {
@@ -371,7 +371,7 @@
       "vendor": 72
     },
     "Cheesesmithing Tea": {
-      "ask": 400,
+      "ask": 395,
       "bid": 35,
       "vendor": 30
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 183,
-      "bid": 166,
+      "bid": 162,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 19,
+      "ask": 20,
       "bid": 18,
       "vendor": 18
     },
@@ -516,8 +516,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 896,
-      "bid": 800,
+      "ask": 893,
+      "bid": 710,
       "vendor": 50
     },
     "Egg": {
@@ -561,8 +561,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 265994,
-      "bid": 164002,
+      "ask": 239000,
+      "bid": 164003,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 39,
-      "bid": 30,
+      "bid": 31,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 548,
-      "bid": 527,
+      "bid": 528,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 146,
-      "bid": 145,
+      "bid": 140,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -761,18 +761,18 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 415,
+      "ask": 414,
       "bid": 251,
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 56999,
+      "ask": 57000,
       "bid": 25645,
       "vendor": 50000
     },
     "Milk": {
       "ask": 19,
-      "bid": 13,
+      "bid": 12,
       "vendor": 2
     },
     "Milking Tea": {
@@ -806,7 +806,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 96,
+      "ask": 95,
       "bid": 50,
       "vendor": 20
     },
@@ -831,7 +831,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 295,
+      "ask": 296,
       "bid": 171,
       "vendor": 40
     },
@@ -867,7 +867,7 @@
     },
     "Poke": {
       "ask": 12589,
-      "bid": 1135,
+      "bid": 1136,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -887,7 +887,7 @@
     },
     "Precision": {
       "ask": 19901,
-      "bid": 11169,
+      "bid": 11170,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 240,
-      "bid": 206,
+      "bid": 207,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -982,12 +982,12 @@
     },
     "Red Tea Leaf": {
       "ask": 242,
-      "bid": 234,
+      "bid": 235,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
       "ask": 97,
-      "bid": 33,
+      "bid": 34,
       "vendor": 8
     },
     "Scratch": {
@@ -1001,7 +1001,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 7988,
+      "ask": 7800,
       "bid": 23,
       "vendor": 5000
     },
@@ -1027,7 +1027,7 @@
     },
     "Spaceberry": {
       "ask": 65,
-      "bid": 57,
+      "bid": 56,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1157,7 +1157,7 @@
     },
     "Toughness": {
       "ask": 13886,
-      "bid": 10003,
+      "bid": 10004,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -1247,7 +1247,7 @@
     },
     "Verdant Milk": {
       "ask": 36,
-      "bid": 25,
+      "bid": 30,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 747,
+      "ask": 746,
       "bid": 490,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660935602.394851
+  "time": 1660936501.8386874
 }
