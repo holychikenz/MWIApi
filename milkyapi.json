@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 844,
-      "bid": 652,
+      "bid": 505,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 39,
-      "bid": 27,
+      "bid": 28,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -592,7 +592,7 @@
     },
     "Gobo Smasher": {
       "ask": 24996,
-      "bid": 20000,
+      "bid": 21000,
       "vendor": 20000
     },
     "Gobo Stabber": {
@@ -616,7 +616,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 110000,
+      "ask": 109000,
       "bid": 85004,
       "vendor": 3000
     },
@@ -746,7 +746,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 628590,
+      "ask": 628589,
       "bid": 425001,
       "vendor": 1000
     },
@@ -847,7 +847,7 @@
     },
     "Pincer Gloves": {
       "ask": 90000,
-      "bid": 50001,
+      "bid": 50002,
       "vendor": 6000
     },
     "Plum": {
@@ -867,7 +867,7 @@
     },
     "Poke": {
       "ask": 19998,
-      "bid": 1130,
+      "bid": 1131,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -887,7 +887,7 @@
     },
     "Precision": {
       "ask": 13300,
-      "bid": 10121,
+      "bid": 10122,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 245,
+      "ask": 249,
       "bid": 210,
       "vendor": 81
     },
@@ -996,7 +996,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 25000,
+      "ask": 24999,
       "bid": 21008,
       "vendor": 1000
     },
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 668,
+      "ask": 667,
       "bid": 500,
       "vendor": 100
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 512,
+      "ask": 511,
       "bid": 505,
       "vendor": 75
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 121,
+      "ask": 122,
       "bid": 90,
       "vendor": 27
     },
@@ -1101,8 +1101,8 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 898,
-      "bid": 897,
+      "ask": -1,
+      "bid": 898,
       "vendor": 50
     },
     "Super Defense Coffee": {
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 306000,
+      "ask": 305999,
       "bid": 200019,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660867202.046259
+  "time": 1660868102.2782218
 }
