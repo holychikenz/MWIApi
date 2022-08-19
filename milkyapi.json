@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 835,
-      "bid": 80,
+      "bid": 150,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 220996,
-      "bid": 182008,
+      "bid": 182013,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 54,
-      "bid": 43,
+      "bid": 44,
       "vendor": 8
     },
     "Blackberry": {
@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 1183,
-      "bid": 451,
+      "bid": 500,
       "vendor": 75
     },
     "Blueberry": {
@@ -281,8 +281,8 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 252,
-      "bid": 234,
+      "ask": 251,
+      "bid": 236,
       "vendor": 12
     },
     "Cheese": {
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 171000,
-      "bid": 61808,
+      "bid": 61810,
       "vendor": 1000
     },
     "Coin": {
@@ -502,26 +502,26 @@
     },
     "Dragon Fruit": {
       "ask": 40,
-      "bid": 36,
+      "bid": 37,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 503,
-      "bid": 201,
+      "ask": 502,
+      "bid": 180,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 287,
-      "bid": 210,
+      "ask": 286,
+      "bid": 211,
       "vendor": 50
     },
     "Efficiency Tea": {
       "ask": 887,
-      "bid": 711,
+      "bid": 712,
       "vendor": 50
     },
     "Egg": {
-      "ask": 20,
+      "ask": 19,
       "bid": 14,
       "vendor": 1
     },
@@ -556,13 +556,13 @@
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": 290,
+      "ask": 335,
       "bid": 150,
       "vendor": 10
     },
     "Frenzy": {
       "ask": 238996,
-      "bid": 164008,
+      "bid": 164012,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -607,12 +607,12 @@
     },
     "Gourmet Tea": {
       "ask": 345,
-      "bid": 270,
+      "bid": 275,
       "vendor": 20
     },
     "Green Tea Leaf": {
       "ask": 100,
-      "bid": 83,
+      "bid": 84,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -626,7 +626,7 @@
       "vendor": 60000
     },
     "Gummy": {
-      "ask": 98,
+      "ask": 80,
       "bid": 10,
       "vendor": 5
     },
@@ -636,8 +636,8 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 91195,
-      "bid": 74001,
+      "ask": 85000,
+      "bid": 74000,
       "vendor": 44550
     },
     "Holy Buckler": {
@@ -756,12 +756,12 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 233,
-      "bid": 211,
+      "ask": 232,
+      "bid": 212,
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 412,
+      "ask": 411,
       "bid": 300,
       "vendor": 50
     },
@@ -776,7 +776,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 900,
+      "ask": 600,
       "bid": 227,
       "vendor": 10
     },
@@ -1112,7 +1112,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 545,
-      "bid": 400,
+      "bid": 450,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1132,17 +1132,17 @@
     },
     "Super Power Coffee": {
       "ask": 469,
-      "bid": 413,
+      "bid": 415,
       "vendor": 75
     },
     "Super Stamina Coffee": {
       "ask": 440,
-      "bid": 275,
+      "bid": 300,
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 42,
-      "bid": 35,
+      "ask": 40,
+      "bid": 34,
       "vendor": 8
     },
     "Sweep": {
@@ -1261,7 +1261,7 @@
       "vendor": 420
     },
     "Verdant Pot": {
-      "ask": 1820,
+      "ask": 1800,
       "bid": 445,
       "vendor": 300
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 700,
+      "ask": 699,
       "bid": 500,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660946401.756108
+  "time": 1660947301.9918163
 }
