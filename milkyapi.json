@@ -197,7 +197,7 @@
     },
     "Burble Brush": {
       "ask": 39777,
-      "bid": 5500,
+      "bid": 5501,
       "vendor": 2700
     },
     "Burble Buckler": {
@@ -216,7 +216,7 @@
       "vendor": 36
     },
     "Burble Enhancer": {
-      "ask": 40000,
+      "ask": -1,
       "bid": 3008,
       "vendor": 2700
     },
@@ -286,12 +286,12 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 185,
+      "ask": 186,
       "bid": 120,
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 548,
+      "ask": 550,
       "bid": 132,
       "vendor": 48
     },
@@ -316,7 +316,7 @@
       "vendor": 60
     },
     "Cheese Gauntlets": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 174,
       "vendor": 48
     },
@@ -326,12 +326,12 @@
       "vendor": 60
     },
     "Cheese Helmet": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 269,
       "vendor": 60
     },
     "Cheese Mace": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 301,
       "vendor": 72
     },
@@ -341,17 +341,17 @@
       "vendor": 108
     },
     "Cheese Plate Legs": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 315,
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 995,
+      "ask": 999,
       "bid": 201,
       "vendor": 60
     },
     "Cheese Shears": {
-      "ask": 680,
+      "ask": 686,
       "bid": 354,
       "vendor": 60
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 238998,
+      "ask": 238996,
       "bid": 164007,
       "vendor": 1000
     },
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 229922,
-      "bid": 160001,
+      "bid": 170000,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -631,7 +631,7 @@
       "vendor": 5
     },
     "Holy Boots": {
-      "ask": 37498,
+      "ask": 37499,
       "bid": 26243,
       "vendor": 35640
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 550,
-      "bid": 533,
+      "bid": 535,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -677,7 +677,7 @@
     },
     "Holy Mace": {
       "ask": 94000,
-      "bid": 81000,
+      "bid": 84000,
       "vendor": 53460
     },
     "Holy Milk": {
@@ -766,7 +766,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 57000,
+      "ask": 60000,
       "bid": 25645,
       "vendor": 50000
     },
@@ -861,7 +861,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 209,
+      "ask": 200,
       "bid": 76,
       "vendor": 30
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 78790,
+      "ask": 78789,
       "bid": 66001,
       "vendor": 3000
     },
@@ -896,7 +896,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 35000,
+      "ask": 40000,
       "bid": 30000,
       "vendor": 14985
     },
@@ -966,7 +966,7 @@
       "vendor": 14985
     },
     "Rainbow Spatula": {
-      "ask": 35000,
+      "ask": 27777,
       "bid": 15555,
       "vendor": 14985
     },
@@ -1071,7 +1071,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 190,
+      "ask": 191,
       "bid": 50,
       "vendor": 30
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 744,
+      "ask": 700,
       "bid": 490,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660943701.895229
+  "time": 1660944602.2564485
 }
