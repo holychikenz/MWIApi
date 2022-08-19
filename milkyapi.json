@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 834,
-      "bid": 500,
+      "bid": -1,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 270,
+      "ask": 267,
       "bid": 231,
       "vendor": 12
     },
@@ -296,7 +296,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 1188,
+      "ask": 1500,
       "bid": 307,
       "vendor": 60
     },
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 19,
+      "ask": 20,
       "bid": 18,
       "vendor": 18
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 47,
+      "ask": 46,
       "bid": 36,
       "vendor": 14
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 330,
+      "ask": 340,
       "bid": 236,
       "vendor": 54
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 54,
+      "ask": 53,
       "bid": 47,
       "vendor": 36
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 398,
+      "ask": 397,
       "bid": 314,
       "vendor": 10
     },
@@ -577,7 +577,7 @@
     },
     "Giant Pouch": {
       "ask": -1,
-      "bid": 15000000,
+      "bid": 8000000,
       "vendor": 5000000
     },
     "Gobo Essence": {
@@ -612,11 +612,11 @@
     },
     "Green Tea Leaf": {
       "ask": 95,
-      "bid": 79,
+      "bid": 80,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 99997,
+      "ask": 99000,
       "bid": 85007,
       "vendor": 3000
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 145,
-      "bid": 138,
+      "bid": 140,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -736,7 +736,7 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 412,
+      "ask": 405,
       "bid": 115,
       "vendor": 40
     },
@@ -772,7 +772,7 @@
     },
     "Milk": {
       "ask": 19,
-      "bid": 13,
+      "bid": 14,
       "vendor": 2
     },
     "Milking Tea": {
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 12596,
+      "ask": 12595,
       "bid": 1134,
       "vendor": 1000
     },
@@ -886,12 +886,12 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 20000,
+      "ask": 19950,
       "bid": 11168,
       "vendor": 1000
     },
     "Rainbow Boots": {
-      "ask": 15617,
+      "ask": 15500,
       "bid": 12306,
       "vendor": 11988
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 219,
-      "bid": 198,
+      "bid": 200,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -991,7 +991,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 16996,
+      "ask": 16995,
       "bid": 12361,
       "vendor": 1000
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 518,
+      "ask": 517,
       "bid": 432,
       "vendor": 75
     },
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 612,
-      "bid": 590,
+      "bid": 591,
       "vendor": 75
     },
     "Strawberry": {
@@ -1107,7 +1107,7 @@
     },
     "Super Defense Coffee": {
       "ask": 495,
-      "bid": 300,
+      "bid": 125,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1121,7 +1121,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 387,
+      "ask": 380,
       "bid": 232,
       "vendor": 40
     },
@@ -1147,12 +1147,12 @@
     },
     "Sweep": {
       "ask": 187332,
-      "bid": 135600,
+      "bid": 135601,
       "vendor": 1000
     },
     "Swiftness Coffee": {
       "ask": 505,
-      "bid": 341,
+      "bid": 344,
       "vendor": 50
     },
     "Toughness": {
@@ -1181,7 +1181,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1044878,
+      "ask": 1044000,
       "bid": 900000,
       "vendor": 10000
     },
@@ -1216,7 +1216,7 @@
       "vendor": 600
     },
     "Verdant Cheese": {
-      "ask": 138,
+      "ask": 140,
       "bid": 131,
       "vendor": 12
     },
@@ -1291,7 +1291,7 @@
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 199996,
+      "ask": 199995,
       "bid": 52500,
       "vendor": 20000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660923902.374611
+  "time": 1660924802.1664805
 }
