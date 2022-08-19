@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 22,
+      "ask": 23,
       "bid": 8,
       "vendor": 2
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 275,
-      "bid": 223,
+      "bid": 224,
       "vendor": 12
     },
     "Cheese": {
@@ -446,8 +446,8 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 20,
-      "bid": 19,
+      "ask": 19,
+      "bid": 18,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 949,
+      "ask": 978,
       "bid": 900,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 364,
+      "ask": 363,
       "bid": 235,
       "vendor": 54
     },
@@ -677,12 +677,12 @@
     },
     "Holy Mace": {
       "ask": 94950,
-      "bid": 65000,
+      "bid": 70000,
       "vendor": 53460
     },
     "Holy Milk": {
       "ask": 143,
-      "bid": 128,
+      "bid": 115,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -777,7 +777,7 @@
     },
     "Milking Tea": {
       "ask": -1,
-      "bid": 224,
+      "bid": 225,
       "vendor": 10
     },
     "Mooberry": {
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 2294250,
-      "bid": 1396502,
+      "bid": 1396503,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660900501.9298
+  "time": 1660901401.6873572
 }
