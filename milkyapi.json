@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 23,
+      "ask": 22,
       "bid": 8,
       "vendor": 2
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 220999,
+      "ask": 221000,
       "bid": 175001,
       "vendor": 1000
     },
@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 56,
+      "ask": 55,
       "bid": 42,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 18,
+      "ask": 17,
       "bid": 10,
       "vendor": 4
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 31,
+      "ask": 30,
       "bid": 13,
       "vendor": 2
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 286,
+      "ask": 287,
       "bid": 201,
       "vendor": 50
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 107,
+      "ask": 106,
       "bid": 75,
       "vendor": 4
     },
@@ -677,11 +677,11 @@
     },
     "Holy Mace": {
       "ask": 94950,
-      "bid": 80000,
+      "bid": 63500,
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 140,
+      "ask": 143,
       "bid": 128,
       "vendor": 54
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 200,
+      "ask": 199,
       "bid": 165,
       "vendor": 40
     },
@@ -1027,7 +1027,7 @@
     },
     "Spaceberry": {
       "ask": 83,
-      "bid": 62,
+      "bid": 63,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 29,
+      "ask": 28,
       "bid": 18,
       "vendor": 6
     },
@@ -1152,7 +1152,7 @@
     },
     "Swiftness Coffee": {
       "ask": 499,
-      "bid": 336,
+      "bid": 337,
       "vendor": 50
     },
     "Toughness": {
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 228,
+      "ask": 225,
       "bid": 178,
       "vendor": 108
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 280248,
+      "ask": 275000,
       "bid": 200019,
       "vendor": 1000
     },
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 2294250,
-      "bid": 1396501,
+      "bid": 1396502,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660898701.7341692
+  "time": 1660899601.649789
 }
