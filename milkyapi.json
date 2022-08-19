@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 15,
+      "ask": 21,
       "bid": 8,
       "vendor": 2
     },
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 839,
+      "ask": 835,
       "bid": 500,
       "vendor": 75
     },
@@ -676,7 +676,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 87000,
+      "ask": 94950,
       "bid": 80000,
       "vendor": 53460
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 225,
+      "ask": 227,
       "bid": 223,
       "vendor": 27
     },
@@ -1032,12 +1032,12 @@
     },
     "Spaceberry Cake": {
       "ask": 499,
-      "bid": 431,
+      "bid": 432,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 666,
-      "bid": 600,
+      "bid": 601,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 629,
-      "bid": 589,
+      "bid": 590,
       "vendor": 75
     },
     "Strawberry": {
@@ -1087,7 +1087,7 @@
     },
     "Super Attack Coffee": {
       "ask": 472,
-      "bid": 435,
+      "bid": 437,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1096,8 +1096,8 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1150,
-      "bid": 800,
+      "ask": -1,
+      "bid": 525,
       "vendor": 75
     },
     "Super Cooking Tea": {
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 430,
-      "bid": 411,
+      "bid": 404,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1151,8 +1151,8 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 507,
-      "bid": 325,
+      "ask": 505,
+      "bid": 331,
       "vendor": 50
     },
     "Toughness": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 546,
+      "ask": 587,
       "bid": 411,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660888802.9026356
+  "time": 1660889701.9187055
 }
