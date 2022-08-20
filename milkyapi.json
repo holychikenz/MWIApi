@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 63,
-      "bid": 38,
+      "bid": 40,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1165,
+      "ask": 1164,
       "bid": 800,
       "vendor": 75
     },
@@ -391,8 +391,8 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 48000,
-      "bid": 40000,
+      "ask": -1,
+      "bid": 40001,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 180,
-      "bid": 173,
+      "bid": 174,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 97,
-      "bid": 63,
+      "bid": 64,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 96,
-      "bid": 79,
+      "bid": 81,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 546,
-      "bid": 538,
+      "bid": 539,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -736,7 +736,7 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 400,
+      "ask": 399,
       "bid": 200,
       "vendor": 40
     },
@@ -776,7 +776,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 945,
+      "ask": 500,
       "bid": 227,
       "vendor": 10
     },
@@ -896,7 +896,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 40000,
+      "ask": 38000,
       "bid": 30000,
       "vendor": 14985
     },
@@ -1026,8 +1026,8 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 52,
-      "bid": 45,
+      "ask": 53,
+      "bid": 43,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1041,7 +1041,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 140,
+      "ask": 139,
       "bid": 98,
       "vendor": 54
     },
@@ -1061,12 +1061,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 580,
+      "ask": 579,
       "bid": 525,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 18,
+      "ask": 17,
       "bid": 8,
       "vendor": 6
     },
@@ -1131,17 +1131,17 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 480,
+      "ask": 475,
       "bid": 460,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 495,
+      "ask": 996,
       "bid": 100,
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 33,
+      "ask": 32,
       "bid": 18,
       "vendor": 8
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661026502.5424094
+  "time": 1661027402.7586782
 }
