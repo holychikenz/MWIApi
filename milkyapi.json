@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 19,
-      "bid": 10,
+      "bid": 11,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -392,7 +392,7 @@
     },
     "Crab Pincer": {
       "ask": 48000,
-      "bid": 31504,
+      "bid": 40000,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -516,8 +516,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 899,
-      "bid": 720,
+      "ask": 898,
+      "bid": 711,
       "vendor": 50
     },
     "Egg": {
@@ -636,7 +636,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 84288,
+      "ask": 84283,
       "bid": 67000,
       "vendor": 44550
     },
@@ -1026,12 +1026,12 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 54,
+      "ask": 52,
       "bid": 45,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 475,
+      "ask": 470,
       "bid": 461,
       "vendor": 75
     },
@@ -1061,13 +1061,13 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 585,
+      "ask": 580,
       "bid": 525,
       "vendor": 75
     },
     "Strawberry": {
       "ask": 18,
-      "bid": -1,
+      "bid": 8,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 480,
-      "bid": 454,
+      "bid": 460,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661025602.5802076
+  "time": 1661026502.5424094
 }
