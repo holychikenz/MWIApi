@@ -106,7 +106,7 @@
       "vendor": 1080
     },
     "Azure Shears": {
-      "ask": 3000,
+      "ask": 30000,
       "bid": 1304,
       "vendor": 1080
     },
@@ -132,11 +132,11 @@
     },
     "Berserk": {
       "ask": 299999,
-      "bid": 200001,
+      "bid": 200000,
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 37990,
+      "ask": 36091,
       "bid": 32000,
       "vendor": 3000
     },
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 19,
+      "ask": 20,
       "bid": 11,
       "vendor": 4
     },
@@ -171,8 +171,8 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 24,
-      "bid": 13,
+      "ask": 23,
+      "bid": 12,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 52,
+      "ask": 51,
       "bid": 36,
       "vendor": 12
     },
@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 183,
-      "bid": 128,
+      "bid": 116,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 160000,
-      "bid": 66001,
+      "bid": 66069,
       "vendor": 1000
     },
     "Coin": {
@@ -501,12 +501,12 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 38,
+      "ask": 39,
       "bid": 37,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 270,
+      "ask": 269,
       "bid": 240,
       "vendor": 50
     },
@@ -516,13 +516,13 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 898,
-      "bid": 820,
+      "ask": 897,
+      "bid": 712,
       "vendor": 50
     },
     "Egg": {
       "ask": 19,
-      "bid": 12,
+      "bid": 13,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 265996,
+      "ask": 265990,
       "bid": 200001,
       "vendor": 1000
     },
@@ -637,7 +637,7 @@
     },
     "Holy Brush": {
       "ask": 84283,
-      "bid": 67000,
+      "bid": 62000,
       "vendor": 44550
     },
     "Holy Buckler": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 546,
+      "ask": 550,
       "bid": 538,
       "vendor": 162
     },
@@ -667,7 +667,7 @@
     },
     "Holy Hammer": {
       "ask": -1,
-      "bid": 68000,
+      "bid": 65000,
       "vendor": 44550
     },
     "Holy Helmet": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 146,
-      "bid": 128,
+      "bid": 129,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 24,
+      "ask": 25,
       "bid": 12,
       "vendor": 9
     },
@@ -841,8 +841,8 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 19999,
-      "bid": 10015,
+      "ask": 19000,
+      "bid": 10069,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -867,11 +867,11 @@
     },
     "Poke": {
       "ask": 12000,
-      "bid": 1230,
+      "bid": 2000,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 78775,
+      "ask": 78770,
       "bid": 67000,
       "vendor": 3000
     },
@@ -896,8 +896,8 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 35000,
-      "bid": 30000,
+      "ask": 40000,
+      "bid": 27000,
       "vendor": 14985
     },
     "Rainbow Buckler": {
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 254,
-      "bid": 223,
+      "ask": 255,
+      "bid": 224,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 39,
+      "ask": 38,
       "bid": 37,
       "vendor": 27
     },
@@ -992,7 +992,7 @@
     },
     "Scratch": {
       "ask": 18000,
-      "bid": 12372,
+      "bid": 12500,
       "vendor": 1000
     },
     "Smack": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661028302.0945501
+  "time": 1661029201.731797
 }
