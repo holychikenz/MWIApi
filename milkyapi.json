@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 80,
+      "ask": 93,
       "bid": 72,
       "vendor": 54
     },
@@ -386,7 +386,7 @@
       "vendor": 0
     },
     "Cooking Tea": {
-      "ask": 390,
+      "ask": 370,
       "bid": 200,
       "vendor": 20
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 282,
+      "ask": 280,
       "bid": 205,
       "vendor": 50
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 432,
+      "ask": 431,
       "bid": 314,
       "vendor": 10
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 535,
-      "bid": 530,
+      "bid": 531,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -666,7 +666,7 @@
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": 79605,
+      "ask": -1,
       "bid": 68000,
       "vendor": 44550
     },
@@ -731,7 +731,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 93,
+      "ask": 90,
       "bid": 76,
       "vendor": 12
     },
@@ -746,7 +746,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 597001,
+      "ask": 597000,
       "bid": 260000,
       "vendor": 1000
     },
@@ -797,7 +797,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 27,
-      "bid": 23,
+      "bid": 21,
       "vendor": 18
     },
     "Orange": {
@@ -817,7 +817,7 @@
     },
     "Panda Fluff": {
       "ask": 158993,
-      "bid": 135000,
+      "bid": 135001,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -856,8 +856,8 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 75,
-      "bid": 74,
+      "ask": 136,
+      "bid": 75,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -1071,7 +1071,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 190,
+      "ask": 181,
       "bid": 52,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661018401.9267566
+  "time": 1661019302.2259362
 }
