@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": -1,
+      "ask": 48000,
       "bid": 31504,
       "vendor": 1500
     },
@@ -442,11 +442,11 @@
     },
     "Crimson Mace": {
       "ask": 36333,
-      "bid": 22200,
+      "bid": 17000,
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 19,
+      "ask": 20,
       "bid": 18,
       "vendor": 18
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 310,
+      "ask": 313,
       "bid": 241,
       "vendor": 54
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 210000,
+      "ask": 209999,
       "bid": 170001,
       "vendor": 10000
     },
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 199998,
+      "ask": 199494,
       "bid": 100000,
       "vendor": 10000
     },
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 20,
+      "ask": 22,
       "bid": 17,
       "vendor": 14
     },
@@ -781,7 +781,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 12,
+      "ask": 13,
       "bid": 9,
       "vendor": 9
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 74575,
+      "ask": 78776,
       "bid": 66003,
       "vendor": 3000
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 38,
+      "ask": 39,
       "bid": 36,
       "vendor": 27
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 259,
+      "ask": 270,
       "bid": 231,
       "vendor": 27
     },
@@ -1006,7 +1006,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 3041,
+      "ask": 2745,
       "bid": 2400,
       "vendor": 1500
     },
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 578,
+      "ask": 522,
       "bid": 255,
       "vendor": 100
     },
@@ -1096,7 +1096,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 995,
+      "ask": 996,
       "bid": 526,
       "vendor": 75
     },
@@ -1286,12 +1286,12 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 240000,
+      "ask": 239999,
       "bid": 200000,
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 153980,
+      "ask": 153979,
       "bid": 52500,
       "vendor": 20000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661017501.754526
+  "time": 1661018401.9267566
 }
