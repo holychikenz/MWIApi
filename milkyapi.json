@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": -1,
+      "ask": 150000,
       "bid": 40001,
       "vendor": 1500
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 897,
+      "ask": 896,
       "bid": 711,
       "vendor": 50
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 434,
+      "ask": 430,
       "bid": 314,
       "vendor": 10
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 550,
+      "ask": 549,
       "bid": 539,
       "vendor": 162
     },
@@ -857,7 +857,7 @@
     },
     "Plum Gummy": {
       "ask": 136,
-      "bid": 75,
+      "bid": 110,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 78770,
+      "ask": 78776,
       "bid": 67000,
       "vendor": 3000
     },
@@ -966,7 +966,7 @@
       "vendor": 14985
     },
     "Rainbow Spatula": {
-      "ask": 27777,
+      "ask": 20000,
       "bid": 2,
       "vendor": 14985
     },
@@ -1052,7 +1052,7 @@
     },
     "Star Fruit": {
       "ask": 95,
-      "bid": 81,
+      "bid": 80,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 17,
+      "ask": 18,
       "bid": 8,
       "vendor": 6
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661032801.6144497
+  "time": 1661033702.3865764
 }
