@@ -106,7 +106,7 @@
       "vendor": 1080
     },
     "Azure Shears": {
-      "ask": 30000,
+      "ask": 3000,
       "bid": 1304,
       "vendor": 1080
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 234981,
+      "ask": 299999,
       "bid": 200001,
       "vendor": 1000
     },
@@ -466,7 +466,7 @@
       "vendor": 6480
     },
     "Crimson Shears": {
-      "ask": 50000,
+      "ask": 20000,
       "bid": 10001,
       "vendor": 6480
     },
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 898,
-      "bid": 711,
+      "bid": 820,
       "vendor": 50
     },
     "Egg": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 240059,
+      "ask": 265996,
       "bid": 200001,
       "vendor": 1000
     },
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 77777,
-      "bid": 30000,
+      "bid": 45000,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -606,13 +606,13 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 355,
+      "ask": 354,
       "bid": 250,
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 96,
-      "bid": 81,
+      "ask": 97,
+      "bid": 82,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 546,
-      "bid": 539,
+      "bid": 538,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 27,
+      "ask": 29,
       "bid": 21,
       "vendor": 18
     },
@@ -822,7 +822,7 @@
     },
     "Panda Gloves": {
       "ask": 3000000,
-      "bid": 70000,
+      "bid": 73500,
       "vendor": 60000
     },
     "Peach": {
@@ -851,7 +851,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 11,
+      "ask": 13,
       "bid": 9,
       "vendor": 6
     },
@@ -896,7 +896,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 38000,
+      "ask": 35000,
       "bid": 30000,
       "vendor": 14985
     },
@@ -1051,8 +1051,8 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 96,
-      "bid": 80,
+      "ask": 95,
+      "bid": 81,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 579,
+      "ask": 578,
       "bid": 525,
       "vendor": 75
     },
@@ -1146,7 +1146,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 180500,
+      "ask": 180499,
       "bid": 151000,
       "vendor": 1000
     },
@@ -1307,7 +1307,7 @@
     },
     "Wheat": {
       "ask": 20,
-      "bid": 14,
+      "bid": 15,
       "vendor": 1
     },
     "Wisdom Tea": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661027402.7586782
+  "time": 1661028302.0945501
 }
