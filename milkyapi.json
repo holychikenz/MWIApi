@@ -406,7 +406,7 @@
       "vendor": 6480
     },
     "Crimson Buckler": {
-      "ask": 50000,
+      "ask": -1,
       "bid": 10001,
       "vendor": 7776
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 180,
+      "ask": 181,
       "bid": 168,
       "vendor": 54
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 549,
+      "ask": 548,
       "bid": 537,
       "vendor": 162
     },
@@ -1032,12 +1032,12 @@
     },
     "Spaceberry Cake": {
       "ask": 515,
-      "bid": 433,
+      "bid": 434,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 599,
-      "bid": 433,
+      "bid": 434,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1152,11 +1152,11 @@
     },
     "Swiftness Coffee": {
       "ask": 500,
-      "bid": 403,
+      "bid": 404,
       "vendor": 50
     },
     "Toughness": {
-      "ask": 12000,
+      "ask": 11999,
       "bid": 10006,
       "vendor": 1000
     },
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 1899999,
-      "bid": 1400470,
+      "bid": 1400675,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 698,
+      "ask": 697,
       "bid": 500,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660960802.298868
+  "time": 1660961701.883045
 }
