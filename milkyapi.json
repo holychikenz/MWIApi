@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 18,
+      "ask": 17,
       "bid": 10,
       "vendor": 4
     },
@@ -166,8 +166,8 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1175,
-      "bid": 800,
+      "ask": 1176,
+      "bid": 1175,
       "vendor": 75
     },
     "Blueberry": {
@@ -201,7 +201,7 @@
       "vendor": 2700
     },
     "Burble Buckler": {
-      "ask": 34777,
+      "ask": 29817,
       "bid": 3350,
       "vendor": 3240
     },
@@ -231,7 +231,7 @@
       "vendor": 2700
     },
     "Burble Helmet": {
-      "ask": 20600,
+      "ask": 20650,
       "bid": 2800,
       "vendor": 2700
     },
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 246,
+      "ask": 245,
       "bid": 236,
       "vendor": 12
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 100,
+      "ask": 99,
       "bid": 84,
       "vendor": 4
     },
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 411,
+      "ask": 410,
       "bid": 300,
       "vendor": 50
     },
@@ -801,7 +801,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 7,
+      "ask": 6,
       "bid": 5,
       "vendor": 4
     },
@@ -846,7 +846,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 420000,
+      "ask": -1,
       "bid": 80000,
       "vendor": 6000
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 24,
+      "ask": 23,
       "bid": 20,
       "vendor": 6
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660979702.1585011
+  "time": 1660980601.6031997
 }
