@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 298,
-      "bid": 127,
+      "bid": 128,
       "vendor": 20
     },
     "Azure Boots": {
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 54,
+      "ask": 53,
       "bid": 44,
       "vendor": 8
     },
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1180,
+      "ask": 1179,
       "bid": 800,
       "vendor": 75
     },
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 74,
+      "ask": 75,
       "bid": 37,
       "vendor": 12
     },
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 171000,
-      "bid": 61810,
+      "bid": 62000,
       "vendor": 1000
     },
     "Coin": {
@@ -471,7 +471,7 @@
       "vendor": 6480
     },
     "Crimson Spatula": {
-      "ask": 12550,
+      "ask": 11923,
       "bid": 10000,
       "vendor": 6480
     },
@@ -516,13 +516,13 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 883,
+      "ask": 882,
       "bid": 712,
       "vendor": 50
     },
     "Egg": {
       "ask": 19,
-      "bid": 14,
+      "bid": 15,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -551,8 +551,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 125,
-      "bid": 46,
+      "ask": 124,
+      "bid": 50,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 105000,
+      "ask": 99750,
       "bid": 26012,
       "vendor": 5000
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 100,
+      "ask": 95,
       "bid": 84,
       "vendor": 4
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 549,
+      "ask": 547,
       "bid": 534,
       "vendor": 162
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 144,
-      "bid": 140,
+      "bid": 138,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -746,8 +746,8 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 603914,
-      "bid": 210001,
+      "ask": 602404,
+      "bid": 220501,
       "vendor": 1000
     },
     "Marsberry": {
@@ -757,7 +757,7 @@
     },
     "Marsberry Cake": {
       "ask": 232,
-      "bid": 215,
+      "bid": 211,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 28,
+      "ask": 29,
       "bid": 24,
       "vendor": 18
     },
@@ -851,7 +851,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 12,
+      "ask": 13,
       "bid": 9,
       "vendor": 6
     },
@@ -867,7 +867,7 @@
     },
     "Poke": {
       "ask": 12589,
-      "bid": 1137,
+      "bid": 1200,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -887,7 +887,7 @@
     },
     "Precision": {
       "ask": 14000,
-      "bid": 11729,
+      "bid": 11730,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -981,13 +981,13 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 243,
+      "ask": 254,
       "bid": 238,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
       "ask": 97,
-      "bid": 35,
+      "bid": 36,
       "vendor": 8
     },
     "Scratch": {
@@ -1016,8 +1016,8 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 568,
-      "bid": 250,
+      "ask": 579,
+      "bid": 263,
       "vendor": 100
     },
     "Snake Fang Dirk": {
@@ -1031,18 +1031,18 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 517,
+      "ask": 516,
       "bid": 433,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 667,
+      "ask": 659,
       "bid": 433,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 162,
-      "bid": 96,
+      "ask": 160,
+      "bid": 97,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1136,7 +1136,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 440,
+      "ask": 600,
       "bid": 300,
       "vendor": 40
     },
@@ -1291,13 +1291,13 @@
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 199995,
+      "ask": 199495,
       "bid": 52500,
       "vendor": 20000
     },
     "Werewolf Claw": {
       "ask": 1899999,
-      "bid": 1396503,
+      "bid": 1400000,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660952702.7423134
+  "time": 1660953603.0817425
 }
