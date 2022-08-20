@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 77,
+      "ask": 75,
       "bid": 50,
       "vendor": 10
     },
@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 835,
-      "bid": 150,
+      "bid": -1,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 181,
-      "bid": 168,
+      "bid": 170,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -636,7 +636,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 76000,
+      "ask": 75999,
       "bid": 63500,
       "vendor": 44550
     },
@@ -666,7 +666,7 @@
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": 79605,
+      "ask": 70000,
       "bid": 68001,
       "vendor": 44550
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 144,
+      "ask": 145,
       "bid": 138,
       "vendor": 54
     },
@@ -742,7 +742,7 @@
     },
     "Magnifying Glass": {
       "ask": 209917,
-      "bid": 150000,
+      "bid": 120000,
       "vendor": 10000
     },
     "Maim": {
@@ -806,7 +806,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 133,
+      "ask": 129,
       "bid": 50,
       "vendor": 20
     },
@@ -831,7 +831,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 290,
+      "ask": 289,
       "bid": 171,
       "vendor": 40
     },
@@ -856,8 +856,8 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 182,
-      "bid": 74,
+      "ask": 170,
+      "bid": 75,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 12580,
+      "ask": 12579,
       "bid": 1202,
       "vendor": 1000
     },
@@ -886,8 +886,8 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 14000,
-      "bid": 11731,
+      "ask": 19900,
+      "bid": 12320,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 515,
+      "ask": 514,
       "bid": 434,
       "vendor": 75
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 617,
+      "ask": 616,
       "bid": 591,
       "vendor": 75
     },
@@ -1152,7 +1152,7 @@
     },
     "Swiftness Coffee": {
       "ask": 500,
-      "bid": 404,
+      "bid": 405,
       "vendor": 50
     },
     "Toughness": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1660962601.8761423
+  "time": 1660963502.462673
 }
