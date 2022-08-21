@@ -36,8 +36,8 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 23750,
-      "bid": 888,
+      "ask": 23744,
+      "bid": 900,
       "vendor": 864
     },
     "Azure Brush": {
@@ -46,7 +46,7 @@
       "vendor": 1080
     },
     "Azure Buckler": {
-      "ask": 10000,
+      "ask": 9988,
       "bid": 1350,
       "vendor": 1296
     },
@@ -91,7 +91,7 @@
       "vendor": 8
     },
     "Azure Plate Body": {
-      "ask": 10000,
+      "ask": 9988,
       "bid": 2050,
       "vendor": 1944
     },
@@ -242,16 +242,16 @@
     },
     "Burble Milk": {
       "ask": 48,
-      "bid": 37,
+      "bid": 41,
       "vendor": 12
     },
     "Burble Plate Body": {
-      "ask": 16780,
+      "ask": 16777,
       "bid": 6001,
       "vendor": 4860
     },
     "Burble Plate Legs": {
-      "ask": 19800,
+      "ask": 19777,
       "bid": 3855,
       "vendor": 3780
     },
@@ -336,7 +336,7 @@
       "vendor": 72
     },
     "Cheese Plate Body": {
-      "ask": 3500,
+      "ask": 3477,
       "bid": 322,
       "vendor": 108
     },
@@ -411,7 +411,7 @@
       "vendor": 7776
     },
     "Crimson Bulwark": {
-      "ask": 45100,
+      "ask": 50000,
       "bid": 16801,
       "vendor": 12960
     },
@@ -437,11 +437,11 @@
     },
     "Crimson Helmet": {
       "ask": 28443,
-      "bid": 10003,
+      "bid": 10004,
       "vendor": 6480
     },
     "Crimson Mace": {
-      "ask": 36332,
+      "ask": 36330,
       "bid": 17000,
       "vendor": 7776
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 20,
+      "ask": 19,
       "bid": 13,
       "vendor": 1
     },
@@ -577,7 +577,7 @@
     },
     "Giant Pouch": {
       "ask": -1,
-      "bid": 8000000,
+      "bid": 9500000,
       "vendor": 5000000
     },
     "Gobo Essence": {
@@ -636,13 +636,13 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 84020,
+      "ask": 84015,
       "bid": 63000,
       "vendor": 44550
     },
     "Holy Buckler": {
       "ask": 89980,
-      "bid": -1,
+      "bid": 55000,
       "vendor": 53460
     },
     "Holy Bulwark": {
@@ -677,7 +677,7 @@
     },
     "Holy Mace": {
       "ask": 93999,
-      "bid": 80000,
+      "bid": 70000,
       "vendor": 53460
     },
     "Holy Milk": {
@@ -717,7 +717,7 @@
     },
     "Holy Sword": {
       "ask": 79800,
-      "bid": 1,
+      "bid": 54555,
       "vendor": 53460
     },
     "Intelligence Coffee": {
@@ -736,7 +736,7 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 399,
+      "ask": 390,
       "bid": 151,
       "vendor": 40
     },
@@ -792,7 +792,7 @@
     },
     "Mooberry Donut": {
       "ask": 319,
-      "bid": 201,
+      "bid": 200,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
@@ -822,7 +822,7 @@
     },
     "Panda Gloves": {
       "ask": 1500000,
-      "bid": 73500,
+      "bid": 80000,
       "vendor": 60000
     },
     "Peach": {
@@ -837,7 +837,7 @@
     },
     "Peach Yogurt": {
       "ask": 198,
-      "bid": 135,
+      "bid": 90,
       "vendor": 40
     },
     "Pierce": {
@@ -906,13 +906,13 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 54000,
-      "bid": -1,
+      "ask": 53888,
+      "bid": 30555,
       "vendor": 29970
     },
     "Rainbow Cheese": {
       "ask": 250,
-      "bid": 240,
+      "bid": 225,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 559,
+      "ask": 550,
       "bid": 525,
       "vendor": 75
     },
@@ -1136,7 +1136,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 499,
+      "ask": 490,
       "bid": 100,
       "vendor": 40
     },
@@ -1206,7 +1206,7 @@
       "vendor": 300
     },
     "Verdant Buckler": {
-      "ask": 19954,
+      "ask": 19950,
       "bid": 420,
       "vendor": 360
     },
@@ -1241,7 +1241,7 @@
       "vendor": 300
     },
     "Verdant Mace": {
-      "ask": 9444,
+      "ask": 9440,
       "bid": 400,
       "vendor": 360
     },
@@ -1306,8 +1306,8 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 16,
-      "bid": 15,
+      "ask": 19,
+      "bid": 14,
       "vendor": 1
     },
     "Wisdom Tea": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661060702.3945656
+  "time": 1661061602.720984
 }
