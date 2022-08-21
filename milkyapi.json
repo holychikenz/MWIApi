@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 100,
-      "bid": 55,
+      "bid": 56,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 189,
+      "ask": 188,
       "bid": 145,
       "vendor": 24
     },
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 187,
-      "bid": 186,
+      "bid": 159,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -562,12 +562,12 @@
     },
     "Frenzy": {
       "ask": 235000,
-      "bid": 200001,
+      "bid": 200002,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 430,
-      "bid": 314,
+      "ask": 435,
+      "bid": 350,
       "vendor": 10
     },
     "Gator Vest": {
@@ -581,7 +581,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 44,
+      "ask": 46,
       "bid": 36,
       "vendor": 24
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 95,
-      "bid": 85,
+      "bid": 86,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -747,7 +747,7 @@
     },
     "Maim": {
       "ask": 498749,
-      "bid": 260001,
+      "bid": 260002,
       "vendor": 1000
     },
     "Marsberry": {
@@ -801,7 +801,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 8,
+      "ask": 13,
       "bid": 5,
       "vendor": 4
     },
@@ -836,13 +836,13 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 150,
+      "ask": 198,
       "bid": 120,
       "vendor": 40
     },
     "Pierce": {
       "ask": 39999,
-      "bid": 10071,
+      "bid": 10100,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -887,7 +887,7 @@
     },
     "Precision": {
       "ask": 20000,
-      "bid": 15288,
+      "bid": 16065,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 38,
+      "ask": 39,
       "bid": 35,
       "vendor": 27
     },
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 62,
+      "ask": 73,
       "bid": 44,
       "vendor": 27
     },
@@ -1121,7 +1121,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 500,
+      "ask": 475,
       "bid": 333,
       "vendor": 40
     },
@@ -1147,7 +1147,7 @@
     },
     "Sweep": {
       "ask": 178500,
-      "bid": 150005,
+      "bid": 150010,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1192,7 +1192,7 @@
     },
     "Vampirism": {
       "ask": 280248,
-      "bid": 150000,
+      "bid": 150001,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661046302.178649
+  "time": 1661047201.907327
 }
