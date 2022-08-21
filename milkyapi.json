@@ -1,12 +1,12 @@
 {
   "market": {
     "Apple": {
-      "ask": 22,
+      "ask": 20,
       "bid": 9,
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 46,
+      "ask": 45,
       "bid": 36,
       "vendor": 10
     },
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 235,
+      "ask": 234,
       "bid": 203,
       "vendor": 12
     },
@@ -506,12 +506,12 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 264,
+      "ask": 260,
       "bid": 176,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 282,
+      "ask": 280,
       "bid": 256,
       "vendor": 50
     },
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 555,
-      "bid": 540,
+      "ask": 552,
+      "bid": 541,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -711,7 +711,7 @@
       "vendor": 44550
     },
     "Holy Spear": {
-      "ask": 67688,
+      "ask": 67000,
       "bid": 45000,
       "vendor": 53460
     },
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 199400,
+      "ask": 199000,
       "bid": 125000,
       "vendor": 10000
     },
@@ -756,8 +756,8 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 198,
-      "bid": 130,
+      "ask": 197,
+      "bid": 135,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -787,7 +787,7 @@
     },
     "Mooberry Cake": {
       "ask": 168,
-      "bid": 111,
+      "bid": 112,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -807,7 +807,7 @@
     },
     "Orange Gummy": {
       "ask": 87,
-      "bid": 50,
+      "bid": 60,
       "vendor": 20
     },
     "Orange Yogurt": {
@@ -831,7 +831,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 262,
+      "ask": 250,
       "bid": 175,
       "vendor": 40
     },
@@ -856,12 +856,12 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 135,
+      "ask": 130,
       "bid": 74,
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 210,
+      "ask": 150,
       "bid": 76,
       "vendor": 30
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 251,
+      "ask": 250,
       "bid": 231,
       "vendor": 27
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 785,
+      "ask": 700,
       "bid": 485,
       "vendor": 75
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661088602.2429109
+  "time": 1661089502.2737997
 }
