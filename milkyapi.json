@@ -81,7 +81,7 @@
       "vendor": 1080
     },
     "Azure Mace": {
-      "ask": -1,
+      "ask": 30000,
       "bid": 3342,
       "vendor": 1296
     },
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 47,
+      "ask": 45,
       "bid": 41,
       "vendor": 12
     },
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 170,
+      "ask": 169,
       "bid": 93,
       "vendor": 6
     },
@@ -856,7 +856,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 128,
+      "ask": 136,
       "bid": 74,
       "vendor": 30
     },
@@ -1076,7 +1076,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 269,
+      "ask": 270,
       "bid": 181,
       "vendor": 30
     },
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 475,
+      "ask": 500,
       "bid": 150,
       "vendor": 40
     },
@@ -1216,7 +1216,7 @@
       "vendor": 600
     },
     "Verdant Cheese": {
-      "ask": 192,
+      "ask": 191,
       "bid": 141,
       "vendor": 12
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661076902.4990594
+  "time": 1661077802.526887
 }
