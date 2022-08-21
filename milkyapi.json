@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 64,
+      "ask": 70,
       "bid": 44,
       "vendor": 16
     },
@@ -146,8 +146,8 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 42,
-      "bid": 41,
+      "ask": 43,
+      "bid": 42,
       "vendor": 8
     },
     "Blackberry": {
@@ -402,7 +402,7 @@
     },
     "Crimson Brush": {
       "ask": 21322,
-      "bid": 10000,
+      "bid": 10001,
       "vendor": 6480
     },
     "Crimson Buckler": {
@@ -436,13 +436,13 @@
       "vendor": 6480
     },
     "Crimson Helmet": {
-      "ask": -1,
-      "bid": 10005,
+      "ask": 50000,
+      "bid": 10006,
       "vendor": 6480
     },
     "Crimson Mace": {
-      "ask": 36332,
-      "bid": 17000,
+      "ask": 36330,
+      "bid": 17001,
       "vendor": 7776
     },
     "Crimson Milk": {
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 530,
+      "ask": 529,
       "bid": 350,
       "vendor": 10
     },
@@ -581,7 +581,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 65,
+      "ask": 64,
       "bid": 39,
       "vendor": 24
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 95,
-      "bid": 89,
+      "bid": 90,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -702,7 +702,7 @@
     },
     "Holy Shears": {
       "ask": 80000,
-      "bid": 61111,
+      "bid": 66666,
       "vendor": 44550
     },
     "Holy Spatula": {
@@ -866,8 +866,8 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 11000,
-      "bid": 2028,
+      "ask": 10888,
+      "bid": 2035,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 235,
+      "ask": 234,
       "bid": 180,
       "vendor": 81
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Milk": {
       "ask": 38,
-      "bid": 35,
+      "bid": 33,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 506,
+      "ask": 507,
       "bid": 433,
       "vendor": 75
     },
@@ -1056,12 +1056,12 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 530,
+      "ask": 539,
       "bid": 123,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 550,
+      "ask": 560,
       "bid": 501,
       "vendor": 75
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 44000,
+      "ask": 43211,
       "bid": 13001,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661121902.7358725
+  "time": 1661122802.6611166
 }
