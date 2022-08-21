@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 556,
-      "bid": 529,
+      "bid": 530,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -871,8 +871,8 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 75000,
-      "bid": 69000,
+      "ask": 74999,
+      "bid": 2,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -887,7 +887,7 @@
     },
     "Precision": {
       "ask": 39998,
-      "bid": 17715,
+      "bid": 18601,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1036,7 +1036,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 620,
+      "ask": 619,
       "bid": 460,
       "vendor": 75
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661051702.1586325
+  "time": 1661052602.6008866
 }
