@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 240,
-      "bid": 224,
+      "bid": 207,
       "vendor": 12
     },
     "Cheese": {
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 160000,
-      "bid": 67072,
+      "bid": 67076,
       "vendor": 1000
     },
     "Coin": {
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 149888,
+      "ask": 149887,
       "bid": 52501,
       "vendor": 1500
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 64,
+      "ask": 63,
       "bid": 48,
       "vendor": 36
     },
@@ -581,8 +581,8 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 46,
-      "bid": 36,
+      "ask": 47,
+      "bid": 37,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -597,12 +597,12 @@
     },
     "Gobo Stabber": {
       "ask": 20147,
-      "bid": 20100,
+      "bid": 13465,
       "vendor": 20000
     },
     "Goggles": {
       "ask": 209472,
-      "bid": 170001,
+      "bid": 171000,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 95,
+      "ask": 96,
       "bid": 86,
       "vendor": 4
     },
@@ -786,8 +786,8 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 170,
-      "bid": 136,
+      "ask": 169,
+      "bid": 110,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -831,7 +831,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 251,
+      "ask": 253,
       "bid": 174,
       "vendor": 40
     },
@@ -842,7 +842,7 @@
     },
     "Pierce": {
       "ask": 39999,
-      "bid": 10100,
+      "bid": 10101,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -886,8 +886,8 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 20000,
-      "bid": 16065,
+      "ask": 39998,
+      "bid": 16868,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -961,7 +961,7 @@
       "vendor": 14985
     },
     "Rainbow Shears": {
-      "ask": 55000,
+      "ask": 54999,
       "bid": 15555,
       "vendor": 14985
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 280,
+      "ask": 279,
       "bid": 230,
       "vendor": 27
     },
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 73,
+      "ask": 72,
       "bid": 44,
       "vendor": 27
     },
@@ -1041,7 +1041,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 138,
+      "ask": 139,
       "bid": 98,
       "vendor": 54
     },
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 450,
+      "ask": 500,
       "bid": 150,
       "vendor": 40
     },
@@ -1176,12 +1176,12 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 195,
+      "ask": 194,
       "bid": 178,
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 891715,
+      "ask": 891714,
       "bid": 750000,
       "vendor": 10000
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 280248,
+      "ask": 266236,
       "bid": 150001,
       "vendor": 1000
     },
@@ -1306,12 +1306,12 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 20,
+      "ask": 16,
       "bid": 15,
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 744,
+      "ask": 745,
       "bid": 620,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661047201.907327
+  "time": 1661048102.106654
 }
