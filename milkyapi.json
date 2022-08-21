@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 298,
-      "bid": 133,
+      "bid": 134,
       "vendor": 20
     },
     "Azure Boots": {
@@ -81,7 +81,7 @@
       "vendor": 1080
     },
     "Azure Mace": {
-      "ask": 30000,
+      "ask": -1,
       "bid": 3342,
       "vendor": 1296
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 235,
-      "bid": 197,
+      "bid": 198,
       "vendor": 12
     },
     "Cheese": {
@@ -507,7 +507,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 265,
-      "bid": 191,
+      "bid": 176,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -536,7 +536,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 79,
+      "ask": 80,
       "bid": 49,
       "vendor": 18
     },
@@ -561,12 +561,12 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 234000,
+      "ask": 233995,
       "bid": 200002,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 498,
+      "ask": 497,
       "bid": 314,
       "vendor": 10
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 96,
-      "bid": 88,
+      "bid": 89,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -637,7 +637,7 @@
     },
     "Holy Brush": {
       "ask": 84000,
-      "bid": 100,
+      "bid": 60000,
       "vendor": 44550
     },
     "Holy Buckler": {
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 25,
+      "ask": 30,
       "bid": 12,
       "vendor": 9
     },
@@ -841,7 +841,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 49999,
+      "ask": 55995,
       "bid": 10502,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 250,
+      "ask": 249,
       "bid": 225,
       "vendor": 81
     },
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 891714,
-      "bid": 750000,
+      "bid": 712500,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661062501.7616801
+  "time": 1661063402.522252
 }
