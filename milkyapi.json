@@ -31,7 +31,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 290,
+      "ask": 289,
       "bid": 151,
       "vendor": 20
     },
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 238,
-      "bid": 167,
+      "bid": 168,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -106,7 +106,7 @@
       "vendor": 1080
     },
     "Azure Shears": {
-      "ask": 30000,
+      "ask": -1,
       "bid": 1304,
       "vendor": 1080
     },
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 282,
-      "bid": 269,
+      "bid": 260,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -546,13 +546,13 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 498,
+      "ask": 527,
       "bid": 301,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
       "ask": 98,
-      "bid": 55,
+      "bid": 56,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -561,12 +561,12 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 254363,
+      "ask": 254360,
       "bid": 200100,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 472,
+      "ask": 473,
       "bid": 300,
       "vendor": 10
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 94,
+      "ask": 104,
       "bid": 91,
       "vendor": 4
     },
@@ -636,7 +636,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 83900,
+      "ask": 83800,
       "bid": 63000,
       "vendor": 44550
     },
@@ -657,7 +657,7 @@
     },
     "Holy Enhancer": {
       "ask": 99996,
-      "bid": 57555,
+      "bid": 65000,
       "vendor": 44550
     },
     "Holy Gauntlets": {
@@ -776,7 +776,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 398,
+      "ask": 397,
       "bid": 227,
       "vendor": 10
     },
@@ -831,13 +831,13 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 205,
+      "ask": 209,
       "bid": 174,
       "vendor": 40
     },
     "Peach Yogurt": {
       "ask": 125,
-      "bid": 85,
+      "bid": 49,
       "vendor": 40
     },
     "Pierce": {
@@ -851,7 +851,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 15,
+      "ask": 21,
       "bid": 11,
       "vendor": 6
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 72899,
+      "ask": 72800,
       "bid": 41000,
       "vendor": 3000
     },
@@ -892,7 +892,7 @@
     },
     "Rainbow Boots": {
       "ask": 13959,
-      "bid": 12303,
+      "bid": 12305,
       "vendor": 11988
     },
     "Rainbow Brush": {
@@ -1046,7 +1046,7 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 339,
+      "ask": 340,
       "bid": 100,
       "vendor": 10
     },
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 580,
+      "ask": 790,
       "bid": 150,
       "vendor": 40
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 511,
+      "ask": 510,
       "bid": 461,
       "vendor": 50
     },
@@ -1166,7 +1166,7 @@
       "vendor": 1500
     },
     "Turtle Shell Body": {
-      "ask": 25717,
+      "ask": 25718,
       "bid": -1,
       "vendor": 9000
     },
@@ -1191,8 +1191,8 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 250000,
-      "bid": 150008,
+      "ask": 252924,
+      "bid": 200000,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 660,
+      "ask": 662,
       "bid": 473,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661179501.9302866
+  "time": 1661180402.4117734
 }
