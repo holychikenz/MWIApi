@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 238,
-      "bid": 175,
+      "bid": 176,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -66,7 +66,7 @@
       "vendor": 1080
     },
     "Azure Gauntlets": {
-      "ask": 30000,
+      "ask": -1,
       "bid": 4002,
       "vendor": 864
     },
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 243,
-      "bid": 168,
+      "bid": 169,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 175,
-      "bid": 124,
+      "bid": 125,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 29990,
+      "ask": 29989,
       "bid": 19537,
       "vendor": 1000
     },
@@ -987,7 +987,7 @@
     },
     "Robusta Coffee Bean": {
       "ask": 136,
-      "bid": 65,
+      "bid": 64,
       "vendor": 8
     },
     "Scratch": {
@@ -1046,7 +1046,7 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 340,
+      "ask": 320,
       "bid": 100,
       "vendor": 10
     },
@@ -1217,7 +1217,7 @@
     },
     "Verdant Cheese": {
       "ask": 191,
-      "bid": 153,
+      "bid": 154,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1287,12 +1287,12 @@
     },
     "Vision Helmet": {
       "ask": 265997,
-      "bid": 200000,
+      "bid": 200001,
       "vendor": 20000
     },
     "Vision Shield": {
       "ask": 199992,
-      "bid": 52500,
+      "bid": 75000,
       "vendor": 20000
     },
     "Werewolf Claw": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661190302.487039
+  "time": 1661191202.3970966
 }
