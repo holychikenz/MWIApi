@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 238,
+      "ask": 237,
       "bid": 168,
       "vendor": 24
     },
@@ -106,7 +106,7 @@
       "vendor": 1080
     },
     "Azure Shears": {
-      "ask": -1,
+      "ask": 30000,
       "bid": 1304,
       "vendor": 1080
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 204248,
-      "bid": 185003,
+      "bid": 185004,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -191,7 +191,7 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": 5866,
+      "ask": 6500,
       "bid": 2501,
       "vendor": 2160
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 246,
+      "ask": 245,
       "bid": 167,
       "vendor": 36
     },
@@ -246,7 +246,7 @@
       "vendor": 12
     },
     "Burble Plate Body": {
-      "ask": -1,
+      "ask": 40000,
       "bid": 6001,
       "vendor": 4860
     },
@@ -296,7 +296,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 1483,
+      "ask": 1487,
       "bid": 307,
       "vendor": 60
     },
@@ -351,12 +351,12 @@
       "vendor": 60
     },
     "Cheese Shears": {
-      "ask": 800,
+      "ask": 3000,
       "bid": 354,
       "vendor": 60
     },
     "Cheese Spatula": {
-      "ask": 2000,
+      "ask": 10000,
       "bid": 303,
       "vendor": 60
     },
@@ -451,7 +451,7 @@
       "vendor": 18
     },
     "Crimson Plate Body": {
-      "ask": 50000,
+      "ask": -1,
       "bid": 12000,
       "vendor": 11664
     },
@@ -492,7 +492,7 @@
     },
     "Defense Coffee": {
       "ask": 378,
-      "bid": 138,
+      "bid": 200,
       "vendor": 20
     },
     "Donut": {
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 53,
-      "bid": 50,
+      "bid": 49,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 47500,
+      "ask": 45125,
       "bid": 20000,
       "vendor": 20000
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 294260,
+      "ask": 294259,
       "bid": 180000,
       "vendor": 10000
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 104,
+      "ask": 105,
       "bid": 91,
       "vendor": 4
     },
@@ -756,12 +756,12 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 188,
+      "ask": 185,
       "bid": 152,
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 399,
+      "ask": 395,
       "bid": 355,
       "vendor": 50
     },
@@ -771,7 +771,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 25,
+      "ask": 26,
       "bid": 19,
       "vendor": 2
     },
@@ -851,7 +851,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 21,
+      "ask": 20,
       "bid": 11,
       "vendor": 6
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 72800,
+      "ask": 72799,
       "bid": 41000,
       "vendor": 3000
     },
@@ -1036,8 +1036,8 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 612,
-      "bid": 350,
+      "ask": 611,
+      "bid": 351,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 887,
+      "ask": 400,
       "bid": 202,
       "vendor": 50
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661180402.4117734
+  "time": 1661181301.820857
 }
