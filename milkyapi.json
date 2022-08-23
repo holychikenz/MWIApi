@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 35,
+      "ask": 36,
       "bid": 30,
       "vendor": 10
     },
@@ -127,12 +127,12 @@
     },
     "Bear Essence": {
       "ask": 114,
-      "bid": 72,
+      "bid": 85,
       "vendor": 54
     },
     "Berserk": {
       "ask": 290000,
-      "bid": 211003,
+      "bid": 220000,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 228000,
+      "ask": 1000000,
       "bid": 71529,
       "vendor": 1000
     },
@@ -392,7 +392,7 @@
     },
     "Crab Pincer": {
       "ask": 113999,
-      "bid": 60000,
+      "bid": 60001,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 229,
+      "ask": 200,
       "bid": 153,
       "vendor": 54
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 53,
+      "ask": 50,
       "bid": 42,
       "vendor": 36
     },
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 298296,
-      "bid": 250004,
+      "bid": 260000,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 101111,
-      "bid": 75000,
+      "bid": 78000,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -711,12 +711,12 @@
       "vendor": 44550
     },
     "Holy Spear": {
-      "ask": 62500,
+      "ask": 62499,
       "bid": -1,
       "vendor": 53460
     },
     "Holy Sword": {
-      "ask": 75000,
+      "ask": 74999,
       "bid": 57000,
       "vendor": 53460
     },
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 339,
+      "ask": 338,
       "bid": 317,
       "vendor": 50
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 177,
+      "ask": 178,
       "bid": 101,
       "vendor": 40
     },
@@ -847,7 +847,7 @@
     },
     "Pincer Gloves": {
       "ask": -1,
-      "bid": 96000,
+      "bid": 115000,
       "vendor": 6000
     },
     "Plum": {
@@ -861,13 +861,13 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 112,
+      "ask": 114,
       "bid": 76,
       "vendor": 30
     },
     "Poke": {
       "ask": 29000,
-      "bid": 5000,
+      "bid": 7000,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 41,
+      "ask": 42,
       "bid": 40,
       "vendor": 27
     },
@@ -997,7 +997,7 @@
     },
     "Smack": {
       "ask": 23000,
-      "bid": 20004,
+      "bid": 21000,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1031,12 +1031,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 504,
+      "ask": 505,
       "bid": 451,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 549,
+      "ask": 548,
       "bid": 376,
       "vendor": 75
     },
@@ -1081,7 +1081,7 @@
       "vendor": 30
     },
     "Sugar": {
-      "ask": 3,
+      "ask": 4,
       "bid": 2,
       "vendor": 1
     },
@@ -1121,7 +1121,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 500,
+      "ask": 526,
       "bid": 233,
       "vendor": 40
     },
@@ -1131,12 +1131,12 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 899,
-      "bid": 590,
+      "ask": 993,
+      "bid": 595,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 686,
+      "ask": 790,
       "bid": 300,
       "vendor": 40
     },
@@ -1147,11 +1147,11 @@
     },
     "Sweep": {
       "ask": 174560,
-      "bid": 150102,
+      "bid": 155000,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 565,
+      "ask": 566,
       "bid": 540,
       "vendor": 50
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661295602.661109
+  "time": 1661296502.2517133
 }
