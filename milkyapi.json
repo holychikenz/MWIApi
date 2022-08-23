@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 47,
+      "ask": 51,
       "bid": 42,
       "vendor": 8
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 244,
+      "ask": 243,
       "bid": 200,
       "vendor": 36
     },
@@ -236,13 +236,13 @@
       "vendor": 2700
     },
     "Burble Mace": {
-      "ask": 16450,
+      "ask": 16449,
       "bid": 3300,
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 44,
-      "bid": 42,
+      "ask": 46,
+      "bid": 44,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 170,
+      "ask": 169,
       "bid": 139,
       "vendor": 6
     },
@@ -436,7 +436,7 @@
       "vendor": 6480
     },
     "Crimson Helmet": {
-      "ask": 50000,
+      "ask": -1,
       "bid": 10006,
       "vendor": 6480
     },
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 47,
-      "bid": 39,
+      "bid": 40,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -551,8 +551,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 93,
-      "bid": 55,
+      "ask": 92,
+      "bid": 56,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -631,7 +631,7 @@
       "vendor": 5
     },
     "Holy Boots": {
-      "ask": 36998,
+      "ask": 36997,
       "bid": 26243,
       "vendor": 35640
     },
@@ -732,7 +732,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 89,
-      "bid": 74,
+      "bid": 76,
       "vendor": 12
     },
     "Lucky Coffee": {
@@ -752,7 +752,7 @@
     },
     "Marsberry": {
       "ask": 20,
-      "bid": 18,
+      "bid": 17,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -762,7 +762,7 @@
     },
     "Marsberry Donut": {
       "ask": 388,
-      "bid": 357,
+      "bid": 350,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -827,7 +827,7 @@
     },
     "Peach": {
       "ask": 22,
-      "bid": 17,
+      "bid": 18,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -852,7 +852,7 @@
     },
     "Plum": {
       "ask": 18,
-      "bid": 12,
+      "bid": 11,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -942,7 +942,7 @@
     },
     "Rainbow Milk": {
       "ask": 41,
-      "bid": 37,
+      "bid": 38,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -987,7 +987,7 @@
     },
     "Robusta Coffee Bean": {
       "ask": 118,
-      "bid": 64,
+      "bid": 65,
       "vendor": 8
     },
     "Scratch": {
@@ -1036,13 +1036,13 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 544,
+      "ask": 586,
       "bid": 361,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
       "ask": 139,
-      "bid": 126,
+      "bid": 127,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 24,
+      "ask": 25,
       "bid": 14,
       "vendor": 8
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661251502.6181378
+  "time": 1661252402.0725896
 }
