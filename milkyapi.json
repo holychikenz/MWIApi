@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 89,
-      "bid": 64,
+      "bid": 65,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 93,
+      "ask": 124,
       "bid": 69,
       "vendor": 54
     },
@@ -172,7 +172,7 @@
     },
     "Blueberry": {
       "ask": 21,
-      "bid": 16,
+      "bid": 17,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -291,12 +291,12 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 250,
+      "ask": 549,
       "bid": 132,
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 400,
+      "ask": 1035,
       "bid": 306,
       "vendor": 60
     },
@@ -311,7 +311,7 @@
       "vendor": 120
     },
     "Cheese Enhancer": {
-      "ask": 450,
+      "ask": 996,
       "bid": 303,
       "vendor": 60
     },
@@ -326,7 +326,7 @@
       "vendor": 60
     },
     "Cheese Helmet": {
-      "ask": 1000,
+      "ask": 10000,
       "bid": 269,
       "vendor": 60
     },
@@ -336,17 +336,17 @@
       "vendor": 72
     },
     "Cheese Plate Body": {
-      "ask": 1000,
+      "ask": 3477,
       "bid": 322,
       "vendor": 108
     },
     "Cheese Plate Legs": {
-      "ask": 1000,
+      "ask": 10000,
       "bid": 279,
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 500,
+      "ask": 999,
       "bid": 201,
       "vendor": 60
     },
@@ -467,7 +467,7 @@
     },
     "Crimson Shears": {
       "ask": 20000,
-      "bid": 10001,
+      "bid": 10000,
       "vendor": 6480
     },
     "Crimson Spatula": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 95,
-      "bid": 60,
+      "bid": 63,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -566,12 +566,12 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 442,
+      "ask": 440,
       "bid": 300,
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 111111,
+      "ask": 101111,
       "bid": 75000,
       "vendor": 5000
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 376,
+      "ask": 373,
       "bid": 26,
       "vendor": 20
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 560,
+      "ask": 559,
       "bid": 551,
       "vendor": 162
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 144,
-      "bid": 141,
+      "bid": 142,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -746,12 +746,12 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 343092,
+      "ask": 343091,
       "bid": 270422,
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 19,
+      "ask": 20,
       "bid": 17,
       "vendor": 14
     },
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 374,
+      "ask": 370,
       "bid": 318,
       "vendor": 50
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 24000,
+      "ask": 23999,
       "bid": 19538,
       "vendor": 1000
     },
@@ -947,7 +947,7 @@
     },
     "Rainbow Plate Body": {
       "ask": 32998,
-      "bid": 27555,
+      "bid": -1,
       "vendor": 26973
     },
     "Rainbow Plate Legs": {
@@ -1037,7 +1037,7 @@
     },
     "Spaceberry Donut": {
       "ask": 540,
-      "bid": 369,
+      "bid": 370,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1071,7 +1071,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 177,
+      "ask": 178,
       "bid": 50,
       "vendor": 30
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 567,
+      "ask": 563,
       "bid": 540,
       "vendor": 50
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661283002.6303947
+  "time": 1661283901.9859047
 }
