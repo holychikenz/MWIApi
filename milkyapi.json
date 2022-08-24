@@ -17,12 +17,12 @@
     },
     "Aqua Essence": {
       "ask": 85,
-      "bid": 40,
+      "bid": 45,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
       "ask": 88,
-      "bid": 65,
+      "bid": 64,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -256,7 +256,7 @@
       "vendor": 3780
     },
     "Burble Pot": {
-      "ask": 29988,
+      "ask": 39875,
       "bid": 3155,
       "vendor": 2700
     },
@@ -416,8 +416,8 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 165,
-      "bid": 157,
+      "ask": 168,
+      "bid": 165,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 45,
-      "bid": 40,
+      "bid": 38,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -511,8 +511,8 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 279,
-      "bid": 236,
+      "ask": 278,
+      "bid": 237,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 48,
+      "ask": 50,
       "bid": 42,
       "vendor": 36
     },
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 265485,
-      "bid": 181002,
+      "bid": 185000,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 76,
-      "bid": 58,
+      "bid": 19,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 564,
-      "bid": 547,
+      "bid": 548,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 144,
-      "bid": 131,
+      "bid": 85,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 320,
+      "ask": 318,
       "bid": 170,
       "vendor": 50
     },
@@ -821,7 +821,7 @@
       "vendor": 3000
     },
     "Panda Gloves": {
-      "ask": 1900000,
+      "ask": 1500000,
       "bid": 99999,
       "vendor": 60000
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 22798,
+      "ask": 21658,
       "bid": 19538,
       "vendor": 1000
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 257,
-      "bid": 211,
+      "bid": 215,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1146,7 +1146,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 174500,
+      "ask": 174064,
       "bid": 155000,
       "vendor": 1000
     },
@@ -1177,7 +1177,7 @@
     },
     "Twilight Essence": {
       "ask": 171,
-      "bid": 151,
+      "bid": -1,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1286,7 +1286,7 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 308750,
+      "ask": 450000,
       "bid": 100000,
       "vendor": 20000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661314502.3758483
+  "time": 1661315402.4209886
 }
