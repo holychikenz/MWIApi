@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 228,
+      "ask": 229,
       "bid": 195,
       "vendor": 36
     },
@@ -246,7 +246,7 @@
       "vendor": 12
     },
     "Burble Plate Body": {
-      "ask": 40000,
+      "ask": -1,
       "bid": 6001,
       "vendor": 4860
     },
@@ -271,7 +271,7 @@
       "vendor": 2700
     },
     "Burble Spear": {
-      "ask": 21955,
+      "ask": 21976,
       "bid": 3300,
       "vendor": 3240
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 220,
-      "bid": 207,
+      "bid": 206,
       "vendor": 12
     },
     "Cheese": {
@@ -616,7 +616,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 100000,
+      "ask": -1,
       "bid": 77002,
       "vendor": 3000
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 505,
+      "ask": 506,
       "bid": 451,
       "vendor": 75
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 479,
+      "ask": 480,
       "bid": 456,
       "vendor": 75
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661312702.5943024
+  "time": 1661313602.3853405
 }
