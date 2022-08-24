@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 109,
+      "ask": 105,
       "bid": 90,
       "vendor": 54
     },
@@ -436,8 +436,8 @@
       "vendor": 6480
     },
     "Crimson Helmet": {
-      "ask": -1,
-      "bid": 50000,
+      "ask": 50000,
+      "bid": 10006,
       "vendor": 6480
     },
     "Crimson Mace": {
@@ -516,8 +516,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 960,
-      "bid": 805,
+      "ask": 1500,
+      "bid": 900,
       "vendor": 50
     },
     "Egg": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 142,
-      "bid": 111,
+      "bid": 115,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -751,17 +751,17 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 19,
+      "ask": 20,
       "bid": 16,
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 190,
-      "bid": 175,
+      "ask": 185,
+      "bid": 173,
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 312,
+      "ask": 310,
       "bid": 170,
       "vendor": 50
     },
@@ -772,7 +772,7 @@
     },
     "Milk": {
       "ask": 17,
-      "bid": 15,
+      "bid": 12,
       "vendor": 2
     },
     "Milking Tea": {
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 150000,
+      "ask": 149000,
       "bid": 140001,
       "vendor": 3000
     },
@@ -996,7 +996,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 23689,
+      "ask": 23000,
       "bid": 21000,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661324402.7306736
+  "time": 1661325302.2267244
 }
