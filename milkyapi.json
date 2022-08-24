@@ -157,12 +157,12 @@
     },
     "Blackberry Cake": {
       "ask": 145,
-      "bid": 30,
+      "bid": 25,
       "vendor": 20
     },
     "Blackberry Donut": {
       "ask": 233,
-      "bid": 35,
+      "bid": 27,
       "vendor": 20
     },
     "Blessed Tea": {
@@ -182,7 +182,7 @@
     },
     "Blueberry Donut": {
       "ask": 75,
-      "bid": 13,
+      "bid": 11,
       "vendor": 10
     },
     "Brewing Tea": {
@@ -237,7 +237,7 @@
     },
     "Burble Mace": {
       "ask": 29888,
-      "bid": 3300,
+      "bid": 4000,
       "vendor": 3240
     },
     "Burble Milk": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 219,
+      "ask": 218,
       "bid": 206,
       "vendor": 12
     },
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 1000000,
-      "bid": 71535,
+      "bid": 71536,
       "vendor": 1000
     },
     "Coin": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 170,
-      "bid": 165,
+      "bid": 157,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -456,7 +456,7 @@
       "vendor": 11664
     },
     "Crimson Plate Legs": {
-      "ask": 50000,
+      "ask": -1,
       "bid": 9222,
       "vendor": 9072
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 960,
+      "ask": 950,
       "bid": 805,
       "vendor": 50
     },
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 500,
+      "ask": 385,
       "bid": 40,
       "vendor": 40
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 429,
+      "ask": 426,
       "bid": 300,
       "vendor": 10
     },
@@ -602,16 +602,16 @@
     },
     "Goggles": {
       "ask": 265485,
-      "bid": 185000,
+      "bid": 185001,
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 365,
+      "ask": 363,
       "bid": 200,
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 75,
+      "ask": 74,
       "bid": 30,
       "vendor": 4
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 144,
-      "bid": 86,
+      "bid": 110,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -756,12 +756,12 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 189,
+      "ask": 190,
       "bid": 180,
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 315,
+      "ask": 313,
       "bid": 170,
       "vendor": 50
     },
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 34,
+      "ask": 33,
       "bid": 22,
       "vendor": 18
     },
@@ -832,7 +832,7 @@
     },
     "Peach Gummy": {
       "ask": 189,
-      "bid": -1,
+      "bid": 41,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -842,12 +842,12 @@
     },
     "Pierce": {
       "ask": 28499,
-      "bid": 11062,
+      "bid": 11063,
       "vendor": 1000
     },
     "Pincer Gloves": {
       "ask": 350000,
-      "bid": 115000,
+      "bid": 150000,
       "vendor": 6000
     },
     "Plum": {
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 268,
+      "ask": 267,
       "bid": 260,
       "vendor": 27
     },
@@ -992,7 +992,7 @@
     },
     "Scratch": {
       "ask": 23887,
-      "bid": 16000,
+      "bid": 12540,
       "vendor": 1000
     },
     "Smack": {
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 1700477,
-      "bid": 1502017,
+      "bid": 1502018,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661319901.6846292
+  "time": 1661320802.800947
 }
