@@ -211,8 +211,8 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 228,
-      "bid": 210,
+      "ask": 230,
+      "bid": 195,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -291,7 +291,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 498,
+      "ask": 550,
       "bid": 132,
       "vendor": 48
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 14,
+      "ask": 17,
       "bid": 11,
       "vendor": 1
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 143,
+      "ask": 144,
       "bid": 86,
       "vendor": 54
     },
@@ -832,7 +832,7 @@
     },
     "Peach Gummy": {
       "ask": 189,
-      "bid": 120,
+      "bid": -1,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 13,
+      "ask": 17,
       "bid": 12,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661319001.8581388
+  "time": 1661319901.6846292
 }
