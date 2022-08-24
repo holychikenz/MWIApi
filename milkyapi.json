@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 20,
-      "bid": 8,
+      "bid": 9,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -17,16 +17,16 @@
     },
     "Aqua Essence": {
       "ask": 79,
-      "bid": 46,
+      "bid": 47,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
       "ask": 88,
-      "bid": 65,
+      "bid": 66,
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 840,
+      "ask": 838,
       "bid": 401,
       "vendor": 75
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 223,
+      "ask": 224,
       "bid": 183,
       "vendor": 24
     },
@@ -147,12 +147,12 @@
     },
     "Black Tea Leaf": {
       "ask": 37,
-      "bid": 29,
+      "bid": 30,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 11,
-      "bid": 7,
+      "ask": 10,
+      "bid": 6,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -391,8 +391,8 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 80000,
-      "bid": 61000,
+      "ask": 103482,
+      "bid": 61001,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 169,
+      "ask": 170,
       "bid": 165,
       "vendor": 54
     },
@@ -446,7 +446,7 @@
       "vendor": 7776
     },
     "Crimson Milk": {
-      "ask": 19,
+      "ask": 20,
       "bid": 18,
       "vendor": 18
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1068,
+      "ask": 1065,
       "bid": 862,
       "vendor": 50
     },
@@ -536,7 +536,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 58,
+      "ask": 59,
       "bid": 50,
       "vendor": 18
     },
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 41,
-      "bid": 26,
+      "bid": 27,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 593,
+      "ask": 600,
       "bid": 562,
       "vendor": 162
     },
@@ -677,7 +677,7 @@
     },
     "Holy Mace": {
       "ask": 93994,
-      "bid": 72000,
+      "bid": 70001,
       "vendor": 53460
     },
     "Holy Milk": {
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 263,
+      "ask": 250,
       "bid": 170,
       "vendor": 50
     },
@@ -1027,7 +1027,7 @@
     },
     "Spaceberry": {
       "ask": 50,
-      "bid": 32,
+      "bid": 33,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 167,
-      "bid": 133,
+      "bid": 135,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1276,7 +1276,7 @@
       "vendor": 300
     },
     "Verdant Spear": {
-      "ask": 4488,
+      "ask": 4500,
       "bid": 385,
       "vendor": 360
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661355902.0690603
+  "time": 1661356802.626421
 }
