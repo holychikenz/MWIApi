@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 174,
+      "ask": 173,
       "bid": 140,
       "vendor": 6
     },
@@ -296,8 +296,8 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 1035,
-      "bid": 306,
+      "ask": 1488,
+      "bid": 400,
       "vendor": 60
     },
     "Cheese Buckler": {
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 39,
+      "ask": 40,
       "bid": 28,
       "vendor": 14
     },
@@ -512,11 +512,11 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 278,
-      "bid": 250,
+      "bid": 241,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1075,
+      "ask": 1070,
       "bid": 862,
       "vendor": 50
     },
@@ -546,8 +546,8 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 325,
-      "bid": 100,
+      "ask": 469,
+      "bid": 40,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 334000,
+      "ask": 333000,
       "bid": 260010,
       "vendor": 1000
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 279328,
+      "ask": 240000,
       "bid": 190001,
       "vendor": 10000
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 592,
+      "ask": 593,
       "bid": 561,
       "vendor": 162
     },
@@ -676,7 +676,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 93995,
+      "ask": 93994,
       "bid": 72000,
       "vendor": 53460
     },
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 188958,
+      "ask": 175000,
       "bid": 140000,
       "vendor": 10000
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 195,
+      "ask": 279,
       "bid": 173,
       "vendor": 50
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 72500,
+      "ask": 72000,
       "bid": 50001,
       "vendor": 3000
     },
@@ -897,7 +897,7 @@
     },
     "Rainbow Brush": {
       "ask": 31086,
-      "bid": 21000,
+      "bid": 22000,
       "vendor": 14985
     },
     "Rainbow Buckler": {
@@ -956,7 +956,7 @@
       "vendor": 20979
     },
     "Rainbow Pot": {
-      "ask": 21085,
+      "ask": -1,
       "bid": 15555,
       "vendor": 14985
     },
@@ -981,8 +981,8 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 338,
-      "bid": 275,
+      "ask": 330,
+      "bid": 320,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 57,
+      "ask": 50,
       "bid": 30,
       "vendor": 27
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 998,
+      "ask": 999,
       "bid": 700,
       "vendor": 75
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 252923,
+      "ask": 225000,
       "bid": 175013,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661354101.8945239
+  "time": 1661355002.7336013
 }
