@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 230,
+      "ask": 238,
       "bid": 196,
       "vendor": 36
     },
@@ -436,8 +436,8 @@
       "vendor": 6480
     },
     "Crimson Helmet": {
-      "ask": 50000,
-      "bid": 10006,
+      "ask": -1,
+      "bid": 50000,
       "vendor": 6480
     },
     "Crimson Mace": {
@@ -506,7 +506,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 510,
+      "ask": 509,
       "bid": 178,
       "vendor": 50
     },
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 101010,
-      "bid": 78000,
+      "bid": 71000,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -716,7 +716,7 @@
       "vendor": 53460
     },
     "Holy Sword": {
-      "ask": 74999,
+      "ask": 74000,
       "bid": 54555,
       "vendor": 53460
     },
@@ -757,7 +757,7 @@
     },
     "Marsberry Cake": {
       "ask": 190,
-      "bid": 180,
+      "bid": 174,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 28997,
+      "ask": 25000,
       "bid": 8000,
       "vendor": 1000
     },
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 999,
+      "ask": 777,
       "bid": 255,
       "vendor": 100
     },
@@ -1312,7 +1312,7 @@
     },
     "Wisdom Tea": {
       "ask": 625,
-      "bid": 480,
+      "bid": 481,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661322601.6579866
+  "time": 1661323502.3432472
 }
