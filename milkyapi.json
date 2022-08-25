@@ -186,7 +186,7 @@
       "vendor": 10
     },
     "Brewing Tea": {
-      "ask": 249,
+      "ask": 250,
       "bid": 29,
       "vendor": 20
     },
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 350,
+      "ask": 450,
       "bid": 40,
       "vendor": 40
     },
@@ -586,33 +586,33 @@
       "vendor": 24
     },
     "Gobo Slasher": {
-      "ask": 23745,
+      "ask": 23744,
       "bid": -1,
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 35000,
+      "ask": 34999,
       "bid": 20000,
       "vendor": 20000
     },
     "Gobo Stabber": {
-      "ask": 21000,
+      "ask": 20998,
       "bid": 20000,
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 279068,
+      "ask": 279059,
       "bid": 192003,
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 347,
+      "ask": 346,
       "bid": 201,
       "vendor": 20
     },
     "Green Tea Leaf": {
       "ask": 82,
-      "bid": 40,
+      "bid": 45,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 259,
-      "bid": 235,
+      "bid": 240,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1091,7 +1091,7 @@
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 1627,
+      "ask": 900,
       "bid": 102,
       "vendor": 50
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 825,
+      "ask": 824,
       "bid": 647,
       "vendor": 75
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 556,
+      "ask": 555,
       "bid": 520,
       "vendor": 50
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661392802.6594534
+  "time": 1661393702.9118414
 }
