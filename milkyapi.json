@@ -276,7 +276,7 @@
       "vendor": 3240
     },
     "Burble Sword": {
-      "ask": -1,
+      "ask": 40000,
       "bid": 3574,
       "vendor": 3240
     },
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 100000,
-      "bid": 72004,
+      "bid": 72005,
       "vendor": 1000
     },
     "Coin": {
@@ -386,7 +386,7 @@
       "vendor": 0
     },
     "Cooking Tea": {
-      "ask": 317,
+      "ask": 316,
       "bid": 100,
       "vendor": 20
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 37,
+      "ask": 38,
       "bid": 25,
       "vendor": 14
     },
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 279069,
-      "bid": 192002,
+      "bid": 192003,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 193,
+      "ask": 192,
       "bid": 117,
       "vendor": 40
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 69000,
+      "ask": 67500,
       "bid": 55000,
       "vendor": 3000
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 257,
+      "ask": 259,
       "bid": 235,
       "vendor": 81
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 384,
+      "ask": 385,
       "bid": 280,
       "vendor": 27
     },
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 495,
-      "bid": 419,
+      "bid": 418,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1061,8 +1061,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 495,
-      "bid": 450,
+      "ask": 490,
+      "bid": 449,
       "vendor": 75
     },
     "Strawberry": {
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 888,
+      "ask": 850,
       "bid": 647,
       "vendor": 75
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661389202.052761
+  "time": 1661390102.3788867
 }
