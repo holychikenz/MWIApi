@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 43,
-      "bid": 26,
+      "bid": 27,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -156,7 +156,7 @@
       "vendor": 4
     },
     "Blackberry Cake": {
-      "ask": 145,
+      "ask": 144,
       "bid": 25,
       "vendor": 20
     },
@@ -296,7 +296,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 1488,
+      "ask": 2250,
       "bid": 400,
       "vendor": 60
     },
@@ -321,7 +321,7 @@
       "vendor": 48
     },
     "Cheese Hammer": {
-      "ask": 1000,
+      "ask": 2244,
       "bid": 301,
       "vendor": 60
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 38,
+      "ask": 40,
       "bid": 28,
       "vendor": 14
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 195,
+      "ask": 200,
       "bid": 106,
       "vendor": 27
     },
@@ -606,18 +606,18 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 419,
+      "ask": 417,
       "bid": 201,
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 98,
-      "bid": 68,
+      "ask": 103,
+      "bid": 69,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
       "ask": 133794,
-      "bid": 100001,
+      "bid": 100002,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -751,8 +751,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 17,
-      "bid": 16,
+      "ask": 16,
+      "bid": 15,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -771,7 +771,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 16,
+      "ask": 14,
       "bid": 11,
       "vendor": 2
     },
@@ -832,7 +832,7 @@
     },
     "Peach Gummy": {
       "ask": 132,
-      "bid": 57,
+      "bid": 58,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -992,7 +992,7 @@
     },
     "Scratch": {
       "ask": 26500,
-      "bid": 20002,
+      "bid": 20001,
       "vendor": 1000
     },
     "Smack": {
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 172,
-      "bid": 148,
+      "bid": 149,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 789,
+      "ask": 788,
       "bid": 641,
       "vendor": 75
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 560,
+      "ask": 559,
       "bid": 521,
       "vendor": 50
     },
@@ -1246,7 +1246,7 @@
       "vendor": 360
     },
     "Verdant Milk": {
-      "ask": 150,
+      "ask": 75,
       "bid": 41,
       "vendor": 4
     },
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 16,
+      "ask": 17,
       "bid": 12,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661456702.451425
+  "time": 1661457602.3606248
 }
