@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 66,
+      "ask": 69,
       "bid": 52,
       "vendor": 16
     },
@@ -86,8 +86,8 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 50,
-      "bid": 32,
+      "ask": 1000000000000,
+      "bid": 29,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -196,7 +196,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 32888,
+      "ask": 33000,
       "bid": 3780,
       "vendor": 2700
     },
@@ -431,7 +431,7 @@
       "vendor": 5184
     },
     "Crimson Hammer": {
-      "ask": 20600,
+      "ask": 19570,
       "bid": 6811,
       "vendor": 6480
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 597,
+      "ask": 599,
       "bid": 571,
       "vendor": 162
     },
@@ -766,8 +766,8 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 70000,
-      "bid": 25647,
+      "ask": 66500,
+      "bid": 25648,
       "vendor": 50000
     },
     "Milk": {
@@ -841,7 +841,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 23999,
+      "ask": 23998,
       "bid": 11079,
       "vendor": 1000
     },
@@ -936,12 +936,12 @@
       "vendor": 14985
     },
     "Rainbow Mace": {
-      "ask": 30000,
+      "ask": 51000,
       "bid": 20069,
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 42,
+      "ask": 43,
       "bid": 39,
       "vendor": 27
     },
@@ -1147,7 +1147,7 @@
     },
     "Sweep": {
       "ask": 192479,
-      "bid": 80001,
+      "bid": 84001,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1246,7 +1246,7 @@
       "vendor": 360
     },
     "Verdant Milk": {
-      "ask": 75,
+      "ask": 320,
       "bid": 41,
       "vendor": 4
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661470202.6064847
+  "time": 1661471102.443566
 }
