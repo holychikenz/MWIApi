@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 26,
-      "bid": 11,
+      "bid": 12,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 235,
-      "bid": 188,
+      "bid": 189,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -127,12 +127,12 @@
     },
     "Bear Essence": {
       "ask": 87,
-      "bid": 64,
+      "bid": 62,
       "vendor": 54
     },
     "Berserk": {
       "ask": 289247,
-      "bid": 250007,
+      "bid": 260000,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 271,
-      "bid": 182,
+      "bid": 184,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 168,
+      "ask": 169,
       "bid": 162,
       "vendor": 54
     },
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 312548,
-      "bid": 271002,
+      "bid": 280000,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 275000,
+      "ask": 274000,
       "bid": 192009,
       "vendor": 10000
     },
@@ -612,11 +612,11 @@
     },
     "Green Tea Leaf": {
       "ask": 74,
-      "bid": 45,
+      "bid": 46,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 127402,
+      "ask": 103510,
       "bid": 90009,
       "vendor": 3000
     },
@@ -766,7 +766,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 61750,
+      "ask": 65000,
       "bid": 25647,
       "vendor": 50000
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 68159,
+      "ask": 64751,
       "bid": 55000,
       "vendor": 3000
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 339,
+      "ask": 295,
       "bid": 280,
       "vendor": 27
     },
@@ -997,7 +997,7 @@
     },
     "Smack": {
       "ask": 29935,
-      "bid": 21007,
+      "bid": 22000,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1041,7 +1041,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 172,
+      "ask": 171,
       "bid": 147,
       "vendor": 54
     },
@@ -1217,7 +1217,7 @@
     },
     "Verdant Cheese": {
       "ask": 298,
-      "bid": 169,
+      "bid": 170,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1296,8 +1296,8 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1945651,
-      "bid": 1504004,
+      "ask": 1945650,
+      "bid": 1504005,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661423402.2712483
+  "time": 1661424302.034463
 }
