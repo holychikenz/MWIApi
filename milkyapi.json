@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 18,
-      "bid": 14,
+      "bid": 10,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -581,7 +581,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 39,
+      "ask": 38,
       "bid": 27,
       "vendor": 24
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 599,
-      "bid": 577,
+      "bid": 578,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -677,7 +677,7 @@
     },
     "Holy Mace": {
       "ask": 90000,
-      "bid": 73000,
+      "bid": 72001,
       "vendor": 53460
     },
     "Holy Milk": {
@@ -827,7 +827,7 @@
     },
     "Peach": {
       "ask": 20,
-      "bid": 13,
+      "bid": 15,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -866,7 +866,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 23333,
+      "ask": 22166,
       "bid": 4290,
       "vendor": 1000
     },
@@ -877,7 +877,7 @@
     },
     "Polar Bear Shoes": {
       "ask": 800000,
-      "bid": 111111,
+      "bid": 700000,
       "vendor": 60000
     },
     "Power Coffee": {
@@ -986,7 +986,7 @@
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 118,
+      "ask": 117,
       "bid": 73,
       "vendor": 8
     },
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 752,
+      "ask": 714,
       "bid": 256,
       "vendor": 100
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 494,
+      "ask": 493,
       "bid": 418,
       "vendor": 75
     },
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 479,
+      "ask": 450,
       "bid": 130,
       "vendor": 75
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 23,
+      "ask": 22,
       "bid": 12,
       "vendor": 6
     },
@@ -1131,8 +1131,8 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 824,
-      "bid": 647,
+      "ask": 821,
+      "bid": 648,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 30,
+      "ask": 29,
       "bid": 20,
       "vendor": 8
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661393702.9118414
+  "time": 1661394601.69099
 }
