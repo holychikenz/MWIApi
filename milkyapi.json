@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 43,
-      "bid": 17,
+      "bid": 19,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 36,
+      "ask": 35,
       "bid": 26,
       "vendor": 12
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 994,
+      "ask": 850,
       "bid": 809,
       "vendor": 50
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 54,
+      "ask": 53,
       "bid": 41,
       "vendor": 36
     },
@@ -561,12 +561,12 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 325000,
+      "ask": 324999,
       "bid": 280005,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 382,
+      "ask": 381,
       "bid": 300,
       "vendor": 10
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 103,
-      "bid": 53,
+      "bid": 56,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 240,
+      "ask": 239,
       "bid": 100,
       "vendor": 50
     },
@@ -816,8 +816,8 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 145486,
-      "bid": 105000,
+      "ask": 145484,
+      "bid": 71000,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -872,7 +872,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 60000,
-      "bid": 55000,
+      "bid": 50001,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -942,7 +942,7 @@
     },
     "Rainbow Milk": {
       "ask": 41,
-      "bid": 39,
+      "bid": 40,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 420,
+      "ask": 419,
       "bid": 317,
       "vendor": 75
     },
@@ -1096,7 +1096,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 984,
+      "ask": 985,
       "bid": 531,
       "vendor": 75
     },
@@ -1121,7 +1121,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 500,
+      "ask": 525,
       "bid": 233,
       "vendor": 40
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 796,
+      "ask": 795,
       "bid": 641,
       "vendor": 75
     },
@@ -1291,13 +1291,13 @@
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 198997,
+      "ask": 198996,
       "bid": 80000,
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1843738,
-      "bid": 1504008,
+      "ask": 1843739,
+      "bid": 1504009,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661445901.9560444
+  "time": 1661446801.601505
 }
