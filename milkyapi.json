@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 26,
-      "bid": 12,
+      "bid": 13,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 36,
-      "bid": 31,
+      "bid": 27,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 38,
+      "ask": 36,
       "bid": 26,
       "vendor": 12
     },
@@ -412,7 +412,7 @@
     },
     "Crimson Bulwark": {
       "ask": 49900,
-      "bid": 20000,
+      "bid": 16800,
       "vendor": 12960
     },
     "Crimson Cheese": {
@@ -511,8 +511,8 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 270,
-      "bid": 237,
+      "ask": 225,
+      "bid": 206,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -692,7 +692,7 @@
     },
     "Holy Plate Legs": {
       "ask": -1,
-      "bid": 90501,
+      "bid": 110000,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -732,7 +732,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 90,
-      "bid": 82,
+      "bid": 81,
       "vendor": 12
     },
     "Lucky Coffee": {
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 42,
+      "ask": 43,
       "bid": 39,
       "vendor": 27
     },
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 797,
+      "ask": 758,
       "bid": 117,
       "vendor": 40
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 553,
+      "ask": 552,
       "bid": 521,
       "vendor": 50
     },
@@ -1276,7 +1276,7 @@
       "vendor": 300
     },
     "Verdant Spear": {
-      "ask": 70000,
+      "ask": -1,
       "bid": 20,
       "vendor": 360
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661433302.8465624
+  "time": 1661434202.2602315
 }
