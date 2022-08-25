@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 43,
+      "ask": 45,
       "bid": 27,
       "vendor": 2
     },
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 214,
+      "ask": 213,
       "bid": 193,
       "vendor": 12
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 170,
-      "bid": 169,
+      "bid": 164,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -516,12 +516,12 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 931,
+      "ask": 980,
       "bid": 810,
       "vendor": 50
     },
     "Egg": {
-      "ask": 17,
+      "ask": 18,
       "bid": 13,
       "vendor": 1
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 51,
+      "ask": 50,
       "bid": 42,
       "vendor": 36
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 318000,
+      "ask": 317996,
       "bid": 280006,
       "vendor": 1000
     },
@@ -611,7 +611,7 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 89,
+      "ask": 103,
       "bid": 69,
       "vendor": 4
     },
@@ -626,7 +626,7 @@
       "vendor": 60000
     },
     "Gummy": {
-      "ask": 59,
+      "ask": 89,
       "bid": 11,
       "vendor": 5
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 144,
-      "bid": 137,
+      "bid": 135,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 274,
+      "ask": 270,
       "bid": 185,
       "vendor": 50
     },
@@ -776,8 +776,8 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 306,
-      "bid": 300,
+      "ask": 305,
+      "bid": 153,
       "vendor": 10
     },
     "Mooberry": {
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 27,
+      "ask": 26,
       "bid": 22,
       "vendor": 18
     },
@@ -897,7 +897,7 @@
     },
     "Rainbow Brush": {
       "ask": 31086,
-      "bid": 22500,
+      "bid": 22550,
       "vendor": 14985
     },
     "Rainbow Buckler": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 290,
-      "bid": 289,
+      "bid": 250,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 43,
+      "ask": 42,
       "bid": 39,
       "vendor": 27
     },
@@ -981,8 +981,8 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 319,
-      "bid": 278,
+      "ask": 318,
+      "bid": 280,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 788,
+      "ask": 786,
       "bid": 641,
       "vendor": 75
     },
@@ -1246,8 +1246,8 @@
       "vendor": 360
     },
     "Verdant Milk": {
-      "ask": 49,
-      "bid": 41,
+      "ask": 75,
+      "bid": 42,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661460302.8348227
+  "time": 1661461202.840389
 }
