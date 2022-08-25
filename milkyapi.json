@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 43,
-      "bid": 16,
+      "bid": 17,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 38,
-      "bid": 29,
+      "bid": 28,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 383,
+      "ask": 382,
       "bid": 300,
       "vendor": 10
     },
@@ -611,13 +611,13 @@
       "vendor": 20
     },
     "Green Tea Leaf": {
-      "ask": 82,
-      "bid": 52,
+      "ask": 103,
+      "bid": 53,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
       "ask": 141189,
-      "bid": 90009,
+      "bid": 95009,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -757,7 +757,7 @@
     },
     "Marsberry Cake": {
       "ask": 272,
-      "bid": 182,
+      "bid": 185,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 28,
+      "ask": 27,
       "bid": 22,
       "vendor": 18
     },
@@ -911,8 +911,8 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 290,
-      "bid": 266,
+      "ask": 289,
+      "bid": 224,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1036,13 +1036,13 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 445,
+      "ask": 447,
       "bid": 356,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
       "ask": 172,
-      "bid": 147,
+      "bid": 148,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 797,
+      "ask": 796,
       "bid": 641,
       "vendor": 75
     },
@@ -1247,7 +1247,7 @@
     },
     "Verdant Milk": {
       "ask": 320,
-      "bid": 32,
+      "bid": 41,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661445002.5740347
+  "time": 1661445901.9560444
 }
