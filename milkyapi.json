@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 331,
+      "ask": 330,
       "bid": 208,
       "vendor": 24
     },
@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 69,
+      "ask": 71,
       "bid": 56,
       "vendor": 54
     },
@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 1159,
-      "bid": 902,
+      "bid": -1,
       "vendor": 75
     },
     "Blueberry": {
@@ -181,7 +181,7 @@
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 100,
+      "ask": 999999999999,
       "bid": 11,
       "vendor": 10
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 468,
+      "ask": 467,
       "bid": 202,
       "vendor": 36
     },
@@ -496,7 +496,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 20,
+      "ask": 80,
       "bid": 8,
       "vendor": 5
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1000,
+      "ask": 999,
       "bid": 850,
       "vendor": 50
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 598,
-      "bid": 575,
+      "bid": 576,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -676,7 +676,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 84988,
+      "ask": 84987,
       "bid": 72011,
       "vendor": 53460
     },
@@ -732,7 +732,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 81,
-      "bid": 52,
+      "bid": 47,
       "vendor": 12
     },
     "Lucky Coffee": {
@@ -741,13 +741,13 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 173664,
+      "ask": 173660,
       "bid": 90001,
       "vendor": 10000
     },
     "Maim": {
       "ask": 379211,
-      "bid": 271274,
+      "bid": 271420,
       "vendor": 1000
     },
     "Marsberry": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 318,
+      "ask": 320,
       "bid": 259,
       "vendor": 81
     },
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 59,
+      "ask": 44,
       "bid": 43,
       "vendor": 27
     },
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 240,
-      "bid": 171,
+      "bid": 172,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 377,
+      "ask": 376,
       "bid": 322,
       "vendor": 75
     },
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 574,
+      "ask": 573,
       "bid": 150,
       "vendor": 40
     },
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 680,
+      "ask": 679,
       "bid": 500,
       "vendor": 40
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 224433,
+      "ask": 225000,
       "bid": 175557,
       "vendor": 1000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661517901.8345618
+  "time": 1661518802.3423257
 }
