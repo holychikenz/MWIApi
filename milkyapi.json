@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 51200,
+      "ask": 51199,
       "bid": 31000,
       "vendor": 3000
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 42,
+      "ask": 43,
       "bid": 26,
       "vendor": 8
     },
@@ -506,7 +506,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 447,
+      "ask": 446,
       "bid": 121,
       "vendor": 50
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 300000,
+      "ask": 299999,
       "bid": 280014,
       "vendor": 1000
     },
@@ -587,7 +587,7 @@
     },
     "Gobo Slasher": {
       "ask": 23744,
-      "bid": 15000,
+      "bid": -1,
       "vendor": 20000
     },
     "Gobo Smasher": {
@@ -616,7 +616,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 171474,
+      "ask": 171473,
       "bid": 110004,
       "vendor": 3000
     },
@@ -676,7 +676,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 84990,
+      "ask": 84989,
       "bid": 72011,
       "vendor": 53460
     },
@@ -711,7 +711,7 @@
       "vendor": 44550
     },
     "Holy Spear": {
-      "ask": 62398,
+      "ask": 62397,
       "bid": -1,
       "vendor": 53460
     },
@@ -732,7 +732,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 83,
-      "bid": 47,
+      "bid": 48,
       "vendor": 12
     },
     "Lucky Coffee": {
@@ -781,7 +781,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 11,
+      "ask": 10,
       "bid": 9,
       "vendor": 9
     },
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 128247,
+      "ask": 128246,
       "bid": 71001,
       "vendor": 3000
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 17,
+      "ask": 16,
       "bid": 11,
       "vendor": 9
     },
@@ -862,7 +862,7 @@
     },
     "Plum Yogurt": {
       "ask": 118,
-      "bid": 76,
+      "bid": 75,
       "vendor": 30
     },
     "Poke": {
@@ -881,7 +881,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 274,
+      "ask": 200,
       "bid": 140,
       "vendor": 30
     },
@@ -991,7 +991,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 25896,
+      "ask": 25895,
       "bid": 20003,
       "vendor": 1000
     },
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 78,
+      "ask": 75,
       "bid": 43,
       "vendor": 27
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 19,
+      "ask": 18,
       "bid": 11,
       "vendor": 6
     },
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 575,
+      "ask": 574,
       "bid": 150,
       "vendor": 40
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 738,
+      "ask": 737,
       "bid": 543,
       "vendor": 75
     },
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 37,
+      "ask": 36,
       "bid": 32,
       "vendor": 8
     },
@@ -1296,8 +1296,8 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1710000,
-      "bid": 1505015,
+      "ask": 1830408,
+      "bid": 1505016,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661510702.072553
+  "time": 1661511601.8232508
 }
