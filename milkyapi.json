@@ -81,7 +81,7 @@
       "vendor": 1080
     },
     "Azure Mace": {
-      "ask": 16000,
+      "ask": 30000,
       "bid": 3342,
       "vendor": 1296
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 490000,
-      "bid": 260112,
+      "bid": 260113,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -517,11 +517,11 @@
     },
     "Efficiency Tea": {
       "ask": 898,
-      "bid": 897,
+      "bid": 812,
       "vendor": 50
     },
     "Egg": {
-      "ask": 18,
+      "ask": 17,
       "bid": 11,
       "vendor": 1
     },
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 200,
-      "bid": 155,
+      "bid": 131,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -561,8 +561,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 738977,
-      "bid": 280022,
+      "ask": 500000,
+      "bid": 280024,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 161,
+      "ask": 160,
       "bid": 145,
       "vendor": 54
     },
@@ -747,7 +747,7 @@
     },
     "Maim": {
       "ask": 378263,
-      "bid": 300005,
+      "bid": 300006,
       "vendor": 1000
     },
     "Marsberry": {
@@ -842,7 +842,7 @@
     },
     "Pierce": {
       "ask": 25000,
-      "bid": 11100,
+      "bid": 11155,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -867,7 +867,7 @@
     },
     "Poke": {
       "ask": 5865,
-      "bid": 4312,
+      "bid": 4313,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 364,
-      "bid": 274,
+      "bid": 275,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -991,8 +991,8 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 24800,
-      "bid": 20007,
+      "ask": 24968,
+      "bid": 20008,
       "vendor": 1000
     },
     "Smack": {
@@ -1157,7 +1157,7 @@
     },
     "Toughness": {
       "ask": 24887,
-      "bid": 13684,
+      "bid": 13685,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 224438,
+      "ask": 225000,
       "bid": 175668,
       "vendor": 1000
     },
@@ -1286,18 +1286,18 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 330000,
+      "ask": 325000,
       "bid": 200000,
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 197995,
+      "ask": 197996,
       "bid": 95000,
       "vendor": 20000
     },
     "Werewolf Claw": {
       "ask": 1830410,
-      "bid": 1506029,
+      "bid": 1506039,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1306,12 +1306,12 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 18,
+      "ask": 17,
       "bid": 13,
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 643,
+      "ask": 641,
       "bid": 600,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661547601.4868476
+  "time": 1661548502.3371494
 }
