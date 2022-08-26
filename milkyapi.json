@@ -56,8 +56,8 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 299,
-      "bid": 213,
+      "ask": 298,
+      "bid": 214,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 1159,
-      "bid": -1,
+      "bid": 750,
       "vendor": 75
     },
     "Blueberry": {
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 448,
+      "ask": 375,
       "bid": 209,
       "vendor": 36
     },
@@ -372,7 +372,7 @@
     },
     "Cheesesmithing Tea": {
       "ask": 374,
-      "bid": 58,
+      "bid": 100,
       "vendor": 30
     },
     "Cleave": {
@@ -387,7 +387,7 @@
     },
     "Cooking Tea": {
       "ask": 268,
-      "bid": 100,
+      "bid": 150,
       "vendor": 20
     },
     "Crab Pincer": {
@@ -481,7 +481,7 @@
       "vendor": 7776
     },
     "Crimson Sword": {
-      "ask": 50000,
+      "ask": 30000,
       "bid": 7900,
       "vendor": 7776
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 798,
-      "bid": 589,
+      "bid": 590,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -846,7 +846,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 200000,
+      "ask": 180000,
       "bid": 80000,
       "vendor": 6000
     },
@@ -881,8 +881,8 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 200,
-      "bid": 140,
+      "ask": 199,
+      "bid": 100,
       "vendor": 30
     },
     "Precision": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 300,
-      "bid": 264,
+      "bid": 265,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -976,12 +976,12 @@
       "vendor": 17982
     },
     "Rainbow Sword": {
-      "ask": -1,
+      "ask": 15000,
       "bid": 1,
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 304,
+      "ask": 392,
       "bid": 286,
       "vendor": 27
     },
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 218,
-      "bid": 154,
+      "bid": 153,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1096,7 +1096,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": -1,
+      "ask": 900,
       "bid": 531,
       "vendor": 75
     },
@@ -1112,7 +1112,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 899,
-      "bid": 700,
+      "bid": 600,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 670,
+      "ask": 669,
       "bid": 500,
       "vendor": 40
     },
@@ -1141,8 +1141,8 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 36,
-      "bid": 30,
+      "ask": 35,
+      "bid": 26,
       "vendor": 8
     },
     "Sweep": {
@@ -1312,7 +1312,7 @@
     },
     "Wisdom Tea": {
       "ask": 649,
-      "bid": 550,
+      "bid": 560,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661531402.5314224
+  "time": 1661532302.3956876
 }
