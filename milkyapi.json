@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 45,
+      "ask": 43,
       "bid": 12,
       "vendor": 2
     },
@@ -41,7 +41,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 9977,
+      "ask": 5675,
       "bid": 1150,
       "vendor": 1080
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 347,
+      "ask": 346,
       "bid": 195,
       "vendor": 24
     },
@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 43,
+      "ask": 41,
       "bid": 30,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 14,
+      "ask": 13,
       "bid": 9,
       "vendor": 4
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 15,
+      "ask": 14,
       "bid": 11,
       "vendor": 2
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 497,
+      "ask": 496,
       "bid": 192,
       "vendor": 36
     },
@@ -317,7 +317,7 @@
     },
     "Cheese Gauntlets": {
       "ask": -1,
-      "bid": 175,
+      "bid": 174,
       "vendor": 48
     },
     "Cheese Hammer": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 17,
+      "ask": 16,
       "bid": 9,
       "vendor": 1
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 49,
+      "ask": 51,
       "bid": 43,
       "vendor": 36
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 317995,
+      "ask": 302095,
       "bid": 280009,
       "vendor": 1000
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 599,
-      "bid": 571,
+      "bid": 572,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -682,17 +682,17 @@
     },
     "Holy Milk": {
       "ask": 144,
-      "bid": 139,
+      "bid": 138,
       "vendor": 54
     },
     "Holy Plate Body": {
       "ask": 95999,
-      "bid": -1,
+      "bid": 80191,
       "vendor": 80190
     },
     "Holy Plate Legs": {
       "ask": 133676,
-      "bid": 73051,
+      "bid": 73052,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1131734,
+      "ask": 1300000,
       "bid": 3,
       "vendor": 500000
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 191,
+      "ask": 192,
       "bid": 119,
       "vendor": 40
     },
@@ -801,13 +801,13 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 11,
+      "ask": 10,
       "bid": 5,
       "vendor": 4
     },
     "Orange Gummy": {
       "ask": 82,
-      "bid": 60,
+      "bid": 51,
       "vendor": 20
     },
     "Orange Yogurt": {
@@ -857,7 +857,7 @@
     },
     "Plum Gummy": {
       "ask": 120,
-      "bid": 100,
+      "bid": 74,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -906,7 +906,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": -1,
+      "ask": 28472,
       "bid": -1,
       "vendor": 29970
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 330,
+      "ask": 314,
       "bid": 281,
       "vendor": 27
     },
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 78,
+      "ask": 74,
       "bid": 42,
       "vendor": 27
     },
@@ -1286,7 +1286,7 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 250000,
+      "ask": 420420,
       "bid": 80000,
       "vendor": 20000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661471102.443566
+  "time": 1661472003.2432342
 }
