@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 1000000000000,
+      "ask": 80,
       "bid": 30,
       "vendor": 8
     },
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 239998,
-      "bid": 192016,
+      "bid": 192017,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1300000,
+      "ask": 1319999,
       "bid": 3,
       "vendor": 500000
     },
@@ -871,12 +871,12 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 58000,
+      "ask": 57000,
       "bid": 50001,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
-      "ask": 800000,
+      "ask": -1,
       "bid": 111111,
       "vendor": 60000
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Milk": {
       "ask": 42,
-      "bid": 33,
+      "bid": 35,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 313,
+      "ask": 310,
       "bid": 285,
       "vendor": 27
     },
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": -1,
+      "ask": 1500,
       "bid": 525,
       "vendor": 50
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661486402.6443202
+  "time": 1661487301.7865345
 }
