@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 37,
-      "bid": 11,
+      "bid": 12,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 450,
+      "ask": 449,
       "bid": 208,
       "vendor": 36
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 207,
+      "ask": 206,
       "bid": 185,
       "vendor": 54
     },
@@ -431,7 +431,7 @@
       "vendor": 5184
     },
     "Crimson Hammer": {
-      "ask": 19570,
+      "ask": 20600,
       "bid": 6811,
       "vendor": 6480
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 236,
+      "ask": 235,
       "bid": 131,
       "vendor": 27
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 798,
-      "bid": 581,
+      "bid": 586,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -747,7 +747,7 @@
     },
     "Maim": {
       "ask": 379210,
-      "bid": 271421,
+      "bid": 300000,
       "vendor": 1000
     },
     "Marsberry": {
@@ -827,7 +827,7 @@
     },
     "Peach": {
       "ask": 13,
-      "bid": 11,
+      "bid": 10,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -946,7 +946,7 @@
       "vendor": 27
     },
     "Rainbow Plate Body": {
-      "ask": 110000,
+      "ask": 109000,
       "bid": -1,
       "vendor": 26973
     },
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 431,
-      "bid": 298,
+      "bid": 299,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 685,
+      "ask": 684,
       "bid": 553,
       "vendor": 75
     },
@@ -1176,12 +1176,12 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 291,
-      "bid": 180,
+      "ask": 290,
+      "bid": 181,
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 796749,
+      "ask": 838683,
       "bid": 611000,
       "vendor": 10000
     },
@@ -1216,8 +1216,8 @@
       "vendor": 600
     },
     "Verdant Cheese": {
-      "ask": 249,
-      "bid": 184,
+      "ask": 248,
+      "bid": 185,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 651,
+      "ask": 649,
       "bid": 550,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661528701.8944213
+  "time": 1661529602.5702264
 }
