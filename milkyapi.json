@@ -31,7 +31,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 257,
+      "ask": 258,
       "bid": 162,
       "vendor": 20
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 291,
+      "ask": 290,
       "bid": 221,
       "vendor": 24
     },
@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 64,
+      "ask": 80,
       "bid": 32,
       "vendor": 8
     },
@@ -126,12 +126,12 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 74,
+      "ask": 70,
       "bid": 58,
       "vendor": 54
     },
     "Berserk": {
-      "ask": 440000,
+      "ask": 439999,
       "bid": 261010,
       "vendor": 1000
     },
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 428,
+      "ask": 427,
       "bid": 251,
       "vendor": 36
     },
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 32,
-      "bid": 29,
+      "bid": 28,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 166,
+      "ask": 145,
       "bid": 86,
       "vendor": 6
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 351498,
+      "ask": 350000,
       "bid": 285006,
       "vendor": 1000
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 230000,
+      "ask": 279059,
       "bid": 192023,
       "vendor": 10000
     },
@@ -686,8 +686,8 @@
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 95999,
-      "bid": 80191,
+      "ask": 80191,
+      "bid": 70000,
       "vendor": 80190
     },
     "Holy Plate Legs": {
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 184999,
+      "ask": 188965,
       "bid": 90001,
       "vendor": 10000
     },
@@ -856,7 +856,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 118,
+      "ask": 100,
       "bid": 74,
       "vendor": 30
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 361,
+      "ask": 343,
       "bid": 280,
       "vendor": 81
     },
@@ -1067,7 +1067,7 @@
     },
     "Strawberry": {
       "ask": 19,
-      "bid": 9,
+      "bid": 10,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 648,
+      "ask": 640,
       "bid": 464,
       "vendor": 50
     },
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 225000,
+      "ask": 200000,
       "bid": 178105,
       "vendor": 1000
     },
@@ -1302,7 +1302,7 @@
     },
     "Werewolf Slasher": {
       "ask": -1,
-      "bid": 1200006,
+      "bid": 1200007,
       "vendor": 400000
     },
     "Wheat": {
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 635,
+      "ask": 634,
       "bid": 570,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661565602.6395013
+  "time": 1661566502.0243385
 }
