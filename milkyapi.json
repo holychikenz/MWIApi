@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 70,
-      "bid": 58,
+      "bid": 60,
       "vendor": 54
     },
     "Berserk": {
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 145,
+      "ask": 141,
       "bid": 86,
       "vendor": 6
     },
@@ -296,7 +296,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 1741,
+      "ask": 2250,
       "bid": 402,
       "vendor": 60
     },
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 246,
-      "bid": 206,
+      "bid": 220,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 350000,
+      "ask": 332500,
       "bid": 285006,
       "vendor": 1000
     },
@@ -651,8 +651,8 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 689,
-      "bid": 575,
+      "ask": 630,
+      "bid": 576,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 159,
+      "ask": 160,
       "bid": 148,
       "vendor": 54
     },
@@ -757,7 +757,7 @@
     },
     "Marsberry Cake": {
       "ask": 265,
-      "bid": 186,
+      "bid": 200,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -876,7 +876,7 @@
       "vendor": 3000
     },
     "Polar Bear Shoes": {
-      "ask": 700000,
+      "ask": -1,
       "bid": 111111,
       "vendor": 60000
     },
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 539,
+      "ask": 535,
       "bid": 131,
       "vendor": 75
     },
@@ -1126,13 +1126,13 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 668,
+      "ask": 650,
       "bid": 500,
       "vendor": 40
     },
     "Super Power Coffee": {
       "ask": 606,
-      "bid": 505,
+      "bid": 575,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1152,7 +1152,7 @@
     },
     "Swiftness Coffee": {
       "ask": 640,
-      "bid": 464,
+      "bid": 550,
       "vendor": 50
     },
     "Toughness": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661569202.6783054
+  "time": 1661570101.7899435
 }
