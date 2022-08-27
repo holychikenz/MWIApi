@@ -416,8 +416,8 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 203,
-      "bid": 190,
+      "ask": 204,
+      "bid": 203,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -496,7 +496,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 80,
+      "ask": 85,
       "bid": 8,
       "vendor": 5
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 246,
+      "ask": 245,
       "bid": 220,
       "vendor": 50
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 427,
+      "ask": 428,
       "bid": 301,
       "vendor": 75
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 365,
+      "ask": 363,
       "bid": 323,
       "vendor": 75
     },
@@ -1086,8 +1086,8 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 900,
-      "bid": 331,
+      "ask": -1,
+      "bid": 350,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 1830409,
-      "bid": 1506041,
+      "bid": 1525000,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661570101.7899435
+  "time": 1661571002.3948476
 }
