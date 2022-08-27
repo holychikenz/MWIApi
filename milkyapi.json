@@ -307,7 +307,7 @@
     },
     "Cheese Bulwark": {
       "ask": 2169,
-      "bid": 201,
+      "bid": 200,
       "vendor": 120
     },
     "Cheese Enhancer": {
@@ -327,7 +327,7 @@
     },
     "Cheese Helmet": {
       "ask": 4632,
-      "bid": 285,
+      "bid": 284,
       "vendor": 60
     },
     "Cheese Mace": {
@@ -536,12 +536,12 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 61,
+      "ask": 55,
       "bid": 48,
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 42,
+      "ask": 41,
       "bid": 39,
       "vendor": 36
     },
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 189,
+      "ask": 188,
       "bid": 118,
       "vendor": 40
     },
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 99500,
+      "ask": 99000,
       "bid": 71002,
       "vendor": 3000
     },
@@ -826,8 +826,8 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 11,
-      "bid": 10,
+      "ask": 10,
+      "bid": -1,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -1026,7 +1026,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 61,
+      "ask": 58,
       "bid": 48,
       "vendor": 27
     },
@@ -1041,7 +1041,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 222,
+      "ask": 210,
       "bid": 166,
       "vendor": 54
     },
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 81,
+      "ask": 73,
       "bid": 37,
       "vendor": 27
     },
@@ -1131,12 +1131,12 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 450,
+      "ask": 447,
       "bid": 302,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 724,
+      "ask": 720,
       "bid": 113,
       "vendor": 40
     },
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1500000,
-      "bid": 601000,
+      "bid": 601001,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1191,7 +1191,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 280249,
+      "ask": 250000,
       "bid": 187016,
       "vendor": 1000
     },
@@ -1296,8 +1296,8 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2142926,
-      "bid": 1600005,
+      "ask": 2142925,
+      "bid": 1600006,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 14,
+      "ask": 17,
       "bid": 11,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661633102.2824793
+  "time": 1661634002.2058823
 }
