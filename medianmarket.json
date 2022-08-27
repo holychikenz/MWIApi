@@ -1,5 +1,5 @@
 {
-  "time": 1661564252.0,
+  "time": 1661565152.0,
   "market": {
     "Apple": {
       "ask": 37.0,
@@ -170,7 +170,7 @@
       "bid": 5520.0
     },
     "Burble Cheese": {
-      "ask": 410.0,
+      "ask": 400.0,
       "bid": 251.0
     },
     "Burble Enhancer": {
@@ -363,11 +363,11 @@
     },
     "Crimson Plate Body": {
       "ask": -1.0,
-      "bid": 5999.5
+      "bid": -1.0
     },
     "Crimson Plate Legs": {
       "ask": -1.0,
-      "bid": 4610.5
+      "bid": -1.0
     },
     "Crimson Pot": {
       "ask": -1.0,
@@ -450,7 +450,7 @@
       "bid": 160.0
     },
     "Frenzy": {
-      "ask": 341250.0,
+      "ask": 350000.0,
       "bid": 285006.0
     },
     "Gathering Tea": {
@@ -523,7 +523,7 @@
     },
     "Holy Cheese": {
       "ask": 689.0,
-      "bid": 578.5
+      "bid": 578.0
     },
     "Holy Enhancer": {
       "ask": 99999.0,
@@ -542,8 +542,8 @@
       "bid": 45000.0
     },
     "Holy Mace": {
-      "ask": 84000.0,
-      "bid": 73101.0
+      "ask": 83999.5,
+      "bid": 73101.5
     },
     "Holy Milk": {
       "ask": 161.0,
@@ -730,7 +730,7 @@
       "bid": -1.0
     },
     "Rainbow Cheese": {
-      "ask": 357.0,
+      "ask": 353.5,
       "bid": 280.0
     },
     "Rainbow Enhancer": {
@@ -787,7 +787,7 @@
     },
     "Red Tea Leaf": {
       "ask": 390.0,
-      "bid": 292.5
+      "bid": 293.0
     },
     "Robusta Coffee Bean": {
       "ask": 110.0,
@@ -830,7 +830,7 @@
       "bid": 301.0
     },
     "Spaceberry Donut": {
-      "ask": 438.0,
+      "ask": 437.5,
       "bid": 357.0
     },
     "Spacia Coffee Bean": {
@@ -850,8 +850,8 @@
       "bid": 131.0
     },
     "Star Fruit Yogurt": {
-      "ask": 367.5,
-      "bid": 322.0
+      "ask": 365.0,
+      "bid": 322.5
     },
     "Strawberry": {
       "ask": 19.0,
@@ -914,7 +914,7 @@
       "bid": 110.0
     },
     "Swamp Essence": {
-      "ask": 34.5,
+      "ask": 34.0,
       "bid": 29.0
     },
     "Sweep": {
@@ -974,7 +974,7 @@
       "bid": 1240.0
     },
     "Verdant Cheese": {
-      "ask": 208.0,
+      "ask": 207.5,
       "bid": 185.0
     },
     "Verdant Enhancer": {
@@ -1038,7 +1038,7 @@
       "bid": 95000.0
     },
     "Werewolf Claw": {
-      "ask": 1830409.5,
+      "ask": 1830410.0,
       "bid": 1506041.0
     },
     "Werewolf Slasher": {
