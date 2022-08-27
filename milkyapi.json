@@ -176,7 +176,7 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 1000000000000,
+      "ask": 200,
       "bid": 23,
       "vendor": 10
     },
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 39,
+      "ask": 40,
       "bid": 27,
       "vendor": 12
     },
@@ -496,7 +496,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 20,
+      "ask": 85,
       "bid": 8,
       "vendor": 5
     },
@@ -527,7 +527,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 175,
-      "bid": 147,
+      "bid": 148,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 184,
-      "bid": 132,
+      "bid": 130,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 454,
+      "ask": 453,
       "bid": 350,
       "vendor": 10
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 87,
-      "bid": 43,
+      "bid": 44,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -646,7 +646,7 @@
       "vendor": 53460
     },
     "Holy Bulwark": {
-      "ask": -1,
+      "ask": 100000,
       "bid": 2,
       "vendor": 89100
     },
@@ -1001,7 +1001,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 15000,
+      "ask": -1,
       "bid": 3,
       "vendor": 5000
     },
@@ -1067,7 +1067,7 @@
     },
     "Strawberry": {
       "ask": 18,
-      "bid": 11,
+      "bid": 12,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 893,
+      "ask": 696,
       "bid": 400,
       "vendor": 50
     },
@@ -1136,8 +1136,8 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 732,
-      "bid": 112,
+      "ask": 729,
+      "bid": 113,
       "vendor": 40
     },
     "Swamp Essence": {
@@ -1146,7 +1146,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 155000,
+      "ask": 150000,
       "bid": 130000,
       "vendor": 1000
     },
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1500000,
-      "bid": 600000,
+      "bid": 601000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1247,7 +1247,7 @@
     },
     "Verdant Milk": {
       "ask": 55,
-      "bid": 35,
+      "bid": 34,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1291,7 +1291,7 @@
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 197994,
+      "ask": 196690,
       "bid": 120000,
       "vendor": 20000
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 598,
+      "ask": 597,
       "bid": 571,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661627702.787652
+  "time": 1661628601.6193304
 }
