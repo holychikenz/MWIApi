@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 244,
+      "ask": 243,
       "bid": 214,
       "vendor": 24
     },
@@ -81,7 +81,7 @@
       "vendor": 1080
     },
     "Azure Mace": {
-      "ask": 30000,
+      "ask": -1,
       "bid": 3342,
       "vendor": 1296
     },
@@ -122,7 +122,7 @@
     },
     "Azure Sword": {
       "ask": -1,
-      "bid": 1875,
+      "bid": 1969,
       "vendor": 1296
     },
     "Bear Essence": {
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 349124,
+      "ask": 330013,
       "bid": 280001,
       "vendor": 1000
     },
@@ -491,12 +491,12 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 283,
+      "ask": 360,
       "bid": 139,
       "vendor": 20
     },
     "Donut": {
-      "ask": 10,
+      "ask": 85,
       "bid": 8,
       "vendor": 5
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 316346,
+      "ask": 316340,
       "bid": 290002,
       "vendor": 1000
     },
@@ -736,7 +736,7 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 339,
+      "ask": 338,
       "bid": 214,
       "vendor": 40
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 13,
+      "ask": 14,
       "bid": 9,
       "vendor": 9
     },
@@ -887,7 +887,7 @@
     },
     "Precision": {
       "ask": 28000,
-      "bid": 20000,
+      "bid": 19556,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 315,
+      "ask": 319,
       "bid": 295,
       "vendor": 81
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 324,
+      "ask": 325,
       "bid": 309,
       "vendor": 27
     },
@@ -1036,7 +1036,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 469,
+      "ask": 468,
       "bid": 358,
       "vendor": 75
     },
@@ -1051,18 +1051,18 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 83,
+      "ask": 89,
       "bid": 37,
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 446,
+      "ask": 460,
       "bid": 131,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 754,
-      "bid": -1,
+      "ask": 700,
+      "bid": 325,
       "vendor": 75
     },
     "Strawberry": {
@@ -1307,7 +1307,7 @@
     },
     "Wheat": {
       "ask": 15,
-      "bid": 9,
+      "bid": 10,
       "vendor": 1
     },
     "Wisdom Tea": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661717702.8025892
+  "time": 1661718601.8871012
 }
