@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 70,
+      "ask": 69,
       "bid": 11,
       "vendor": 10
     },
@@ -41,7 +41,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 18751,
+      "ask": 19738,
       "bid": 1150,
       "vendor": 1080
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 274,
+      "ask": 240,
       "bid": 192,
       "vendor": 24
     },
@@ -86,7 +86,7 @@
       "vendor": 1296
     },
     "Azure Milk": {
-      "ask": 64,
+      "ask": 63,
       "bid": 45,
       "vendor": 8
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 257,
+      "ask": 256,
       "bid": 240,
       "vendor": 54
     },
@@ -486,12 +486,12 @@
       "vendor": 7776
     },
     "Cupcake": {
-      "ask": 69,
+      "ask": 68,
       "bid": 15,
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 299,
+      "ask": 298,
       "bid": 139,
       "vendor": 20
     },
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 17,
-      "bid": 13,
+      "bid": 14,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -621,7 +621,7 @@
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
-      "ask": 1700000,
+      "ask": -1,
       "bid": 65000,
       "vendor": 60000
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 599,
-      "bid": 580,
+      "bid": 581,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 166,
+      "ask": 165,
       "bid": 153,
       "vendor": 54
     },
@@ -721,7 +721,7 @@
       "vendor": 53460
     },
     "Intelligence Coffee": {
-      "ask": 271,
+      "ask": 275,
       "bid": 175,
       "vendor": 10
     },
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 376,
+      "ask": 375,
       "bid": 227,
       "vendor": 50
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 100,
+      "ask": 101,
       "bid": 87,
       "vendor": 40
     },
@@ -1001,7 +1001,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": -1,
+      "ask": 10000,
       "bid": 1000,
       "vendor": 5000
     },
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 348,
-      "bid": 330,
+      "bid": 324,
       "vendor": 75
     },
     "Strawberry": {
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 435,
+      "ask": 434,
       "bid": 356,
       "vendor": 75
     },
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1924326,
+      "ask": 1924325,
       "bid": 1600022,
       "vendor": 10000
     },
@@ -1306,8 +1306,8 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 15,
-      "bid": 14,
+      "ask": 17,
+      "bid": 12,
       "vendor": 1
     },
     "Wisdom Tea": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661697903.134721
+  "time": 1661698802.7728722
 }
