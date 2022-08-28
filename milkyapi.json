@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 37,
-      "bid": 13,
+      "bid": 20,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 65,
-      "bid": 16,
+      "bid": 25,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -211,8 +211,8 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 246,
-      "bid": 159,
+      "ask": 245,
+      "bid": 160,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 133,
-      "bid": 61,
+      "bid": 62,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 253,
+      "ask": 251,
       "bid": 210,
       "vendor": 54
     },
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 46,
-      "bid": 39,
+      "bid": 40,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 165,
+      "ask": 163,
       "bid": 155,
       "vendor": 54
     },
@@ -847,7 +847,7 @@
     },
     "Pincer Gloves": {
       "ask": 199998,
-      "bid": 140000,
+      "bid": 150000,
       "vendor": 6000
     },
     "Plum": {
@@ -866,13 +866,13 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 15000,
+      "ask": 11607,
       "bid": 4331,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
       "ask": 63999,
-      "bid": 50002,
+      "bid": 50007,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 895,
+      "ask": 599,
       "bid": 322,
       "vendor": 50
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 29139,
+      "ask": 22222,
       "bid": 13696,
       "vendor": 1000
     },
@@ -1216,7 +1216,7 @@
       "vendor": 600
     },
     "Verdant Cheese": {
-      "ask": 193,
+      "ask": 192,
       "bid": 156,
       "vendor": 12
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661707802.6593387
+  "time": 1661708703.1219532
 }
