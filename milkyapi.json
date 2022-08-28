@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 198,
-      "bid": 149,
+      "bid": 150,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 605,
-      "bid": 560,
+      "bid": 561,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -1001,7 +1001,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 16000,
+      "ask": -1,
       "bid": 1000,
       "vendor": 5000
     },
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 599,
+      "ask": 945,
       "bid": 323,
       "vendor": 50
     },
@@ -1126,8 +1126,8 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 775,
-      "bid": 550,
+      "ask": 600,
+      "bid": 117,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -1176,8 +1176,8 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 259,
-      "bid": 189,
+      "ask": 258,
+      "bid": 190,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661670002.922486
+  "time": 1661670901.7624745
 }
