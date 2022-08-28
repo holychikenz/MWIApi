@@ -131,8 +131,8 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 350000,
-      "bid": 261027,
+      "ask": 349999,
+      "bid": 261028,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 240,
+      "ask": 239,
       "bid": 198,
       "vendor": 12
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 255,
+      "ask": 254,
       "bid": 210,
       "vendor": 54
     },
@@ -562,12 +562,12 @@
     },
     "Frenzy": {
       "ask": 316347,
-      "bid": 285015,
+      "bid": 285016,
       "vendor": 1000
     },
     "Gathering Tea": {
       "ask": 399,
-      "bid": 355,
+      "bid": -1,
       "vendor": 10
     },
     "Gator Vest": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 165,
-      "bid": 154,
+      "bid": 155,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 375,
+      "ask": 370,
       "bid": 227,
       "vendor": 50
     },
@@ -772,7 +772,7 @@
     },
     "Milk": {
       "ask": 45,
-      "bid": 15,
+      "bid": 20,
       "vendor": 2
     },
     "Milking Tea": {
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 30,
+      "ask": 29,
       "bid": 18,
       "vendor": 18
     },
@@ -806,7 +806,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 60,
+      "ask": 62,
       "bid": 50,
       "vendor": 20
     },
@@ -867,7 +867,7 @@
     },
     "Poke": {
       "ask": 15000,
-      "bid": 4329,
+      "bid": 4330,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 315,
+      "ask": 314,
       "bid": 290,
       "vendor": 81
     },
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 330,
-      "bid": 308,
+      "bid": 309,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -996,7 +996,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 23000,
+      "ask": 22999,
       "bid": 18005,
       "vendor": 1000
     },
@@ -1036,7 +1036,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 491,
+      "ask": 475,
       "bid": 356,
       "vendor": 75
     },
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 775,
+      "ask": 770,
       "bid": 117,
       "vendor": 40
     },
@@ -1142,11 +1142,11 @@
     },
     "Swamp Essence": {
       "ask": 32,
-      "bid": 21,
+      "bid": 22,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 149999,
+      "ask": 149998,
       "bid": 1000,
       "vendor": 1000
     },
@@ -1157,7 +1157,7 @@
     },
     "Toughness": {
       "ask": 29139,
-      "bid": 13695,
+      "bid": 13696,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -1191,8 +1191,8 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 235000,
-      "bid": 187019,
+      "ask": 237500,
+      "bid": 187021,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1291,7 +1291,7 @@
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 197989,
+      "ask": 195000,
       "bid": 120000,
       "vendor": 20000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661700601.90938
+  "time": 1661701502.7235732
 }
