@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 63,
-      "bid": 40,
+      "bid": 33,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 20,
-      "bid": 11,
+      "bid": 10,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 242,
-      "bid": 181,
+      "bid": 182,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -231,7 +231,7 @@
       "vendor": 2700
     },
     "Burble Helmet": {
-      "ask": 20652,
+      "ask": 33762,
       "bid": 2805,
       "vendor": 2700
     },
@@ -246,7 +246,7 @@
       "vendor": 12
     },
     "Burble Plate Body": {
-      "ask": 40000,
+      "ask": -1,
       "bid": 6001,
       "vendor": 4860
     },
@@ -486,7 +486,7 @@
       "vendor": 7776
     },
     "Cupcake": {
-      "ask": 68,
+      "ask": 60,
       "bid": 15,
       "vendor": 5
     },
@@ -636,7 +636,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 78362,
+      "ask": 78361,
       "bid": 64000,
       "vendor": 44550
     },
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 164,
+      "ask": 166,
       "bid": 155,
       "vendor": 54
     },
@@ -756,7 +756,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 251,
+      "ask": 250,
       "bid": 204,
       "vendor": 50
     },
@@ -797,7 +797,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 34,
-      "bid": 18,
+      "bid": 19,
       "vendor": 18
     },
     "Orange": {
@@ -816,7 +816,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 98990,
+      "ask": 98989,
       "bid": 75001,
       "vendor": 3000
     },
@@ -826,7 +826,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 10,
+      "ask": 13,
       "bid": 9,
       "vendor": 9
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 101,
+      "ask": 153,
       "bid": 87,
       "vendor": 40
     },
@@ -1041,7 +1041,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 209,
+      "ask": 208,
       "bid": 161,
       "vendor": 54
     },
@@ -1056,13 +1056,13 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 531,
+      "ask": 530,
       "bid": 131,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 347,
-      "bid": 326,
+      "ask": 760,
+      "bid": -1,
       "vendor": 75
     },
     "Strawberry": {
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 769,
+      "ask": 700,
       "bid": 117,
       "vendor": 40
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 637,
+      "ask": 634,
       "bid": 508,
       "vendor": 50
     },
@@ -1217,7 +1217,7 @@
     },
     "Verdant Cheese": {
       "ask": 190,
-      "bid": 175,
+      "bid": 156,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661711402.700775
+  "time": 1661712302.9390197
 }
