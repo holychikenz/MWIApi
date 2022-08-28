@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 36,
+      "ask": 35,
       "bid": 13,
       "vendor": 2
     },
@@ -37,7 +37,7 @@
     },
     "Azure Boots": {
       "ask": 19999,
-      "bid": 900,
+      "bid": -1,
       "vendor": 864
     },
     "Azure Brush": {
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 249,
+      "ask": 244,
       "bid": 214,
       "vendor": 24
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 13,
+      "ask": 12,
       "bid": 9,
       "vendor": 2
     },
@@ -226,7 +226,7 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": 20848,
+      "ask": -1,
       "bid": 3070,
       "vendor": 2700
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 248,
+      "ask": 249,
       "bid": 211,
       "vendor": 54
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 46,
+      "ask": 45,
       "bid": 40,
       "vendor": 14
     },
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 241000,
-      "bid": 195002,
+      "bid": 195003,
       "vendor": 10000
     },
     "Gourmet Tea": {
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 79,
-      "bid": 54,
+      "bid": 55,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 167,
+      "ask": 166,
       "bid": 156,
       "vendor": 54
     },
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 51,
+      "ask": 50,
       "bid": 22,
       "vendor": 14
     },
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 368,
+      "ask": 369,
       "bid": 228,
       "vendor": 50
     },
@@ -851,7 +851,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 10,
+      "ask": 9,
       "bid": 7,
       "vendor": 6
     },
@@ -1037,7 +1037,7 @@
     },
     "Spaceberry Donut": {
       "ask": 469,
-      "bid": 357,
+      "bid": 358,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 469,
+      "ask": 446,
       "bid": 131,
       "vendor": 75
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 18,
+      "ask": 17,
       "bid": 13,
       "vendor": 6
     },
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 895,
+      "ask": 898,
       "bid": 335,
       "vendor": 50
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661716802.2174003
+  "time": 1661717702.8025892
 }
