@@ -131,12 +131,12 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 376282,
+      "ask": 375341,
       "bid": 261026,
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 44295,
+      "ask": 44285,
       "bid": 36000,
       "vendor": 3000
     },
@@ -166,8 +166,8 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1143,
-      "bid": 850,
+      "ask": 1144,
+      "bid": -1,
       "vendor": 75
     },
     "Blueberry": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 248,
-      "bid": 156,
+      "bid": 157,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 246,
+      "ask": 245,
       "bid": 197,
       "vendor": 12
     },
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 259,
+      "ask": 258,
       "bid": 193,
       "vendor": 54
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 950,
+      "ask": 1000,
       "bid": 850,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 186,
+      "ask": 185,
       "bid": 152,
       "vendor": 54
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 389,
+      "ask": 400,
       "bid": 355,
       "vendor": 10
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 242500,
+      "ask": 243660,
       "bid": 195002,
       "vendor": 10000
     },
@@ -681,8 +681,8 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 168,
-      "bid": 152,
+      "ask": 166,
+      "bid": 153,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -716,7 +716,7 @@
       "vendor": 53460
     },
     "Holy Sword": {
-      "ask": 82000,
+      "ask": 80000,
       "bid": 65000,
       "vendor": 53460
     },
@@ -741,7 +741,7 @@
       "vendor": 40
     },
     "Magnifying Glass": {
-      "ask": 187000,
+      "ask": 188960,
       "bid": 115001,
       "vendor": 10000
     },
@@ -806,13 +806,13 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 60,
+      "ask": 59,
       "bid": 50,
       "vendor": 20
     },
     "Orange Yogurt": {
       "ask": 140,
-      "bid": 100,
+      "bid": 80,
       "vendor": 20
     },
     "Panda Fluff": {
@@ -856,7 +856,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 80,
+      "ask": 79,
       "bid": 48,
       "vendor": 30
     },
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 29998,
+      "ask": 29990,
       "bid": 19556,
       "vendor": 1000
     },
@@ -981,7 +981,7 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 335,
+      "ask": 333,
       "bid": 306,
       "vendor": 27
     },
@@ -1026,8 +1026,8 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 56,
-      "bid": 48,
+      "ask": 55,
+      "bid": 49,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1036,7 +1036,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 491,
+      "ask": 490,
       "bid": 356,
       "vendor": 75
     },
@@ -1117,7 +1117,7 @@
     },
     "Super Foraging Tea": {
       "ask": 549,
-      "bid": 450,
+      "bid": 150,
       "vendor": 40
     },
     "Super Intelligence Coffee": {
@@ -1136,7 +1136,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 707,
+      "ask": 700,
       "bid": 400,
       "vendor": 40
     },
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 252,
+      "ask": 251,
       "bid": 195,
       "vendor": 108
     },
@@ -1307,7 +1307,7 @@
     },
     "Wheat": {
       "ask": 17,
-      "bid": 16,
+      "bid": 14,
       "vendor": 1
     },
     "Wisdom Tea": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661694302.5706453
+  "time": 1661695201.580746
 }
