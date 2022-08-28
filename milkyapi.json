@@ -147,12 +147,12 @@
     },
     "Black Tea Leaf": {
       "ask": 47,
-      "bid": 30,
+      "bid": 32,
       "vendor": 8
     },
     "Blackberry": {
       "ask": 20,
-      "bid": 9,
+      "bid": 10,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 259,
+      "ask": 222,
       "bid": 178,
       "vendor": 36
     },
@@ -281,8 +281,8 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 297,
-      "bid": 192,
+      "ask": 250,
+      "bid": 193,
       "vendor": 12
     },
     "Cheese": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 265,
+      "ask": 227,
       "bid": 196,
       "vendor": 54
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 920,
+      "ask": 948,
       "bid": 850,
       "vendor": 50
     },
@@ -537,7 +537,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 55,
-      "bid": 48,
+      "bid": 49,
       "vendor": 18
     },
     "Eyessence": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 184,
-      "bid": 130,
+      "bid": 131,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 29999,
+      "ask": 29998,
       "bid": 20000,
       "vendor": 20000
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 98,
-      "bid": 44,
+      "bid": 46,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -636,7 +636,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 78368,
+      "ask": 78367,
       "bid": 70000,
       "vendor": 44550
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 604,
+      "ask": 608,
       "bid": 591,
       "vendor": 162
     },
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 170,
-      "bid": 149,
+      "bid": 150,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -746,7 +746,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 357200,
+      "ask": 356200,
       "bid": 300008,
       "vendor": 1000
     },
@@ -797,7 +797,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 21,
-      "bid": 20,
+      "bid": 19,
       "vendor": 18
     },
     "Orange": {
@@ -981,8 +981,8 @@
       "vendor": 17982
     },
     "Red Tea Leaf": {
-      "ask": 362,
-      "bid": 308,
+      "ask": 325,
+      "bid": 309,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1016,7 +1016,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 950,
+      "ask": 2000,
       "bid": 276,
       "vendor": 100
     },
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 696,
+      "ask": 661,
       "bid": 400,
       "vendor": 50
     },
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 776,
+      "ask": 737,
       "bid": 550,
       "vendor": 40
     },
@@ -1136,12 +1136,12 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 735,
+      "ask": 734,
       "bid": 301,
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 33,
+      "ask": 34,
       "bid": 20,
       "vendor": 8
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 29150,
+      "ask": 29140,
       "bid": 13693,
       "vendor": 1000
     },
@@ -1166,7 +1166,7 @@
       "vendor": 1500
     },
     "Turtle Shell Body": {
-      "ask": 16149,
+      "ask": 15342,
       "bid": -1,
       "vendor": 9000
     },
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1500000,
-      "bid": 601001,
+      "bid": 601002,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1192,7 +1192,7 @@
     },
     "Vampirism": {
       "ask": 237500,
-      "bid": 187017,
+      "bid": 187018,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661649302.6087961
+  "time": 1661650201.7839952
 }
