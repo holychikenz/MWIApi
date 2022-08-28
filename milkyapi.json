@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 840,
-      "bid": 600,
+      "bid": 501,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 242,
+      "ask": 271,
       "bid": 200,
       "vendor": 24
     },
@@ -181,7 +181,7 @@
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 999999999999,
+      "ask": 200,
       "bid": 11,
       "vendor": 10
     },
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 300000,
-      "bid": 155005,
+      "bid": 155006,
       "vendor": 1000
     },
     "Coin": {
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 1099,
-      "bid": 850,
+      "bid": 900,
       "vendor": 50
     },
     "Egg": {
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 494,
+      "ask": 450,
       "bid": 200,
       "vendor": 40
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 380,
+      "ask": 370,
       "bid": -1,
       "vendor": 10
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 228950,
+      "ask": 241000,
       "bid": 195005,
       "vendor": 10000
     },
@@ -612,7 +612,7 @@
     },
     "Green Tea Leaf": {
       "ask": 79,
-      "bid": 55,
+      "bid": 56,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 165,
+      "ask": 159,
       "bid": 154,
       "vendor": 54
     },
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1299999,
+      "ask": 1299998,
       "bid": 3000,
       "vendor": 500000
     },
@@ -766,7 +766,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 139999,
+      "ask": 120000,
       "bid": 37796,
       "vendor": 50000
     },
@@ -782,11 +782,11 @@
     },
     "Mooberry": {
       "ask": 11,
-      "bid": 9,
+      "bid": 10,
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 182,
+      "ask": 181,
       "bid": 120,
       "vendor": 40
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 153,
+      "ask": 152,
       "bid": 87,
       "vendor": 40
     },
@@ -861,7 +861,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 135,
+      "ask": 213,
       "bid": 75,
       "vendor": 30
     },
@@ -1031,12 +1031,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 409,
+      "ask": 410,
       "bid": 340,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 469,
+      "ask": 468,
       "bid": 358,
       "vendor": 75
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 694,
+      "ask": 695,
       "bid": 326,
       "vendor": 75
     },
@@ -1071,7 +1071,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 170,
+      "ask": 206,
       "bid": 52,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661727602.5708249
+  "time": 1661728502.6383207
 }
