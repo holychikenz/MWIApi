@@ -56,8 +56,8 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 241,
-      "bid": 214,
+      "ask": 271,
+      "bid": 193,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 347000,
-      "bid": 264000,
+      "bid": 264001,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -411,7 +411,7 @@
       "vendor": 7776
     },
     "Crimson Bulwark": {
-      "ask": -1,
+      "ask": 65000,
       "bid": 16800,
       "vendor": 12960
     },
@@ -511,12 +511,12 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 218,
+      "ask": 217,
       "bid": 150,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 949,
+      "ask": 1098,
       "bid": 850,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 185,
+      "ask": 188,
       "bid": 155,
       "vendor": 54
     },
@@ -561,8 +561,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 316340,
-      "bid": 290002,
+      "ask": 310000,
+      "bid": 290003,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -617,7 +617,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 151999,
-      "bid": 111012,
+      "bid": 111013,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -656,7 +656,7 @@
       "vendor": 162
     },
     "Holy Enhancer": {
-      "ask": 80000,
+      "ask": 99997,
       "bid": 75000,
       "vendor": 44550
     },
@@ -817,7 +817,7 @@
     },
     "Panda Fluff": {
       "ask": 98989,
-      "bid": 75001,
+      "bid": 76000,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -872,7 +872,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 63995,
-      "bid": 50002,
+      "bid": 50003,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 319,
-      "bid": 295,
+      "bid": 287,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -941,8 +941,8 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 41,
-      "bid": 40,
+      "ask": 40,
+      "bid": 39,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 696,
+      "ask": 695,
       "bid": 326,
       "vendor": 75
     },
@@ -1086,7 +1086,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 618,
+      "ask": 650,
       "bid": 405,
       "vendor": 50
     },
@@ -1127,7 +1127,7 @@
     },
     "Super Milking Tea": {
       "ask": 700,
-      "bid": 117,
+      "bid": 250,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661721302.5426767
+  "time": 1661722201.9205608
 }
