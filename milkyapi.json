@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 35,
-      "bid": 13,
+      "bid": 14,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 257,
+      "ask": 256,
       "bid": 204,
       "vendor": 24
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 393013,
-      "bid": 275007,
+      "bid": 275008,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 20,
-      "bid": 12,
+      "bid": 13,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -416,7 +416,7 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 236,
+      "ask": 237,
       "bid": 211,
       "vendor": 54
     },
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 65,
-      "bid": 41,
+      "bid": 40,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 168,
-      "bid": 117,
+      "bid": 113,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -561,8 +561,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 449998,
-      "bid": 290010,
+      "ask": 449997,
+      "bid": 290011,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 130600,
-      "bid": 90001,
+      "bid": 90000,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 447,
+      "ask": 444,
       "bid": 301,
       "vendor": 20
     },
@@ -692,7 +692,7 @@
     },
     "Holy Plate Legs": {
       "ask": -1,
-      "bid": 73055,
+      "bid": 80000,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -752,7 +752,7 @@
     },
     "Marsberry": {
       "ask": 40,
-      "bid": 23,
+      "bid": 21,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -801,7 +801,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 9,
+      "ask": 8,
       "bid": 5,
       "vendor": 4
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 128,
+      "ask": 127,
       "bid": 86,
       "vendor": 40
     },
@@ -1001,8 +1001,8 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 15000,
-      "bid": 2,
+      "ask": 14999,
+      "bid": 3,
       "vendor": 5000
     },
     "Snail Shell": {
@@ -1041,7 +1041,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 205,
+      "ask": 204,
       "bid": 165,
       "vendor": 54
     },
@@ -1052,7 +1052,7 @@
     },
     "Star Fruit": {
       "ask": 82,
-      "bid": 50,
+      "bid": 51,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1132,7 +1132,7 @@
     },
     "Super Power Coffee": {
       "ask": 430,
-      "bid": 327,
+      "bid": 301,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1161,7 +1161,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 9025,
+      "ask": 9500,
       "bid": 2000,
       "vendor": 1500
     },
@@ -1287,7 +1287,7 @@
     },
     "Vision Helmet": {
       "ask": 395000,
-      "bid": 200000,
+      "bid": 120000,
       "vendor": 20000
     },
     "Vision Shield": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661783401.8131542
+  "time": 1661784302.7322054
 }
