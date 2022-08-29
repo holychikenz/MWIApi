@@ -41,7 +41,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 22052,
+      "ask": 20000,
       "bid": 1150,
       "vendor": 1080
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 12,
+      "ask": 13,
       "bid": 9,
       "vendor": 2
     },
@@ -241,7 +241,7 @@
       "vendor": 3240
     },
     "Burble Milk": {
-      "ask": 40,
+      "ask": 41,
       "bid": 32,
       "vendor": 12
     },
@@ -531,7 +531,7 @@
       "vendor": 54
     },
     "Enhancing Tea": {
-      "ask": 164,
+      "ask": 176,
       "bid": 100,
       "vendor": 20
     },
@@ -551,13 +551,13 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 167,
+      "ask": 165,
       "bid": 114,
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": -1,
-      "bid": 162,
+      "ask": 1000,
+      "bid": 163,
       "vendor": 10
     },
     "Frenzy": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Gourmet Tea": {
-      "ask": 443,
+      "ask": 440,
       "bid": 301,
       "vendor": 20
     },
@@ -736,13 +736,13 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 339,
+      "ask": 338,
       "bid": 221,
       "vendor": 40
     },
     "Magnifying Glass": {
       "ask": 169696,
-      "bid": 140000,
+      "bid": 116000,
       "vendor": 10000
     },
     "Maim": {
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 180,
+      "ask": 179,
       "bid": 122,
       "vendor": 40
     },
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 64,
+      "ask": 61,
       "bid": 22,
       "vendor": 18
     },
@@ -1001,7 +1001,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 14999,
+      "ask": 14998,
       "bid": 3,
       "vendor": 5000
     },
@@ -1027,7 +1027,7 @@
     },
     "Spaceberry": {
       "ask": 79,
-      "bid": 52,
+      "bid": 51,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 204,
-      "bid": 167,
+      "bid": 166,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1076,7 +1076,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 245,
+      "ask": 244,
       "bid": 100,
       "vendor": 30
     },
@@ -1086,12 +1086,12 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 696,
+      "ask": 661,
       "bid": 406,
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 850,
+      "ask": 849,
       "bid": 300,
       "vendor": 50
     },
@@ -1116,7 +1116,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 496,
+      "ask": 495,
       "bid": 150,
       "vendor": 40
     },
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 39,
+      "ask": 40,
       "bid": 18,
       "vendor": 8
     },
@@ -1192,7 +1192,7 @@
     },
     "Vampirism": {
       "ask": 341236,
-      "bid": 200006,
+      "bid": 200007,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1246,8 +1246,8 @@
       "vendor": 360
     },
     "Verdant Milk": {
-      "ask": 51,
-      "bid": 40,
+      "ask": 52,
+      "bid": 39,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1292,7 +1292,7 @@
     },
     "Vision Shield": {
       "ask": 195000,
-      "bid": 150000,
+      "bid": 140000,
       "vendor": 20000
     },
     "Werewolf Claw": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661790601.9499419
+  "time": 1661791502.5209498
 }
