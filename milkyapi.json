@@ -311,7 +311,7 @@
       "vendor": 120
     },
     "Cheese Enhancer": {
-      "ask": 305,
+      "ask": -1,
       "bid": 304,
       "vendor": 60
     },
@@ -447,7 +447,7 @@
     },
     "Crimson Milk": {
       "ask": 20,
-      "bid": 18,
+      "bid": 19,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 15,
+      "ask": 14,
       "bid": 11,
       "vendor": 1
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 137999,
+      "ask": 138000,
       "bid": 90001,
       "vendor": 5000
     },
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 29998,
+      "ask": 29997,
       "bid": 20000,
       "vendor": 20000
     },
@@ -616,7 +616,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 140000,
+      "ask": 133001,
       "bid": 111014,
       "vendor": 3000
     },
@@ -761,7 +761,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 365,
+      "ask": 364,
       "bid": 229,
       "vendor": 50
     },
@@ -1036,12 +1036,12 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 440,
+      "ask": 443,
       "bid": 358,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 207,
+      "ask": 206,
       "bid": 161,
       "vendor": 54
     },
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 420,
+      "ask": 458,
       "bid": 131,
       "vendor": 75
     },
@@ -1081,7 +1081,7 @@
       "vendor": 30
     },
     "Sugar": {
-      "ask": 3,
+      "ask": 4,
       "bid": 2,
       "vendor": 1
     },
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 744,
+      "ask": 743,
       "bid": 250,
       "vendor": 40
     },
@@ -1152,7 +1152,7 @@
     },
     "Swiftness Coffee": {
       "ask": 630,
-      "bid": 513,
+      "bid": 514,
       "vendor": 50
     },
     "Toughness": {
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1250000,
-      "bid": 602000,
+      "bid": 620000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1202,7 +1202,7 @@
     },
     "Verdant Brush": {
       "ask": 20000,
-      "bid": 736,
+      "bid": 773,
       "vendor": 300
     },
     "Verdant Buckler": {
@@ -1232,7 +1232,7 @@
     },
     "Verdant Hammer": {
       "ask": 2400,
-      "bid": 461,
+      "bid": 364,
       "vendor": 300
     },
     "Verdant Helmet": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661742902.2999878
+  "time": 1661743802.1145365
 }
