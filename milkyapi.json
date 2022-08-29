@@ -191,7 +191,7 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": 6500,
+      "ask": -1,
       "bid": 3000,
       "vendor": 2160
     },
@@ -271,7 +271,7 @@
       "vendor": 2700
     },
     "Burble Spear": {
-      "ask": 15347,
+      "ask": 21977,
       "bid": 3300,
       "vendor": 3240
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 239,
-      "bid": 211,
+      "bid": 208,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -431,7 +431,7 @@
       "vendor": 5184
     },
     "Crimson Hammer": {
-      "ask": 20600,
+      "ask": 29752,
       "bid": 6811,
       "vendor": 6480
     },
@@ -476,7 +476,7 @@
       "vendor": 6480
     },
     "Crimson Spear": {
-      "ask": 25331,
+      "ask": -1,
       "bid": 7878,
       "vendor": 7776
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1090,
+      "ask": 1099,
       "bid": 952,
       "vendor": 50
     },
@@ -536,8 +536,8 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 80,
-      "bid": 52,
+      "ask": 95,
+      "bid": 53,
       "vendor": 18
     },
     "Eyessence": {
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 440,
+      "ask": 494,
       "bid": 310,
       "vendor": 40
     },
@@ -557,7 +557,7 @@
     },
     "Foraging Tea": {
       "ask": -1,
-      "bid": 161,
+      "bid": 162,
       "vendor": 10
     },
     "Frenzy": {
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 130599,
-      "bid": 90001,
+      "bid": 90000,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 179,
+      "ask": 178,
       "bid": 139,
       "vendor": 54
     },
@@ -722,7 +722,7 @@
     },
     "Intelligence Coffee": {
       "ask": 257,
-      "bid": 180,
+      "bid": 181,
       "vendor": 10
     },
     "Large Pouch": {
@@ -732,7 +732,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 67,
-      "bid": 56,
+      "bid": 57,
       "vendor": 12
     },
     "Lucky Coffee": {
@@ -882,7 +882,7 @@
     },
     "Power Coffee": {
       "ask": 171,
-      "bid": 80,
+      "bid": 32,
       "vendor": 30
     },
     "Precision": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 370,
-      "bid": 300,
+      "bid": 299,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -982,7 +982,7 @@
     },
     "Red Tea Leaf": {
       "ask": 309,
-      "bid": 302,
+      "bid": 303,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1026,8 +1026,8 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 80,
-      "bid": 51,
+      "ask": 79,
+      "bid": 52,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 204,
-      "bid": 166,
+      "bid": 167,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1051,7 +1051,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 82,
+      "ask": 81,
       "bid": 51,
       "vendor": 27
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 17,
+      "ask": 16,
       "bid": 13,
       "vendor": 6
     },
@@ -1111,7 +1111,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 1198,
+      "ask": 1197,
       "bid": 700,
       "vendor": 50
     },
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 600,
+      "ask": 630,
       "bid": 522,
       "vendor": 50
     },
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 1249996,
-      "bid": 625002,
+      "bid": 625003,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661788801.9101005
+  "time": 1661789702.1260843
 }
