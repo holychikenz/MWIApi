@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 67,
+      "ask": 68,
       "bid": 50,
       "vendor": 4
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 267,
+      "ask": 265,
       "bid": 205,
       "vendor": 24
     },
@@ -416,8 +416,8 @@
       "vendor": 12960
     },
     "Crimson Cheese": {
-      "ask": 247,
-      "bid": 205,
+      "ask": 246,
+      "bid": 206,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -537,7 +537,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 80,
-      "bid": 48,
+      "bid": 50,
       "vendor": 18
     },
     "Eyessence": {
@@ -647,12 +647,12 @@
     },
     "Holy Bulwark": {
       "ask": -1,
-      "bid": 91000,
+      "bid": 2,
       "vendor": 89100
     },
     "Holy Cheese": {
       "ask": 616,
-      "bid": 562,
+      "bid": 563,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 176,
-      "bid": 158,
+      "bid": 157,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -786,7 +786,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 179,
+      "ask": 178,
       "bid": 120,
       "vendor": 40
     },
@@ -836,7 +836,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 151,
+      "ask": 150,
       "bid": 87,
       "vendor": 40
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 380,
+      "ask": 379,
       "bid": 295,
       "vendor": 81
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 409,
+      "ask": 408,
       "bid": 340,
       "vendor": 75
     },
@@ -1061,8 +1061,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 690,
-      "bid": 326,
+      "ask": 675,
+      "bid": 350,
       "vendor": 75
     },
     "Strawberry": {
@@ -1157,7 +1157,7 @@
     },
     "Toughness": {
       "ask": 21999,
-      "bid": 13697,
+      "bid": 13698,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661744702.499493
+  "time": 1661745601.8893862
 }
