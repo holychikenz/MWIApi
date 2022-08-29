@@ -161,12 +161,12 @@
       "vendor": 20
     },
     "Blackberry Donut": {
-      "ask": 233,
+      "ask": 1000000000000,
       "bid": 27,
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1139,
+      "ask": 1135,
       "bid": -1,
       "vendor": 75
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 223,
-      "bid": 204,
+      "bid": 205,
       "vendor": 12
     },
     "Cheese": {
@@ -551,8 +551,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 170,
-      "bid": 113,
+      "ask": 169,
+      "bid": 115,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 596,
+      "ask": 595,
       "bid": 568,
       "vendor": 162
     },
@@ -676,7 +676,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 82499,
+      "ask": 82498,
       "bid": 63000,
       "vendor": 53460
     },
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1299998,
+      "ask": 1234998,
       "bid": 3000,
       "vendor": 500000
     },
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 42,
+      "ask": 41,
       "bid": 23,
       "vendor": 14
     },
@@ -842,7 +842,7 @@
     },
     "Pierce": {
       "ask": 120000,
-      "bid": 12010,
+      "bid": 13000,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 29888,
+      "ask": 29880,
       "bid": 20003,
       "vendor": 1000
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 16,
+      "ask": 17,
       "bid": 13,
       "vendor": 6
     },
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 698,
+      "ask": 662,
       "bid": 260,
       "vendor": 40
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661775302.1990192
+  "time": 1661776201.8471975
 }
