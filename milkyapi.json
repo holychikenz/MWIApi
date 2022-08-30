@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 35,
+      "ask": 34,
       "bid": 14,
       "vendor": 2
     },
@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 67,
-      "bid": 50,
+      "bid": 51,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -211,7 +211,7 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 215,
+      "ask": 214,
       "bid": 172,
       "vendor": 36
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 235,
-      "bid": 176,
+      "bid": 177,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 590,
-      "bid": 565,
+      "bid": 564,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -681,7 +681,7 @@
       "vendor": 53460
     },
     "Holy Milk": {
-      "ask": 159,
+      "ask": 160,
       "bid": 139,
       "vendor": 54
     },
@@ -836,8 +836,8 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 117,
-      "bid": 89,
+      "ask": 116,
+      "bid": 76,
       "vendor": 40
     },
     "Pierce": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 365,
-      "bid": 305,
+      "bid": 306,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1081,7 +1081,7 @@
       "vendor": 30
     },
     "Sugar": {
-      "ask": 4,
+      "ask": 3,
       "bid": 2,
       "vendor": 1
     },
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 895,
+      "ask": 896,
       "bid": 336,
       "vendor": 50
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661847302.7264295
+  "time": 1661848202.3502939
 }
