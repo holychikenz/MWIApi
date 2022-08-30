@@ -281,8 +281,8 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 206,
-      "bid": 195,
+      "ask": 205,
+      "bid": 193,
       "vendor": 12
     },
     "Cheese": {
@@ -351,7 +351,7 @@
       "vendor": 60
     },
     "Cheese Shears": {
-      "ask": 9999,
+      "ask": -1,
       "bid": 351,
       "vendor": 60
     },
@@ -536,12 +536,12 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 92,
+      "ask": 91,
       "bid": 58,
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 40,
+      "ask": 39,
       "bid": 37,
       "vendor": 36
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 355,
+      "ask": 354,
       "bid": 301,
       "vendor": 81
     },
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 389,
+      "ask": 388,
       "bid": 323,
       "vendor": 75
     },
@@ -1046,7 +1046,7 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 256,
+      "ask": 255,
       "bid": 101,
       "vendor": 10
     },
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 679,
+      "ask": 680,
       "bid": 300,
       "vendor": 40
     },
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 205,
+      "ask": 225,
       "bid": 170,
       "vendor": 108
     },
@@ -1206,7 +1206,7 @@
       "vendor": 300
     },
     "Verdant Buckler": {
-      "ask": 10237,
+      "ask": 19940,
       "bid": 420,
       "vendor": 360
     },
@@ -1236,7 +1236,7 @@
       "vendor": 300
     },
     "Verdant Helmet": {
-      "ask": 20000,
+      "ask": -1,
       "bid": 803,
       "vendor": 300
     },
@@ -1297,7 +1297,7 @@
     },
     "Werewolf Claw": {
       "ask": 3499999,
-      "bid": 1510012,
+      "bid": 1510013,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661877002.3964174
+  "time": 1661877902.9584737
 }
