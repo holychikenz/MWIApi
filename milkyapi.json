@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 256,
-      "bid": 167,
+      "bid": 170,
       "vendor": 20
     },
     "Azure Boots": {
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 388116,
+      "ask": 388115,
       "bid": 275029,
       "vendor": 1000
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1179,
+      "ask": 1177,
       "bid": 931,
       "vendor": 50
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 588,
+      "ask": 586,
       "bid": 554,
       "vendor": 162
     },
@@ -911,7 +911,7 @@
       "vendor": 29970
     },
     "Rainbow Cheese": {
-      "ask": 365,
+      "ask": 364,
       "bid": 312,
       "vendor": 81
     },
@@ -1136,7 +1136,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 650,
+      "ask": 635,
       "bid": 330,
       "vendor": 40
     },
@@ -1152,11 +1152,11 @@
     },
     "Swiftness Coffee": {
       "ask": 620,
-      "bid": 527,
+      "bid": 523,
       "vendor": 50
     },
     "Toughness": {
-      "ask": 20896,
+      "ask": 20000,
       "bid": 13709,
       "vendor": 1000
     },
@@ -1281,7 +1281,7 @@
       "vendor": 360
     },
     "Verdant Sword": {
-      "ask": 20000,
+      "ask": -1,
       "bid": 415,
       "vendor": 360
     },
@@ -1306,12 +1306,12 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 17,
+      "ask": 15,
       "bid": 11,
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 644,
+      "ask": 642,
       "bid": 564,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661859002.497271
+  "time": 1661859902.4666727
 }
