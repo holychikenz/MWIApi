@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 817,
+      "ask": 816,
       "bid": 650,
       "vendor": 75
     },
@@ -52,7 +52,7 @@
     },
     "Azure Bulwark": {
       "ask": -1,
-      "bid": 1,
+      "bid": 2000,
       "vendor": 2160
     },
     "Azure Cheese": {
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 379998,
+      "ask": 379997,
       "bid": 275026,
       "vendor": 1000
     },
@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 1114,
-      "bid": -1,
+      "bid": 800,
       "vendor": 75
     },
     "Blueberry": {
@@ -211,8 +211,8 @@
       "vendor": 5400
     },
     "Burble Cheese": {
-      "ask": 200,
-      "bid": 151,
+      "ask": 199,
+      "bid": 152,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 56,
+      "ask": 58,
       "bid": 26,
       "vendor": 14
     },
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 1000,
-      "bid": 825,
+      "bid": 826,
       "vendor": 50
     },
     "Egg": {
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 39,
-      "bid": 26,
+      "bid": 25,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -726,7 +726,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1200319,
+      "ask": 1200320,
       "bid": 680000,
       "vendor": 500000
     },
@@ -736,7 +736,7 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 334,
+      "ask": 336,
       "bid": 224,
       "vendor": 40
     },
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 28,
+      "ask": 29,
       "bid": 20,
       "vendor": 14
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 41,
+      "ask": 42,
       "bid": 36,
       "vendor": 27
     },
@@ -977,7 +977,7 @@
     },
     "Rainbow Sword": {
       "ask": 55000,
-      "bid": 19000,
+      "bid": 26000,
       "vendor": 17982
     },
     "Red Tea Leaf": {
@@ -986,7 +986,7 @@
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 76,
+      "ask": 75,
       "bid": 60,
       "vendor": 8
     },
@@ -1131,7 +1131,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 690,
+      "ask": 697,
       "bid": 600,
       "vendor": 75
     },
@@ -1146,8 +1146,8 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 100000,
-      "bid": 55000,
+      "ask": 121551,
+      "bid": 57750,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1157,7 +1157,7 @@
     },
     "Toughness": {
       "ask": 17571,
-      "bid": 13710,
+      "bid": 14000,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -1176,7 +1176,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 222,
+      "ask": 220,
       "bid": 173,
       "vendor": 108
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661904902.9386203
+  "time": 1661905801.924092
 }
