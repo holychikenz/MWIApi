@@ -121,13 +121,13 @@
       "vendor": 1296
     },
     "Azure Sword": {
-      "ask": -1,
+      "ask": 4500,
       "bid": 1875,
       "vendor": 1296
     },
     "Bear Essence": {
       "ask": 70,
-      "bid": 69,
+      "bid": 60,
       "vendor": 54
     },
     "Berserk": {
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 68,
+      "ask": 65,
       "bid": 19,
       "vendor": 14
     },
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 219,
-      "bid": 145,
+      "bid": 146,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 143,
-      "bid": 69,
+      "bid": 70,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 103529,
+      "ask": 98353,
       "bid": 95001,
       "vendor": 5000
     },
@@ -616,8 +616,8 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 94998,
-      "bid": 65001,
+      "ask": 100000,
+      "bid": 65002,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -736,7 +736,7 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 334,
+      "ask": 325,
       "bid": 250,
       "vendor": 40
     },
@@ -747,7 +747,7 @@
     },
     "Maim": {
       "ask": 397994,
-      "bid": 300007,
+      "bid": 300008,
       "vendor": 1000
     },
     "Marsberry": {
@@ -1021,7 +1021,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 6630,
+      "ask": 5984,
       "bid": 2629,
       "vendor": 2000
     },
@@ -1032,7 +1032,7 @@
     },
     "Spaceberry Cake": {
       "ask": 386,
-      "bid": 331,
+      "bid": 333,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1147,7 +1147,7 @@
     },
     "Sweep": {
       "ask": 119737,
-      "bid": 61001,
+      "bid": 61002,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1311,8 +1311,8 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 587,
-      "bid": 531,
+      "ask": 581,
+      "bid": 530,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661937302.539526
+  "time": 1661938202.3743367
 }
