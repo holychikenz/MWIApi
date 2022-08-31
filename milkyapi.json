@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 14,
+      "ask": 25,
       "bid": 11,
       "vendor": 10
     },
@@ -52,7 +52,7 @@
     },
     "Azure Bulwark": {
       "ask": -1,
-      "bid": 1,
+      "bid": -1,
       "vendor": 2160
     },
     "Azure Cheese": {
@@ -121,13 +121,13 @@
       "vendor": 1296
     },
     "Azure Sword": {
-      "ask": 4500,
+      "ask": -1,
       "bid": 1875,
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 69,
-      "bid": 60,
+      "ask": 70,
+      "bid": 61,
       "vendor": 54
     },
     "Berserk": {
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 90248,
+      "ask": 85736,
       "bid": 35000,
       "vendor": 1500
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 220,
-      "bid": 205,
+      "bid": 206,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 64,
+      "ask": 65,
       "bid": 23,
       "vendor": 14
     },
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 209,
-      "bid": 146,
+      "bid": 180,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -566,13 +566,13 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 356,
+      "ask": 355,
       "bid": 100,
       "vendor": 10
     },
     "Gator Vest": {
       "ask": 114000,
-      "bid": 30000,
+      "bid": 60000,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -581,8 +581,8 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 44,
-      "bid": 26,
+      "ask": 49,
+      "bid": 27,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -616,8 +616,8 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 99990,
-      "bid": 65004,
+      "ask": 100000,
+      "bid": 65005,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 584,
-      "bid": 571,
+      "bid": 572,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -676,7 +676,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 76969,
+      "ask": 76000,
       "bid": 68000,
       "vendor": 53460
     },
@@ -736,7 +736,7 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 322,
+      "ask": 321,
       "bid": 225,
       "vendor": 40
     },
@@ -792,12 +792,12 @@
     },
     "Mooberry Donut": {
       "ask": 260,
-      "bid": 145,
+      "bid": 160,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
       "ask": 29,
-      "bid": 24,
+      "bid": 25,
       "vendor": 18
     },
     "Orange": {
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 329,
-      "bid": 307,
+      "bid": 309,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -942,7 +942,7 @@
     },
     "Rainbow Milk": {
       "ask": 42,
-      "bid": 34,
+      "bid": 33,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1036,7 +1036,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 496,
+      "ask": 495,
       "bid": 400,
       "vendor": 75
     },
@@ -1046,8 +1046,8 @@
       "vendor": 54
     },
     "Stamina Coffee": {
-      "ask": 239,
-      "bid": 100,
+      "ask": 249,
+      "bid": 101,
       "vendor": 10
     },
     "Star Fruit": {
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 455,
+      "ask": 454,
       "bid": 131,
       "vendor": 75
     },
@@ -1076,7 +1076,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 244,
+      "ask": 248,
       "bid": 80,
       "vendor": 30
     },
@@ -1111,12 +1111,12 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 962,
+      "ask": 961,
       "bid": 707,
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 402,
+      "ask": 401,
       "bid": 300,
       "vendor": 40
     },
@@ -1126,7 +1126,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 659,
+      "ask": 650,
       "bid": 300,
       "vendor": 40
     },
@@ -1287,7 +1287,7 @@
     },
     "Vision Helmet": {
       "ask": 349998,
-      "bid": 121001,
+      "bid": 121002,
       "vendor": 20000
     },
     "Vision Shield": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661966103.0998778
+  "time": 1661967002.6856945
 }
