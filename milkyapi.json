@@ -51,7 +51,7 @@
       "vendor": 1296
     },
     "Azure Bulwark": {
-      "ask": 2160,
+      "ask": -1,
       "bid": 1,
       "vendor": 2160
     },
@@ -206,7 +206,7 @@
       "vendor": 3240
     },
     "Burble Bulwark": {
-      "ask": 30000,
+      "ask": 29999,
       "bid": 5520,
       "vendor": 5400
     },
@@ -226,7 +226,7 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": 2700,
+      "ask": -1,
       "bid": 208,
       "vendor": 2700
     },
@@ -617,7 +617,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 100000,
-      "bid": 65002,
+      "bid": 65003,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -751,7 +751,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 29,
+      "ask": 30,
       "bid": 20,
       "vendor": 14
     },
@@ -766,7 +766,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 104735,
+      "ask": 100000,
       "bid": 28274,
       "vendor": 50000
     },
@@ -941,7 +941,7 @@
       "vendor": 17982
     },
     "Rainbow Milk": {
-      "ask": 42,
+      "ask": 43,
       "bid": 37,
       "vendor": 27
     },
@@ -1036,7 +1036,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 496,
+      "ask": 495,
       "bid": 389,
       "vendor": 75
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 799,
+      "ask": 823,
       "bid": 435,
       "vendor": 50
     },
@@ -1161,7 +1161,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 9500,
+      "ask": 10000,
       "bid": 2000,
       "vendor": 1500
     },
@@ -1182,7 +1182,7 @@
     },
     "Vampire Fang": {
       "ask": 2000000,
-      "bid": 925000,
+      "bid": 925001,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1271,7 +1271,7 @@
       "vendor": 300
     },
     "Verdant Spatula": {
-      "ask": 7219,
+      "ask": -1,
       "bid": 465,
       "vendor": 300
     },
@@ -1311,7 +1311,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 566,
+      "ask": 565,
       "bid": 530,
       "vendor": 30
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661949002.5654924
+  "time": 1661949901.954668
 }
