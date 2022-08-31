@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 45,
+      "ask": 44,
       "bid": 11,
       "vendor": 10
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 379020,
+      "ask": 379015,
       "bid": 261028,
       "vendor": 1000
     },
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 193,
-      "bid": 155,
+      "bid": 156,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -466,7 +466,7 @@
       "vendor": 6480
     },
     "Crimson Shears": {
-      "ask": 52500,
+      "ask": -1,
       "bid": 10001,
       "vendor": 6480
     },
@@ -651,7 +651,7 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 574,
+      "ask": 573,
       "bid": 571,
       "vendor": 162
     },
@@ -697,7 +697,7 @@
     },
     "Holy Pot": {
       "ask": 95000,
-      "bid": 67000,
+      "bid": 80000,
       "vendor": 44550
     },
     "Holy Shears": {
@@ -796,7 +796,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 33,
+      "ask": 32,
       "bid": 23,
       "vendor": 18
     },
@@ -847,7 +847,7 @@
     },
     "Pincer Gloves": {
       "ask": 199997,
-      "bid": 24462,
+      "bid": 25000,
       "vendor": 6000
     },
     "Plum": {
@@ -887,7 +887,7 @@
     },
     "Precision": {
       "ask": 24964,
-      "bid": 20016,
+      "bid": 20017,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -986,7 +986,7 @@
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 72,
+      "ask": 71,
       "bid": 30,
       "vendor": 8
     },
@@ -996,7 +996,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 23933,
+      "ask": 23932,
       "bid": 18024,
       "vendor": 1000
     },
@@ -1106,7 +1106,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 598,
+      "ask": 599,
       "bid": 337,
       "vendor": 50
     },
@@ -1141,7 +1141,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 36,
+      "ask": 35,
       "bid": 27,
       "vendor": 8
     },
@@ -1286,8 +1286,8 @@
       "vendor": 360
     },
     "Vision Helmet": {
-      "ask": 350000,
-      "bid": 121000,
+      "ask": 349999,
+      "bid": 121001,
       "vendor": 20000
     },
     "Vision Shield": {
@@ -1296,8 +1296,8 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2443510,
-      "bid": 1585558,
+      "ask": 2443508,
+      "bid": 1585559,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 18,
+      "ask": 15,
       "bid": 14,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661948102.5668235
+  "time": 1661949002.5654924
 }
