@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 44,
+      "ask": 43,
       "bid": 11,
       "vendor": 10
     },
@@ -56,7 +56,7 @@
       "vendor": 2160
     },
     "Azure Cheese": {
-      "ask": 200,
+      "ask": 220,
       "bid": 166,
       "vendor": 24
     },
@@ -306,7 +306,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 2299,
+      "ask": 2070,
       "bid": 1000,
       "vendor": 120
     },
@@ -536,7 +536,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 91,
+      "ask": 90,
       "bid": 64,
       "vendor": 18
     },
@@ -566,12 +566,12 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 355,
+      "ask": 354,
       "bid": 100,
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 97741,
+      "ask": 108300,
       "bid": 60000,
       "vendor": 5000
     },
@@ -626,7 +626,7 @@
       "vendor": 60000
     },
     "Gummy": {
-      "ask": 49,
+      "ask": 47,
       "bid": 11,
       "vendor": 5
     },
@@ -652,7 +652,7 @@
     },
     "Holy Cheese": {
       "ask": 583,
-      "bid": 573,
+      "bid": 574,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -662,7 +662,7 @@
     },
     "Holy Gauntlets": {
       "ask": 39520,
-      "bid": 37000,
+      "bid": -1,
       "vendor": 35640
     },
     "Holy Hammer": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 161,
-      "bid": 142,
+      "bid": 143,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -977,7 +977,7 @@
     },
     "Rainbow Sword": {
       "ask": 55000,
-      "bid": 20000,
+      "bid": 40000,
       "vendor": 17982
     },
     "Red Tea Leaf": {
@@ -1022,7 +1022,7 @@
     },
     "Snake Fang Dirk": {
       "ask": 6630,
-      "bid": 2629,
+      "bid": 2501,
       "vendor": 2000
     },
     "Spaceberry": {
@@ -1031,7 +1031,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 386,
+      "ask": 385,
       "bid": 332,
       "vendor": 75
     },
@@ -1042,7 +1042,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 178,
-      "bid": 93,
+      "bid": 120,
       "vendor": 54
     },
     "Stamina Coffee": {
@@ -1102,7 +1102,7 @@
     },
     "Super Cooking Tea": {
       "ask": 650,
-      "bid": 435,
+      "bid": 434,
       "vendor": 50
     },
     "Super Defense Coffee": {
@@ -1122,7 +1122,7 @@
     },
     "Super Intelligence Coffee": {
       "ask": 592,
-      "bid": 475,
+      "bid": 484,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1247,7 +1247,7 @@
     },
     "Verdant Milk": {
       "ask": 45,
-      "bid": 22,
+      "bid": 25,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1311,8 +1311,8 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 557,
-      "bid": 530,
+      "ask": 550,
+      "bid": 480,
       "vendor": 30
     },
     "Yogurt": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661970603.04008
+  "time": 1661971502.0721526
 }
