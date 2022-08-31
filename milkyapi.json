@@ -126,7 +126,7 @@
       "vendor": 1296
     },
     "Bear Essence": {
-      "ask": 68,
+      "ask": 69,
       "bid": 60,
       "vendor": 54
     },
@@ -226,8 +226,8 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": 3100,
-      "bid": 3070,
+      "ask": -1,
+      "bid": 3053,
       "vendor": 2700
     },
     "Burble Helmet": {
@@ -281,13 +281,13 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 204,
-      "bid": 180,
+      "ask": 206,
+      "bid": 161,
       "vendor": 12
     },
     "Cheese": {
-      "ask": 154,
-      "bid": 81,
+      "ask": 155,
+      "bid": 82,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -391,8 +391,8 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 99999,
-      "bid": 51005,
+      "ask": 90249,
+      "bid": 20003,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -531,12 +531,12 @@
       "vendor": 54
     },
     "Enhancing Tea": {
-      "ask": 200,
+      "ask": 250,
       "bid": 61,
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 91,
+      "ask": 92,
       "bid": 60,
       "vendor": 18
     },
@@ -651,13 +651,13 @@
       "vendor": 89100
     },
     "Holy Cheese": {
-      "ask": 588,
+      "ask": 587,
       "bid": 572,
       "vendor": 162
     },
     "Holy Enhancer": {
       "ask": 99997,
-      "bid": 63000,
+      "bid": 1,
       "vendor": 44550
     },
     "Holy Gauntlets": {
@@ -682,7 +682,7 @@
     },
     "Holy Milk": {
       "ask": 164,
-      "bid": 149,
+      "bid": 150,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -717,11 +717,11 @@
     },
     "Holy Sword": {
       "ask": 82000,
-      "bid": 66001,
+      "bid": 66000,
       "vendor": 53460
     },
     "Intelligence Coffee": {
-      "ask": 257,
+      "ask": 270,
       "bid": 181,
       "vendor": 10
     },
@@ -771,7 +771,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 48,
+      "ask": 39,
       "bid": 17,
       "vendor": 2
     },
@@ -781,7 +781,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 13,
+      "ask": 14,
       "bid": 10,
       "vendor": 9
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 61999,
+      "ask": 119998,
       "bid": 56011,
       "vendor": 3000
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 349,
-      "bid": 304,
+      "bid": 325,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1217,7 +1217,7 @@
     },
     "Verdant Cheese": {
       "ask": 201,
-      "bid": 157,
+      "bid": 154,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1247,7 +1247,7 @@
     },
     "Verdant Milk": {
       "ask": 44,
-      "bid": 25,
+      "bid": 21,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661923802.8608186
+  "time": 1661924702.0605063
 }
