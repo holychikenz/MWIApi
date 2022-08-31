@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 33,
+      "ask": 34,
       "bid": 14,
       "vendor": 2
     },
@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 19,
-      "bid": 12,
+      "bid": 13,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 18,
+      "ask": 19,
       "bid": 13,
       "vendor": 1
     },
@@ -912,7 +912,7 @@
     },
     "Rainbow Cheese": {
       "ask": 349,
-      "bid": 325,
+      "bid": 305,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1061,8 +1061,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 469,
-      "bid": 359,
+      "ask": 446,
+      "bid": -1,
       "vendor": 75
     },
     "Strawberry": {
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 623,
+      "ask": 624,
       "bid": 529,
       "vendor": 50
     },
@@ -1306,7 +1306,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 13,
+      "ask": 17,
       "bid": 12,
       "vendor": 1
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661927403.13664
+  "time": 1661928302.6707454
 }
