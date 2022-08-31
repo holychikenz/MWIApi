@@ -161,7 +161,7 @@
       "vendor": 20
     },
     "Blackberry Donut": {
-      "ask": 50,
+      "ask": 1000000000000,
       "bid": 28,
       "vendor": 20
     },
@@ -491,7 +491,7 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 450,
+      "ask": 449,
       "bid": 150,
       "vendor": 20
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 303999,
+      "ask": 303239,
       "bid": 285015,
       "vendor": 1000
     },
@@ -746,7 +746,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 397994,
+      "ask": 397995,
       "bid": 300007,
       "vendor": 1000
     },
@@ -776,7 +776,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 276,
+      "ask": 307,
       "bid": 159,
       "vendor": 10
     },
@@ -922,7 +922,7 @@
     },
     "Rainbow Gauntlets": {
       "ask": 24863,
-      "bid": 12555,
+      "bid": -1,
       "vendor": 11988
     },
     "Rainbow Hammer": {
@@ -936,7 +936,7 @@
       "vendor": 14985
     },
     "Rainbow Mace": {
-      "ask": 39999,
+      "ask": 30000,
       "bid": 21000,
       "vendor": 17982
     },
@@ -1062,7 +1062,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 444,
-      "bid": -1,
+      "bid": 100,
       "vendor": 75
     },
     "Strawberry": {
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2443513,
+      "ask": 2443512,
       "bid": 1585556,
       "vendor": 10000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661934602.2346957
+  "time": 1661935502.707149
 }
