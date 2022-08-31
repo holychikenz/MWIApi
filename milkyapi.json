@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 70,
-      "bid": 61,
+      "bid": 60,
       "vendor": 54
     },
     "Berserk": {
@@ -292,7 +292,7 @@
     },
     "Cheese Boots": {
       "ask": 550,
-      "bid": 300,
+      "bid": 132,
       "vendor": 48
     },
     "Cheese Brush": {
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 215,
-      "bid": 51,
+      "bid": 116,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -637,7 +637,7 @@
     },
     "Holy Brush": {
       "ask": 78500,
-      "bid": 65000,
+      "bid": 100,
       "vendor": 44550
     },
     "Holy Buckler": {
@@ -731,12 +731,12 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 67,
+      "ask": 69,
       "bid": 57,
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 335,
+      "ask": 334,
       "bid": 224,
       "vendor": 40
     },
@@ -757,11 +757,11 @@
     },
     "Marsberry Cake": {
       "ask": 200,
-      "bid": 180,
+      "bid": 172,
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 300,
+      "ask": 348,
       "bid": 257,
       "vendor": 50
     },
@@ -792,7 +792,7 @@
     },
     "Mooberry Donut": {
       "ask": 260,
-      "bid": 143,
+      "bid": 144,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
@@ -867,7 +867,7 @@
     },
     "Poke": {
       "ask": 9499,
-      "bid": 4346,
+      "bid": 4347,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -907,7 +907,7 @@
     },
     "Rainbow Bulwark": {
       "ask": -1,
-      "bid": 30500,
+      "bid": -1,
       "vendor": 29970
     },
     "Rainbow Cheese": {
@@ -1066,8 +1066,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 17,
-      "bid": 16,
+      "ask": 16,
+      "bid": 15,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1112,7 +1112,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 974,
-      "bid": 706,
+      "bid": 707,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1151,8 +1151,8 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 624,
-      "bid": 525,
+      "ask": 623,
+      "bid": 526,
       "vendor": 50
     },
     "Toughness": {
@@ -1296,7 +1296,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2572124,
+      "ask": 2572123,
       "bid": 1835438,
       "vendor": 10000
     },
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661904002.51646
+  "time": 1661904902.9386203
 }
