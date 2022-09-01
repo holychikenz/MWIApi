@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 34,
-      "bid": 14,
+      "bid": 12,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 815,
+      "ask": 814,
       "bid": 650,
       "vendor": 75
     },
@@ -291,7 +291,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 523,
+      "ask": 522,
       "bid": 132,
       "vendor": 48
     },
@@ -396,7 +396,7 @@
       "vendor": 1500
     },
     "Crimson Boots": {
-      "ask": 59000,
+      "ask": 17000,
       "bid": -1,
       "vendor": 5184
     },
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 125,
-      "bid": 85,
+      "bid": 87,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -611,7 +611,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 374,
+      "ask": 375,
       "bid": 258,
       "vendor": 20
     },
@@ -647,7 +647,7 @@
     },
     "Holy Brush": {
       "ask": 92989,
-      "bid": 76000,
+      "bid": 77000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 570,
-      "bid": 555,
+      "bid": 560,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -746,7 +746,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 30000000,
+      "ask": 15000000,
       "bid": 2100004,
       "vendor": 10000
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 3000000,
+      "ask": 2999999,
       "bid": 10500,
       "vendor": 10000
     },
@@ -776,7 +776,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 28,
+      "ask": 30,
       "bid": 22,
       "vendor": 14
     },
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 49999,
+      "ask": 49998,
       "bid": 21004,
       "vendor": 1000
     },
@@ -956,7 +956,7 @@
       "vendor": 20979
     },
     "Rainbow Helmet": {
-      "ask": 25553,
+      "ask": 25552,
       "bid": 15555,
       "vendor": 14985
     },
@@ -966,12 +966,12 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 43,
+      "ask": 45,
       "bid": 32,
       "vendor": 27
     },
     "Rainbow Plate Body": {
-      "ask": 97000,
+      "ask": 96999,
       "bid": -1,
       "vendor": 23976
     },
@@ -1052,12 +1052,12 @@
     },
     "Spaceberry": {
       "ask": 70,
-      "bid": 56,
+      "bid": 60,
       "vendor": 27
     },
     "Spaceberry Cake": {
       "ask": 450,
-      "bid": 400,
+      "bid": 320,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1067,11 +1067,11 @@
     },
     "Spacia Coffee Bean": {
       "ask": 177,
-      "bid": 140,
+      "bid": 141,
       "vendor": 54
     },
     "Spike Shell": {
-      "ask": 4500000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1000
     },
@@ -1102,7 +1102,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 575,
-      "bid": 400,
+      "bid": 401,
       "vendor": 75
     },
     "Strawberry": {
@@ -1161,7 +1161,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 549,
+      "ask": 548,
       "bid": 300,
       "vendor": 40
     },
@@ -1201,7 +1201,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 150000,
+      "ask": 135850,
       "bid": 14237,
       "vendor": 1000
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 545,
+      "ask": 544,
       "bid": 324,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662034502.4672146
+  "time": 1662035402.689951
 }
