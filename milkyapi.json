@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 90,
+      "ask": 99,
       "bid": 53,
       "vendor": 4
     },
@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 46,
-      "bid": 42,
+      "bid": 40,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 218,
-      "bid": 157,
+      "bid": 158,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -446,8 +446,8 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 21,
-      "bid": 18,
+      "ask": 22,
+      "bid": 21,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 233,
+      "ask": 230,
       "bid": 150,
       "vendor": 50
     },
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 19,
-      "bid": 14,
+      "bid": 13,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -571,8 +571,8 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 90155,
-      "bid": 50000,
+      "ask": 80000,
+      "bid": 42500,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 2849980,
+      "ask": 2849978,
       "bid": 10503,
       "vendor": 10000
     },
@@ -786,7 +786,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 364,
+      "ask": 362,
       "bid": 258,
       "vendor": 50
     },
@@ -816,7 +816,7 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 260,
+      "ask": 259,
       "bid": 162,
       "vendor": 40
     },
@@ -876,7 +876,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 7,
+      "ask": 8,
       "bid": 6,
       "vendor": 6
     },
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 25000,
+      "ask": 49997,
       "bid": 21004,
       "vendor": 1000
     },
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 23935,
+      "ask": 22738,
       "bid": 18500,
       "vendor": 1000
     },
@@ -1096,13 +1096,13 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 450,
+      "ask": 448,
       "bid": 132,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 647,
-      "bid": 406,
+      "ask": 645,
+      "bid": 492,
       "vendor": 75
     },
     "Strawberry": {
@@ -1201,7 +1201,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 100000,
+      "ask": 25000,
       "bid": 14237,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662047102.0299413
+  "time": 1662048002.8465974
 }
