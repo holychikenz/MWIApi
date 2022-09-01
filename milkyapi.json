@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 47,
-      "bid": 39,
+      "bid": 40,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -142,7 +142,7 @@
     },
     "Black Bear Shoes": {
       "ask": -1,
-      "bid": 1,
+      "bid": 100000,
       "vendor": 60000
     },
     "Black Tea Leaf": {
@@ -746,7 +746,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 6000000,
+      "ask": 30000000,
       "bid": 2100004,
       "vendor": 10000
     },
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 31,
+      "ask": 30,
       "bid": 25,
       "vendor": 18
     },
@@ -836,7 +836,7 @@
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 105,
+      "ask": 104,
       "bid": 50,
       "vendor": 20
     },
@@ -852,7 +852,7 @@
     },
     "Peach": {
       "ask": 16,
-      "bid": 10,
+      "bid": 11,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -896,7 +896,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 97251,
+      "ask": 95555,
       "bid": 56014,
       "vendor": 3000
     },
@@ -967,7 +967,7 @@
     },
     "Rainbow Milk": {
       "ask": 36,
-      "bid": 31,
+      "bid": 32,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -996,7 +996,7 @@
       "vendor": 20979
     },
     "Rainbow Spear": {
-      "ask": 36754,
+      "ask": 36753,
       "bid": 18333,
       "vendor": 26973
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 13529,
+      "ask": 12847,
       "bid": 3,
       "vendor": 5000
     },
@@ -1052,7 +1052,7 @@
     },
     "Spaceberry": {
       "ask": 71,
-      "bid": 55,
+      "bid": 56,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 547,
+      "ask": 546,
       "bid": 324,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662025502.7675862
+  "time": 1662026401.708242
 }
