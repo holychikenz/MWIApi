@@ -1,5 +1,5 @@
 {
-  "time": 1662025502.0,
+  "time": 1662026401.0,
   "market": {
     "Apple": {
       "ask": 34.0,
@@ -18,7 +18,7 @@
       "bid": 21.0
     },
     "Arabica Coffee Bean": {
-      "ask": 80.0,
+      "ask": 90.0,
       "bid": 53.0
     },
     "Artisan Tea": {
@@ -115,7 +115,7 @@
     },
     "Black Bear Shoes": {
       "ask": -1.0,
-      "bid": 1.0
+      "bid": 100000.0
     },
     "Black Tea Leaf": {
       "ask": 63.0,
@@ -658,12 +658,12 @@
       "bid": 50003.0
     },
     "Panda Gloves": {
-      "ask": 1100000.0,
+      "ask": -1.0,
       "bid": 105000.0
     },
     "Peach": {
       "ask": 18.0,
-      "bid": 10.0
+      "bid": 11.0
     },
     "Peach Gummy": {
       "ask": 127.0,
@@ -922,7 +922,7 @@
       "bid": 61006.0
     },
     "Swiftness Coffee": {
-      "ask": 620.0,
+      "ask": 619.0,
       "bid": 532.0
     },
     "Toughness": {
@@ -1038,7 +1038,7 @@
       "bid": 56002.0
     },
     "Werewolf Claw": {
-      "ask": 2299999.0,
+      "ask": 2299998.0,
       "bid": 1700008.0
     },
     "Werewolf Slasher": {
@@ -1070,7 +1070,7 @@
       "bid": 2100004.0
     },
     "Magnet": {
-      "ask": 2842841.5,
+      "ask": 2842840.0,
       "bid": 10500.0
     },
     "Magnetic Gloves": {
