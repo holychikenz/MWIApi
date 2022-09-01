@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 47,
-      "bid": 40,
+      "bid": 34,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 70000,
+      "ask": 69999,
       "bid": 20003,
       "vendor": 1500
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 41,
+      "ask": 42,
       "bid": 38,
       "vendor": 36
     },
@@ -606,8 +606,8 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 430,
-      "bid": 211,
+      "ask": 470,
+      "bid": 230,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -646,7 +646,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 92990,
+      "ask": 92989,
       "bid": 76000,
       "vendor": 62370
     },
@@ -686,7 +686,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 92609,
+      "ask": 92608,
       "bid": 65001,
       "vendor": 80190
     },
@@ -696,12 +696,12 @@
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 114999,
+      "ask": 114998,
       "bid": 95000,
       "vendor": 71280
     },
     "Holy Plate Legs": {
-      "ask": 120000,
+      "ask": 119999,
       "bid": 75000,
       "vendor": 62370
     },
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 99000,
+      "ask": 100000,
       "bid": 13669,
       "vendor": 1000
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 36,
+      "ask": 38,
       "bid": 32,
       "vendor": 27
     },
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 12398,
+      "ask": 10000,
       "bid": 2500,
       "vendor": 1000
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry Cake": {
       "ask": 448,
-      "bid": 350,
+      "bid": 400,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 17,
+      "ask": 18,
       "bid": 15,
       "vendor": 6
     },
@@ -1191,12 +1191,12 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 119437,
+      "ask": 100000,
       "bid": 61006,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 615,
+      "ask": 614,
       "bid": 532,
       "vendor": 50
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662029102.4506862
+  "time": 1662030002.799334
 }
