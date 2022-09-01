@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 816,
+      "ask": 815,
       "bid": 650,
       "vendor": 75
     },
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 62,
-      "bid": 51,
+      "bid": 50,
       "vendor": 8
     },
     "Blackberry": {
@@ -166,8 +166,8 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1094,
-      "bid": 775,
+      "ask": 1090,
+      "bid": -1,
       "vendor": 75
     },
     "Blueberry": {
@@ -281,7 +281,7 @@
       "vendor": 3240
     },
     "Burble Tea Leaf": {
-      "ask": 197,
+      "ask": 198,
       "bid": 175,
       "vendor": 12
     },
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 19,
-      "bid": 14,
+      "bid": 15,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -571,13 +571,13 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 74000,
+      "ask": 95000,
       "bid": 36000,
       "vendor": 5000
     },
     "Giant Pouch": {
       "ask": -1,
-      "bid": 19000000,
+      "bid": 15000000,
       "vendor": 5000000
     },
     "Gobo Essence": {
@@ -617,7 +617,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 113997,
-      "bid": 65007,
+      "bid": 65006,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -667,7 +667,7 @@
     },
     "Holy Hammer": {
       "ask": 80000,
-      "bid": 70000,
+      "bid": 67500,
       "vendor": 44550
     },
     "Holy Helmet": {
@@ -736,7 +736,7 @@
       "vendor": 12
     },
     "Lucky Coffee": {
-      "ask": 319,
+      "ask": 318,
       "bid": 226,
       "vendor": 40
     },
@@ -781,7 +781,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 14,
+      "ask": 29,
       "bid": 10,
       "vendor": 9
     },
@@ -817,7 +817,7 @@
     },
     "Panda Fluff": {
       "ask": 63815,
-      "bid": 50004,
+      "bid": 50003,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -1142,7 +1142,7 @@
     },
     "Swamp Essence": {
       "ask": 55,
-      "bid": 27,
+      "bid": 26,
       "vendor": 8
     },
     "Sweep": {
@@ -1151,7 +1151,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 624,
+      "ask": 623,
       "bid": 532,
       "vendor": 50
     },
@@ -1187,7 +1187,7 @@
     },
     "Vampire Fang Dirk": {
       "ask": -1,
-      "bid": 5005005,
+      "bid": 12345678,
       "vendor": 400000
     },
     "Vampirism": {
@@ -1321,5 +1321,5 @@
       "vendor": 5
     }
   },
-  "time": 1661994902.3185368
+  "time": 1661995802.5529602
 }
