@@ -176,7 +176,7 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 99,
+      "ask": 1000000000000,
       "bid": 23,
       "vendor": 10
     },
@@ -527,7 +527,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 277,
-      "bid": 171,
+      "bid": 172,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 184,
+      "ask": 183,
       "bid": 150,
       "vendor": 54
     },
@@ -771,7 +771,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 992748,
+      "ask": 992747,
       "bid": 300008,
       "vendor": 1000
     },
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 32,
+      "ask": 30,
       "bid": 25,
       "vendor": 18
     },
@@ -967,7 +967,7 @@
     },
     "Rainbow Milk": {
       "ask": 43,
-      "bid": 35,
+      "bid": 33,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 454,
+      "ask": 450,
       "bid": 335,
       "vendor": 75
     },
@@ -1076,8 +1076,8 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 1250000,
-      "bid": 10000,
+      "ask": -1,
+      "bid": 1250000,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 5000005,
+      "ask": 4512505,
       "bid": 789123,
       "vendor": 1000
     },
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 592,
+      "ask": 595,
       "bid": 505,
       "vendor": 40
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 678,
+      "ask": 690,
       "bid": 505,
       "vendor": 75
     },
@@ -1341,7 +1341,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2437392,
+      "ask": 2300000,
       "bid": 1700007,
       "vendor": 10000
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 548,
+      "ask": 549,
       "bid": 323,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662004802.396006
+  "time": 1662005702.8906128
 }
