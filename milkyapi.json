@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 255,
-      "bid": 167,
+      "bid": 168,
       "vendor": 20
     },
     "Azure Boots": {
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 208,
+      "ask": 207,
       "bid": 185,
       "vendor": 54
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 355000,
+      "ask": 337250,
       "bid": 285005,
       "vendor": 1000
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 9999,
+      "ask": 1000,
       "bid": 111,
       "vendor": 108
     },
@@ -786,7 +786,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 348,
+      "ask": 350,
       "bid": 257,
       "vendor": 50
     },
@@ -867,7 +867,7 @@
     },
     "Pierce": {
       "ask": 49999,
-      "bid": 13667,
+      "bid": 13668,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 9025,
+      "ask": 8574,
       "bid": 4351,
       "vendor": 1000
     },
@@ -907,11 +907,11 @@
     },
     "Power Coffee": {
       "ask": 171,
-      "bid": 32,
+      "bid": 40,
       "vendor": 30
     },
     "Precision": {
-      "ask": 39998,
+      "ask": -1,
       "bid": 22052,
       "vendor": 1000
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 347,
-      "bid": 311,
+      "bid": 309,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 12000,
+      "ask": 22000,
       "bid": 200,
       "vendor": 1000
     },
@@ -1056,8 +1056,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 387,
-      "bid": 335,
+      "ask": 389,
+      "bid": 334,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1121,8 +1121,8 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": -1,
-      "bid": -1,
+      "ask": 10000000,
+      "bid": 100,
       "vendor": 1000
     },
     "Sugar": {
@@ -1227,7 +1227,7 @@
     },
     "Vampire Fang": {
       "ask": 1500000,
-      "bid": 850000,
+      "bid": 875000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1261,7 +1261,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 196,
+      "ask": 195,
       "bid": 159,
       "vendor": 12
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1661998502.1944983
+  "time": 1661999401.888153
 }
