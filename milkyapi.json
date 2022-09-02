@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 33,
-      "bid": 10,
+      "bid": 11,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -446,7 +446,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 25,
+      "ask": 44,
       "bid": 20,
       "vendor": 18
     },
@@ -506,7 +506,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 267,
+      "ask": 281,
       "bid": 124,
       "vendor": 50
     },
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 19,
-      "bid": 15,
+      "bid": 16,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -601,12 +601,12 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 274997,
+      "ask": 269696,
       "bid": 196003,
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 847,
+      "ask": 500,
       "bid": 321,
       "vendor": 108
     },
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 100,
+      "ask": 102,
       "bid": 52,
       "vendor": 4
     },
@@ -746,7 +746,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 4000000,
+      "ask": 3900000,
       "bid": 3500003,
       "vendor": 10000
     },
@@ -766,7 +766,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 145000,
+      "ask": 133337,
       "bid": 100004,
       "vendor": 10000
     },
@@ -791,7 +791,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 99498,
+      "ask": 104735,
       "bid": 28274,
       "vendor": 50000
     },
@@ -806,7 +806,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 28,
+      "ask": 27,
       "bid": 16,
       "vendor": 9
     },
@@ -821,8 +821,8 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 24,
-      "bid": 23,
+      "ask": 23,
+      "bid": 22,
       "vendor": 18
     },
     "Orange": {
@@ -876,7 +876,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 8,
+      "ask": 7,
       "bid": 6,
       "vendor": 6
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 24366,
+      "ask": 20000,
       "bid": 4343,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 84999,
+      "ask": 84998,
       "bid": 22060,
       "vendor": 1000
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 348,
+      "ask": 344,
       "bid": 303,
       "vendor": 27
     },
@@ -1016,18 +1016,18 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 19999,
+      "ask": 15000,
       "bid": 2502,
       "vendor": 1000
     },
     "Smack": {
       "ask": 26518,
-      "bid": 18009,
+      "bid": 18008,
       "vendor": 1000
     },
     "Small Pouch": {
       "ask": 14985,
-      "bid": 7200,
+      "bid": 3,
       "vendor": 5000
     },
     "Snail Shell": {
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 420,
+      "ask": 455,
       "bid": 372,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 19,
+      "ask": 18,
       "bid": 13,
       "vendor": 6
     },
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 996,
+      "ask": 995,
       "bid": 599,
       "vendor": 40
     },
@@ -1191,12 +1191,12 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 108704,
+      "ask": 100000,
       "bid": 32005,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 580,
+      "ask": 579,
       "bid": 535,
       "vendor": 50
     },
@@ -1352,7 +1352,7 @@
     },
     "Wheat": {
       "ask": 20,
-      "bid": 14,
+      "bid": 15,
       "vendor": 1
     },
     "Wisdom Tea": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662117302.7863607
+  "time": 1662118202.1615763
 }
