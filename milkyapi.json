@@ -36,22 +36,22 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 19999,
+      "ask": 19000,
       "bid": -1,
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 1000000000000,
+      "ask": 20000,
       "bid": 1600,
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": 14875,
+      "ask": 14000,
       "bid": 1350,
       "vendor": 1296
     },
     "Azure Bulwark": {
-      "ask": -1,
+      "ask": 20000,
       "bid": -1,
       "vendor": 2592
     },
@@ -61,62 +61,62 @@
       "vendor": 24
     },
     "Azure Enhancer": {
-      "ask": 16594,
+      "ask": 16500,
       "bid": 1625,
       "vendor": 1512
     },
     "Azure Gauntlets": {
-      "ask": 10000,
+      "ask": 9900,
       "bid": 4002,
       "vendor": 864
     },
     "Azure Hammer": {
-      "ask": 17743,
+      "ask": 17000,
       "bid": 1435,
       "vendor": 1512
     },
     "Azure Helmet": {
-      "ask": 7500,
+      "ask": 7400,
       "bid": 3604,
       "vendor": 1080
     },
     "Azure Mace": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 3342,
       "vendor": 1944
     },
     "Azure Milk": {
       "ask": 45,
-      "bid": 40,
+      "bid": 37,
       "vendor": 8
     },
     "Azure Plate Body": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 7000,
       "vendor": 1728
     },
     "Azure Plate Legs": {
-      "ask": 30000,
+      "ask": 20000,
       "bid": 6002,
       "vendor": 1512
     },
     "Azure Pot": {
-      "ask": 9944,
+      "ask": 9900,
       "bid": 1155,
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 1304,
       "vendor": 1512
     },
     "Azure Spatula": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 1150,
       "vendor": 1512
     },
     "Azure Spear": {
-      "ask": 12000,
+      "ask": 11900,
       "bid": 3000,
       "vendor": 1944
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 56,
+      "ask": 57,
       "bid": 41,
       "vendor": 8
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 222,
+      "ask": 226,
       "bid": 181,
       "vendor": 54
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 74941,
+      "ask": 74754,
       "bid": 42501,
       "vendor": 5000
     },
@@ -606,8 +606,8 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 851,
-      "bid": 320,
+      "ask": 850,
+      "bid": 321,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -776,7 +776,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 27,
+      "ask": 28,
       "bid": 24,
       "vendor": 14
     },
@@ -806,7 +806,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 24,
+      "ask": 28,
       "bid": 16,
       "vendor": 9
     },
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 29,
+      "ask": 28,
       "bid": 23,
       "vendor": 18
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 41,
+      "ask": 42,
       "bid": 37,
       "vendor": 27
     },
@@ -1006,8 +1006,8 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 350,
-      "bid": 302,
+      "ask": 359,
+      "bid": 303,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1061,8 +1061,8 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 421,
-      "bid": 411,
+      "ask": 419,
+      "bid": 359,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1092,16 +1092,16 @@
     },
     "Star Fruit": {
       "ask": 65,
-      "bid": 57,
+      "bid": 60,
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 439,
+      "ask": 420,
       "bid": 131,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 629,
+      "ask": 628,
       "bid": 553,
       "vendor": 75
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662101102.3823042
+  "time": 1662102003.30842
 }
