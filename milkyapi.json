@@ -86,7 +86,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 44,
+      "ask": 45,
       "bid": 37,
       "vendor": 8
     },
@@ -186,8 +186,8 @@
       "vendor": 10
     },
     "Brewing Tea": {
-      "ask": 236,
-      "bid": 30,
+      "ask": 237,
+      "bid": 236,
       "vendor": 20
     },
     "Burble Boots": {
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 41,
+      "ask": 49,
       "bid": 38,
       "vendor": 12
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 233,
+      "ask": 247,
       "bid": 180,
       "vendor": 54
     },
@@ -601,12 +601,12 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 314499,
+      "ask": 314420,
       "bid": 196002,
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 1000,
+      "ask": 900,
       "bid": 310,
       "vendor": 108
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 564,
+      "ask": 565,
       "bid": 531,
       "vendor": 162
     },
@@ -696,7 +696,7 @@
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 140000,
+      "ask": 139999,
       "bid": 125000,
       "vendor": 71280
     },
@@ -741,12 +741,12 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 76,
+      "ask": 100,
       "bid": 63,
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 5402140,
+      "ask": 5402139,
       "bid": 3500001,
       "vendor": 10000
     },
@@ -797,7 +797,7 @@
     },
     "Milk": {
       "ask": 47,
-      "bid": 17,
+      "bid": 26,
       "vendor": 2
     },
     "Milking Tea": {
@@ -811,7 +811,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 154,
+      "ask": 153,
       "bid": 41,
       "vendor": 40
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 41,
+      "ask": 42,
       "bid": 36,
       "vendor": 27
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 599,
+      "ask": 634,
       "bid": 506,
       "vendor": 75
     },
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 997,
+      "ask": 996,
       "bid": 475,
       "vendor": 40
     },
@@ -1291,7 +1291,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 45,
+      "ask": 55,
       "bid": 39,
       "vendor": 4
     },
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 2294236,
-      "bid": 1700014,
+      "bid": 1700015,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662080402.684908
+  "time": 1662081302.530682
 }
