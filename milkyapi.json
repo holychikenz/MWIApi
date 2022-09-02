@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 99,
-      "bid": 56,
+      "bid": 57,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 19999,
+      "ask": 15000,
       "bid": -1,
       "vendor": 864
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 12,
+      "ask": 13,
       "bid": 9,
       "vendor": 2
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 1138,
+      "ask": 1137,
       "bid": 332,
       "vendor": 108
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 949996,
+      "ask": 949995,
       "bid": 500003,
       "vendor": 10000
     },
@@ -777,7 +777,7 @@
     },
     "Marsberry": {
       "ask": 29,
-      "bid": 18,
+      "bid": 19,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 340,
-      "bid": 251,
+      "bid": 300,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -967,7 +967,7 @@
     },
     "Rainbow Milk": {
       "ask": 41,
-      "bid": 38,
+      "bid": 39,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1006,8 +1006,8 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 369,
-      "bid": 310,
+      "ask": 370,
+      "bid": 311,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 403,
+      "ask": 400,
       "bid": 359,
       "vendor": 75
     },
@@ -1082,7 +1082,7 @@
     },
     "Stalactite Spear": {
       "ask": -1,
-      "bid": 450000,
+      "bid": 450001,
       "vendor": 400000
     },
     "Stamina Coffee": {
@@ -1141,7 +1141,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1230,
+      "ask": 1169,
       "bid": 536,
       "vendor": 75
     },
@@ -1151,7 +1151,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 647,
+      "ask": 648,
       "bid": 343,
       "vendor": 50
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662142503.1988506
+  "time": 1662143402.4336083
 }
