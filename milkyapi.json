@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 15,
+      "ask": 14,
       "bid": 11,
       "vendor": 10
     },
@@ -247,7 +247,7 @@
     },
     "Burble Plate Body": {
       "ask": 40000,
-      "bid": 15000,
+      "bid": 15001,
       "vendor": 4320
     },
     "Burble Plate Legs": {
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 203,
+      "ask": 202,
       "bid": 174,
       "vendor": 12
     },
@@ -341,7 +341,7 @@
       "vendor": 96
     },
     "Cheese Plate Legs": {
-      "ask": 407,
+      "ask": 10000,
       "bid": 280,
       "vendor": 84
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 188,
-      "bid": 171,
+      "bid": 172,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -446,13 +446,13 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 44,
+      "ask": 43,
       "bid": 20,
       "vendor": 18
     },
     "Crimson Plate Body": {
-      "ask": 15000,
-      "bid": -1,
+      "ask": -1,
+      "bid": 17500,
       "vendor": 10368
     },
     "Crimson Plate Legs": {
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 1494,
-      "bid": 325,
+      "bid": 326,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 582,
-      "bid": 544,
+      "ask": 583,
+      "bid": 545,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 176,
-      "bid": 167,
+      "bid": 166,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 108,
+      "ask": 109,
       "bid": 78,
       "vendor": 40
     },
@@ -911,8 +911,8 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 74998,
-      "bid": 22061,
+      "ask": 70000,
+      "bid": 22062,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -936,8 +936,8 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 344,
-      "bid": 248,
+      "ask": 343,
+      "bid": 249,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -966,13 +966,13 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 42,
+      "ask": 41,
       "bid": 37,
       "vendor": 27
     },
     "Rainbow Plate Body": {
       "ask": 97000,
-      "bid": -1,
+      "bid": 80000,
       "vendor": 23976
     },
     "Rainbow Plate Legs": {
@@ -1181,7 +1181,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 467,
+      "ask": 468,
       "bid": 376,
       "vendor": 40
     },
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 573,
+      "ask": 572,
       "bid": 508,
       "vendor": 50
     },
@@ -1297,7 +1297,7 @@
     },
     "Verdant Plate Body": {
       "ask": 10000,
-      "bid": 605,
+      "bid": 606,
       "vendor": 480
     },
     "Verdant Plate Legs": {
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 2282774,
-      "bid": 1700015,
+      "bid": 1500000,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1351,7 +1351,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 19,
+      "ask": 20,
       "bid": 16,
       "vendor": 1
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662127202.7950718
+  "time": 1662128103.0880883
 }
