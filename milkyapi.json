@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 32,
+      "ask": 30,
       "bid": 11,
       "vendor": 2
     },
@@ -261,7 +261,7 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": 30000,
+      "ask": 28500,
       "bid": 3360,
       "vendor": 3780
     },
@@ -446,7 +446,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 31,
+      "ask": 30,
       "bid": 23,
       "vendor": 18
     },
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 227,
-      "bid": 170,
+      "bid": 171,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -651,7 +651,7 @@
       "vendor": 62370
     },
     "Holy Buckler": {
-      "ask": 85000,
+      "ask": 84999,
       "bid": -1,
       "vendor": 53460
     },
@@ -786,7 +786,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 360,
+      "ask": 359,
       "bid": 291,
       "vendor": 50
     },
@@ -826,7 +826,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 10,
+      "ask": 9,
       "bid": 5,
       "vendor": 4
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 50478,
+      "ask": 47954,
       "bid": 2,
       "vendor": 3000
     },
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 340,
+      "ask": 339,
       "bid": 251,
       "vendor": 81
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 41,
+      "ask": 40,
       "bid": 39,
       "vendor": 27
     },
@@ -1056,12 +1056,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 457,
+      "ask": 458,
       "bid": 373,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 400,
+      "ask": 399,
       "bid": 359,
       "vendor": 75
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 648,
-      "bid": 481,
+      "bid": 484,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662144302.2604036
+  "time": 1662145201.80789
 }
