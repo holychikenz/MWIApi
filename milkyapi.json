@@ -1,13 +1,13 @@
 {
   "market": {
     "Apple": {
-      "ask": 30,
+      "ask": 32,
       "bid": 11,
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 15,
-      "bid": 11,
+      "ask": 16,
+      "bid": 13,
       "vendor": 10
     },
     "Apple Yogurt": {
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1074,
+      "ask": 1073,
       "bid": 800,
       "vendor": 75
     },
@@ -331,7 +331,7 @@
       "vendor": 60
     },
     "Cheese Mace": {
-      "ask": 1999,
+      "ask": 1900,
       "bid": 170,
       "vendor": 108
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 39,
+      "ask": 35,
       "bid": 23,
       "vendor": 14
     },
@@ -606,12 +606,12 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 1130,
-      "bid": 352,
+      "ask": 1129,
+      "bid": 353,
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 295,
+      "ask": 294,
       "bid": 26,
       "vendor": 20
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 610,
-      "bid": 590,
+      "bid": 586,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -802,7 +802,7 @@
     },
     "Milking Tea": {
       "ask": 276,
-      "bid": 250,
+      "bid": 161,
       "vendor": 10
     },
     "Mooberry": {
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 339,
-      "bid": 251,
+      "bid": 260,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1042,7 +1042,7 @@
     },
     "Snake Fang": {
       "ask": 802,
-      "bid": 287,
+      "bid": 290,
       "vendor": 100
     },
     "Snake Fang Dirk": {
@@ -1062,7 +1062,7 @@
     },
     "Spaceberry Donut": {
       "ask": 398,
-      "bid": 1,
+      "bid": 2,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 857373,
+      "ask": 850000,
       "bid": 650001,
       "vendor": 1000
     },
@@ -1141,7 +1141,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1110,
+      "ask": 1053,
       "bid": 536,
       "vendor": 75
     },
@@ -1186,7 +1186,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 48,
+      "ask": 47,
       "bid": 33,
       "vendor": 8
     },
@@ -1196,12 +1196,12 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 525,
+      "ask": 549,
       "bid": 509,
       "vendor": 50
     },
     "Toughness": {
-      "ask": 53880,
+      "ask": 53879,
       "bid": 14240,
       "vendor": 1000
     },
@@ -1332,7 +1332,7 @@
     },
     "Vision Helmet": {
       "ask": 315875,
-      "bid": 200001,
+      "bid": 200000,
       "vendor": 20000
     },
     "Vision Shield": {
@@ -1347,7 +1347,7 @@
     },
     "Werewolf Slasher": {
       "ask": 43500000,
-      "bid": 2000008,
+      "bid": 4000000,
       "vendor": 400000
     },
     "Wheat": {
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 534,
+      "ask": 533,
       "bid": 452,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662149703.0427144
+  "time": 1662150602.024179
 }
