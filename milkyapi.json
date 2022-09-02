@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 99,
-      "bid": 57,
+      "bid": 58,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 15000,
+      "ask": 15476,
       "bid": -1,
       "vendor": 864
     },
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 47,
+      "ask": 46,
       "bid": 43,
       "vendor": 12
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 920,
+      "ask": 950,
       "bid": 900,
       "vendor": 50
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 429,
+      "ask": 420,
       "bid": 201,
       "vendor": 10
     },
@@ -646,7 +646,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 150000,
+      "ask": 149999,
       "bid": 85000,
       "vendor": 62370
     },
@@ -706,7 +706,7 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 100000,
+      "ask": 150000,
       "bid": 85000,
       "vendor": 62370
     },
@@ -757,7 +757,7 @@
     },
     "Magnet": {
       "ask": 949995,
-      "bid": 500003,
+      "bid": 500010,
       "vendor": 10000
     },
     "Magnetic Gloves": {
@@ -797,7 +797,7 @@
     },
     "Milk": {
       "ask": 46,
-      "bid": 25,
+      "bid": 26,
       "vendor": 2
     },
     "Milking Tea": {
@@ -831,7 +831,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 48,
+      "ask": 47,
       "bid": 21,
       "vendor": 20
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 340,
-      "bid": 300,
+      "bid": 251,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1056,8 +1056,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 425,
-      "bid": 372,
+      "ask": 457,
+      "bid": 373,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 18,
+      "ask": 19,
       "bid": 13,
       "vendor": 6
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662143402.4336083
+  "time": 1662144302.2604036
 }
