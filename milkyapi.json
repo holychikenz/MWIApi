@@ -242,12 +242,12 @@
     },
     "Burble Milk": {
       "ask": 47,
-      "bid": 43,
+      "bid": 29,
       "vendor": 12
     },
     "Burble Plate Body": {
       "ask": 40000,
-      "bid": 15001,
+      "bid": 15000,
       "vendor": 4320
     },
     "Burble Plate Legs": {
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 184,
+      "ask": 185,
       "bid": 175,
       "vendor": 12
     },
@@ -527,7 +527,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 198,
-      "bid": 190,
+      "bid": 174,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 999,
-      "bid": 355,
+      "bid": 356,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 609,
-      "bid": 589,
+      "bid": 590,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 60000,
+      "ask": 59999,
       "bid": 22063,
       "vendor": 1000
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 339,
-      "bid": 261,
+      "bid": 262,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1121,8 +1121,8 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 845000,
-      "bid": 700000,
+      "ask": 840000,
+      "bid": 650001,
       "vendor": 1000
     },
     "Sugar": {
@@ -1177,7 +1177,7 @@
     },
     "Super Power Coffee": {
       "ask": 661,
-      "bid": 505,
+      "bid": 506,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1262,7 +1262,7 @@
     },
     "Verdant Cheese": {
       "ask": 149,
-      "bid": 148,
+      "bid": 124,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662154201.7475843
+  "time": 1662155103.0549066
 }
