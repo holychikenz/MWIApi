@@ -101,7 +101,7 @@
       "vendor": 1512
     },
     "Azure Pot": {
-      "ask": 9900,
+      "ask": 9800,
       "bid": 1155,
       "vendor": 1512
     },
@@ -191,12 +191,12 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 4500,
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 30000,
+      "ask": 25000,
       "bid": 15000,
       "vendor": 3780
     },
@@ -216,17 +216,17 @@
       "vendor": 36
     },
     "Burble Enhancer": {
-      "ask": 36090,
+      "ask": 35000,
       "bid": 3008,
       "vendor": 3780
     },
     "Burble Gauntlets": {
-      "ask": 40000,
+      "ask": 30000,
       "bid": 4000,
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": -1,
+      "ask": 15000,
       "bid": 208,
       "vendor": 3780
     },
@@ -236,7 +236,7 @@
       "vendor": 2700
     },
     "Burble Mace": {
-      "ask": 29888,
+      "ask": 25000,
       "bid": -1,
       "vendor": 4860
     },
@@ -261,7 +261,7 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": -1,
+      "ask": 30000,
       "bid": 3360,
       "vendor": 3780
     },
@@ -271,12 +271,12 @@
       "vendor": 3780
     },
     "Burble Spear": {
-      "ask": 21976,
+      "ask": 20000,
       "bid": -1,
       "vendor": 4860
     },
     "Burble Sword": {
-      "ask": 30951,
+      "ask": 30000,
       "bid": 3574,
       "vendor": 4860
     },
@@ -331,7 +331,7 @@
       "vendor": 60
     },
     "Cheese Mace": {
-      "ask": -1,
+      "ask": 2000,
       "bid": 170,
       "vendor": 108
     },
@@ -392,7 +392,7 @@
     },
     "Crab Pincer": {
       "ask": 66665,
-      "bid": 45000,
+      "bid": 20005,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 172,
+      "ask": 173,
       "bid": 166,
       "vendor": 54
     },
@@ -742,7 +742,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 99,
-      "bid": 70,
+      "bid": 75,
       "vendor": 12
     },
     "Living Granite": {
@@ -1067,7 +1067,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 140,
-      "bid": 93,
+      "bid": 120,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 65,
+      "ask": 79,
       "bid": 60,
       "vendor": 27
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 628,
+      "ask": 627,
       "bid": 553,
       "vendor": 75
     },
@@ -1186,12 +1186,12 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 50,
+      "ask": 49,
       "bid": 32,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 114425,
+      "ask": 108704,
       "bid": 32003,
       "vendor": 1000
     },
@@ -1356,8 +1356,8 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 535,
-      "bid": 500,
+      "ask": 536,
+      "bid": 450,
       "vendor": 30
     },
     "Yogurt": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662102003.30842
+  "time": 1662102902.3911424
 }
