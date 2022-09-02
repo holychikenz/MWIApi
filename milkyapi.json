@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 32,
+      "ask": 33,
       "bid": 10,
       "vendor": 2
     },
@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 211,
+      "ask": 209,
       "bid": 173,
       "vendor": 24
     },
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 195,
+      "ask": 194,
       "bid": 172,
       "vendor": 36
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 203,
+      "ask": 199,
       "bid": 172,
       "vendor": 12
     },
@@ -526,8 +526,8 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 225,
-      "bid": 180,
+      "ask": 224,
+      "bid": 181,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 88,
+      "ask": 100,
       "bid": 52,
       "vendor": 4
     },
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 27,
+      "ask": 26,
       "bid": 23,
       "vendor": 18
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 25648,
+      "ask": 24366,
       "bid": 4343,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 93092,
+      "ask": 93091,
       "bid": 22058,
       "vendor": 1000
     },
@@ -1006,8 +1006,8 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 354,
-      "bid": 302,
+      "ask": 353,
+      "bid": 303,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1051,7 +1051,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 63,
+      "ask": 62,
       "bid": 60,
       "vendor": 27
     },
@@ -1101,8 +1101,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 630,
-      "bid": 553,
+      "ask": 629,
+      "bid": 554,
       "vendor": 75
     },
     "Strawberry": {
@@ -1186,7 +1186,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 48,
+      "ask": 47,
       "bid": 33,
       "vendor": 8
     },
@@ -1261,7 +1261,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 168,
+      "ask": 167,
       "bid": 127,
       "vendor": 12
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662112802.2244246
+  "time": 1662113702.717173
 }
