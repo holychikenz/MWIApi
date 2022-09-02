@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 33,
+      "ask": 32,
       "bid": 11,
       "vendor": 2
     },
@@ -16,8 +16,8 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 62,
-      "bid": 26,
+      "ask": 43,
+      "bid": 40,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 205,
-      "bid": 172,
+      "bid": 190,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 55,
+      "ask": 54,
       "bid": 38,
       "vendor": 8
     },
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 39,
-      "bid": 38,
+      "bid": 37,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 245000,
+      "ask": 269696,
       "bid": 196004,
       "vendor": 10000
     },
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 102,
+      "ask": 99,
       "bid": 54,
       "vendor": 4
     },
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 586,
-      "bid": 551,
+      "ask": 583,
+      "bid": 552,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 176,
-      "bid": 157,
+      "bid": 158,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -826,7 +826,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 11,
+      "ask": 10,
       "bid": 5,
       "vendor": 4
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 20000,
+      "ask": 22222,
       "bid": 4345,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 70000,
+      "ask": 69999,
       "bid": 22063,
       "vendor": 1000
     },
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 14999,
+      "ask": 14990,
       "bid": 4001,
       "vendor": 1000
     },
@@ -1041,12 +1041,12 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 845,
+      "ask": 844,
       "bid": 286,
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 9997,
+      "ask": 1000,
       "bid": 1,
       "vendor": 2000
     },
@@ -1157,7 +1157,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 850,
-      "bid": 706,
+      "bid": 700,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 994,
+      "ask": 60,
       "bid": 54,
       "vendor": 40
     },
@@ -1191,12 +1191,12 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 99998,
+      "ask": 108704,
       "bid": 32006,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 572,
+      "ask": 570,
       "bid": 509,
       "vendor": 50
     },
@@ -1221,7 +1221,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 217,
+      "ask": 200,
       "bid": 175,
       "vendor": 108
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662133502.2473352
+  "time": 1662134402.4827173
 }
