@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 32,
+      "ask": 31,
       "bid": 11,
       "vendor": 2
     },
@@ -31,7 +31,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 253,
+      "ask": 546,
       "bid": 200,
       "vendor": 20
     },
@@ -46,7 +46,7 @@
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": 14000,
+      "ask": 14875,
       "bid": 1350,
       "vendor": 1296
     },
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 19,
+      "ask": 18,
       "bid": 13,
       "vendor": 4
     },
@@ -196,8 +196,8 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 20000,
-      "bid": 10000,
+      "ask": 10000,
+      "bid": 3900,
       "vendor": 3780
     },
     "Burble Buckler": {
@@ -251,7 +251,7 @@
       "vendor": 4320
     },
     "Burble Plate Legs": {
-      "ask": 35000,
+      "ask": 5000,
       "bid": 3855,
       "vendor": 3780
     },
@@ -276,8 +276,8 @@
       "vendor": 4860
     },
     "Burble Sword": {
-      "ask": 30000,
-      "bid": 3574,
+      "ask": 5000,
+      "bid": 3573,
       "vendor": 4860
     },
     "Burble Tea Leaf": {
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 866,
-      "bid": 500,
+      "bid": 501,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -826,7 +826,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 11,
+      "ask": 10,
       "bid": 5,
       "vendor": 4
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 619,
+      "ask": 618,
       "bid": 575,
       "vendor": 75
     },
@@ -1141,7 +1141,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 999,
+      "ask": 1052,
       "bid": 538,
       "vendor": 75
     },
@@ -1241,7 +1241,7 @@
       "vendor": 1000
     },
     "Verdant Boots": {
-      "ask": 9500,
+      "ask": 9499,
       "bid": 245,
       "vendor": 240
     },
@@ -1271,7 +1271,7 @@
       "vendor": 420
     },
     "Verdant Gauntlets": {
-      "ask": 10000,
+      "ask": 9999,
       "bid": 383,
       "vendor": 240
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662184802.955554
+  "time": 1662185703.0704074
 }
