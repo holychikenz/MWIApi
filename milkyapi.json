@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1020000,
+      "ask": 950000,
       "bid": 200000,
       "vendor": 500000
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 651605,
+      "ask": 949995,
       "bid": 500011,
       "vendor": 10000
     },
@@ -801,7 +801,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 276,
+      "ask": 277,
       "bid": 161,
       "vendor": 10
     },
@@ -831,7 +831,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 41,
+      "ask": 43,
       "bid": 21,
       "vendor": 20
     },
@@ -1287,7 +1287,7 @@
     },
     "Verdant Mace": {
       "ask": 10000,
-      "bid": 400,
+      "bid": -1,
       "vendor": 540
     },
     "Verdant Milk": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662190202.7578185
+  "time": 1662191102.2162225
 }
