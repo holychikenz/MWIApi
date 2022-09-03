@@ -42,7 +42,7 @@
     },
     "Azure Brush": {
       "ask": 20000,
-      "bid": 5000,
+      "bid": 5001,
       "vendor": 1512
     },
     "Azure Buckler": {
@@ -137,7 +137,7 @@
     },
     "Black Bear Fluff": {
       "ask": 94989,
-      "bid": 40010,
+      "bid": 40011,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 90000,
+      "ask": 89999,
       "bid": 30000,
       "vendor": 1500
     },
@@ -521,8 +521,8 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 19,
-      "bid": 15,
+      "ask": 18,
+      "bid": 14,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 333913,
+      "ask": 333910,
       "bid": 285012,
       "vendor": 1000
     },
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 862,
-      "bid": 501,
+      "bid": 502,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 627,
-      "bid": 593,
+      "bid": 594,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -702,7 +702,7 @@
     },
     "Holy Plate Legs": {
       "ask": 150000,
-      "bid": 111111,
+      "bid": 112000,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -757,7 +757,7 @@
     },
     "Magnet": {
       "ask": 899999,
-      "bid": 550012,
+      "bid": 555000,
       "vendor": 10000
     },
     "Magnetic Gloves": {
@@ -842,7 +842,7 @@
     },
     "Panda Fluff": {
       "ask": 42864,
-      "bid": 30000,
+      "bid": 30001,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -897,7 +897,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 67999,
-      "bid": 56017,
+      "bid": 56018,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -916,7 +916,7 @@
       "vendor": 1000
     },
     "Rainbow Boots": {
-      "ask": 18500,
+      "ask": 18499,
       "bid": 12005,
       "vendor": 11988
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": 2250000,
-      "bid": 1050002,
+      "bid": 1050005,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1096,13 +1096,13 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 413,
+      "ask": 412,
       "bid": 131,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 609,
-      "bid": 452,
+      "bid": 453,
       "vendor": 75
     },
     "Strawberry": {
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 1750,
-      "bid": 527,
+      "bid": 530,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1186,7 +1186,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 41,
+      "ask": 42,
       "bid": 32,
       "vendor": 8
     },
@@ -1222,7 +1222,7 @@
     },
     "Twilight Essence": {
       "ask": 338,
-      "bid": 177,
+      "bid": 178,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1247,7 +1247,7 @@
     },
     "Verdant Brush": {
       "ask": 19000,
-      "bid": 3000,
+      "bid": 3050,
       "vendor": 420
     },
     "Verdant Buckler": {
@@ -1341,7 +1341,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2199995,
+      "ask": 2199994,
       "bid": 1575001,
       "vendor": 10000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662217202.520559
+  "time": 1662218102.88483
 }
