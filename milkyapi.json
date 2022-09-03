@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 174,
+      "ask": 183,
       "bid": 162,
       "vendor": 12
     },
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 70194,
+      "ask": 70000,
       "bid": 25000,
       "vendor": 1500
     },
@@ -496,7 +496,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 89,
+      "ask": 90,
       "bid": 8,
       "vendor": 5
     },
@@ -516,8 +516,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 943,
-      "bid": 600,
+      "ask": 944,
+      "bid": 943,
       "vendor": 50
     },
     "Egg": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 209,
+      "ask": 199,
       "bid": 181,
       "vendor": 54
     },
@@ -546,8 +546,8 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 589,
-      "bid": 320,
+      "ask": 650,
+      "bid": 589,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
@@ -606,8 +606,8 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 862,
-      "bid": 503,
+      "ask": 819,
+      "bid": 504,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -631,7 +631,7 @@
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
-      "ask": 1099475,
+      "ask": 1044501,
       "bid": 500000,
       "vendor": 60000
     },
@@ -756,8 +756,8 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 899999,
-      "bid": 560015,
+      "ask": 890000,
+      "bid": 690015,
       "vendor": 10000
     },
     "Magnetic Gloves": {
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 10000,
+      "ask": 9999,
       "bid": 4006,
       "vendor": 1000
     },
@@ -1041,12 +1041,12 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 753,
+      "ask": 752,
       "bid": 286,
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 8500,
+      "ask": 9000,
       "bid": 2500,
       "vendor": 2000
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 19,
+      "ask": 20,
       "bid": 16,
       "vendor": 6
     },
@@ -1146,7 +1146,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 597,
+      "ask": 596,
       "bid": 435,
       "vendor": 50
     },
@@ -1281,7 +1281,7 @@
       "vendor": 420
     },
     "Verdant Helmet": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 1500,
       "vendor": 300
     },
@@ -1301,7 +1301,7 @@
       "vendor": 480
     },
     "Verdant Plate Legs": {
-      "ask": 5000,
+      "ask": -1,
       "bid": 441,
       "vendor": 420
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 530,
+      "ask": 529,
       "bid": 500,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662231601.8887372
+  "time": 1662232502.5808017
 }
