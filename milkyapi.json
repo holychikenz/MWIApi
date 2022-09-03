@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 45,
+      "ask": 46,
       "bid": 42,
       "vendor": 8
     },
@@ -196,7 +196,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 10000,
+      "ask": 4000,
       "bid": 3900,
       "vendor": 3780
     },
@@ -276,7 +276,7 @@
       "vendor": 4860
     },
     "Burble Sword": {
-      "ask": 4500,
+      "ask": 4000,
       "bid": 3573,
       "vendor": 4860
     },
@@ -371,7 +371,7 @@
       "vendor": 108
     },
     "Cheesesmithing Tea": {
-      "ask": 407,
+      "ask": 400,
       "bid": 260,
       "vendor": 30
     },
@@ -386,12 +386,12 @@
       "vendor": 0
     },
     "Cooking Tea": {
-      "ask": 279,
+      "ask": 270,
       "bid": 101,
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 70194,
+      "ask": 70000,
       "bid": 30000,
       "vendor": 1500
     },
@@ -471,7 +471,7 @@
       "vendor": 9072
     },
     "Crimson Spatula": {
-      "ask": 29999,
+      "ask": 29998,
       "bid": 10000,
       "vendor": 9072
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 38,
+      "ask": 39,
       "bid": 37,
       "vendor": 36
     },
@@ -772,7 +772,7 @@
     },
     "Maim": {
       "ask": 664998,
-      "bid": 301000,
+      "bid": 300012,
       "vendor": 1000
     },
     "Marsberry": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 39000,
+      "ask": 38883,
       "bid": 22060,
       "vendor": 1000
     },
@@ -991,7 +991,7 @@
       "vendor": 20979
     },
     "Rainbow Spatula": {
-      "ask": 39998,
+      "ask": 39997,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1006,8 +1006,8 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 332,
-      "bid": 321,
+      "ask": 333,
+      "bid": 316,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1056,8 +1056,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 443,
-      "bid": 242,
+      "ask": 442,
+      "bid": 243,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1076,7 +1076,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2125000,
+      "ask": -1,
       "bid": 1050007,
       "vendor": 10000
     },
@@ -1096,13 +1096,13 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 412,
+      "ask": 411,
       "bid": 131,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 795,
-      "bid": 324,
+      "bid": 325,
       "vendor": 75
     },
     "Strawberry": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662246002.6751812
+  "time": 1662246902.3069675
 }
