@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 80,
-      "bid": 40,
+      "bid": 41,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 270749,
-      "bid": 155035,
+      "bid": 155036,
       "vendor": 1000
     },
     "Coin": {
@@ -817,7 +817,7 @@
     },
     "Mooberry Donut": {
       "ask": 239,
-      "bid": 136,
+      "bid": 150,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
@@ -867,7 +867,7 @@
     },
     "Pierce": {
       "ask": 94524,
-      "bid": 20004,
+      "bid": 20005,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -892,11 +892,11 @@
     },
     "Poke": {
       "ask": 18999,
-      "bid": 4347,
+      "bid": 4349,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 68000,
+      "ask": 67999,
       "bid": 56017,
       "vendor": 3000
     },
@@ -967,7 +967,7 @@
     },
     "Rainbow Milk": {
       "ask": 42,
-      "bid": 37,
+      "bid": 36,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1241,7 +1241,7 @@
       "vendor": 1000
     },
     "Verdant Boots": {
-      "ask": 9000,
+      "ask": 9500,
       "bid": 245,
       "vendor": 240
     },
@@ -1261,7 +1261,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 146,
+      "ask": 140,
       "bid": 130,
       "vendor": 12
     },
@@ -1271,7 +1271,7 @@
       "vendor": 420
     },
     "Verdant Gauntlets": {
-      "ask": 9000,
+      "ask": 10000,
       "bid": 383,
       "vendor": 240
     },
@@ -1286,7 +1286,7 @@
       "vendor": 300
     },
     "Verdant Mace": {
-      "ask": 9000,
+      "ask": 10000,
       "bid": -1,
       "vendor": 540
     },
@@ -1321,7 +1321,7 @@
       "vendor": 420
     },
     "Verdant Spear": {
-      "ask": 9000,
+      "ask": -1,
       "bid": 20,
       "vendor": 540
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662216302.9504447
+  "time": 1662217202.520559
 }
