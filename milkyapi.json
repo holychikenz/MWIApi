@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 48,
+      "ask": 53,
       "bid": 38,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 18,
+      "ask": 19,
       "bid": 13,
       "vendor": 4
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 65550,
+      "ask": 71016,
       "bid": 60000,
       "vendor": 5000
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 634,
-      "bid": 587,
+      "bid": 588,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -692,17 +692,17 @@
     },
     "Holy Milk": {
       "ask": 171,
-      "bid": 158,
+      "bid": 160,
       "vendor": 54
     },
     "Holy Plate Body": {
       "ask": 200000,
-      "bid": 130000,
+      "bid": 131000,
       "vendor": 71280
     },
     "Holy Plate Legs": {
       "ask": 150000,
-      "bid": 109000,
+      "bid": 110000,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -747,11 +747,11 @@
     },
     "Living Granite": {
       "ask": 3553593,
-      "bid": 2500017,
+      "bid": 2500018,
       "vendor": 10000
     },
     "Lucky Coffee": {
-      "ask": 295,
+      "ask": 294,
       "bid": 176,
       "vendor": 40
     },
@@ -786,8 +786,8 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 355,
-      "bid": 300,
+      "ask": 354,
+      "bid": 302,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -842,7 +842,7 @@
     },
     "Panda Fluff": {
       "ask": 47498,
-      "bid": 15003,
+      "bid": 30000,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -1052,7 +1052,7 @@
     },
     "Spaceberry": {
       "ask": 62,
-      "bid": 56,
+      "bid": 57,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1092,7 +1092,7 @@
     },
     "Star Fruit": {
       "ask": 75,
-      "bid": 63,
+      "bid": 64,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1102,7 +1102,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 618,
-      "bid": 575,
+      "bid": 571,
       "vendor": 75
     },
     "Strawberry": {
@@ -1171,7 +1171,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 619,
+      "ask": 618,
       "bid": 335,
       "vendor": 40
     },
@@ -1321,7 +1321,7 @@
       "vendor": 420
     },
     "Verdant Spear": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 20,
       "vendor": 540
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662186602.9990563
+  "time": 1662187502.294293
 }
