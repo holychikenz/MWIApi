@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 28,
+      "ask": 27,
       "bid": 11,
       "vendor": 2
     },
@@ -156,12 +156,12 @@
       "vendor": 4
     },
     "Blackberry Cake": {
-      "ask": 145,
+      "ask": 144,
       "bid": 25,
       "vendor": 20
     },
     "Blackberry Donut": {
-      "ask": 250,
+      "ask": 249,
       "bid": 28,
       "vendor": 20
     },
@@ -826,7 +826,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 9,
+      "ask": 10,
       "bid": 6,
       "vendor": 4
     },
@@ -1166,8 +1166,8 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 647,
-      "bid": 500,
+      "ask": 646,
+      "bid": 200,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1177,7 +1177,7 @@
     },
     "Super Power Coffee": {
       "ask": 661,
-      "bid": 510,
+      "bid": 511,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1337,7 +1337,7 @@
     },
     "Vision Shield": {
       "ask": 184999,
-      "bid": 56005,
+      "bid": 66666,
       "vendor": 20000
     },
     "Werewolf Claw": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662210902.785267
+  "time": 1662211803.0687175
 }
