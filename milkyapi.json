@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 99,
-      "bid": 57,
+      "bid": 60,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -31,7 +31,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 546,
+      "ask": 500,
       "bid": 200,
       "vendor": 20
     },
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 52,
+      "ask": 1000000000000,
       "bid": 45,
       "vendor": 12
     },
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 67464,
-      "bid": 60000,
+      "bid": 50002,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -622,7 +622,7 @@
     },
     "Green Tea Leaf": {
       "ask": 160,
-      "bid": 57,
+      "bid": 60,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -731,7 +731,7 @@
       "vendor": 80190
     },
     "Intelligence Coffee": {
-      "ask": 329,
+      "ask": 320,
       "bid": 200,
       "vendor": 10
     },
@@ -851,8 +851,8 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 22,
-      "bid": 19,
+      "ask": 23,
+      "bid": 22,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 348,
-      "bid": 275,
+      "bid": 276,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1171,13 +1171,13 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 618,
+      "ask": 610,
       "bid": 335,
       "vendor": 40
     },
     "Super Power Coffee": {
       "ask": 658,
-      "bid": 510,
+      "bid": 511,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662194702.7029278
+  "time": 1662195601.9849973
 }
