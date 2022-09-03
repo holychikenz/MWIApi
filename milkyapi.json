@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 187,
+      "ask": 186,
       "bid": 176,
       "vendor": 54
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 180,
+      "ask": 198,
       "bid": 175,
       "vendor": 54
     },
@@ -561,18 +561,18 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 379999,
+      "ask": 369999,
       "bid": 285010,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 420,
+      "ask": 429,
       "bid": 201,
       "vendor": 10
     },
     "Gator Vest": {
       "ask": 69000,
-      "bid": 50000,
+      "bid": 50001,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -642,12 +642,12 @@
     },
     "Holy Boots": {
       "ask": 36949,
-      "bid": -1,
+      "bid": 29564,
       "vendor": 35640
     },
     "Holy Brush": {
       "ask": 149999,
-      "bid": 85000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -677,7 +677,7 @@
     },
     "Holy Hammer": {
       "ask": 150000,
-      "bid": 85000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -687,7 +687,7 @@
     },
     "Holy Mace": {
       "ask": 200000,
-      "bid": 84000,
+      "bid": 90000,
       "vendor": 80190
     },
     "Holy Milk": {
@@ -702,27 +702,27 @@
     },
     "Holy Plate Legs": {
       "ask": 150000,
-      "bid": 108000,
+      "bid": 109000,
       "vendor": 62370
     },
     "Holy Pot": {
       "ask": 150000,
-      "bid": 85000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Shears": {
       "ask": 149625,
-      "bid": 85000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Spatula": {
       "ask": 109000,
-      "bid": 85000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Spear": {
       "ask": 150000,
-      "bid": 75000,
+      "bid": 90000,
       "vendor": 80190
     },
     "Holy Sword": {
@@ -792,7 +792,7 @@
     },
     "Medium Pouch": {
       "ask": 120000,
-      "bid": 28274,
+      "bid": 30000,
       "vendor": 50000
     },
     "Milk": {
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 329,
+      "ask": 370,
       "bid": 317,
       "vendor": 27
     },
@@ -1076,7 +1076,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 3399999,
+      "ask": 3000000,
       "bid": 1050000,
       "vendor": 10000
     },
@@ -1101,8 +1101,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 622,
-      "bid": 571,
+      "ask": 621,
+      "bid": 575,
       "vendor": 75
     },
     "Strawberry": {
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 842888,
-      "bid": 650001,
+      "bid": 650000,
       "vendor": 1000
     },
     "Sugar": {
@@ -1166,17 +1166,17 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 599,
+      "ask": 900,
       "bid": 450,
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 619,
+      "ask": 620,
       "bid": 330,
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 661,
+      "ask": 660,
       "bid": 507,
       "vendor": 75
     },
@@ -1236,7 +1236,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 440000,
+      "ask": 439999,
       "bid": 240000,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662165902.2314801
+  "time": 1662166803.0748196
 }
