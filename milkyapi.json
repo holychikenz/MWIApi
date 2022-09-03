@@ -491,7 +491,7 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 280,
+      "ask": 270,
       "bid": 151,
       "vendor": 20
     },
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 69000,
-      "bid": 50002,
+      "bid": 60000,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 635,
-      "bid": 565,
+      "bid": 563,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 3740624,
-      "bid": 2500010,
+      "bid": 2500011,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -826,7 +826,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 10,
+      "ask": 11,
       "bid": 5,
       "vendor": 4
     },
@@ -971,8 +971,8 @@
       "vendor": 27
     },
     "Rainbow Plate Body": {
-      "ask": 97000,
-      "bid": 80000,
+      "ask": 96758,
+      "bid": -1,
       "vendor": 23976
     },
     "Rainbow Plate Legs": {
@@ -1076,7 +1076,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2999999,
+      "ask": 2750000,
       "bid": 1050000,
       "vendor": 10000
     },
@@ -1187,7 +1187,7 @@
     },
     "Swamp Essence": {
       "ask": 46,
-      "bid": 32,
+      "bid": 33,
       "vendor": 8
     },
     "Sweep": {
@@ -1201,7 +1201,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 49999,
+      "ask": 25000,
       "bid": 15005,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662168603.6002386
+  "time": 1662169503.1110606
 }
