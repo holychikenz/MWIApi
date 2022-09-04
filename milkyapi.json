@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 944,
-      "bid": 943,
+      "bid": 600,
       "vendor": 50
     },
     "Egg": {
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 67463,
+      "ask": 67464,
       "bid": 50004,
       "vendor": 5000
     },
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 815,
-      "bid": 604,
+      "bid": 508,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 649,
+      "ask": 650,
       "bid": 610,
       "vendor": 162
     },
@@ -686,7 +686,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 159999,
+      "ask": 145000,
       "bid": 92000,
       "vendor": 80190
     },
@@ -726,7 +726,7 @@
       "vendor": 80190
     },
     "Holy Sword": {
-      "ask": 180000,
+      "ask": 145000,
       "bid": 84000,
       "vendor": 80190
     },
@@ -742,12 +742,12 @@
     },
     "Liberica Coffee Bean": {
       "ask": 99,
-      "bid": 76,
+      "bid": 75,
       "vendor": 12
     },
     "Living Granite": {
       "ask": 3500000,
-      "bid": 2650002,
+      "bid": 1450000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 32000,
+      "ask": 31500,
       "bid": 22060,
       "vendor": 1000
     },
@@ -1092,7 +1092,7 @@
     },
     "Star Fruit": {
       "ask": 80,
-      "bid": 63,
+      "bid": 64,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662255002.7089987
+  "time": 1662255902.540948
 }
