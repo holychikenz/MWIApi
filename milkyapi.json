@@ -186,7 +186,7 @@
       "vendor": 10
     },
     "Brewing Tea": {
-      "ask": 237,
+      "ask": 236,
       "bid": 30,
       "vendor": 20
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 178,
+      "ask": 177,
       "bid": 157,
       "vendor": 54
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 331989,
+      "ask": 329999,
       "bid": 285010,
       "vendor": 1000
     },
@@ -606,12 +606,12 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 749,
-      "bid": 601,
+      "ask": 816,
+      "bid": 603,
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 390,
+      "ask": 389,
       "bid": 50,
       "vendor": 20
     },
@@ -762,7 +762,7 @@
     },
     "Magnetic Gloves": {
       "ask": -1,
-      "bid": 11000000,
+      "bid": 650000,
       "vendor": 300000
     },
     "Magnifying Glass": {
@@ -896,7 +896,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 72190,
+      "ask": 70000,
       "bid": 51000,
       "vendor": 3000
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry Cake": {
       "ask": 443,
-      "bid": 244,
+      "bid": 245,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1131,7 +1131,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 669,
+      "ask": 808,
       "bid": 530,
       "vendor": 50
     },
@@ -1221,8 +1221,8 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 304,
-      "bid": 179,
+      "ask": 299,
+      "bid": 180,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1236,7 +1236,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 370023,
+      "ask": 370000,
       "bid": 240004,
       "vendor": 1000
     },
@@ -1341,12 +1341,12 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 2199977,
+      "ask": 2199976,
       "bid": 1000000,
       "vendor": 10000
     },
     "Werewolf Slasher": {
-      "ask": 41324999,
+      "ask": 39258749,
       "bid": 2000008,
       "vendor": 400000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662252303.068793
+  "time": 1662253202.5019858
 }
