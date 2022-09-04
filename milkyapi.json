@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 325000,
+      "ask": 324999,
       "bid": 261036,
       "vendor": 1000
     },
@@ -276,7 +276,7 @@
       "vendor": 4860
     },
     "Burble Sword": {
-      "ask": 4000,
+      "ask": 30000,
       "bid": 3573,
       "vendor": 4860
     },
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 270749,
-      "bid": 155040,
+      "bid": 155041,
       "vendor": 1000
     },
     "Coin": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 329999,
+      "ask": 329998,
       "bid": 285010,
       "vendor": 1000
     },
@@ -647,7 +647,7 @@
     },
     "Holy Brush": {
       "ask": 149996,
-      "bid": 92000,
+      "bid": 93000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -677,7 +677,7 @@
     },
     "Holy Hammer": {
       "ask": 125000,
-      "bid": 91002,
+      "bid": 91003,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -687,7 +687,7 @@
     },
     "Holy Mace": {
       "ask": 144999,
-      "bid": 92000,
+      "bid": 92005,
       "vendor": 80190
     },
     "Holy Milk": {
@@ -697,12 +697,12 @@
     },
     "Holy Plate Body": {
       "ask": 200000,
-      "bid": 135000,
+      "bid": 135001,
       "vendor": 71280
     },
     "Holy Plate Legs": {
       "ask": -1,
-      "bid": 118000,
+      "bid": 119000,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -712,12 +712,12 @@
     },
     "Holy Shears": {
       "ask": 125000,
-      "bid": 90001,
+      "bid": 90005,
       "vendor": 62370
     },
     "Holy Spatula": {
       "ask": 108999,
-      "bid": 92000,
+      "bid": 92005,
       "vendor": 62370
     },
     "Holy Spear": {
@@ -757,7 +757,7 @@
     },
     "Magnet": {
       "ask": 889998,
-      "bid": 798783,
+      "bid": 798784,
       "vendor": 10000
     },
     "Magnetic Gloves": {
@@ -822,7 +822,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 24,
-      "bid": 22,
+      "bid": 21,
       "vendor": 18
     },
     "Orange": {
@@ -867,7 +867,7 @@
     },
     "Pierce": {
       "ask": 94521,
-      "bid": 20007,
+      "bid": 20008,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -912,7 +912,7 @@
     },
     "Precision": {
       "ask": 31500,
-      "bid": 22060,
+      "bid": 22061,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -936,8 +936,8 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 345,
-      "bid": 277,
+      "ask": 344,
+      "bid": 278,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1007,7 +1007,7 @@
     },
     "Red Tea Leaf": {
       "ask": 319,
-      "bid": 315,
+      "bid": 289,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1017,12 +1017,12 @@
     },
     "Scratch": {
       "ask": 8930,
-      "bid": 4006,
+      "bid": 4007,
       "vendor": 1000
     },
     "Smack": {
       "ask": 17999,
-      "bid": 5001,
+      "bid": 5002,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1072,7 +1072,7 @@
     },
     "Spike Shell": {
       "ask": 1393182,
-      "bid": 50006,
+      "bid": 50007,
       "vendor": 1000
     },
     "Stalactite Shard": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 999998,
+      "ask": 999997,
       "bid": 650000,
       "vendor": 1000
     },
@@ -1186,13 +1186,13 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 44,
+      "ask": 53,
       "bid": 41,
       "vendor": 8
     },
     "Sweep": {
       "ask": 99999,
-      "bid": 50000,
+      "bid": 50001,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1236,8 +1236,8 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 370000,
-      "bid": 252004,
+      "ask": 369999,
+      "bid": 252005,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662264002.7846096
+  "time": 1662264902.1707368
 }
