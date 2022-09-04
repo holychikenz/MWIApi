@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 475,
-      "bid": 200,
+      "bid": 201,
       "vendor": 20
     },
     "Azure Boots": {
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 52,
-      "bid": 42,
+      "bid": 43,
       "vendor": 8
     },
     "Blackberry": {
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 74,
-      "bid": 43,
+      "bid": 44,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -282,11 +282,11 @@
     },
     "Burble Tea Leaf": {
       "ask": 167,
-      "bid": 163,
+      "bid": 164,
       "vendor": 12
     },
     "Cheese": {
-      "ask": 100,
+      "ask": 99,
       "bid": 64,
       "vendor": 6
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 29,
+      "ask": 30,
       "bid": 19,
       "vendor": 14
     },
@@ -537,7 +537,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 100,
-      "bid": 69,
+      "bid": 80,
       "vendor": 18
     },
     "Eyessence": {
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 119,
+      "ask": 120,
       "bid": 102,
       "vendor": 27
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 816,
+      "ask": 814,
       "bid": 514,
       "vendor": 108
     },
@@ -621,8 +621,8 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 116,
-      "bid": 70,
+      "ask": 115,
+      "bid": 71,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 889997,
+      "ask": 889998,
       "bid": 798784,
       "vendor": 10000
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 344,
-      "bid": 292,
+      "bid": 293,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1067,7 +1067,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 130,
-      "bid": 120,
+      "bid": 121,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1076,7 +1076,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": -1,
+      "ask": 2000000,
       "bid": 1340108,
       "vendor": 10000
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 711,
+      "ask": 710,
       "bid": 490,
       "vendor": 75
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 657,
+      "ask": 656,
       "bid": 521,
       "vendor": 75
     },
@@ -1196,12 +1196,12 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 500,
+      "ask": 499,
       "bid": 490,
       "vendor": 50
     },
     "Toughness": {
-      "ask": 30000,
+      "ask": 29999,
       "bid": 15005,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662288302.818712
+  "time": 1662289203.0978904
 }
