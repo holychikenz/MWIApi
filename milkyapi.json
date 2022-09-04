@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 809,
-      "bid": 650,
+      "bid": 700,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -87,16 +87,16 @@
     },
     "Azure Milk": {
       "ask": 54,
-      "bid": 45,
+      "bid": 44,
       "vendor": 8
     },
     "Azure Plate Body": {
-      "ask": 20000,
+      "ask": -1,
       "bid": 7718,
       "vendor": 1728
     },
     "Azure Plate Legs": {
-      "ask": 30000,
+      "ask": -1,
       "bid": 6007,
       "vendor": 1512
     },
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1068,
+      "ask": 1000,
       "bid": 820,
       "vendor": 75
     },
@@ -427,7 +427,7 @@
     },
     "Crimson Gauntlets": {
       "ask": 60000,
-      "bid": 5503,
+      "bid": 5502,
       "vendor": 5184
     },
     "Crimson Hammer": {
@@ -596,7 +596,7 @@
       "vendor": 20000
     },
     "Gobo Stabber": {
-      "ask": 21000,
+      "ask": 21151,
       "bid": 20000,
       "vendor": 20000
     },
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 650,
-      "bid": 621,
+      "ask": 649,
+      "bid": 612,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 900000,
+      "ask": 855000,
       "bid": 150000,
       "vendor": 500000
     },
@@ -872,7 +872,7 @@
     },
     "Pincer Gloves": {
       "ask": 108300,
-      "bid": 30000,
+      "bid": 35000,
       "vendor": 6000
     },
     "Plum": {
@@ -1152,7 +1152,7 @@
     },
     "Super Defense Coffee": {
       "ask": 539,
-      "bid": 341,
+      "bid": 100,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662318002.2335641
+  "time": 1662318902.5390937
 }
