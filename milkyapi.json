@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 29,
-      "bid": 12,
+      "bid": 10,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 51,
+      "ask": 52,
       "bid": 42,
       "vendor": 8
     },
@@ -197,7 +197,7 @@
     },
     "Burble Brush": {
       "ask": 30000,
-      "bid": 3900,
+      "bid": 3780,
       "vendor": 3780
     },
     "Burble Buckler": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 16,
+      "ask": 18,
       "bid": 14,
       "vendor": 1
     },
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 700,
+      "ask": 650,
       "bid": 300,
       "vendor": 40
     },
@@ -617,7 +617,7 @@
     },
     "Granite Bludgeon": {
       "ask": -1,
-      "bid": 32000000,
+      "bid": 2000000,
       "vendor": 400000
     },
     "Green Tea Leaf": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 902497,
+      "ask": 902496,
       "bid": 650000,
       "vendor": 1000
     },
@@ -1186,7 +1186,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 51,
+      "ask": 50,
       "bid": 41,
       "vendor": 8
     },
@@ -1257,7 +1257,7 @@
     },
     "Verdant Bulwark": {
       "ask": 5720,
-      "bid": 2100,
+      "bid": 1239,
       "vendor": 720
     },
     "Verdant Cheese": {
@@ -1341,7 +1341,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1899999,
+      "ask": 1899998,
       "bid": 1250006,
       "vendor": 10000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662285602.6047308
+  "time": 1662286502.7109456
 }
