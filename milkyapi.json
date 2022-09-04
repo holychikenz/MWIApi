@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 175,
-      "bid": 159,
+      "bid": 160,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 15,
+      "ask": 16,
       "bid": 14,
       "vendor": 4
     },
@@ -172,7 +172,7 @@
     },
     "Blueberry": {
       "ask": 12,
-      "bid": 9,
+      "bid": 8,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -231,7 +231,7 @@
       "vendor": 3780
     },
     "Burble Helmet": {
-      "ask": 33762,
+      "ask": -1,
       "bid": 10461,
       "vendor": 2700
     },
@@ -246,12 +246,12 @@
       "vendor": 12
     },
     "Burble Plate Body": {
-      "ask": 40000,
+      "ask": -1,
       "bid": 16538,
       "vendor": 4320
     },
     "Burble Plate Legs": {
-      "ask": 40000,
+      "ask": 43000,
       "bid": 3855,
       "vendor": 3780
     },
@@ -271,7 +271,7 @@
       "vendor": 3780
     },
     "Burble Spear": {
-      "ask": 20000,
+      "ask": 21976,
       "bid": -1,
       "vendor": 4860
     },
@@ -791,7 +791,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 100000,
+      "ask": 90000,
       "bid": 31500,
       "vendor": 50000
     },
@@ -827,7 +827,7 @@
     },
     "Orange": {
       "ask": 9,
-      "bid": 6,
+      "bid": 5,
       "vendor": 4
     },
     "Orange Gummy": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662286502.7109456
+  "time": 1662287402.8425984
 }
