@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 60000,
+      "ask": 50000,
       "bid": 30000,
       "vendor": 1500
     },
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 815,
-      "bid": 518,
+      "bid": 520,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 100,
+      "ask": 95,
       "bid": 86,
       "vendor": 4
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 649,
+      "ask": 650,
       "bid": 613,
       "vendor": 162
     },
@@ -686,13 +686,13 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 144999,
+      "ask": 130000,
       "bid": 92007,
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 179,
-      "bid": 173,
+      "ask": 180,
+      "bid": 174,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -792,7 +792,7 @@
     },
     "Medium Pouch": {
       "ask": 100000,
-      "bid": 28274,
+      "bid": 65000,
       "vendor": 50000
     },
     "Milk": {
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 429,
+      "ask": 440,
       "bid": 352,
       "vendor": 75
     },
@@ -1171,7 +1171,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 599,
+      "ask": 590,
       "bid": 330,
       "vendor": 40
     },
@@ -1206,7 +1206,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 11872,
+      "ask": 13155,
       "bid": 5000,
       "vendor": 1500
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 500,
+      "ask": 525,
       "bid": 450,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662319801.7456834
+  "time": 1662320702.2308173
 }
