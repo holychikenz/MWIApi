@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 325000,
+      "ask": 324999,
       "bid": 261036,
       "vendor": 1000
     },
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1068,
+      "ask": 1020,
       "bid": 820,
       "vendor": 75
     },
@@ -371,7 +371,7 @@
       "vendor": 108
     },
     "Cheesesmithing Tea": {
-      "ask": 407,
+      "ask": 450,
       "bid": 260,
       "vendor": 30
     },
@@ -527,7 +527,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 167,
-      "bid": 160,
+      "bid": 162,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 42,
-      "bid": 38,
+      "bid": -1,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 74999,
-      "bid": 51003,
+      "bid": 51004,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -602,12 +602,12 @@
     },
     "Goggles": {
       "ask": 269694,
-      "bid": 200003,
+      "bid": 220000,
       "vendor": 10000
     },
     "Golem Essence": {
       "ask": 814,
-      "bid": 514,
+      "bid": 600,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -806,8 +806,8 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 29,
-      "bid": 22,
+      "ask": 28,
+      "bid": 23,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 45119,
+      "ask": 53137,
       "bid": 34000,
       "vendor": 3000
     },
@@ -862,7 +862,7 @@
     },
     "Peach Yogurt": {
       "ask": 135,
-      "bid": 120,
+      "bid": 130,
       "vendor": 40
     },
     "Pierce": {
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 344,
-      "bid": 300,
+      "bid": 301,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 710,
+      "ask": 700,
       "bid": 490,
       "vendor": 75
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662291001.9453893
+  "time": 1662291902.5625937
 }
