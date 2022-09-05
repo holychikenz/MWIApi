@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 26,
-      "bid": 11,
+      "bid": 12,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 68,
-      "bid": 57,
+      "bid": 56,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -481,7 +481,7 @@
       "vendor": 11664
     },
     "Crimson Sword": {
-      "ask": 10000,
+      "ask": 26536,
       "bid": -1,
       "vendor": 11664
     },
@@ -506,7 +506,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 315,
+      "ask": 323,
       "bid": 130,
       "vendor": 50
     },
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 45,
-      "bid": 41,
+      "bid": 40,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 29,
-      "bid": 24,
+      "bid": 27,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -602,16 +602,16 @@
     },
     "Goggles": {
       "ask": 314418,
-      "bid": 240000,
+      "bid": 240001,
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 895,
+      "ask": 894,
       "bid": 400,
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 322,
+      "ask": 321,
       "bid": 81,
       "vendor": 20
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 2089998,
+      "ask": 2089995,
       "bid": 800000,
       "vendor": 10000
     },
@@ -802,7 +802,7 @@
     },
     "Milking Tea": {
       "ask": 270,
-      "bid": 161,
+      "bid": 162,
       "vendor": 10
     },
     "Mooberry": {
@@ -961,7 +961,7 @@
       "vendor": 14985
     },
     "Rainbow Mace": {
-      "ask": 40000,
+      "ask": 35000,
       "bid": 30000,
       "vendor": 26973
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 688,
-      "bid": 617,
+      "bid": 618,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 690,
+      "ask": 670,
       "bid": 628,
       "vendor": 75
     },
@@ -1187,7 +1187,7 @@
     },
     "Swamp Essence": {
       "ask": 53,
-      "bid": 44,
+      "bid": 48,
       "vendor": 8
     },
     "Sweep": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662414303.272401
+  "time": 1662415201.6074524
 }
