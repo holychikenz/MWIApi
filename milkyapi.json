@@ -162,7 +162,7 @@
     },
     "Blackberry Donut": {
       "ask": 200,
-      "bid": 28,
+      "bid": 29,
       "vendor": 20
     },
     "Blessed Tea": {
@@ -181,7 +181,7 @@
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 999,
+      "ask": 850,
       "bid": 11,
       "vendor": 10
     },
@@ -811,12 +811,12 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 187,
+      "ask": 180,
       "bid": 42,
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 235,
+      "ask": 234,
       "bid": 154,
       "vendor": 40
     },
@@ -1051,13 +1051,13 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 54,
+      "ask": 55,
       "bid": 47,
       "vendor": 27
     },
     "Spaceberry Cake": {
       "ask": 442,
-      "bid": 372,
+      "bid": 374,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1116,7 +1116,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 247,
+      "ask": 246,
       "bid": 80,
       "vendor": 30
     },
@@ -1207,7 +1207,7 @@
     },
     "Turtle Shell": {
       "ask": 10714,
-      "bid": 2000,
+      "bid": 10000,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662359403.10285
+  "time": 1662360301.9042711
 }
