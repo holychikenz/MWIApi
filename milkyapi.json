@@ -137,7 +137,7 @@
     },
     "Black Bear Fluff": {
       "ask": 46424,
-      "bid": 30012,
+      "bid": 30013,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -351,7 +351,7 @@
       "vendor": 84
     },
     "Cheese Shears": {
-      "ask": 100,
+      "ask": -1,
       "bid": 85,
       "vendor": 84
     },
@@ -526,8 +526,8 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 236,
-      "bid": 161,
+      "ask": 235,
+      "bid": 162,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -601,13 +601,13 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 314418,
+      "ask": 314417,
       "bid": 240001,
       "vendor": 10000
     },
     "Golem Essence": {
       "ask": 894,
-      "bid": 400,
+      "bid": 369,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 115,
+      "ask": 114,
       "bid": 95,
       "vendor": 4
     },
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 178,
+      "ask": 177,
       "bid": 164,
       "vendor": 54
     },
@@ -746,8 +746,8 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 3230000,
-      "bid": 2900000,
+      "ask": 3400000,
+      "bid": 3000002,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -757,7 +757,7 @@
     },
     "Magnet": {
       "ask": 2089995,
-      "bid": 800000,
+      "bid": 800001,
       "vendor": 10000
     },
     "Magnetic Gloves": {
@@ -767,7 +767,7 @@
     },
     "Magnifying Glass": {
       "ask": 149999,
-      "bid": 103009,
+      "bid": 103008,
       "vendor": 10000
     },
     "Maim": {
@@ -776,8 +776,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 25,
-      "bid": 20,
+      "ask": 26,
+      "bid": 21,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -786,12 +786,12 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 335,
-      "bid": 240,
+      "ask": 336,
+      "bid": 245,
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 100000,
+      "ask": 105000,
       "bid": 28274,
       "vendor": 50000
     },
@@ -1021,12 +1021,12 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 12999,
+      "ask": 9532,
       "bid": 7502,
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": -1,
+      "ask": 17777,
       "bid": 3,
       "vendor": 5000
     },
@@ -1057,12 +1057,12 @@
     },
     "Spaceberry Cake": {
       "ask": 443,
-      "bid": 384,
+      "bid": 400,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 498,
-      "bid": 358,
+      "bid": 359,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1102,12 +1102,12 @@
     },
     "Star Fruit Yogurt": {
       "ask": 617,
-      "bid": 511,
+      "bid": 513,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 21,
-      "bid": 19,
+      "ask": 30,
+      "bid": 20,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 999999,
-      "bid": 420666,
+      "bid": 600000,
       "vendor": 1000
     },
     "Sugar": {
@@ -1176,8 +1176,8 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 670,
-      "bid": 628,
+      "ask": 690,
+      "bid": 629,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1197,7 +1197,7 @@
     },
     "Swiftness Coffee": {
       "ask": 539,
-      "bid": 471,
+      "bid": 472,
       "vendor": 50
     },
     "Toughness": {
@@ -1216,7 +1216,7 @@
       "vendor": 9000
     },
     "Turtle Shell Legs": {
-      "ask": 12567,
+      "ask": 11939,
       "bid": -1,
       "vendor": 6000
     },
@@ -1341,7 +1341,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1580000,
+      "ask": 1579999,
       "bid": 1000000,
       "vendor": 10000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662416102.2383075
+  "time": 1662417002.8178911
 }
