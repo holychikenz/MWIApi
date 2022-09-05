@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 27,
+      "ask": 26,
       "bid": 11,
       "vendor": 2
     },
@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 20,
+      "ask": 66,
       "bid": 12,
       "vendor": 10
     },
@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 1064,
-      "bid": -1,
+      "bid": 950,
       "vendor": 75
     },
     "Blueberry": {
@@ -401,7 +401,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 29999,
+      "ask": 25000,
       "bid": 10100,
       "vendor": 9072
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 897,
+      "ask": 895,
       "bid": 400,
       "vendor": 108
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 635,
-      "bid": 615,
+      "bid": 616,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -702,7 +702,7 @@
     },
     "Holy Plate Legs": {
       "ask": 144000,
-      "bid": 73050,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -746,7 +746,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 3400000,
+      "ask": 3230000,
       "bid": 2900000,
       "vendor": 10000
     },
@@ -822,11 +822,11 @@
     },
     "Moolong Tea Leaf": {
       "ask": 28,
-      "bid": 22,
+      "bid": 25,
       "vendor": 18
     },
     "Orange": {
-      "ask": 9,
+      "ask": 10,
       "bid": 6,
       "vendor": 4
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 70000,
+      "ask": 108300,
       "bid": 40000,
       "vendor": 6000
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 24000,
+      "ask": 23999,
       "bid": 5000,
       "vendor": 1000
     },
@@ -1016,12 +1016,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 14237,
+      "ask": 13333,
       "bid": 4011,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 13538,
+      "ask": 12999,
       "bid": 7502,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662413403.093102
+  "time": 1662414303.272401
 }
