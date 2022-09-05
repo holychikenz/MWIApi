@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 102,
+      "ask": 80,
       "bid": 63,
       "vendor": 4
     },
@@ -131,8 +131,8 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 274999,
-      "bid": 261029,
+      "ask": 275000,
+      "bid": 261030,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -162,7 +162,7 @@
     },
     "Blackberry Donut": {
       "ask": 200,
-      "bid": 36,
+      "bid": 32,
       "vendor": 20
     },
     "Blessed Tea": {
@@ -661,12 +661,12 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 620,
+      "ask": 637,
       "bid": 600,
       "vendor": 162
     },
     "Holy Enhancer": {
-      "ask": 140000,
+      "ask": 119000,
       "bid": 1,
       "vendor": 62370
     },
@@ -706,7 +706,7 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 125000,
+      "ask": 115000,
       "bid": 91000,
       "vendor": 62370
     },
@@ -726,7 +726,7 @@
       "vendor": 80190
     },
     "Holy Sword": {
-      "ask": 144000,
+      "ask": 110000,
       "bid": 84000,
       "vendor": 80190
     },
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 3400000,
-      "bid": 2000000,
+      "bid": 2700000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -836,7 +836,7 @@
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 86,
+      "ask": 85,
       "bid": 25,
       "vendor": 20
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 22000,
+      "ask": 26950,
       "bid": 5000,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 31288,
+      "ask": 31000,
       "bid": 22061,
       "vendor": 1000
     },
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 338,
+      "ask": 337,
       "bid": 306,
       "vendor": 81
     },
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 17999,
+      "ask": 17998,
       "bid": 7877,
       "vendor": 1000
     },
@@ -1057,12 +1057,12 @@
     },
     "Spaceberry Cake": {
       "ask": 443,
-      "bid": 378,
+      "bid": 379,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 497,
-      "bid": 353,
+      "bid": 354,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1071,13 +1071,13 @@
       "vendor": 54
     },
     "Spike Shell": {
-      "ask": 900000,
+      "ask": 899999,
       "bid": 75000,
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2749999,
-      "bid": 500000,
+      "ask": 2449999,
+      "bid": -1,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 622,
+      "ask": 621,
       "bid": 508,
       "vendor": 75
     },
@@ -1251,7 +1251,7 @@
       "vendor": 420
     },
     "Verdant Buckler": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 420,
       "vendor": 360
     },
@@ -1271,7 +1271,7 @@
       "vendor": 420
     },
     "Verdant Gauntlets": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 383,
       "vendor": 240
     },
@@ -1291,7 +1291,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 46,
+      "ask": 40,
       "bid": 33,
       "vendor": 4
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662398102.9789872
+  "time": 1662399002.4019623
 }
