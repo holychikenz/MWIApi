@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 186,
-      "bid": 167,
+      "bid": 168,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -137,7 +137,7 @@
     },
     "Black Bear Fluff": {
       "ask": 48867,
-      "bid": 30011,
+      "bid": 30012,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 1064,
-      "bid": 900,
+      "bid": -1,
       "vendor": 75
     },
     "Blueberry": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 178,
-      "bid": 156,
+      "bid": 157,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 75,
-      "bid": 62,
+      "bid": 63,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -416,8 +416,8 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 167,
-      "bid": 158,
+      "ask": 169,
+      "bid": 160,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 129999,
-      "bid": 60000,
+      "bid": 60001,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -602,16 +602,16 @@
     },
     "Goggles": {
       "ask": 314418,
-      "bid": 222223,
+      "bid": 240000,
       "vendor": 10000
     },
     "Golem Essence": {
       "ask": 897,
-      "bid": 321,
+      "bid": 400,
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 323,
+      "ask": 322,
       "bid": 81,
       "vendor": 20
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 635,
-      "bid": 614,
+      "bid": 615,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 178,
-      "bid": 166,
+      "bid": 164,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -816,7 +816,7 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 233,
+      "ask": 231,
       "bid": 157,
       "vendor": 40
     },
@@ -842,7 +842,7 @@
     },
     "Panda Fluff": {
       "ask": 50000,
-      "bid": 34006,
+      "bid": 34008,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -852,11 +852,11 @@
     },
     "Peach": {
       "ask": 21,
-      "bid": 14,
+      "bid": 15,
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 148,
+      "ask": 179,
       "bid": 100,
       "vendor": 40
     },
@@ -897,11 +897,11 @@
     },
     "Polar Bear Fluff": {
       "ask": 56989,
-      "bid": 30010,
+      "bid": 30011,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
-      "ask": 799999,
+      "ask": 799998,
       "bid": 120000,
       "vendor": 60000
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 349,
-      "bid": 320,
+      "bid": 325,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1092,7 +1092,7 @@
     },
     "Star Fruit": {
       "ask": 120,
-      "bid": 80,
+      "bid": 81,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 999999,
-      "bid": 320001,
+      "bid": 320003,
       "vendor": 1000
     },
     "Sugar": {
@@ -1176,12 +1176,12 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 679,
+      "ask": 690,
       "bid": 628,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 456,
+      "ask": 457,
       "bid": 391,
       "vendor": 40
     },
@@ -1221,8 +1221,8 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 380,
-      "bid": 235,
+      "ask": 375,
+      "bid": 237,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1337,7 +1337,7 @@
     },
     "Vision Shield": {
       "ask": 179999,
-      "bid": 110000,
+      "bid": 110001,
       "vendor": 20000
     },
     "Werewolf Claw": {
@@ -1351,7 +1351,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 22,
+      "ask": 18,
       "bid": 17,
       "vendor": 1
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662412502.5652623
+  "time": 1662413403.093102
 }
