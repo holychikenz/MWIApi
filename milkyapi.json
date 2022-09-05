@@ -392,7 +392,7 @@
     },
     "Crab Pincer": {
       "ask": 50000,
-      "bid": 25000,
+      "bid": 25001,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 175,
-      "bid": 146,
+      "bid": 147,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -526,8 +526,8 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 245,
-      "bid": 160,
+      "ask": 260,
+      "bid": 161,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -601,13 +601,13 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 314418,
+      "ask": 314419,
       "bid": 220011,
       "vendor": 10000
     },
     "Golem Essence": {
       "ask": 947,
-      "bid": 558,
+      "bid": 559,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 638,
-      "bid": 620,
+      "bid": 597,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -711,7 +711,7 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 124999,
+      "ask": 124997,
       "bid": 91000,
       "vendor": 62370
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 5000000,
+      "ask": 2700000,
       "bid": 800000,
       "vendor": 10000
     },
@@ -771,12 +771,12 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 599998,
+      "ask": 550000,
       "bid": 300016,
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 24,
+      "ask": 27,
       "bid": 19,
       "vendor": 14
     },
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 15000,
+      "ask": 18048,
       "bid": 7500,
       "vendor": 1000
     },
@@ -1221,7 +1221,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 452,
+      "ask": 450,
       "bid": 223,
       "vendor": 108
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662363002.2642622
+  "time": 1662363902.816657
 }
