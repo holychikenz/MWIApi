@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 99,
+      "ask": 102,
       "bid": 62,
       "vendor": 4
     },
@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 83,
-      "bid": 63,
+      "bid": 59,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 175,
-      "bid": 148,
+      "bid": 149,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -446,7 +446,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 22,
+      "ask": 21,
       "bid": 20,
       "vendor": 18
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 260,
+      "ask": 258,
       "bid": 160,
       "vendor": 54
     },
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 139,
-      "bid": 104,
+      "bid": 105,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 120749,
+      "ask": 130625,
       "bid": 51007,
       "vendor": 5000
     },
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 947,
-      "bid": 560,
+      "bid": 561,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 637,
-      "bid": 597,
+      "ask": 620,
+      "bid": 598,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -676,7 +676,7 @@
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": -1,
+      "ask": 120000,
       "bid": 91005,
       "vendor": 62370
     },
@@ -711,7 +711,7 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 124997,
+      "ask": 120000,
       "bid": 91000,
       "vendor": 62370
     },
@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 900000,
+      "ask": 500000,
       "bid": 251000,
       "vendor": 500000
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 320,
+      "ask": 314,
       "bid": 306,
       "vendor": 27
     },
@@ -1056,8 +1056,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 443,
-      "bid": 374,
+      "ask": 442,
+      "bid": 371,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1071,7 +1071,7 @@
       "vendor": 54
     },
     "Spike Shell": {
-      "ask": 1024108,
+      "ask": 1024107,
       "bid": 75000,
       "vendor": 1000
     },
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 140,
+      "ask": 144,
       "bid": 76,
       "vendor": 27
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 630,
+      "ask": 628,
       "bid": 507,
       "vendor": 75
     },
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 1020139,
-      "bid": 650005,
+      "bid": 650001,
       "vendor": 1000
     },
     "Sugar": {
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 798,
+      "ask": 775,
       "bid": 54,
       "vendor": 40
     },
@@ -1177,7 +1177,7 @@
     },
     "Super Power Coffee": {
       "ask": 689,
-      "bid": 572,
+      "bid": 573,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1196,8 +1196,8 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 546,
-      "bid": 492,
+      "ask": 545,
+      "bid": 400,
       "vendor": 50
     },
     "Toughness": {
@@ -1221,12 +1221,12 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 450,
+      "ask": 449,
       "bid": 223,
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1329999,
+      "ask": 1329998,
       "bid": 1250002,
       "vendor": 10000
     },
@@ -1236,7 +1236,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 304000,
+      "ask": 300000,
       "bid": 240010,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662368402.669495
+  "time": 1662370201.9842908
 }
