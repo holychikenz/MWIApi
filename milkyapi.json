@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 29,
+      "ask": 28,
       "bid": 10,
       "vendor": 2
     },
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 50,
-      "bid": 46,
+      "bid": 45,
       "vendor": 8
     },
     "Blackberry": {
@@ -522,11 +522,11 @@
     },
     "Egg": {
       "ask": 18,
-      "bid": 15,
+      "bid": 14,
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 242,
+      "ask": 241,
       "bid": 160,
       "vendor": 54
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 898,
+      "ask": 897,
       "bid": 561,
       "vendor": 108
     },
@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 500000,
+      "ask": 900000,
       "bid": 150000,
       "vendor": 500000
     },
@@ -746,7 +746,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 3490253,
+      "ask": 3499000,
       "bid": 2000000,
       "vendor": 10000
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": -1,
+      "ask": 15000,
       "bid": 3,
       "vendor": 5000
     },
@@ -1041,7 +1041,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 2085,
+      "ask": 1999,
       "bid": 286,
       "vendor": 100
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662378302.578319
+  "time": 1662379204.3074763
 }
