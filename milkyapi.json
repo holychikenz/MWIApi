@@ -311,7 +311,7 @@
       "vendor": 144
     },
     "Cheese Enhancer": {
-      "ask": -1,
+      "ask": 999,
       "bid": 303,
       "vendor": 84
     },
@@ -336,7 +336,7 @@
       "vendor": 108
     },
     "Cheese Plate Body": {
-      "ask": 1400,
+      "ask": 1200,
       "bid": 322,
       "vendor": 96
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 178,
+      "ask": 177,
       "bid": 160,
       "vendor": 54
     },
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 598,
+      "ask": 568,
       "bid": 300,
       "vendor": 40
     },
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 300000,
-      "bid": 250000,
+      "bid": 150000,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 850,
-      "bid": 370,
+      "bid": 371,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 3400000,
-      "bid": 3000001,
+      "bid": 3100000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -807,7 +807,7 @@
     },
     "Mooberry": {
       "ask": 30,
-      "bid": 18,
+      "bid": 19,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 355,
+      "ask": 349,
       "bid": 325,
       "vendor": 81
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 690,
+      "ask": 675,
       "bid": 630,
       "vendor": 75
     },
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 540,
+      "ask": 525,
       "bid": 473,
       "vendor": 50
     },
@@ -1222,7 +1222,7 @@
     },
     "Twilight Essence": {
       "ask": 375,
-      "bid": 238,
+      "bid": 240,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1262,7 +1262,7 @@
     },
     "Verdant Cheese": {
       "ask": 170,
-      "bid": 133,
+      "bid": 132,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662420602.8659294
+  "time": 1662421502.623185
 }
