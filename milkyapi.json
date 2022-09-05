@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 16,
+      "ask": 15,
       "bid": 13,
       "vendor": 10
     },
@@ -41,7 +41,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 20000,
+      "ask": 1000000000000,
       "bid": 5001,
       "vendor": 1512
     },
@@ -196,7 +196,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 4000,
+      "ask": 3800,
       "bid": 3780,
       "vendor": 3780
     },
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 81,
+      "ask": 80,
       "bid": 61,
       "vendor": 6
     },
@@ -401,7 +401,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 11000,
+      "ask": 10424,
       "bid": 10100,
       "vendor": 9072
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 175,
+      "ask": 170,
       "bid": 156,
       "vendor": 54
     },
@@ -436,7 +436,7 @@
       "vendor": 9072
     },
     "Crimson Helmet": {
-      "ask": 22001,
+      "ask": -1,
       "bid": 10007,
       "vendor": 6480
     },
@@ -506,7 +506,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 323,
+      "ask": 307,
       "bid": 130,
       "vendor": 50
     },
@@ -721,12 +721,12 @@
       "vendor": 62370
     },
     "Holy Spear": {
-      "ask": 149624,
+      "ask": 149500,
       "bid": 90000,
       "vendor": 80190
     },
     "Holy Sword": {
-      "ask": 145000,
+      "ask": 144000,
       "bid": 84000,
       "vendor": 80190
     },
@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1020000,
+      "ask": 1083000,
       "bid": 150000,
       "vendor": 500000
     },
@@ -797,7 +797,7 @@
     },
     "Milk": {
       "ask": 40,
-      "bid": 29,
+      "bid": 25,
       "vendor": 2
     },
     "Milking Tea": {
@@ -831,7 +831,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 27,
+      "ask": 26,
       "bid": 21,
       "vendor": 20
     },
@@ -856,7 +856,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 156,
+      "ask": 148,
       "bid": 100,
       "vendor": 40
     },
@@ -896,7 +896,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 59989,
+      "ask": 56990,
       "bid": 30007,
       "vendor": 3000
     },
@@ -1076,7 +1076,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2750000,
+      "ask": 2749999,
       "bid": 500000,
       "vendor": 10000
     },
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 737,
+      "ask": 700,
       "bid": 301,
       "vendor": 40
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 690,
+      "ask": 679,
       "bid": 607,
       "vendor": 75
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662397201.9058506
+  "time": 1662398102.9789872
 }
