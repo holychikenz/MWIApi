@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 66,
-      "bid": 63,
+      "bid": 46,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -392,7 +392,7 @@
     },
     "Crab Pincer": {
       "ask": 48998,
-      "bid": 20007,
+      "bid": 20008,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 174,
+      "ask": 170,
       "bid": 163,
       "vendor": 54
     },
@@ -451,7 +451,7 @@
       "vendor": 18
     },
     "Crimson Plate Body": {
-      "ask": 49998,
+      "ask": 45000,
       "bid": 17500,
       "vendor": 10368
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 676,
-      "bid": 601,
+      "bid": 625,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 184,
+      "ask": 183,
       "bid": 165,
       "vendor": 54
     },
@@ -767,11 +767,11 @@
     },
     "Magnifying Glass": {
       "ask": 149999,
-      "bid": 103008,
+      "bid": 103009,
       "vendor": 10000
     },
     "Maim": {
-      "ask": 549997,
+      "ask": 549996,
       "bid": 300015,
       "vendor": 1000
     },
@@ -916,7 +916,7 @@
       "vendor": 1000
     },
     "Rainbow Boots": {
-      "ask": 18498,
+      "ask": 15066,
       "bid": 12005,
       "vendor": 11988
     },
@@ -1017,7 +1017,7 @@
     },
     "Scratch": {
       "ask": 14237,
-      "bid": 4011,
+      "bid": 4012,
       "vendor": 1000
     },
     "Smack": {
@@ -1041,7 +1041,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 1627,
+      "ask": 1626,
       "bid": 286,
       "vendor": 100
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 750000,
+      "ask": 712500,
       "bid": 600000,
       "vendor": 1000
     },
@@ -1211,12 +1211,12 @@
       "vendor": 1500
     },
     "Turtle Shell Body": {
-      "ask": 14567,
+      "ask": 14566,
       "bid": -1,
       "vendor": 9000
     },
     "Turtle Shell Legs": {
-      "ask": 11939,
+      "ask": 11938,
       "bid": -1,
       "vendor": 6000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662435902.7104104
+  "time": 1662436802.7445154
 }
