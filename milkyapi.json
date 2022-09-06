@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 26,
+      "ask": 25,
       "bid": 13,
       "vendor": 2
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 320000,
+      "ask": 315000,
       "bid": 261027,
       "vendor": 1000
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 51,
+      "ask": 50,
       "bid": 44,
       "vendor": 8
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 222,
+      "ask": 220,
       "bid": 166,
       "vendor": 54
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 90,
+      "ask": 89,
       "bid": 47,
       "vendor": 36
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 138,
+      "ask": 135,
       "bid": 130,
       "vendor": 27
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 138695,
+      "ask": 125000,
       "bid": 75000,
       "vendor": 5000
     },
@@ -606,8 +606,8 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 806,
-      "bid": 450,
+      "ask": 805,
+      "bid": 451,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 237,
+      "ask": 235,
       "bid": 100,
       "vendor": 4
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 641,
+      "ask": 640,
       "bid": 625,
       "vendor": 162
     },
@@ -691,8 +691,8 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 184,
-      "bid": 172,
+      "ask": 183,
+      "bid": 171,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 22700,
+      "ask": 20000,
       "bid": 5002,
       "vendor": 1000
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 320,
+      "ask": 319,
       "bid": 311,
       "vendor": 27
     },
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 14237,
+      "ask": 13333,
       "bid": 4013,
       "vendor": 1000
     },
@@ -1041,7 +1041,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 1626,
+      "ask": 1625,
       "bid": 286,
       "vendor": 100
     },
@@ -1062,7 +1062,7 @@
     },
     "Spaceberry Donut": {
       "ask": 494,
-      "bid": 403,
+      "bid": 404,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 674,
+      "ask": 675,
       "bid": 302,
       "vendor": 40
     },
@@ -1186,8 +1186,8 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 52,
-      "bid": 49,
+      "ask": 51,
+      "bid": 44,
       "vendor": 8
     },
     "Sweep": {
@@ -1221,13 +1221,13 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 348,
+      "ask": 340,
       "bid": 247,
       "vendor": 108
     },
     "Vampire Fang": {
       "ask": 1424998,
-      "bid": 600000,
+      "bid": 999999,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1341,7 +1341,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1499999,
+      "ask": 1450000,
       "bid": 1250000,
       "vendor": 10000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662461102.550433
+  "time": 1662462902.1866865
 }
