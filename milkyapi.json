@@ -231,7 +231,7 @@
       "vendor": 3780
     },
     "Burble Helmet": {
-      "ask": -1,
+      "ask": 9000,
       "bid": 2806,
       "vendor": 2700
     },
@@ -507,7 +507,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 324,
-      "bid": 130,
+      "bid": 131,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 899,
-      "bid": 898,
+      "bid": 800,
       "vendor": 50
     },
     "Egg": {
@@ -541,8 +541,8 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 94,
-      "bid": 42,
+      "ask": 93,
+      "bid": 43,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 138700,
+      "ask": 138698,
       "bid": 60004,
       "vendor": 5000
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 676,
+      "ask": 677,
       "bid": 625,
       "vendor": 162
     },
@@ -797,7 +797,7 @@
     },
     "Milk": {
       "ask": 35,
-      "bid": 26,
+      "bid": 12,
       "vendor": 2
     },
     "Milking Tea": {
@@ -807,7 +807,7 @@
     },
     "Mooberry": {
       "ask": 30,
-      "bid": 22,
+      "bid": 20,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -822,7 +822,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 28,
-      "bid": 22,
+      "bid": 25,
       "vendor": 18
     },
     "Orange": {
@@ -831,7 +831,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 35,
+      "ask": 34,
       "bid": 21,
       "vendor": 20
     },
@@ -881,7 +881,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 199,
+      "ask": 198,
       "bid": 110,
       "vendor": 30
     },
@@ -1062,7 +1062,7 @@
     },
     "Spaceberry Donut": {
       "ask": 496,
-      "bid": 401,
+      "bid": 402,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1161,7 +1161,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 515,
+      "ask": 500,
       "bid": 261,
       "vendor": 40
     },
@@ -1171,7 +1171,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 590,
+      "ask": 500,
       "bid": 332,
       "vendor": 40
     },
@@ -1226,7 +1226,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1449998,
+      "ask": 1000000,
       "bid": 600000,
       "vendor": 10000
     },
@@ -1311,7 +1311,7 @@
       "vendor": 420
     },
     "Verdant Shears": {
-      "ask": 20000,
+      "ask": -1,
       "bid": 435,
       "vendor": 420
     },
@@ -1357,7 +1357,7 @@
     },
     "Wisdom Tea": {
       "ask": 500,
-      "bid": 450,
+      "bid": 322,
       "vendor": 30
     },
     "Yogurt": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662437703.0932314
+  "time": 1662438602.115562
 }
