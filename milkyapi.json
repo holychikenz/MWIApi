@@ -516,13 +516,13 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 750,
+      "ask": 749,
       "bid": 510,
       "vendor": 50
     },
     "Egg": {
-      "ask": 19,
-      "bid": 18,
+      "ask": 20,
+      "bid": -1,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 71,
+      "ask": 70,
       "bid": 51,
       "vendor": 36
     },
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 170,
-      "bid": 163,
+      "bid": 164,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -787,7 +787,7 @@
     },
     "Marsberry Donut": {
       "ask": 380,
-      "bid": 265,
+      "bid": 270,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 319,
-      "bid": 266,
+      "bid": 268,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 7999,
+      "ask": 8075,
       "bid": 3,
       "vendor": 5000
     },
@@ -1057,11 +1057,11 @@
     },
     "Spaceberry Cake": {
       "ask": 457,
-      "bid": 410,
+      "bid": 411,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 491,
+      "ask": 494,
       "bid": 434,
       "vendor": 75
     },
@@ -1187,7 +1187,7 @@
     },
     "Swamp Essence": {
       "ask": 46,
-      "bid": 40,
+      "bid": 34,
       "vendor": 8
     },
     "Sweep": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662669001.8840585
+  "time": 1662669902.1882787
 }
