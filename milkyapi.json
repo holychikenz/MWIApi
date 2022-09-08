@@ -46,7 +46,7 @@
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": 11000,
+      "ask": 24875,
       "bid": 2500,
       "vendor": 1296
     },
@@ -91,7 +91,7 @@
       "vendor": 8
     },
     "Azure Plate Body": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 6000,
       "vendor": 1728
     },
@@ -151,8 +151,8 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 17,
-      "bid": 13,
+      "ask": 18,
+      "bid": 15,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 459,
+      "ask": 460,
       "bid": 300,
       "vendor": 40
     },
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 170,
-      "bid": 159,
+      "bid": 158,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -771,7 +771,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 449000,
+      "ask": 426550,
       "bid": 300018,
       "vendor": 1000
     },
@@ -796,7 +796,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 29,
+      "ask": 27,
       "bid": 13,
       "vendor": 2
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 44110,
+      "ask": 44112,
       "bid": 34014,
       "vendor": 3000
     },
@@ -906,7 +906,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 320,
+      "ask": 330,
       "bid": 185,
       "vendor": 30
     },
@@ -1031,7 +1031,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 2694,
+      "ask": 2559,
       "bid": -1,
       "vendor": 1500
     },
@@ -1186,7 +1186,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 46,
+      "ask": 44,
       "bid": 34,
       "vendor": 8
     },
@@ -1227,7 +1227,7 @@
     },
     "Vampire Fang": {
       "ask": 1800000,
-      "bid": 1000000,
+      "bid": 1000001,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1331,7 +1331,7 @@
       "vendor": 540
     },
     "Vision Helmet": {
-      "ask": 449998,
+      "ask": 449999,
       "bid": 250001,
       "vendor": 20000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662648658.0337706
+  "time": 1662649202.030271
 }
