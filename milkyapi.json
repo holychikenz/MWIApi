@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 34,
+      "ask": 39,
       "bid": 23,
       "vendor": 16
     },
@@ -51,12 +51,12 @@
       "vendor": 1296
     },
     "Azure Bulwark": {
-      "ask": 5000,
+      "ask": -1,
       "bid": 100,
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 196,
+      "ask": 197,
       "bid": 168,
       "vendor": 24
     },
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 209,
+      "ask": 214,
       "bid": 170,
       "vendor": 36
     },
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 67,
+      "ask": 69,
       "bid": 52,
       "vendor": 12
     },
@@ -281,8 +281,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 238,
-      "bid": 215,
+      "ask": 240,
+      "bid": 216,
       "vendor": 12
     },
     "Cheese": {
@@ -437,7 +437,7 @@
     },
     "Crimson Helmet": {
       "ask": -1,
-      "bid": 12000,
+      "bid": 12222,
       "vendor": 6480
     },
     "Crimson Mace": {
@@ -446,7 +446,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 21,
+      "ask": 22,
       "bid": 20,
       "vendor": 18
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 839,
+      "ask": 838,
       "bid": 510,
       "vendor": 50
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 169,
+      "ask": 168,
       "bid": 139,
       "vendor": 27
     },
@@ -571,8 +571,8 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 100000,
-      "bid": 75002,
+      "ask": 120000,
+      "bid": 75500,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 357500,
+      "ask": 340000,
       "bid": 300000,
       "vendor": 10000
     },
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 153,
+      "ask": 157,
       "bid": 105,
       "vendor": 4
     },
@@ -787,7 +787,7 @@
     },
     "Marsberry Donut": {
       "ask": 419,
-      "bid": 264,
+      "bid": 265,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 108200,
+      "ask": 108100,
       "bid": 22000,
       "vendor": 1000
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 14244,
+      "ask": 13532,
       "bid": 5003,
       "vendor": 1000
     },
@@ -1006,8 +1006,8 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 402,
-      "bid": 330,
+      "ask": 390,
+      "bid": 331,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1141,7 +1141,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 971,
+      "ask": 970,
       "bid": 550,
       "vendor": 75
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 568,
+      "ask": 567,
       "bid": 470,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662653702.4929826
+  "time": 1662654602.0833585
 }
