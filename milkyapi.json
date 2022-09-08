@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 22,
-      "bid": 14,
+      "bid": 13,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 238,
+      "ask": 239,
       "bid": 219,
       "vendor": 12
     },
@@ -521,8 +521,8 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 19,
-      "bid": -1,
+      "ask": 10,
+      "bid": 2,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -591,8 +591,8 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 25750,
-      "bid": 21000,
+      "ask": 25997,
+      "bid": 1,
       "vendor": 20000
     },
     "Gobo Stabber": {
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 632,
-      "bid": 506,
+      "bid": 507,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -781,7 +781,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 249,
+      "ask": 250,
       "bid": 213,
       "vendor": 50
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": 1489998,
-      "bid": 825001,
+      "bid": 825002,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 579,
+      "ask": 575,
       "bid": 530,
       "vendor": 75
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 902499,
+      "ask": 900000,
       "bid": 500010,
       "vendor": 1000
     },
@@ -1291,7 +1291,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 249,
+      "ask": 248,
       "bid": 48,
       "vendor": 4
     },
@@ -1331,7 +1331,7 @@
       "vendor": 540
     },
     "Vision Helmet": {
-      "ask": 449999,
+      "ask": 449997,
       "bid": 250001,
       "vendor": 20000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662677102.1865802
+  "time": 1662678001.8235457
 }
