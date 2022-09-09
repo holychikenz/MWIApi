@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 799,
-      "bid": 700,
+      "bid": 650,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 305000,
+      "ask": 304999,
       "bid": 190008,
       "vendor": 1000
     },
@@ -146,8 +146,8 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 46,
-      "bid": 43,
+      "ask": 47,
+      "bid": 44,
       "vendor": 8
     },
     "Blackberry": {
@@ -371,12 +371,12 @@
       "vendor": 108
     },
     "Cheesesmithing Tea": {
-      "ask": 699,
+      "ask": 600,
       "bid": 260,
       "vendor": 30
     },
     "Cleave": {
-      "ask": 200000,
+      "ask": 190000,
       "bid": 155050,
       "vendor": 1000
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 170,
-      "bid": 149,
+      "bid": 148,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -446,7 +446,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 31,
+      "ask": 1000,
       "bid": 22,
       "vendor": 18
     },
@@ -567,7 +567,7 @@
     },
     "Gathering Tea": {
       "ask": 472,
-      "bid": 375,
+      "bid": 400,
       "vendor": 10
     },
     "Gator Vest": {
@@ -596,7 +596,7 @@
       "vendor": 20000
     },
     "Gobo Stabber": {
-      "ask": 20093,
+      "ask": 20091,
       "bid": 20000,
       "vendor": 20000
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 803,
+      "ask": 700,
       "bid": 512,
       "vendor": 108
     },
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 669,
-      "bid": 656,
+      "ask": 674,
+      "bid": 657,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -727,7 +727,7 @@
     },
     "Holy Sword": {
       "ask": 145000,
-      "bid": 88008,
+      "bid": 95000,
       "vendor": 80190
     },
     "Intelligence Coffee": {
@@ -757,7 +757,7 @@
     },
     "Magnet": {
       "ask": 1999926,
-      "bid": 800112,
+      "bid": 800123,
       "vendor": 10000
     },
     "Magnetic Gloves": {
@@ -767,7 +767,7 @@
     },
     "Magnifying Glass": {
       "ask": 119740,
-      "bid": 110000,
+      "bid": 110001,
       "vendor": 10000
     },
     "Maim": {
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 24,
+      "ask": 25,
       "bid": 21,
       "vendor": 18
     },
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 108098,
+      "ask": 102693,
       "bid": 23100,
       "vendor": 1000
     },
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 11397,
+      "ask": 11396,
       "bid": 4502,
       "vendor": 1000
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": 1489998,
-      "bid": 830001,
+      "bid": 830005,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1161,7 +1161,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 500,
+      "ask": 499,
       "bid": 349,
       "vendor": 40
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662688802.4895065
+  "time": 1662689702.7323816
 }
