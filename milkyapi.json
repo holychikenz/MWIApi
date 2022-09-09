@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 998,
+      "ask": 999,
       "bid": 710,
       "vendor": 50
     },
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 800,
+      "ask": -1,
       "bid": 300,
       "vendor": 40
     },
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 753,
-      "bid": 531,
+      "bid": 535,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 670,
-      "bid": 637,
+      "bid": 645,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 95000,
+      "ask": 97558,
       "bid": 23105,
       "vendor": 1000
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 305,
-      "bid": 262,
+      "bid": 259,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -966,8 +966,8 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 38,
-      "bid": 35,
+      "ask": 37,
+      "bid": 31,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 458,
+      "ask": 639,
       "bid": 425,
       "vendor": 75
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 570,
+      "ask": 572,
       "bid": 542,
       "vendor": 75
     },
@@ -1126,7 +1126,7 @@
       "vendor": 1000
     },
     "Sugar": {
-      "ask": 3,
+      "ask": 4,
       "bid": 2,
       "vendor": 1
     },
@@ -1177,12 +1177,12 @@
     },
     "Super Power Coffee": {
       "ask": 699,
-      "bid": 410,
+      "bid": 415,
       "vendor": 75
     },
     "Super Stamina Coffee": {
       "ask": 350,
-      "bid": 253,
+      "bid": 275,
       "vendor": 40
     },
     "Swamp Essence": {
@@ -1197,7 +1197,7 @@
     },
     "Swiftness Coffee": {
       "ask": 561,
-      "bid": 520,
+      "bid": 530,
       "vendor": 50
     },
     "Toughness": {
@@ -1331,7 +1331,7 @@
       "vendor": 540
     },
     "Vision Helmet": {
-      "ask": 449989,
+      "ask": 449988,
       "bid": 4,
       "vendor": 20000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662753602.688343
+  "time": 1662754502.5605028
 }
