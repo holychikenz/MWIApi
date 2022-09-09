@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 246,
-      "bid": 219,
+      "bid": 220,
       "vendor": 12
     },
     "Cheese": {
@@ -497,12 +497,12 @@
     },
     "Donut": {
       "ask": 60,
-      "bid": 8,
+      "bid": 10,
       "vendor": 5
     },
     "Dragon Fruit": {
       "ask": 63,
-      "bid": 31,
+      "bid": 32,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -546,13 +546,13 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": -1,
+      "ask": 800,
       "bid": 300,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
       "ask": 178,
-      "bid": 106,
+      "bid": 107,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 800,
-      "bid": 520,
+      "bid": 521,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -806,8 +806,8 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 45,
-      "bid": 35,
+      "ask": 46,
+      "bid": 36,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -821,8 +821,8 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 24,
-      "bid": 22,
+      "ask": 25,
+      "bid": 23,
       "vendor": 18
     },
     "Orange": {
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 514,
+      "ask": 500,
       "bid": 390,
       "vendor": 27
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662717601.8473606
+  "time": 1662718502.606713
 }
