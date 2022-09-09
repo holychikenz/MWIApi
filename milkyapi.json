@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 38,
-      "bid": 27,
+      "bid": 28,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 166,
-      "bid": 130,
+      "bid": 122,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -446,7 +446,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 60,
+      "ask": 50,
       "bid": 21,
       "vendor": 18
     },
@@ -476,7 +476,7 @@
       "vendor": 9072
     },
     "Crimson Spear": {
-      "ask": 29999,
+      "ask": -1,
       "bid": 3000,
       "vendor": 11664
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 173,
+      "ask": 150,
       "bid": 107,
       "vendor": 27
     },
@@ -751,12 +751,12 @@
       "vendor": 10000
     },
     "Lucky Coffee": {
-      "ask": 295,
+      "ask": 296,
       "bid": 269,
       "vendor": 40
     },
     "Magnet": {
-      "ask": 1999914,
+      "ask": 1999912,
       "bid": 800123,
       "vendor": 10000
     },
@@ -766,7 +766,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 119740,
+      "ask": 139660,
       "bid": 112000,
       "vendor": 10000
     },
@@ -807,7 +807,7 @@
     },
     "Mooberry": {
       "ask": 46,
-      "bid": 36,
+      "bid": 37,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -891,13 +891,13 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 8400,
+      "ask": 8379,
       "bid": 5003,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 66498,
-      "bid": 45000,
+      "ask": 76999,
+      "bid": 60002,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -907,11 +907,11 @@
     },
     "Power Coffee": {
       "ask": 328,
-      "bid": 302,
+      "bid": 310,
       "vendor": 30
     },
     "Precision": {
-      "ask": 35997,
+      "ask": 29999,
       "bid": 22061,
       "vendor": 1000
     },
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 310,
+      "ask": 308,
       "bid": 260,
       "vendor": 81
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 39,
+      "ask": 38,
       "bid": 35,
       "vendor": 27
     },
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 8500,
+      "ask": 8479,
       "bid": 4502,
       "vendor": 1000
     },
@@ -1052,7 +1052,7 @@
     },
     "Spaceberry": {
       "ask": 88,
-      "bid": 67,
+      "bid": 68,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1072,7 +1072,7 @@
     },
     "Spike Shell": {
       "ask": 474989,
-      "bid": 52511,
+      "bid": 52512,
       "vendor": 1000
     },
     "Stalactite Shard": {
@@ -1177,7 +1177,7 @@
     },
     "Super Power Coffee": {
       "ask": 600,
-      "bid": 404,
+      "bid": 405,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662732902.6897378
+  "time": 1662733802.292659
 }
