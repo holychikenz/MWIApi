@@ -51,7 +51,7 @@
       "vendor": 1296
     },
     "Azure Bulwark": {
-      "ask": -1,
+      "ask": 14000,
       "bid": 100,
       "vendor": 2592
     },
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 216,
+      "ask": 215,
       "bid": 174,
       "vendor": 36
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 167,
-      "bid": 124,
+      "bid": 130,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 68,
-      "bid": 57,
+      "bid": 60,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -751,7 +751,7 @@
       "vendor": 10000
     },
     "Lucky Coffee": {
-      "ask": 296,
+      "ask": 295,
       "bid": 269,
       "vendor": 40
     },
@@ -936,8 +936,8 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 315,
-      "bid": 272,
+      "ask": 313,
+      "bid": 259,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1051,7 +1051,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 89,
+      "ask": 88,
       "bid": 75,
       "vendor": 27
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662725702.548648
+  "time": 1662726602.3022232
 }
