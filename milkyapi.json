@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 64,
-      "bid": 55,
+      "bid": 56,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -281,8 +281,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 239,
-      "bid": 219,
+      "ask": 246,
+      "bid": 218,
       "vendor": 12
     },
     "Cheese": {
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 63,
-      "bid": 23,
+      "bid": 30,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -546,18 +546,18 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 460,
+      "ask": 598,
       "bid": 300,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
       "ask": 179,
-      "bid": 104,
+      "bid": 105,
       "vendor": 27
     },
     "Foraging Tea": {
       "ask": 224,
-      "bid": -1,
+      "bid": 125,
       "vendor": 10
     },
     "Frenzy": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 630,
+      "ask": 900,
       "bid": 511,
       "vendor": 108
     },
@@ -746,8 +746,8 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 3499995,
-      "bid": 3000002,
+      "ask": 4413225,
+      "bid": 3000001,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -771,7 +771,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 400000,
+      "ask": 390000,
       "bid": 300018,
       "vendor": 1000
     },
@@ -846,7 +846,7 @@
       "vendor": 3000
     },
     "Panda Gloves": {
-      "ask": 500000,
+      "ask": -1,
       "bid": 250000,
       "vendor": 60000
     },
@@ -881,7 +881,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 173,
+      "ask": 172,
       "bid": 140,
       "vendor": 30
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 37,
+      "ask": 38,
       "bid": 35,
       "vendor": 27
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": 1489998,
-      "bid": 825003,
+      "bid": 825005,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1107,7 +1107,7 @@
     },
     "Strawberry": {
       "ask": 39,
-      "bid": 28,
+      "bid": 30,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 855000,
+      "ask": 812250,
       "bid": 500010,
       "vendor": 1000
     },
@@ -1151,7 +1151,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 880,
+      "ask": 800,
       "bid": 351,
       "vendor": 50
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662686102.2709513
+  "time": 1662687002.1470435
 }
