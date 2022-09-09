@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 22,
+      "ask": 25,
       "bid": 13,
       "vendor": 2
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 47,
+      "ask": 46,
       "bid": 43,
       "vendor": 8
     },
@@ -507,7 +507,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 225,
-      "bid": 155,
+      "bid": 151,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 410,
+      "ask": 400,
       "bid": 175,
       "vendor": 54
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 631,
+      "ask": 630,
       "bid": 510,
       "vendor": 108
     },
@@ -677,7 +677,7 @@
     },
     "Holy Hammer": {
       "ask": 120000,
-      "bid": 100000,
+      "bid": 100001,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -711,12 +711,12 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 117795,
+      "ask": 117794,
       "bid": 105000,
       "vendor": 62370
     },
     "Holy Spatula": {
-      "ask": 118999,
+      "ask": 118000,
       "bid": 100000,
       "vendor": 62370
     },
@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1852500,
+      "ask": 1852499,
       "bid": 1000000,
       "vendor": 500000
     },
@@ -746,7 +746,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 3499997,
+      "ask": 3499995,
       "bid": 3000002,
       "vendor": 10000
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 10000,
+      "ask": 9800,
       "bid": 5003,
       "vendor": 1000
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 318,
-      "bid": 270,
+      "bid": 271,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 600,
+      "ask": 525,
       "bid": 333,
       "vendor": 27
     },
@@ -1051,7 +1051,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 66,
+      "ask": 90,
       "bid": 51,
       "vendor": 27
     },
@@ -1186,7 +1186,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 45,
+      "ask": 44,
       "bid": 36,
       "vendor": 8
     },
@@ -1221,12 +1221,12 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 299,
+      "ask": 298,
       "bid": 260,
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1466111,
+      "ask": 1450000,
       "bid": 1000001,
       "vendor": 10000
     },
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 1187025,
-      "bid": 1000005,
+      "bid": 1000006,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662683402.5228095
+  "time": 1662684302.8902707
 }
