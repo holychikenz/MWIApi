@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 25,
+      "ask": 24,
       "bid": 13,
       "vendor": 2
     },
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 47,
-      "bid": 45,
+      "bid": 44,
       "vendor": 8
     },
     "Blackberry": {
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 63,
-      "bid": 40,
+      "bid": 31,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -526,8 +526,8 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 397,
-      "bid": 176,
+      "ask": 396,
+      "bid": 205,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 71,
-      "bid": 56,
+      "bid": 57,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1750000,
+      "ask": 1852499,
       "bid": 1000000,
       "vendor": 500000
     },
@@ -791,7 +791,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 175000,
+      "ask": 165000,
       "bid": 25645,
       "vendor": 50000
     },
@@ -806,7 +806,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 46,
+      "ask": 45,
       "bid": 34,
       "vendor": 9
     },
@@ -862,7 +862,7 @@
     },
     "Peach Yogurt": {
       "ask": 132,
-      "bid": 95,
+      "bid": 100,
       "vendor": 40
     },
     "Pierce": {
@@ -871,12 +871,12 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 149625,
+      "ask": 149600,
       "bid": 45000,
       "vendor": 6000
     },
     "Plum": {
-      "ask": 13,
+      "ask": 12,
       "bid": 7,
       "vendor": 6
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 9799,
+      "ask": 9309,
       "bid": 5003,
       "vendor": 1000
     },
@@ -1016,12 +1016,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 6999,
+      "ask": 6484,
       "bid": 4023,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 11997,
+      "ask": 11397,
       "bid": 4502,
       "vendor": 1000
     },
@@ -1041,7 +1041,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 749,
+      "ask": 712,
       "bid": 276,
       "vendor": 100
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 579,
+      "ask": 578,
       "bid": 538,
       "vendor": 75
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 812250,
+      "ask": 791638,
       "bid": 500010,
       "vendor": 1000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 600,
+      "ask": 550,
       "bid": 401,
       "vendor": 75
     },
@@ -1291,7 +1291,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 200,
+      "ask": 201,
       "bid": 48,
       "vendor": 4
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662702302.6504455
+  "time": 1662704103.8756208
 }
