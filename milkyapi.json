@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 75,
+      "ask": 76,
       "bid": 60,
       "vendor": 54
     },
@@ -507,11 +507,11 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 208,
-      "bid": 129,
+      "bid": 130,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": -1,
+      "ask": 480,
       "bid": 206,
       "vendor": 50
     },
@@ -536,7 +536,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 199,
+      "ask": 198,
       "bid": 112,
       "vendor": 18
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 634,
+      "ask": 633,
       "bid": 610,
       "vendor": 162
     },
@@ -691,8 +691,8 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 187,
-      "bid": 177,
+      "ask": 186,
+      "bid": 179,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -772,7 +772,7 @@
     },
     "Maim": {
       "ask": 380000,
-      "bid": 100007,
+      "bid": 220000,
       "vendor": 1000
     },
     "Marsberry": {
@@ -806,8 +806,8 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 46,
-      "bid": 32,
+      "ask": 45,
+      "bid": 26,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -896,7 +896,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 75000,
+      "ask": 74999,
       "bid": 42500,
       "vendor": 3000
     },
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 34997,
+      "ask": 34000,
       "bid": 22062,
       "vendor": 1000
     },
@@ -1007,7 +1007,7 @@
     },
     "Red Tea Leaf": {
       "ask": 425,
-      "bid": 337,
+      "bid": 354,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 11432,
+      "ask": 11403,
       "bid": 4502,
       "vendor": 1000
     },
@@ -1092,7 +1092,7 @@
     },
     "Star Fruit": {
       "ask": 162,
-      "bid": 96,
+      "bid": 97,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 574,
+      "ask": 575,
       "bid": 542,
       "vendor": 75
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 747128,
+      "ask": 700000,
       "bid": 500018,
       "vendor": 1000
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 577,
+      "ask": 578,
       "bid": 471,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662851702.2914345
+  "time": 1662852601.965823
 }
