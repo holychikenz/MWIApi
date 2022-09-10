@@ -192,7 +192,7 @@
     },
     "Burble Boots": {
       "ask": -1,
-      "bid": 3000,
+      "bid": 2501,
       "vendor": 2160
     },
     "Burble Brush": {
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 204,
+      "ask": 203,
       "bid": 174,
       "vendor": 36
     },
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 50,
+      "ask": 72,
       "bid": 38,
       "vendor": 12
     },
@@ -292,7 +292,7 @@
     },
     "Cheese Boots": {
       "ask": 523,
-      "bid": 133,
+      "bid": 132,
       "vendor": 48
     },
     "Cheese Brush": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 280,
+      "ask": 279,
       "bid": 182,
       "vendor": 54
     },
@@ -537,7 +537,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 219,
-      "bid": 114,
+      "bid": 112,
       "vendor": 18
     },
     "Eyessence": {
@@ -617,12 +617,12 @@
     },
     "Granite Bludgeon": {
       "ask": -1,
-      "bid": 2000000,
+      "bid": 4000000,
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 130,
-      "bid": 69,
+      "ask": 129,
+      "bid": 70,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -732,7 +732,7 @@
     },
     "Intelligence Coffee": {
       "ask": 290,
-      "bid": 133,
+      "bid": 134,
       "vendor": 10
     },
     "Large Pouch": {
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 1750000,
+      "ask": 1749999,
       "bid": 820000,
       "vendor": 10000
     },
@@ -776,7 +776,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 33,
+      "ask": 34,
       "bid": 25,
       "vendor": 14
     },
@@ -796,7 +796,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 24,
+      "ask": 23,
       "bid": 14,
       "vendor": 2
     },
@@ -807,7 +807,7 @@
     },
     "Mooberry": {
       "ask": 46,
-      "bid": 35,
+      "bid": 32,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 281,
+      "ask": 280,
       "bid": 221,
       "vendor": 81
     },
@@ -981,7 +981,7 @@
       "vendor": 20979
     },
     "Rainbow Pot": {
-      "ask": 109999,
+      "ask": 110000,
       "bid": 23000,
       "vendor": 20979
     },
@@ -1056,8 +1056,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 786,
-      "bid": 536,
+      "ask": 784,
+      "bid": 537,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1096,13 +1096,13 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 749,
+      "ask": 686,
       "bid": 300,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 574,
-      "bid": 541,
+      "bid": 542,
       "vendor": 75
     },
     "Strawberry": {
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 687,
-      "bid": 570,
+      "bid": 571,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1152,7 +1152,7 @@
     },
     "Super Defense Coffee": {
       "ask": 757,
-      "bid": 400,
+      "bid": 401,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1166,8 +1166,8 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 947,
-      "bid": 450,
+      "ask": 940,
+      "bid": 451,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1177,7 +1177,7 @@
     },
     "Super Power Coffee": {
       "ask": 690,
-      "bid": 502,
+      "bid": 503,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1191,13 +1191,13 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 90247,
+      "ask": 90246,
       "bid": 55001,
       "vendor": 1000
     },
     "Swiftness Coffee": {
       "ask": 663,
-      "bid": 552,
+      "bid": 553,
       "vendor": 50
     },
     "Toughness": {
@@ -1222,7 +1222,7 @@
     },
     "Twilight Essence": {
       "ask": 325,
-      "bid": 270,
+      "bid": 275,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1242,7 +1242,7 @@
     },
     "Verdant Boots": {
       "ask": 9500,
-      "bid": 245,
+      "bid": -1,
       "vendor": 240
     },
     "Verdant Brush": {
@@ -1361,10 +1361,10 @@
       "vendor": 30
     },
     "Yogurt": {
-      "ask": 25,
+      "ask": 24,
       "bid": 12,
       "vendor": 5
     }
   },
-  "time": 1662847202.6388185
+  "time": 1662848102.5086637
 }
