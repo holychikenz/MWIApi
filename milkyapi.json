@@ -197,7 +197,7 @@
     },
     "Burble Brush": {
       "ask": 1000000000000,
-      "bid": 25000,
+      "bid": 100,
       "vendor": 3780
     },
     "Burble Buckler": {
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 72,
-      "bid": 38,
+      "bid": 50,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -536,7 +536,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 219,
+      "ask": 200,
       "bid": 112,
       "vendor": 18
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 420,
+      "ask": 444,
       "bid": 240,
       "vendor": 10
     },
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 187,
-      "bid": 176,
+      "bid": 177,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -721,7 +721,7 @@
       "vendor": 62370
     },
     "Holy Spear": {
-      "ask": 129998,
+      "ask": 129997,
       "bid": 75000,
       "vendor": 80190
     },
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 2999998,
-      "bid": 2040000,
+      "bid": 1500000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 7181,
+      "ask": 6822,
       "bid": 5003,
       "vendor": 1000
     },
@@ -1016,12 +1016,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 7218,
+      "ask": 6857,
       "bid": 4028,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 12034,
+      "ask": 11432,
       "bid": 4502,
       "vendor": 1000
     },
@@ -1041,7 +1041,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 2431,
+      "ask": 2309,
       "bid": 431,
       "vendor": 100
     },
@@ -1056,12 +1056,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 784,
+      "ask": 785,
       "bid": 537,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 452,
+      "ask": 462,
       "bid": 373,
       "vendor": 75
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 574,
+      "ask": 575,
       "bid": 542,
       "vendor": 75
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 690,
+      "ask": 698,
       "bid": 503,
       "vendor": 75
     },
@@ -1186,17 +1186,17 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 48,
+      "ask": 46,
       "bid": 43,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 90246,
+      "ask": 85734,
       "bid": 55001,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 663,
+      "ask": 664,
       "bid": 553,
       "vendor": 50
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662848102.5086637
+  "time": 1662849002.3395817
 }
