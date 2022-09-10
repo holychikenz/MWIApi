@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 74,
+      "ask": 80,
       "bid": 65,
       "vendor": 54
     },
@@ -162,12 +162,12 @@
     },
     "Blackberry Donut": {
       "ask": 100,
-      "bid": 32,
+      "bid": 28,
       "vendor": 20
     },
     "Blessed Tea": {
       "ask": 1000,
-      "bid": 900,
+      "bid": -1,
       "vendor": 75
     },
     "Blueberry": {
@@ -346,7 +346,7 @@
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 996,
+      "ask": 999,
       "bid": -1,
       "vendor": 84
     },
@@ -356,7 +356,7 @@
       "vendor": 84
     },
     "Cheese Spatula": {
-      "ask": 2000,
+      "ask": 8000,
       "bid": 301,
       "vendor": 84
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 168,
-      "bid": 137,
+      "bid": 138,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -481,7 +481,7 @@
       "vendor": 11664
     },
     "Crimson Sword": {
-      "ask": 25208,
+      "ask": 26536,
       "bid": 3000,
       "vendor": 11664
     },
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 73,
-      "bid": 63,
+      "bid": 64,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 749,
+      "ask": 748,
       "bid": 562,
       "vendor": 108
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 131670,
+      "ask": 130000,
       "bid": 45000,
       "vendor": 6000
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": -1,
-      "bid": 835040,
+      "bid": 835044,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662789602.106252
+  "time": 1662790502.396099
 }
