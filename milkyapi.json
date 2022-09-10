@@ -352,7 +352,7 @@
     },
     "Cheese Shears": {
       "ask": -1,
-      "bid": 85,
+      "bid": 200,
       "vendor": 84
     },
     "Cheese Spatula": {
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 294897,
-      "bid": 250002,
+      "bid": 250001,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 640,
-      "bid": 607,
+      "bid": 608,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 132,
+      "ask": 134,
       "bid": 95,
       "vendor": 40
     },
@@ -1051,7 +1051,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 84,
+      "ask": 83,
       "bid": 71,
       "vendor": 27
     },
@@ -1086,7 +1086,7 @@
       "vendor": 400000
     },
     "Stamina Coffee": {
-      "ask": 232,
+      "ask": 233,
       "bid": 122,
       "vendor": 10
     },
@@ -1117,7 +1117,7 @@
     },
     "Strawberry Donut": {
       "ask": 234,
-      "bid": 82,
+      "bid": 79,
       "vendor": 30
     },
     "Stunning Blow": {
@@ -1246,7 +1246,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": 50000,
+      "ask": -1,
       "bid": 750,
       "vendor": 420
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662834602.6604502
+  "time": 1662835502.5717678
 }
