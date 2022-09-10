@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 36,
+      "ask": 32,
       "bid": 28,
       "vendor": 16
     },
@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 77,
+      "ask": 76,
       "bid": 60,
       "vendor": 54
     },
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 700,
-      "bid": 571,
+      "bid": 572,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -622,7 +622,7 @@
     },
     "Green Tea Leaf": {
       "ask": 106,
-      "bid": 66,
+      "bid": 67,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -642,7 +642,7 @@
     },
     "Holy Boots": {
       "ask": 36889,
-      "bid": 28757,
+      "bid": 28759,
       "vendor": 35640
     },
     "Holy Brush": {
@@ -651,7 +651,7 @@
       "vendor": 62370
     },
     "Holy Buckler": {
-      "ask": 84998,
+      "ask": 80000,
       "bid": -1,
       "vendor": 53460
     },
@@ -686,7 +686,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 110000,
+      "ask": 105000,
       "bid": 87000,
       "vendor": 80190
     },
@@ -721,7 +721,7 @@
       "vendor": 62370
     },
     "Holy Spear": {
-      "ask": 132897,
+      "ask": 130000,
       "bid": 75000,
       "vendor": 80190
     },
@@ -746,8 +746,8 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 3236013,
-      "bid": 2200006,
+      "ask": 3074212,
+      "bid": 2400007,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -757,7 +757,7 @@
     },
     "Magnet": {
       "ask": 1899894,
-      "bid": 800123,
+      "bid": 820000,
       "vendor": 10000
     },
     "Magnetic Gloves": {
@@ -771,7 +771,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 421800,
+      "ask": 421809,
       "bid": 305000,
       "vendor": 1000
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 37913,
+      "ask": 37500,
       "bid": 34015,
       "vendor": 3000
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 37,
+      "ask": 38,
       "bid": 33,
       "vendor": 27
     },
@@ -1007,7 +1007,7 @@
     },
     "Red Tea Leaf": {
       "ask": 455,
-      "bid": 380,
+      "bid": 385,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 14214,
+      "ask": 12828,
       "bid": 4502,
       "vendor": 1000
     },
@@ -1076,8 +1076,8 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2197887,
-      "bid": 1000003,
+      "ask": 2197880,
+      "bid": 1000005,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1101,8 +1101,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 574,
-      "bid": 537,
+      "ask": 573,
+      "bid": 538,
       "vendor": 75
     },
     "Strawberry": {
@@ -1141,7 +1141,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 964,
+      "ask": 963,
       "bid": 530,
       "vendor": 75
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 690,
+      "ask": 698,
       "bid": 450,
       "vendor": 75
     },
@@ -1196,8 +1196,8 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 660,
-      "bid": 550,
+      "ask": 664,
+      "bid": 551,
       "vendor": 50
     },
     "Toughness": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662816602.7599502
+  "time": 1662817502.111378
 }
