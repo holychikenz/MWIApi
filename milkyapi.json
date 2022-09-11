@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 70,
-      "bid": 58,
+      "bid": 39,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 169,
+      "ask": 170,
       "bid": 143,
       "vendor": 54
     },
@@ -516,12 +516,12 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 999,
+      "ask": 998,
       "bid": 710,
       "vendor": 50
     },
     "Egg": {
-      "ask": 50,
+      "ask": 99,
       "bid": 10,
       "vendor": 1
     },
@@ -611,7 +611,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 350,
+      "ask": 378,
       "bid": 125,
       "vendor": 20
     },
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 185,
+      "ask": 189,
       "bid": 170,
       "vendor": 54
     },
@@ -746,7 +746,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 2849523,
+      "ask": 2849522,
       "bid": 1400002,
       "vendor": 10000
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 6822,
+      "ask": 6481,
       "bid": 5003,
       "vendor": 1000
     },
@@ -1016,12 +1016,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 6513,
+      "ask": 6187,
       "bid": 4029,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 10832,
+      "ask": 10000,
       "bid": 4502,
       "vendor": 1000
     },
@@ -1051,13 +1051,13 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 83,
+      "ask": 85,
       "bid": 57,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 764,
-      "bid": 547,
+      "ask": 757,
+      "bid": 300,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1146,7 +1146,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 992,
+      "ask": 1099,
       "bid": 451,
       "vendor": 50
     },
@@ -1191,7 +1191,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 75999,
+      "ask": 75998,
       "bid": 55001,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662884102.3134003
+  "time": 1662885002.3418427
 }
