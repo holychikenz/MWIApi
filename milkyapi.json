@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 29,
+      "ask": 28,
       "bid": 20,
       "vendor": 2
     },
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 819,
+      "ask": 820,
       "bid": 650,
       "vendor": 75
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 66,
+      "ask": 69,
       "bid": 44,
       "vendor": 8
     },
@@ -446,7 +446,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 23,
+      "ask": 26,
       "bid": 22,
       "vendor": 18
     },
@@ -611,8 +611,8 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 366,
-      "bid": 200,
+      "ask": 379,
+      "bid": 125,
       "vendor": 20
     },
     "Granite Bludgeon": {
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 628,
-      "bid": 592,
+      "bid": 593,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -776,7 +776,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 28,
+      "ask": 27,
       "bid": 22,
       "vendor": 14
     },
@@ -822,11 +822,11 @@
     },
     "Moolong Tea Leaf": {
       "ask": 38,
-      "bid": 31,
+      "bid": 32,
       "vendor": 18
     },
     "Orange": {
-      "ask": 13,
+      "ask": 12,
       "bid": 6,
       "vendor": 4
     },
@@ -876,7 +876,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 12,
+      "ask": 11,
       "bid": 7,
       "vendor": 6
     },
@@ -991,7 +991,7 @@
       "vendor": 20979
     },
     "Rainbow Spatula": {
-      "ask": 32973,
+      "ask": 40000,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 36,
+      "ask": 35,
       "bid": 27,
       "vendor": 6
     },
@@ -1177,7 +1177,7 @@
     },
     "Super Power Coffee": {
       "ask": 690,
-      "bid": 580,
+      "bid": 600,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1187,7 +1187,7 @@
     },
     "Swamp Essence": {
       "ask": 47,
-      "bid": 43,
+      "bid": 41,
       "vendor": 8
     },
     "Sweep": {
@@ -1262,7 +1262,7 @@
     },
     "Verdant Cheese": {
       "ask": 167,
-      "bid": 150,
+      "bid": 145,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 609,
+      "ask": 689,
       "bid": 473,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662925502.3181937
+  "time": 1662926402.068807
 }
