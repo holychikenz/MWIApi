@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 49,
+      "ask": 48,
       "bid": 21,
       "vendor": 16
     },
@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 999,
-      "bid": -1,
+      "bid": 650,
       "vendor": 75
     },
     "Blueberry": {
@@ -347,7 +347,7 @@
     },
     "Cheese Pot": {
       "ask": 999,
-      "bid": -1,
+      "bid": 160,
       "vendor": 84
     },
     "Cheese Shears": {
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 598,
+      "ask": 599,
       "bid": 300,
       "vendor": 40
     },
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 96677,
-      "bid": 35001,
+      "bid": 32500,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -622,7 +622,7 @@
     },
     "Green Tea Leaf": {
       "ask": 128,
-      "bid": 75,
+      "bid": 76,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -677,7 +677,7 @@
     },
     "Holy Hammer": {
       "ask": 104999,
-      "bid": 100000,
+      "bid": 100001,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -697,7 +697,7 @@
     },
     "Holy Plate Body": {
       "ask": 161489,
-      "bid": 125001,
+      "bid": 125000,
       "vendor": 71280
     },
     "Holy Plate Legs": {
@@ -771,7 +771,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 389174,
+      "ask": 500000,
       "bid": 220000,
       "vendor": 1000
     },
@@ -791,7 +791,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 189999,
+      "ask": 190000,
       "bid": 25645,
       "vendor": 50000
     },
@@ -882,7 +882,7 @@
     },
     "Plum Gummy": {
       "ask": 146,
-      "bid": 36,
+      "bid": 37,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -936,8 +936,8 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 279,
-      "bid": 221,
+      "ask": 278,
+      "bid": 230,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 14998,
+      "ask": 7000,
       "bid": 3,
       "vendor": 5000
     },
@@ -1157,7 +1157,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 693,
-      "bid": 500,
+      "bid": 510,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1261,7 +1261,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 174,
+      "ask": 167,
       "bid": 150,
       "vendor": 12
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662858902.3244278
+  "time": 1662859801.7705424
 }
