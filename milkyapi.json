@@ -126,12 +126,12 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 77,
+      "ask": 76,
       "bid": 60,
       "vendor": 54
     },
     "Berserk": {
-      "ask": 246997,
+      "ask": 240000,
       "bid": 150003,
       "vendor": 1000
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 611,
+      "ask": 610,
       "bid": 581,
       "vendor": 108
     },
@@ -641,12 +641,12 @@
       "vendor": 5
     },
     "Holy Boots": {
-      "ask": 35045,
+      "ask": 36889,
       "bid": 28757,
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 124900,
+      "ask": 124850,
       "bid": 90000,
       "vendor": 62370
     },
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 625,
-      "bid": 563,
+      "ask": 624,
+      "bid": 564,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 185,
-      "bid": 172,
+      "bid": 173,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 2700266,
-      "bid": 1000003,
+      "bid": 1100000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -791,12 +791,12 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 190000,
+      "ask": -1,
       "bid": 25645,
       "vendor": 50000
     },
     "Milk": {
-      "ask": 20,
+      "ask": 18,
       "bid": 16,
       "vendor": 2
     },
@@ -872,7 +872,7 @@
     },
     "Pincer Gloves": {
       "ask": 114999,
-      "bid": 45001,
+      "bid": 45000,
       "vendor": 6000
     },
     "Plum": {
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 225,
+      "ask": 224,
       "bid": 163,
       "vendor": 81
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 7000,
+      "ask": 6983,
       "bid": 3,
       "vendor": 5000
     },
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 695,
+      "ask": 694,
       "bid": 547,
       "vendor": 75
     },
@@ -1166,8 +1166,8 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 666,
-      "bid": 500,
+      "ask": 899,
+      "bid": 501,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662933602.2794745
+  "time": 1662934502.9480538
 }
