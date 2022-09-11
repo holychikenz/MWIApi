@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 30,
-      "bid": 15,
+      "ask": 29,
+      "bid": 20,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 188,
-      "bid": 156,
+      "bid": 165,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 18,
-      "bid": 17,
+      "bid": 16,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 627,
+      "ask": 628,
       "bid": 592,
       "vendor": 162
     },
@@ -827,7 +827,7 @@
     },
     "Orange": {
       "ask": 13,
-      "bid": 5,
+      "bid": 6,
       "vendor": 4
     },
     "Orange Gummy": {
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 232,
+      "ask": 231,
       "bid": 161,
       "vendor": 81
     },
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 33078,
+      "ask": 13830,
       "bid": 4504,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662924602.6635423
+  "time": 1662925502.3181937
 }
