@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 100,
+      "ask": 99,
       "bid": 81,
       "vendor": 4
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 168,
+      "ask": 170,
       "bid": 142,
       "vendor": 54
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 631,
-      "bid": 609,
+      "bid": 607,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -787,7 +787,7 @@
     },
     "Marsberry Donut": {
       "ask": 369,
-      "bid": 320,
+      "bid": 100,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -817,12 +817,12 @@
     },
     "Mooberry Donut": {
       "ask": 290,
-      "bid": 126,
+      "bid": 127,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
       "ask": 44,
-      "bid": 25,
+      "bid": 26,
       "vendor": 18
     },
     "Orange": {
@@ -1051,18 +1051,18 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 76,
+      "ask": 80,
       "bid": 57,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 886,
+      "ask": 670,
       "bid": 543,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 450,
-      "bid": 376,
+      "bid": 377,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1092,7 +1092,7 @@
     },
     "Star Fruit": {
       "ask": 162,
-      "bid": 101,
+      "bid": 102,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1121,8 +1121,8 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 700000,
-      "bid": 500018,
+      "ask": 699999,
+      "bid": 500017,
       "vendor": 1000
     },
     "Sugar": {
@@ -1131,7 +1131,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 685,
+      "ask": 686,
       "bid": 571,
       "vendor": 50
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 696,
+      "ask": 697,
       "bid": 530,
       "vendor": 75
     },
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 664,
+      "ask": -1,
       "bid": 553,
       "vendor": 50
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662866102.9806523
+  "time": 1662867002.7695725
 }
