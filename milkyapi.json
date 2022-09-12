@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 238,
+      "ask": 239,
       "bid": 219,
       "vendor": 12
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 168,
+      "ask": 167,
       "bid": 146,
       "vendor": 54
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 227,
+      "ask": 226,
       "bid": 185,
       "vendor": 54
     },
@@ -791,7 +791,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 100000,
+      "ask": -1,
       "bid": 25645,
       "vendor": 50000
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 4845,
+      "ask": 4592,
       "bid": 3,
       "vendor": 5000
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 687,
+      "ask": 686,
       "bid": 473,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662965102.567313
+  "time": 1662966002.3070316
 }
