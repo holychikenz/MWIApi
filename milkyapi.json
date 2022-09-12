@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 46,
+      "ask": 45,
       "bid": 40,
       "vendor": 16
     },
@@ -86,7 +86,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 50,
+      "ask": 55,
       "bid": 42,
       "vendor": 8
     },
@@ -231,7 +231,7 @@
       "vendor": 3780
     },
     "Burble Helmet": {
-      "ask": 19000,
+      "ask": -1,
       "bid": 2806,
       "vendor": 2700
     },
@@ -502,17 +502,17 @@
     },
     "Dragon Fruit": {
       "ask": 293,
-      "bid": 62,
+      "bid": 61,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 260,
+      "ask": 259,
       "bid": 130,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
       "ask": 350,
-      "bid": 246,
+      "bid": 245,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 290780,
+      "ask": 306850,
       "bid": 280000,
       "vendor": 10000
     },
@@ -686,7 +686,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 124999,
+      "ask": 125000,
       "bid": 86000,
       "vendor": 80190
     },
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 2558836,
-      "bid": 1500010,
+      "bid": 1500000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -867,7 +867,7 @@
     },
     "Pierce": {
       "ask": 83642,
-      "bid": 23111,
+      "bid": 25000,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 29500,
+      "ask": 27949,
       "bid": 22062,
       "vendor": 1000
     },
@@ -1036,7 +1036,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 14250,
+      "ask": 10000,
       "bid": 3000,
       "vendor": 6000
     },
@@ -1051,18 +1051,18 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 84,
+      "ask": 85,
       "bid": 69,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 675,
+      "ask": 673,
       "bid": 577,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 483,
-      "bid": 382,
+      "bid": 383,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1101,8 +1101,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 566,
-      "bid": 565,
+      "ask": 564,
+      "bid": 541,
       "vendor": 75
     },
     "Strawberry": {
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 572094,
-      "bid": -1,
+      "bid": 250000,
       "vendor": 1000
     },
     "Sugar": {
@@ -1136,7 +1136,7 @@
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 844,
+      "ask": 849,
       "bid": 102,
       "vendor": 50
     },
@@ -1146,7 +1146,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 690,
+      "ask": 689,
       "bid": 451,
       "vendor": 50
     },
@@ -1166,18 +1166,18 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 667,
+      "ask": 898,
       "bid": 666,
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 670,
+      "ask": 669,
       "bid": 350,
       "vendor": 40
     },
     "Super Power Coffee": {
       "ask": 675,
-      "bid": 616,
+      "bid": 617,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1197,7 +1197,7 @@
     },
     "Swiftness Coffee": {
       "ask": 840,
-      "bid": 725,
+      "bid": 726,
       "vendor": 50
     },
     "Toughness": {
@@ -1226,7 +1226,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1299000,
+      "ask": 1299999,
       "bid": 1000001,
       "vendor": 10000
     },
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 999999,
-      "bid": 735009,
+      "bid": 735011,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 642,
+      "ask": 641,
       "bid": 473,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663007402.0834296
+  "time": 1663008303.01075
 }
