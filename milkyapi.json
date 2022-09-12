@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 50,
-      "bid": 40,
+      "bid": 41,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -461,7 +461,7 @@
       "vendor": 9072
     },
     "Crimson Pot": {
-      "ask": 59999,
+      "ask": 30000,
       "bid": 6815,
       "vendor": 9072
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 197,
+      "ask": 199,
       "bid": 185,
       "vendor": 54
     },
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 59,
-      "bid": 55,
+      "bid": 51,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 99999,
+      "ask": 99998,
       "bid": 45000,
       "vendor": 6000
     },
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 29982,
+      "ask": 29981,
       "bid": 22062,
       "vendor": 1000
     },
@@ -1022,11 +1022,11 @@
     },
     "Smack": {
       "ask": 11769,
-      "bid": 4504,
+      "bid": 4503,
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 5404,
+      "ask": 6983,
       "bid": 3,
       "vendor": 5000
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry Cake": {
       "ask": 683,
-      "bid": 573,
+      "bid": 574,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1101,8 +1101,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 565,
-      "bid": 542,
+      "ask": 566,
+      "bid": 565,
       "vendor": 75
     },
     "Strawberry": {
@@ -1171,7 +1171,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 689,
+      "ask": 670,
       "bid": 350,
       "vendor": 40
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662997503.0071285
+  "time": 1662998402.0978265
 }
