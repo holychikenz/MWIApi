@@ -31,7 +31,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 238,
+      "ask": 240,
       "bid": 172,
       "vendor": 20
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 100,
+      "ask": -1,
       "bid": 60,
       "vendor": 14
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 225000,
+      "ask": 224999,
       "bid": 160025,
       "vendor": 1000
     },
@@ -767,7 +767,7 @@
     },
     "Magnifying Glass": {
       "ask": 170000,
-      "bid": 112001,
+      "bid": 120000,
       "vendor": 10000
     },
     "Maim": {
@@ -781,7 +781,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 258,
+      "ask": 260,
       "bid": 236,
       "vendor": 50
     },
@@ -822,7 +822,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 37,
-      "bid": 32,
+      "bid": 33,
       "vendor": 18
     },
     "Orange": {
@@ -862,7 +862,7 @@
     },
     "Peach Yogurt": {
       "ask": 135,
-      "bid": 105,
+      "bid": 77,
       "vendor": 40
     },
     "Pierce": {
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 219,
-      "bid": 163,
+      "bid": 164,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry Cake": {
       "ask": 694,
-      "bid": 551,
+      "bid": 553,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1201,7 +1201,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 54999,
+      "ask": 54998,
       "bid": 14240,
       "vendor": 1000
     },
@@ -1291,7 +1291,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 59,
+      "ask": 50,
       "bid": 49,
       "vendor": 4
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662940802.3242276
+  "time": 1662941702.7777593
 }
