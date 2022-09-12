@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 45,
+      "ask": 47,
       "bid": 40,
       "vendor": 16
     },
@@ -176,7 +176,7 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 150,
+      "ask": 155,
       "bid": 23,
       "vendor": 10
     },
@@ -191,13 +191,13 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": 15000,
+      "ask": -1,
       "bid": 2501,
       "vendor": 2160
     },
     "Burble Brush": {
       "ask": 1000000000000,
-      "bid": 100,
+      "bid": 5500,
       "vendor": 3780
     },
     "Burble Buckler": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 185,
-      "bid": 166,
+      "bid": 165,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 59,
-      "bid": 39,
+      "bid": 40,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -307,7 +307,7 @@
     },
     "Cheese Bulwark": {
       "ask": 500,
-      "bid": 1,
+      "bid": 151,
       "vendor": 144
     },
     "Cheese Enhancer": {
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 30792,
+      "ask": 30793,
       "bid": 21500,
       "vendor": 1500
     },
@@ -506,7 +506,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 262,
+      "ask": 263,
       "bid": 130,
       "vendor": 50
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 615,
-      "bid": 563,
+      "bid": 561,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -782,7 +782,7 @@
     },
     "Marsberry Cake": {
       "ask": 260,
-      "bid": 236,
+      "bid": 242,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 29995,
+      "ask": 29994,
       "bid": 22062,
       "vendor": 1000
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 39,
+      "ask": 38,
       "bid": 36,
       "vendor": 27
     },
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 14238,
+      "ask": 14000,
       "bid": 4031,
       "vendor": 1000
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 6983,
+      "ask": 5404,
       "bid": 3,
       "vendor": 5000
     },
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 694,
+      "ask": 695,
       "bid": 555,
       "vendor": 75
     },
@@ -1146,7 +1146,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 900,
+      "ask": 899,
       "bid": 451,
       "vendor": 50
     },
@@ -1206,7 +1206,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 10000,
+      "ask": 13847,
       "bid": 3000,
       "vendor": 1500
     },
@@ -1216,7 +1216,7 @@
       "vendor": 9000
     },
     "Turtle Shell Legs": {
-      "ask": 11940,
+      "ask": 12568,
       "bid": -1,
       "vendor": 6000
     },
@@ -1291,7 +1291,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 50,
+      "ask": 59,
       "bid": 49,
       "vendor": 4
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662947103.3942118
+  "time": 1662948003.0452306
 }
