@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 184,
+      "ask": 183,
       "bid": 157,
       "vendor": 24
     },
@@ -86,7 +86,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 50,
+      "ask": 49,
       "bid": 39,
       "vendor": 8
     },
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 58,
+      "ask": 57,
       "bid": 39,
       "vendor": 12
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 224436,
+      "ask": 224435,
       "bid": 160027,
       "vendor": 1000
     },
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 2558837,
-      "bid": 1653751,
+      "bid": 2000000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -791,7 +791,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 150000,
+      "ask": -1,
       "bid": 25645,
       "vendor": 50000
     },
@@ -801,7 +801,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 285,
+      "ask": 280,
       "bid": 200,
       "vendor": 10
     },
@@ -856,7 +856,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 180,
+      "ask": 179,
       "bid": 81,
       "vendor": 40
     },
@@ -1041,7 +1041,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 2083,
+      "ask": 2080,
       "bid": 277,
       "vendor": 100
     },
@@ -1056,8 +1056,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 685,
-      "bid": 566,
+      "ask": 684,
+      "bid": 567,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1171,7 +1171,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 699,
+      "ask": 690,
       "bid": 350,
       "vendor": 40
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662982202.2351513
+  "time": 1662983103.076276
 }
