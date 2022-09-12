@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 240000,
-      "bid": 155002,
+      "bid": 155003,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 165581,
+      "ask": 165582,
       "bid": 155032,
       "vendor": 1000
     },
@@ -716,7 +716,7 @@
       "vendor": 62370
     },
     "Holy Spatula": {
-      "ask": 117987,
+      "ask": -1,
       "bid": 102001,
       "vendor": 62370
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 1725000,
+      "ask": 1724999,
       "bid": 800000,
       "vendor": 10000
     },
@@ -796,7 +796,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 18,
+      "ask": 17,
       "bid": 16,
       "vendor": 2
     },
@@ -882,7 +882,7 @@
     },
     "Plum Gummy": {
       "ask": 133,
-      "bid": 53,
+      "bid": 51,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -897,7 +897,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 61747,
-      "bid": 42503,
+      "bid": 42505,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 29994,
+      "ask": 29993,
       "bid": 22062,
       "vendor": 1000
     },
@@ -936,8 +936,8 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 199,
-      "bid": 164,
+      "ask": 195,
+      "bid": 165,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 620000,
-      "bid": 500021,
+      "bid": 500022,
       "vendor": 1000
     },
     "Sugar": {
@@ -1191,7 +1191,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 69825,
+      "ask": 65000,
       "bid": 55003,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1662949802.4385705
+  "time": 1662950702.638294
 }
