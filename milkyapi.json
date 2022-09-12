@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 26,
+      "ask": 27,
       "bid": 21,
       "vendor": 2
     },
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 815,
+      "ask": 814,
       "bid": 660,
       "vendor": 75
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 239998,
-      "bid": 170000,
+      "bid": 170001,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -187,7 +187,7 @@
     },
     "Brewing Tea": {
       "ask": 190,
-      "bid": 30,
+      "bid": 35,
       "vendor": 20
     },
     "Burble Boots": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 279,
-      "bid": 223,
+      "bid": 224,
       "vendor": 12
     },
     "Cheese": {
@@ -372,7 +372,7 @@
     },
     "Cheesesmithing Tea": {
       "ask": 459,
-      "bid": 100,
+      "bid": 101,
       "vendor": 30
     },
     "Cleave": {
@@ -387,7 +387,7 @@
     },
     "Cooking Tea": {
       "ask": 243,
-      "bid": 101,
+      "bid": 102,
       "vendor": 20
     },
     "Crab Pincer": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 996,
+      "ask": 995,
       "bid": 730,
       "vendor": 50
     },
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 176,
-      "bid": 122,
+      "bid": 123,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 200000,
-      "bid": 161001,
+      "bid": 161002,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -622,7 +622,7 @@
     },
     "Green Tea Leaf": {
       "ask": 116,
-      "bid": 83,
+      "bid": 84,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -907,11 +907,11 @@
     },
     "Power Coffee": {
       "ask": 319,
-      "bid": 310,
+      "bid": 311,
       "vendor": 30
     },
     "Precision": {
-      "ask": 29969,
+      "ask": 29968,
       "bid": 22062,
       "vendor": 1000
     },
@@ -1007,7 +1007,7 @@
     },
     "Red Tea Leaf": {
       "ask": 373,
-      "bid": 361,
+      "bid": 362,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 682,
+      "ask": 675,
       "bid": 577,
       "vendor": 75
     },
@@ -1106,8 +1106,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 38,
-      "bid": 33,
+      "ask": 37,
+      "bid": 34,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 678,
+      "ask": 677,
       "bid": 473,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663004702.8368998
+  "time": 1663005602.5107458
 }
