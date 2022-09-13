@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 28,
+      "ask": 27,
       "bid": 21,
       "vendor": 2
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 19,
+      "ask": 18,
       "bid": 14,
       "vendor": 2
     },
@@ -501,8 +501,8 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 89,
-      "bid": 60,
+      "ask": 88,
+      "bid": 36,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 993,
+      "ask": 992,
       "bid": 550,
       "vendor": 50
     },
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 140,
-      "bid": 53,
+      "bid": 60,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -551,8 +551,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 236,
-      "bid": 146,
+      "ask": 225,
+      "bid": 147,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 70000,
+      "ask": 69999,
       "bid": 42222,
       "vendor": 5000
     },
@@ -662,12 +662,12 @@
     },
     "Holy Cheese": {
       "ask": 588,
-      "bid": 567,
+      "bid": 569,
       "vendor": 162
     },
     "Holy Enhancer": {
       "ask": 109826,
-      "bid": 1,
+      "bid": 70000,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 184,
+      "ask": 185,
       "bid": 171,
       "vendor": 54
     },
@@ -856,7 +856,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 175,
+      "ask": 176,
       "bid": 81,
       "vendor": 40
     },
@@ -1131,7 +1131,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 696,
+      "ask": 675,
       "bid": 602,
       "vendor": 50
     },
@@ -1176,8 +1176,8 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 700,
-      "bid": 656,
+      "ask": 675,
+      "bid": 648,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1186,7 +1186,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 47,
+      "ask": 46,
       "bid": 44,
       "vendor": 8
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 630,
+      "ask": 646,
       "bid": 560,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663092902.2276034
+  "time": 1663094702.5227804
 }
