@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 44,
-      "bid": 40,
+      "bid": 41,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 171,
+      "ask": 180,
       "bid": 111,
       "vendor": 24
     },
@@ -137,7 +137,7 @@
     },
     "Black Bear Fluff": {
       "ask": 27500,
-      "bid": 15001,
+      "bid": 15000,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 170,
+      "ask": 169,
       "bid": 159,
       "vendor": 36
     },
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 32,
-      "bid": 21,
+      "bid": 22,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -536,8 +536,8 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": -1,
-      "bid": 120,
+      "ask": 1000,
+      "bid": 121,
       "vendor": 18
     },
     "Eyessence": {
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 558,
+      "ask": 557,
       "bid": 300,
       "vendor": 40
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 80000,
+      "ask": 70000,
       "bid": 40000,
       "vendor": 5000
     },
@@ -646,7 +646,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 117948,
+      "ask": 117900,
       "bid": 90000,
       "vendor": 62370
     },
@@ -706,7 +706,7 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 118113,
+      "ask": 118100,
       "bid": 64555,
       "vendor": 62370
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 1200000,
+      "ask": 1190000,
       "bid": 850000,
       "vendor": 10000
     },
@@ -771,7 +771,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 447977,
+      "ask": 549999,
       "bid": 425000,
       "vendor": 1000
     },
@@ -867,7 +867,7 @@
     },
     "Pierce": {
       "ask": 999999,
-      "bid": 60000,
+      "bid": 35177,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -1031,7 +1031,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 2998,
+      "ask": 3599,
       "bid": -1,
       "vendor": 1500
     },
@@ -1051,13 +1051,13 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 85,
+      "ask": 84,
       "bid": 70,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 671,
-      "bid": 581,
+      "ask": 672,
+      "bid": 582,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 107,
+      "ask": 106,
       "bid": 98,
       "vendor": 54
     },
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 184,
+      "ask": 183,
       "bid": 140,
       "vendor": 27
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 577,
+      "ask": 578,
       "bid": 541,
       "vendor": 75
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 525000,
+      "ask": 524000,
       "bid": 400000,
       "vendor": 1000
     },
@@ -1352,7 +1352,7 @@
     },
     "Wheat": {
       "ask": 38,
-      "bid": 21,
+      "bid": 22,
       "vendor": 1
     },
     "Wisdom Tea": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663036202.2292786
+  "time": 1663037102.9357355
 }
