@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 260000,
+      "ask": 250000,
       "bid": 175001,
       "vendor": 1000
     },
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 29,
-      "bid": 22,
+      "bid": 21,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 69999,
-      "bid": 42222,
+      "bid": 42223,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -606,8 +606,8 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 1078,
-      "bid": 600,
+      "ask": 1077,
+      "bid": 603,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 102,
+      "ask": 101,
       "bid": 87,
       "vendor": 4
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 588,
-      "bid": 569,
+      "bid": 570,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -676,7 +676,7 @@
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": 104996,
+      "ask": 104995,
       "bid": 90000,
       "vendor": 62370
     },
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 185,
-      "bid": 171,
+      "bid": 180,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -732,7 +732,7 @@
     },
     "Intelligence Coffee": {
       "ask": 299,
-      "bid": 156,
+      "bid": 157,
       "vendor": 10
     },
     "Large Pouch": {
@@ -767,7 +767,7 @@
     },
     "Magnifying Glass": {
       "ask": 249998,
-      "bid": 130000,
+      "bid": 145000,
       "vendor": 10000
     },
     "Maim": {
@@ -831,7 +831,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 22,
+      "ask": 24,
       "bid": -1,
       "vendor": 20
     },
@@ -1016,17 +1016,17 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 30873,
+      "ask": 30872,
       "bid": 20000,
       "vendor": 1000
     },
     "Smack": {
       "ask": 7999,
-      "bid": 4506,
+      "bid": 4800,
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 14998,
+      "ask": 15000,
       "bid": 3,
       "vendor": 5000
     },
@@ -1071,7 +1071,7 @@
       "vendor": 54
     },
     "Spike Shell": {
-      "ask": 420000,
+      "ask": 419000,
       "bid": 52514,
       "vendor": 1000
     },
@@ -1111,7 +1111,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 156,
+      "ask": 155,
       "bid": 54,
       "vendor": 30
     },
@@ -1187,12 +1187,12 @@
     },
     "Swamp Essence": {
       "ask": 46,
-      "bid": 44,
+      "bid": 43,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 99998,
-      "bid": 50002,
+      "ask": 179969,
+      "bid": 60000,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1221,7 +1221,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 313,
+      "ask": 312,
       "bid": 283,
       "vendor": 108
     },
@@ -1236,7 +1236,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 275000,
+      "ask": 274000,
       "bid": 250058,
       "vendor": 1000
     },
@@ -1331,7 +1331,7 @@
       "vendor": 540
     },
     "Vision Helmet": {
-      "ask": 310000,
+      "ask": 350000,
       "bid": 4,
       "vendor": 20000
     },
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 1157624,
-      "bid": 900000,
+      "bid": 900001,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663094702.5227804
+  "time": 1663096502.4818256
 }
