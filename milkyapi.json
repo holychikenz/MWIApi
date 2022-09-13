@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 30,
+      "ask": 29,
       "bid": 21,
       "vendor": 2
     },
@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 93,
+      "ask": 90,
       "bid": 60,
       "vendor": 54
     },
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 174,
+      "ask": 173,
       "bid": 152,
       "vendor": 36
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 272,
+      "ask": 270,
       "bid": 228,
       "vendor": 12
     },
@@ -306,7 +306,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 2388,
+      "ask": 2400,
       "bid": 151,
       "vendor": 144
     },
@@ -316,7 +316,7 @@
       "vendor": 84
     },
     "Cheese Gauntlets": {
-      "ask": 190,
+      "ask": 200,
       "bid": 174,
       "vendor": 48
     },
@@ -407,7 +407,7 @@
     },
     "Crimson Buckler": {
       "ask": 50000,
-      "bid": 20000,
+      "bid": 15000,
       "vendor": 7776
     },
     "Crimson Bulwark": {
@@ -437,7 +437,7 @@
     },
     "Crimson Helmet": {
       "ask": -1,
-      "bid": 20000,
+      "bid": 12222,
       "vendor": 6480
     },
     "Crimson Mace": {
@@ -511,8 +511,8 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 325,
-      "bid": 261,
+      "ask": 324,
+      "bid": 270,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -571,8 +571,8 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 60000,
-      "bid": 42500,
+      "ask": 69999,
+      "bid": 42000,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 1080,
+      "ask": 1079,
       "bid": 600,
       "vendor": 108
     },
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 2244980,
-      "bid": 1300132,
+      "bid": 1800000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -782,12 +782,12 @@
     },
     "Marsberry Cake": {
       "ask": 254,
-      "bid": 206,
+      "bid": 210,
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 339,
-      "bid": 141,
+      "ask": 330,
+      "bid": 200,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -826,7 +826,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 13,
+      "ask": 12,
       "bid": 7,
       "vendor": 4
     },
@@ -881,7 +881,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 129,
+      "ask": 130,
       "bid": 40,
       "vendor": 30
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 18854,
+      "ask": 15356,
       "bid": 5008,
       "vendor": 1000
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 36,
+      "ask": 37,
       "bid": 34,
       "vendor": 27
     },
@@ -1016,12 +1016,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 39900,
+      "ask": 34209,
       "bid": 20000,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 8999,
+      "ask": 8122,
       "bid": 4506,
       "vendor": 1000
     },
@@ -1092,16 +1092,16 @@
     },
     "Star Fruit": {
       "ask": 187,
-      "bid": 151,
+      "bid": 152,
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 549,
+      "ask": 540,
       "bid": 400,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 569,
+      "ask": 565,
       "bid": 543,
       "vendor": 75
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 712,
-      "bid": 602,
+      "bid": 605,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1141,7 +1141,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 953,
+      "ask": 952,
       "bid": 530,
       "vendor": 75
     },
@@ -1197,7 +1197,7 @@
     },
     "Swiftness Coffee": {
       "ask": 850,
-      "bid": 727,
+      "bid": 740,
       "vendor": 50
     },
     "Toughness": {
@@ -1206,7 +1206,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 10000,
+      "ask": 9500,
       "bid": 2500,
       "vendor": 1500
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663083902.3661768
+  "time": 1663085702.814178
 }
