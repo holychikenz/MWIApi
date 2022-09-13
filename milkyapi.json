@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 273,
-      "bid": 224,
+      "bid": 225,
       "vendor": 12
     },
     "Cheese": {
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 175,
+      "ask": 139,
       "bid": 65,
       "vendor": 14
     },
@@ -511,8 +511,8 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 350,
-      "bid": 245,
+      "ask": 349,
+      "bid": 246,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 33,
+      "ask": 32,
       "bid": 21,
       "vendor": 1
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 1228,
+      "ask": 1227,
       "bid": 590,
       "vendor": 108
     },
@@ -667,7 +667,7 @@
     },
     "Holy Enhancer": {
       "ask": 121694,
-      "bid": 96007,
+      "bid": 96008,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -677,7 +677,7 @@
     },
     "Holy Hammer": {
       "ask": 104998,
-      "bid": 100001,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -686,12 +686,12 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 124999,
+      "ask": 124998,
       "bid": 86000,
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 179,
+      "ask": 180,
       "bid": 169,
       "vendor": 54
     },
@@ -706,8 +706,8 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 118114,
-      "bid": 96001,
+      "ask": 118113,
+      "bid": 64555,
       "vendor": 62370
     },
     "Holy Shears": {
@@ -721,12 +721,12 @@
       "vendor": 62370
     },
     "Holy Spear": {
-      "ask": 129987,
+      "ask": 129986,
       "bid": 75000,
       "vendor": 80190
     },
     "Holy Sword": {
-      "ask": 119999,
+      "ask": 119998,
       "bid": 88006,
       "vendor": 80190
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 1299996,
+      "ask": 1299995,
       "bid": 850000,
       "vendor": 10000
     },
@@ -781,7 +781,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 258,
+      "ask": 257,
       "bid": 208,
       "vendor": 50
     },
@@ -851,7 +851,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 24,
+      "ask": 23,
       "bid": 22,
       "vendor": 9
     },
@@ -867,7 +867,7 @@
     },
     "Pierce": {
       "ask": 999999,
-      "bid": 35177,
+      "bid": 60000,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 34,
+      "ask": 37,
       "bid": 33,
       "vendor": 27
     },
@@ -1051,7 +1051,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 84,
+      "ask": 83,
       "bid": 70,
       "vendor": 27
     },
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 185,
+      "ask": 184,
       "bid": 140,
       "vendor": 27
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 578,
+      "ask": 577,
       "bid": 541,
       "vendor": 75
     },
@@ -1211,7 +1211,7 @@
       "vendor": 1500
     },
     "Turtle Shell Body": {
-      "ask": 12482,
+      "ask": 11858,
       "bid": -1,
       "vendor": 9000
     },
@@ -1227,7 +1227,7 @@
     },
     "Vampire Fang": {
       "ask": 1299999,
-      "bid": 1000001,
+      "bid": 500000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 1000000,
-      "bid": 850000,
+      "bid": 850001,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663030802.8266993
+  "time": 1663031702.0534492
 }
