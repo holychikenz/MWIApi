@@ -137,7 +137,7 @@
     },
     "Black Bear Fluff": {
       "ask": 29999,
-      "bid": 2,
+      "bid": 15000,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 139,
+      "ask": 115,
       "bid": 65,
       "vendor": 14
     },
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 995,
-      "bid": 730,
+      "bid": 725,
       "vendor": 50
     },
     "Egg": {
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 65000,
+      "ask": 80000,
       "bid": 40000,
       "vendor": 5000
     },
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 306849,
-      "bid": 200000,
+      "bid": 200001,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -641,7 +641,7 @@
       "vendor": 5
     },
     "Holy Boots": {
-      "ask": 36889,
+      "ask": 36888,
       "bid": 28757,
       "vendor": 35640
     },
@@ -651,12 +651,12 @@
       "vendor": 62370
     },
     "Holy Buckler": {
-      "ask": 80000,
+      "ask": 79999,
       "bid": -1,
       "vendor": 53460
     },
     "Holy Bulwark": {
-      "ask": 117879,
+      "ask": 117878,
       "bid": 88111,
       "vendor": 106920
     },
@@ -671,7 +671,7 @@
       "vendor": 62370
     },
     "Holy Gauntlets": {
-      "ask": 39520,
+      "ask": 39519,
       "bid": 25444,
       "vendor": 35640
     },
@@ -681,7 +681,7 @@
       "vendor": 62370
     },
     "Holy Helmet": {
-      "ask": 65000,
+      "ask": 64999,
       "bid": 50000,
       "vendor": 44550
     },
@@ -701,7 +701,7 @@
       "vendor": 71280
     },
     "Holy Plate Legs": {
-      "ask": 137000,
+      "ask": 136999,
       "bid": 90000,
       "vendor": 62370
     },
@@ -867,7 +867,7 @@
     },
     "Pierce": {
       "ask": 999999,
-      "bid": 60000,
+      "bid": 35177,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 570662,
+      "ask": 525000,
       "bid": 400000,
       "vendor": 1000
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 800,
-      "bid": 607,
+      "bid": 573,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1357,7 +1357,7 @@
     },
     "Wisdom Tea": {
       "ask": 666,
-      "bid": 580,
+      "bid": 473,
       "vendor": 30
     },
     "Yogurt": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663031702.0534492
+  "time": 1663032602.0870893
 }
