@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 181,
-      "bid": 117,
+      "bid": 118,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -511,12 +511,12 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 329,
-      "bid": 260,
+      "ask": 328,
+      "bid": 261,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 995,
+      "ask": 900,
       "bid": 510,
       "vendor": 50
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 76,
+      "ask": 100,
       "bid": 52,
       "vendor": 36
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 1215,
+      "ask": 1214,
       "bid": 595,
       "vendor": 108
     },
@@ -787,7 +787,7 @@
     },
     "Marsberry Donut": {
       "ask": 370,
-      "bid": 250,
+      "bid": -1,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -1052,7 +1052,7 @@
     },
     "Spaceberry": {
       "ask": 84,
-      "bid": 78,
+      "bid": 79,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 750,
-      "bid": 600,
+      "bid": 601,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1152,7 +1152,7 @@
     },
     "Super Defense Coffee": {
       "ask": 797,
-      "bid": 364,
+      "bid": 365,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1177,12 +1177,12 @@
     },
     "Super Power Coffee": {
       "ask": 750,
-      "bid": 638,
+      "bid": 640,
       "vendor": 75
     },
     "Super Stamina Coffee": {
       "ask": 800,
-      "bid": 391,
+      "bid": 392,
       "vendor": 40
     },
     "Swamp Essence": {
@@ -1197,7 +1197,7 @@
     },
     "Swiftness Coffee": {
       "ask": 885,
-      "bid": 727,
+      "bid": 728,
       "vendor": 50
     },
     "Toughness": {
@@ -1357,7 +1357,7 @@
     },
     "Wisdom Tea": {
       "ask": 659,
-      "bid": 474,
+      "bid": 473,
       "vendor": 30
     },
     "Yogurt": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663055102.902712
+  "time": 1663056002.4376266
 }
