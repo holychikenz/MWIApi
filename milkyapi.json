@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 28,
+      "ask": 27,
       "bid": 21,
       "vendor": 2
     },
@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 211,
+      "ask": 210,
       "bid": 150,
       "vendor": 4
     },
@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 18998,
+      "ask": 15475,
       "bid": -1,
       "vendor": 864
     },
@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 60,
+      "ask": 59,
       "bid": 46,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 19,
+      "ask": 18,
       "bid": 17,
       "vendor": 4
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 20,
+      "ask": 19,
       "bid": 17,
       "vendor": 2
     },
@@ -186,7 +186,7 @@
       "vendor": 10
     },
     "Brewing Tea": {
-      "ask": 190,
+      "ask": 195,
       "bid": 35,
       "vendor": 20
     },
@@ -291,7 +291,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": -1,
+      "ask": 148,
       "bid": 132,
       "vendor": 48
     },
@@ -306,7 +306,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 2400,
+      "ask": 1900,
       "bid": 151,
       "vendor": 144
     },
@@ -316,7 +316,7 @@
       "vendor": 84
     },
     "Cheese Gauntlets": {
-      "ask": 200,
+      "ask": 180,
       "bid": 174,
       "vendor": 48
     },
@@ -346,7 +346,7 @@
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 999,
+      "ask": 499,
       "bid": 160,
       "vendor": 84
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 25,
+      "ask": 24,
       "bid": 20,
       "vendor": 1
     },
@@ -531,7 +531,7 @@
       "vendor": 54
     },
     "Enhancing Tea": {
-      "ask": 190,
+      "ask": 245,
       "bid": 66,
       "vendor": 20
     },
@@ -586,12 +586,12 @@
       "vendor": 24
     },
     "Gobo Slasher": {
-      "ask": 27007,
+      "ask": 25657,
       "bid": 3001,
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 22285,
+      "ask": 21171,
       "bid": 21001,
       "vendor": 20000
     },
@@ -606,12 +606,12 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 849,
-      "bid": 655,
+      "ask": 850,
+      "bid": 656,
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 359,
+      "ask": 350,
       "bid": 125,
       "vendor": 20
     },
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 99,
+      "ask": 98,
       "bid": 90,
       "vendor": 4
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 619,
-      "bid": 578,
+      "bid": 579,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -1011,7 +1011,7 @@
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 85,
+      "ask": 84,
       "bid": 80,
       "vendor": 8
     },
@@ -1046,7 +1046,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 22800,
+      "ask": 22700,
       "bid": 3144,
       "vendor": 2000
     },
@@ -1186,7 +1186,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 42,
+      "ask": 41,
       "bid": 40,
       "vendor": 8
     },
@@ -1226,7 +1226,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1100000,
+      "ask": 1099999,
       "bid": 600003,
       "vendor": 10000
     },
@@ -1261,12 +1261,12 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 170,
+      "ask": 169,
       "bid": 142,
       "vendor": 12
     },
     "Verdant Enhancer": {
-      "ask": 2000,
+      "ask": 1600,
       "bid": 1000,
       "vendor": 420
     },
@@ -1351,7 +1351,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 34,
+      "ask": 33,
       "bid": 23,
       "vendor": 1
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663140602.6131907
+  "time": 1663142402.4425693
 }
