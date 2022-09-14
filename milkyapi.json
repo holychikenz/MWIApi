@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 12,
+      "ask": 14,
       "bid": -1,
       "vendor": 10
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 63,
+      "ask": 57,
       "bid": 46,
       "vendor": 8
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 254,
-      "bid": 242,
+      "bid": 231,
       "vendor": 12
     },
     "Cheese": {
@@ -376,8 +376,8 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 165580,
-      "bid": 150018,
+      "ask": -1,
+      "bid": 220000,
       "vendor": 1000
     },
     "Coin": {
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 993,
-      "bid": 550,
+      "bid": 578,
       "vendor": 50
     },
     "Egg": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 266,
+      "ask": 265,
       "bid": 186,
       "vendor": 54
     },
@@ -581,7 +581,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 36,
+      "ask": 34,
       "bid": 25,
       "vendor": 24
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 1054,
+      "ask": 1050,
       "bid": 612,
       "vendor": 108
     },
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 600,
-      "bid": 571,
+      "ask": 599,
+      "bid": 572,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 194,
+      "ask": 200,
       "bid": 181,
       "vendor": 54
     },
@@ -706,7 +706,7 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 118088,
+      "ask": 118087,
       "bid": 64555,
       "vendor": 62370
     },
@@ -726,12 +726,12 @@
       "vendor": 80190
     },
     "Holy Sword": {
-      "ask": 119000,
+      "ask": 119988,
       "bid": 88006,
       "vendor": 80190
     },
     "Intelligence Coffee": {
-      "ask": 299,
+      "ask": 314,
       "bid": 250,
       "vendor": 10
     },
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 2084769,
-      "bid": 1750000,
+      "bid": 1400005,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -817,7 +817,7 @@
     },
     "Mooberry Donut": {
       "ask": 290,
-      "bid": 134,
+      "bid": 135,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
@@ -936,8 +936,8 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 219,
-      "bid": 155,
+      "ask": 232,
+      "bid": 158,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 367,
+      "ask": 366,
       "bid": 362,
       "vendor": 27
     },
@@ -1142,7 +1142,7 @@
     },
     "Super Cheesesmithing Tea": {
       "ask": 952,
-      "bid": 530,
+      "bid": 557,
       "vendor": 75
     },
     "Super Cooking Tea": {
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 783,
+      "ask": 782,
       "bid": 648,
       "vendor": 75
     },
@@ -1201,7 +1201,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 44993,
+      "ask": 43000,
       "bid": 25000,
       "vendor": 1000
     },
@@ -1221,7 +1221,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 309,
+      "ask": 308,
       "bid": 283,
       "vendor": 108
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 643,
+      "ask": 644,
       "bid": 580,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663115402.7252796
+  "time": 1663117202.2032812
 }
