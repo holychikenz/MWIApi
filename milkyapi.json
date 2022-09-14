@@ -86,7 +86,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 54,
+      "ask": 53,
       "bid": 36,
       "vendor": 8
     },
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 44,
-      "bid": 28,
+      "bid": 29,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -281,8 +281,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 245,
-      "bid": 231,
+      "ask": 244,
+      "bid": 232,
       "vendor": 12
     },
     "Cheese": {
@@ -301,7 +301,7 @@
       "vendor": 84
     },
     "Cheese Buckler": {
-      "ask": -1,
+      "ask": 2000,
       "bid": 216,
       "vendor": 72
     },
@@ -366,7 +366,7 @@
       "vendor": 108
     },
     "Cheese Sword": {
-      "ask": -1,
+      "ask": 2000,
       "bid": 170,
       "vendor": 108
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 79,
+      "ask": 81,
       "bid": 66,
       "vendor": 14
     },
@@ -537,7 +537,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 350,
-      "bid": 150,
+      "bid": 151,
       "vendor": 18
     },
     "Eyessence": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 221,
-      "bid": 111,
+      "bid": 112,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -562,11 +562,11 @@
     },
     "Frenzy": {
       "ask": 261249,
-      "bid": 166000,
+      "bid": 166001,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 410,
+      "ask": 409,
       "bid": 300,
       "vendor": 10
     },
@@ -752,11 +752,11 @@
     },
     "Lucky Coffee": {
       "ask": 320,
-      "bid": 292,
+      "bid": 299,
       "vendor": 40
     },
     "Magnet": {
-      "ask": 1010000,
+      "ask": 1019999,
       "bid": 798784,
       "vendor": 10000
     },
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 39,
+      "ask": 38,
       "bid": 37,
       "vendor": 18
     },
@@ -882,7 +882,7 @@
     },
     "Plum Gummy": {
       "ask": 120,
-      "bid": 45,
+      "bid": 46,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -961,7 +961,7 @@
       "vendor": 14985
     },
     "Rainbow Mace": {
-      "ask": 41699,
+      "ask": 41698,
       "bid": 28000,
       "vendor": 26973
     },
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 6497,
+      "ask": 6481,
       "bid": 4803,
       "vendor": 1000
     },
@@ -1062,7 +1062,7 @@
     },
     "Spaceberry Donut": {
       "ask": 527,
-      "bid": 440,
+      "bid": 441,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1091,8 +1091,8 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 178,
-      "bid": 157,
+      "ask": 179,
+      "bid": 160,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 708,
+      "ask": 779,
       "bid": 545,
       "vendor": 75
     },
@@ -1172,12 +1172,12 @@
     },
     "Super Milking Tea": {
       "ask": 640,
-      "bid": 355,
+      "bid": 400,
       "vendor": 40
     },
     "Super Power Coffee": {
       "ask": 779,
-      "bid": 681,
+      "bid": 682,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663162202.9224029
+  "time": 1663164001.720217
 }
