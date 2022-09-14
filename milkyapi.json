@@ -1,12 +1,12 @@
 {
   "market": {
     "Apple": {
-      "ask": 29,
+      "ask": 28,
       "bid": 21,
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 25,
+      "ask": 22,
       "bid": -1,
       "vendor": 10
     },
@@ -27,12 +27,12 @@
     },
     "Artisan Tea": {
       "ask": 812,
-      "bid": 700,
+      "bid": 750,
       "vendor": 75
     },
     "Attack Coffee": {
       "ask": 500,
-      "bid": 177,
+      "bid": 178,
       "vendor": 20
     },
     "Azure Boots": {
@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 178,
+      "ask": 177,
       "bid": 175,
       "vendor": 24
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 48,
+      "ask": 47,
       "bid": 46,
       "vendor": 8
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 21,
+      "ask": 20,
       "bid": 18,
       "vendor": 2
     },
@@ -181,7 +181,7 @@
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 300,
+      "ask": 100,
       "bid": 75,
       "vendor": 10
     },
@@ -211,8 +211,8 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 212,
-      "bid": 169,
+      "ask": 211,
+      "bid": 180,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -256,7 +256,7 @@
       "vendor": 3780
     },
     "Burble Pot": {
-      "ask": 40000,
+      "ask": -1,
       "bid": 3155,
       "vendor": 3780
     },
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 35100,
+      "ask": 34999,
       "bid": 26000,
       "vendor": 1500
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 164,
-      "bid": 136,
+      "bid": 160,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 81,
+      "ask": 83,
       "bid": 66,
       "vendor": 14
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 993,
+      "ask": 992,
       "bid": 700,
       "vendor": 50
     },
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 86,
-      "bid": 80,
+      "bid": 61,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -582,7 +582,7 @@
     },
     "Gobo Essence": {
       "ask": 38,
-      "bid": 31,
+      "bid": 35,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -606,8 +606,8 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 808,
-      "bid": 657,
+      "ask": 807,
+      "bid": 658,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 95,
+      "ask": 94,
       "bid": 88,
       "vendor": 4
     },
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 606,
-      "bid": 581,
+      "ask": 605,
+      "bid": 582,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -706,7 +706,7 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 118083,
+      "ask": 118082,
       "bid": 64555,
       "vendor": 62370
     },
@@ -766,7 +766,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 220000,
+      "ask": 200000,
       "bid": 145000,
       "vendor": 10000
     },
@@ -787,7 +787,7 @@
     },
     "Marsberry Donut": {
       "ask": 367,
-      "bid": 238,
+      "bid": 251,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -796,7 +796,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 14,
+      "ask": 16,
       "bid": 10,
       "vendor": 2
     },
@@ -816,8 +816,8 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 289,
-      "bid": 136,
+      "ask": 288,
+      "bid": 137,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
@@ -831,7 +831,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 57,
+      "ask": 50,
       "bid": -1,
       "vendor": 20
     },
@@ -857,7 +857,7 @@
     },
     "Peach Gummy": {
       "ask": 168,
-      "bid": 100,
+      "bid": 82,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -881,7 +881,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 119,
+      "ask": 118,
       "bid": 46,
       "vendor": 30
     },
@@ -907,11 +907,11 @@
     },
     "Power Coffee": {
       "ask": 319,
-      "bid": 301,
+      "bid": 150,
       "vendor": 30
     },
     "Precision": {
-      "ask": 27937,
+      "ask": 27940,
       "bid": 22062,
       "vendor": 1000
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 346,
+      "ask": 347,
       "bid": 260,
       "vendor": 27
     },
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 6156,
+      "ask": 8000,
       "bid": 4803,
       "vendor": 1000
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": 1750000,
-      "bid": 1045556,
+      "bid": 1055556,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1092,7 +1092,7 @@
     },
     "Star Fruit": {
       "ask": 179,
-      "bid": 162,
+      "bid": 163,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1102,7 +1102,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 779,
-      "bid": 600,
+      "bid": 601,
       "vendor": 75
     },
     "Strawberry": {
@@ -1111,8 +1111,8 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 153,
-      "bid": 55,
+      "ask": 149,
+      "bid": 56,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 725,
+      "ask": 724,
       "bid": 602,
       "vendor": 40
     },
@@ -1291,7 +1291,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 44,
+      "ask": 45,
       "bid": 37,
       "vendor": 4
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 636,
+      "ask": 630,
       "bid": 585,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663171203.0438359
+  "time": 1663173003.6101117
 }
