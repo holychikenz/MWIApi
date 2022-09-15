@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 27,
+      "ask": 25,
       "bid": 20,
       "vendor": 2
     },
@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 24817,
+      "ask": 24000,
       "bid": 15001,
       "vendor": 3000
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 47,
+      "ask": 46,
       "bid": 45,
       "vendor": 8
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 244,
+      "ask": 243,
       "bid": 236,
       "vendor": 12
     },
@@ -591,7 +591,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 25000,
+      "ask": 24000,
       "bid": 21001,
       "vendor": 20000
     },
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 940,
-      "bid": 671,
+      "bid": 672,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 96,
+      "ask": 95,
       "bid": 88,
       "vendor": 4
     },
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 635,
-      "bid": 590,
+      "ask": 636,
+      "bid": 591,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -776,7 +776,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 27,
+      "ask": 25,
       "bid": 22,
       "vendor": 14
     },
@@ -806,7 +806,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 33,
+      "ask": 30,
       "bid": 20,
       "vendor": 9
     },
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 49,
+      "ask": 48,
       "bid": 37,
       "vendor": 18
     },
@@ -881,7 +881,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 116,
+      "ask": 115,
       "bid": 50,
       "vendor": 30
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 344,
+      "ask": 330,
       "bid": 290,
       "vendor": 27
     },
@@ -1051,7 +1051,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 81,
+      "ask": 77,
       "bid": 60,
       "vendor": 27
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 800,
-      "bid": 554,
+      "bid": 555,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1177,7 +1177,7 @@
     },
     "Super Power Coffee": {
       "ask": 750,
-      "bid": 637,
+      "bid": 638,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1197,11 +1197,11 @@
     },
     "Swiftness Coffee": {
       "ask": 800,
-      "bid": 729,
+      "bid": 730,
       "vendor": 50
     },
     "Toughness": {
-      "ask": 28500,
+      "ask": 28499,
       "bid": 14250,
       "vendor": 1000
     },
@@ -1351,7 +1351,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 23,
+      "ask": 21,
       "bid": 20,
       "vendor": 1
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663230603.2989016
+  "time": 1663232402.4452493
 }
