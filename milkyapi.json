@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 26,
+      "ask": 27,
       "bid": 20,
       "vendor": 2
     },
@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 43,
+      "ask": 42,
       "bid": 35,
       "vendor": 16
     },
@@ -191,7 +191,7 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": -1,
+      "ask": 25000,
       "bid": -1,
       "vendor": 2160
     },
@@ -201,7 +201,7 @@
       "vendor": 3780
     },
     "Burble Buckler": {
-      "ask": 27075,
+      "ask": 27007,
       "bid": 3350,
       "vendor": 3240
     },
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 200,
+      "ask": 199,
       "bid": 148,
       "vendor": 36
     },
@@ -221,7 +221,7 @@
       "vendor": 3780
     },
     "Burble Gauntlets": {
-      "ask": -1,
+      "ask": 30000,
       "bid": 3000,
       "vendor": 2160
     },
@@ -231,7 +231,7 @@
       "vendor": 3780
     },
     "Burble Helmet": {
-      "ask": -1,
+      "ask": 40000,
       "bid": 2805,
       "vendor": 2700
     },
@@ -251,7 +251,7 @@
       "vendor": 4320
     },
     "Burble Plate Legs": {
-      "ask": -1,
+      "ask": 40000,
       "bid": -1,
       "vendor": 3780
     },
@@ -276,7 +276,7 @@
       "vendor": 4860
     },
     "Burble Sword": {
-      "ask": 40000,
+      "ask": 39500,
       "bid": 3800,
       "vendor": 4860
     },
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 33247,
+      "ask": 31585,
       "bid": 28500,
       "vendor": 1500
     },
@@ -486,7 +486,7 @@
       "vendor": 11664
     },
     "Cupcake": {
-      "ask": 45,
+      "ask": 44,
       "bid": 16,
       "vendor": 5
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 24,
+      "ask": 23,
       "bid": 18,
       "vendor": 1
     },
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 237498,
-      "bid": 172006,
+      "bid": 175000,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -577,7 +577,7 @@
     },
     "Giant Pouch": {
       "ask": -1,
-      "bid": 16000000,
+      "bid": 17000000,
       "vendor": 5000000
     },
     "Gobo Essence": {
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 950,
-      "bid": 666,
+      "bid": 668,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 94,
+      "ask": 96,
       "bid": 88,
       "vendor": 4
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 637,
+      "ask": 636,
       "bid": 601,
       "vendor": 162
     },
@@ -691,8 +691,8 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 239,
-      "bid": 194,
+      "ask": 237,
+      "bid": 180,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -746,7 +746,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 1804999,
+      "ask": 1800486,
       "bid": 1500013,
       "vendor": 10000
     },
@@ -796,7 +796,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 16,
+      "ask": 15,
       "bid": 1,
       "vendor": 2
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 65423,
+      "ask": 62152,
       "bid": 29001,
       "vendor": 3000
     },
@@ -882,7 +882,7 @@
     },
     "Plum Gummy": {
       "ask": 116,
-      "bid": 46,
+      "bid": 50,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -901,7 +901,7 @@
       "vendor": 3000
     },
     "Polar Bear Shoes": {
-      "ask": 799998,
+      "ask": -1,
       "bid": 650000,
       "vendor": 60000
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 219,
-      "bid": 192,
+      "bid": 194,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1031,7 +1031,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 4299,
+      "ask": 4084,
       "bid": -1,
       "vendor": 1500
     },
@@ -1046,7 +1046,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 22698,
+      "ask": 22600,
       "bid": 3144,
       "vendor": 2000
     },
@@ -1056,13 +1056,13 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 666,
+      "ask": 799,
       "bid": 601,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 530,
-      "bid": 480,
+      "bid": 481,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1101,8 +1101,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 692,
-      "bid": 605,
+      "ask": 690,
+      "bid": 606,
       "vendor": 75
     },
     "Strawberry": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 573997,
+      "ask": 573998,
       "bid": 400003,
       "vendor": 1000
     },
@@ -1181,17 +1181,17 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 793,
+      "ask": 750,
       "bid": 500,
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 47,
+      "ask": 46,
       "bid": 38,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 99481,
+      "ask": 99232,
       "bid": 70001,
       "vendor": 1000
     },
@@ -1206,7 +1206,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 7736,
+      "ask": 7349,
       "bid": 2001,
       "vendor": 1500
     },
@@ -1262,7 +1262,7 @@
     },
     "Verdant Cheese": {
       "ask": 171,
-      "bid": 150,
+      "bid": 151,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663216203.146324
+  "time": 1663218002.3407793
 }
