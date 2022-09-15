@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 78,
+      "ask": 77,
       "bid": 60,
       "vendor": 54
     },
@@ -386,7 +386,7 @@
       "vendor": 0
     },
     "Cooking Tea": {
-      "ask": 243,
+      "ask": 270,
       "bid": 103,
       "vendor": 20
     },
@@ -441,13 +441,13 @@
       "vendor": 6480
     },
     "Crimson Mace": {
-      "ask": 25999,
+      "ask": 25998,
       "bid": 10000,
       "vendor": 11664
     },
     "Crimson Milk": {
       "ask": 25,
-      "bid": 21,
+      "bid": 22,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 85,
-      "bid": 40,
+      "bid": 41,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 547,
+      "ask": 546,
       "bid": 320,
       "vendor": 40
     },
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 407,
+      "ask": 400,
       "bid": 240,
       "vendor": 10
     },
@@ -781,12 +781,12 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 290,
+      "ask": -1,
       "bid": 222,
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 367,
+      "ask": 370,
       "bid": 254,
       "vendor": 50
     },
@@ -862,7 +862,7 @@
     },
     "Peach Yogurt": {
       "ask": 140,
-      "bid": 130,
+      "bid": 131,
       "vendor": 40
     },
     "Pierce": {
@@ -967,7 +967,7 @@
     },
     "Rainbow Milk": {
       "ask": 30,
-      "bid": 28,
+      "bid": 29,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 573995,
-      "bid": 400004,
+      "bid": -1,
       "vendor": 1000
     },
     "Sugar": {
@@ -1136,7 +1136,7 @@
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 809,
+      "ask": 800,
       "bid": 102,
       "vendor": 50
     },
@@ -1177,7 +1177,7 @@
     },
     "Super Power Coffee": {
       "ask": 700,
-      "bid": 637,
+      "bid": 601,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1196,8 +1196,8 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 779,
-      "bid": 727,
+      "ask": 778,
+      "bid": 728,
       "vendor": 50
     },
     "Toughness": {
@@ -1291,7 +1291,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 52,
+      "ask": 51,
       "bid": 38,
       "vendor": 4
     },
@@ -1341,7 +1341,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1699994,
+      "ask": 1500000,
       "bid": 1100000,
       "vendor": 10000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663257602.4521716
+  "time": 1663259402.8596551
 }
