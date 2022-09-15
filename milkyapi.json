@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 24,
+      "ask": 25,
       "bid": 15,
       "vendor": 2
     },
@@ -86,7 +86,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 41,
+      "ask": 39,
       "bid": 36,
       "vendor": 8
     },
@@ -126,13 +126,13 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 76,
+      "ask": 75,
       "bid": 60,
       "vendor": 54
     },
     "Berserk": {
-      "ask": 250173,
-      "bid": 200000,
+      "ask": 250000,
+      "bid": 200002,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 18,
+      "ask": 20,
       "bid": 16,
       "vendor": 4
     },
@@ -377,7 +377,7 @@
     },
     "Cleave": {
       "ask": 377999,
-      "bid": 152001,
+      "bid": 160000,
       "vendor": 1000
     },
     "Coin": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 229,
-      "bid": 165,
+      "bid": 166,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -447,7 +447,7 @@
     },
     "Crimson Milk": {
       "ask": 25,
-      "bid": 22,
+      "bid": 21,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 85,
-      "bid": 41,
+      "bid": 60,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 990,
+      "ask": 750,
       "bid": 710,
       "vendor": 50
     },
@@ -546,7 +546,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 519,
+      "ask": 500,
       "bid": 320,
       "vendor": 40
     },
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 249998,
-      "bid": 178000,
+      "bid": 178001,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 95,
+      "ask": 96,
       "bid": 90,
       "vendor": 4
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 632,
+      "ask": 631,
       "bid": 611,
       "vendor": 162
     },
@@ -706,7 +706,7 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 118066,
+      "ask": 118065,
       "bid": 64555,
       "vendor": 62370
     },
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 1710461,
-      "bid": 1400018,
+      "bid": 1400020,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -771,12 +771,12 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 498748,
+      "ask": 498747,
       "bid": 231003,
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 31,
+      "ask": 30,
       "bid": 22,
       "vendor": 14
     },
@@ -831,7 +831,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 48,
+      "ask": 40,
       "bid": 21,
       "vendor": 20
     },
@@ -861,8 +861,8 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 139,
-      "bid": 132,
+      "ask": 140,
+      "bid": 133,
       "vendor": 40
     },
     "Pierce": {
@@ -881,7 +881,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 113,
+      "ask": 100,
       "bid": 50,
       "vendor": 30
     },
@@ -1007,7 +1007,7 @@
     },
     "Red Tea Leaf": {
       "ask": 331,
-      "bid": 290,
+      "bid": 278,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 20905,
+      "ask": 41392,
       "bid": 8000,
       "vendor": 1000
     },
@@ -1056,13 +1056,13 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 793,
-      "bid": 653,
+      "ask": 794,
+      "bid": 654,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 530,
-      "bid": 490,
+      "bid": 491,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1181,7 +1181,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 600,
+      "ask": 570,
       "bid": 500,
       "vendor": 40
     },
@@ -1191,7 +1191,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 97000,
+      "ask": 107479,
       "bid": 60002,
       "vendor": 1000
     },
@@ -1221,7 +1221,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 297,
+      "ask": 298,
       "bid": 283,
       "vendor": 108
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663263002.8415978
+  "time": 1663264802.4273436
 }
