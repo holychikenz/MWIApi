@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 25,
+      "ask": 24,
       "bid": 15,
       "vendor": 2
     },
@@ -16,13 +16,13 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 47,
+      "ask": 43,
       "bid": 38,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 207,
-      "bid": 62,
+      "ask": 199,
+      "bid": 63,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -57,11 +57,11 @@
     },
     "Azure Cheese": {
       "ask": 177,
-      "bid": 137,
+      "bid": 140,
       "vendor": 24
     },
     "Azure Enhancer": {
-      "ask": 10461,
+      "ask": 16599,
       "bid": 4000,
       "vendor": 1512
     },
@@ -137,7 +137,7 @@
     },
     "Black Bear Fluff": {
       "ask": 24000,
-      "bid": 15002,
+      "bid": 15003,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -147,11 +147,11 @@
     },
     "Black Tea Leaf": {
       "ask": 46,
-      "bid": 44,
+      "bid": 37,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 20,
+      "ask": 19,
       "bid": 16,
       "vendor": 4
     },
@@ -172,11 +172,11 @@
     },
     "Blueberry": {
       "ask": 20,
-      "bid": 15,
+      "bid": 18,
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 90,
+      "ask": 89,
       "bid": 24,
       "vendor": 10
     },
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 299,
-      "bid": 166,
+      "bid": 168,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -366,7 +366,7 @@
       "vendor": 108
     },
     "Cheese Sword": {
-      "ask": 2000,
+      "ask": -1,
       "bid": 170,
       "vendor": 108
     },
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 34998,
+      "ask": 31586,
       "bid": 29000,
       "vendor": 1500
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 631,
-      "bid": 620,
+      "bid": 612,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 204,
+      "ask": 205,
       "bid": 190,
       "vendor": 54
     },
@@ -812,7 +812,7 @@
     },
     "Mooberry Cake": {
       "ask": 169,
-      "bid": 117,
+      "bid": 118,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 46,
+      "ask": 43,
       "bid": 37,
       "vendor": 18
     },
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 27945,
+      "ask": 26000,
       "bid": 22062,
       "vendor": 1000
     },
@@ -1031,7 +1031,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 4084,
+      "ask": 3502,
       "bid": -1,
       "vendor": 1500
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry Cake": {
       "ask": 793,
-      "bid": 654,
+      "bid": 685,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1131,7 +1131,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 849,
+      "ask": 840,
       "bid": 558,
       "vendor": 50
     },
@@ -1181,7 +1181,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 570,
+      "ask": 550,
       "bid": 500,
       "vendor": 40
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663270202.6246412
+  "time": 1663272003.2069476
 }
