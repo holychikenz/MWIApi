@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 26,
+      "ask": 25,
       "bid": 10,
       "vendor": 2
     },
@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 16069,
+      "ask": 16068,
       "bid": -1,
       "vendor": 864
     },
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 176,
-      "bid": 146,
+      "bid": 147,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -177,7 +177,7 @@
     },
     "Blueberry Cake": {
       "ask": 85,
-      "bid": 24,
+      "bid": 23,
       "vendor": 10
     },
     "Blueberry Donut": {
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 296,
+      "ask": 299,
       "bid": 186,
       "vendor": 36
     },
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 44,
+      "ask": 45,
       "bid": 37,
       "vendor": 12
     },
@@ -396,7 +396,7 @@
       "vendor": 1500
     },
     "Crimson Boots": {
-      "ask": 58999,
+      "ask": 58998,
       "bid": 5715,
       "vendor": 5184
     },
@@ -422,7 +422,7 @@
     },
     "Crimson Enhancer": {
       "ask": 70000,
-      "bid": 15000,
+      "bid": 10001,
       "vendor": 9072
     },
     "Crimson Gauntlets": {
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 86,
-      "bid": 61,
+      "bid": 52,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -771,18 +771,18 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 568571,
+      "ask": 568000,
       "bid": 231003,
       "vendor": 1000
     },
     "Marsberry": {
       "ask": 30,
-      "bid": 23,
+      "bid": 24,
       "vendor": 14
     },
     "Marsberry Cake": {
       "ask": -1,
-      "bid": 242,
+      "bid": 245,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -806,7 +806,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 30,
+      "ask": 34,
       "bid": 19,
       "vendor": 9
     },
@@ -906,8 +906,8 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 318,
-      "bid": 150,
+      "ask": 319,
+      "bid": 158,
       "vendor": 30
     },
     "Precision": {
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 352,
+      "ask": 349,
       "bid": 266,
       "vendor": 27
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 183,
+      "ask": 185,
       "bid": 120,
       "vendor": 54
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": 1999999,
-      "bid": 1066669,
+      "bid": 1077777,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1261,7 +1261,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 194,
+      "ask": 199,
       "bid": 160,
       "vendor": 12
     },
@@ -1291,7 +1291,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 51,
+      "ask": 52,
       "bid": 45,
       "vendor": 4
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663304403.231638
+  "time": 1663306203.0619035
 }
