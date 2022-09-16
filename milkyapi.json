@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 26,
-      "bid": 10,
+      "bid": 2,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -16,12 +16,12 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 42,
+      "ask": 40,
       "bid": 23,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 149,
+      "ask": 145,
       "bid": 81,
       "vendor": 4
     },
@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 72,
+      "ask": 70,
       "bid": 61,
       "vendor": 54
     },
@@ -256,7 +256,7 @@
       "vendor": 3780
     },
     "Burble Pot": {
-      "ask": 30000,
+      "ask": -1,
       "bid": 3155,
       "vendor": 3780
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 199,
+      "ask": 198,
       "bid": 153,
       "vendor": 54
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 345,
+      "ask": 346,
       "bid": 261,
       "vendor": 50
     },
@@ -536,7 +536,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 243,
+      "ask": 242,
       "bid": 170,
       "vendor": 18
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 191,
+      "ask": 190,
       "bid": 117,
       "vendor": 27
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 244999,
+      "ask": 240000,
       "bid": 178012,
       "vendor": 1000
     },
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 101,
+      "ask": 104,
       "bid": 95,
       "vendor": 4
     },
@@ -727,7 +727,7 @@
     },
     "Holy Sword": {
       "ask": 130000,
-      "bid": 83000,
+      "bid": 82000,
       "vendor": 80190
     },
     "Intelligence Coffee": {
@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1900000,
+      "ask": 1970000,
       "bid": 3000,
       "vendor": 500000
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 316,
+      "ask": 312,
       "bid": 270,
       "vendor": 27
     },
@@ -1016,12 +1016,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 10000,
+      "ask": 9500,
       "bid": 4054,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 6516,
+      "ask": 6500,
       "bid": 4807,
       "vendor": 1000
     },
@@ -1056,13 +1056,13 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 777,
-      "bid": 694,
+      "ask": 776,
+      "bid": 691,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 542,
-      "bid": 497,
+      "bid": 500,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1086,13 +1086,13 @@
       "vendor": 400000
     },
     "Stamina Coffee": {
-      "ask": 256,
+      "ask": 257,
       "bid": 131,
       "vendor": 10
     },
     "Star Fruit": {
       "ask": 250,
-      "bid": 220,
+      "bid": 200,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1226,7 +1226,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 5000000,
+      "ask": 1600000,
       "bid": 850000,
       "vendor": 10000
     },
@@ -1236,7 +1236,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 335000,
+      "ask": 339999,
       "bid": 270000,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663356603.0938966
+  "time": 1663358402.722907
 }
