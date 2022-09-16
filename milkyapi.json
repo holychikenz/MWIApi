@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 25,
+      "ask": 24,
       "bid": 10,
       "vendor": 2
     },
@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 40,
+      "ask": 39,
       "bid": 23,
       "vendor": 16
     },
@@ -92,7 +92,7 @@
     },
     "Azure Plate Body": {
       "ask": 10000,
-      "bid": 6001,
+      "bid": 6000,
       "vendor": 1728
     },
     "Azure Plate Legs": {
@@ -132,11 +132,11 @@
     },
     "Berserk": {
       "ask": 263772,
-      "bid": 200006,
+      "bid": 200007,
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 23999,
+      "ask": 22799,
       "bid": 15004,
       "vendor": 3000
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 48,
+      "ask": 47,
       "bid": 37,
       "vendor": 8
     },
@@ -171,8 +171,8 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 19,
-      "bid": 18,
+      "ask": 18,
+      "bid": 15,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 20,
+      "ask": 19,
       "bid": 18,
       "vendor": 1
     },
@@ -537,7 +537,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 247,
-      "bid": 156,
+      "bid": 160,
       "vendor": 18
     },
     "Eyessence": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 194,
-      "bid": 113,
+      "bid": 120,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 397,
+      "ask": 395,
       "bid": 242,
       "vendor": 10
     },
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 104,
+      "ask": 103,
       "bid": 98,
       "vendor": 4
     },
@@ -746,7 +746,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 1881505,
+      "ask": 1881504,
       "bid": 1400032,
       "vendor": 10000
     },
@@ -826,7 +826,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 8,
+      "ask": 9,
       "bid": 7,
       "vendor": 4
     },
@@ -906,7 +906,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 319,
+      "ask": 318,
       "bid": 158,
       "vendor": 30
     },
@@ -1016,12 +1016,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 14250,
+      "ask": 12860,
       "bid": 4054,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 6516,
+      "ask": 6515,
       "bid": 4805,
       "vendor": 1000
     },
@@ -1041,7 +1041,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 1400,
+      "ask": 1399,
       "bid": 278,
       "vendor": 100
     },
@@ -1052,7 +1052,7 @@
     },
     "Spaceberry": {
       "ask": 90,
-      "bid": 77,
+      "bid": 75,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1186,18 +1186,18 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 44,
-      "bid": 38,
+      "ask": 43,
+      "bid": 37,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 102107,
+      "ask": 92151,
       "bid": 60002,
       "vendor": 1000
     },
     "Swiftness Coffee": {
       "ask": 777,
-      "bid": 636,
+      "bid": 635,
       "vendor": 50
     },
     "Toughness": {
@@ -1207,7 +1207,7 @@
     },
     "Turtle Shell": {
       "ask": 7736,
-      "bid": 2002,
+      "bid": 2001,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663308003.3181014
+  "time": 1663309802.8650677
 }
