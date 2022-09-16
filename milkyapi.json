@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 43,
-      "bid": 38,
+      "bid": 22,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -26,8 +26,8 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 818,
-      "bid": 700,
+      "ask": 817,
+      "bid": 660,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 263772,
-      "bid": 200003,
+      "bid": 200004,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 46,
+      "ask": 47,
       "bid": 37,
       "vendor": 8
     },
@@ -392,7 +392,7 @@
     },
     "Crab Pincer": {
       "ask": 31586,
-      "bid": 25000,
+      "bid": 21000,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 226,
+      "ask": 225,
       "bid": 172,
       "vendor": 54
     },
@@ -436,7 +436,7 @@
       "vendor": 9072
     },
     "Crimson Helmet": {
-      "ask": -1,
+      "ask": 80000,
       "bid": 12222,
       "vendor": 6480
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 199,
+      "ask": 195,
       "bid": 111,
       "vendor": 27
     },
@@ -561,8 +561,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 249989,
-      "bid": 178002,
+      "ask": 249993,
+      "bid": 178003,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -611,7 +611,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 350,
+      "ask": 349,
       "bid": 251,
       "vendor": 20
     },
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 1980532,
-      "bid": 1400031,
+      "bid": 1400032,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -816,7 +816,7 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 275,
+      "ask": 280,
       "bid": 131,
       "vendor": 40
     },
@@ -872,7 +872,7 @@
     },
     "Pincer Gloves": {
       "ask": 90000,
-      "bid": 65000,
+      "bid": 60000,
       "vendor": 6000
     },
     "Plum": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 25000,
+      "ask": 26000,
       "bid": 22062,
       "vendor": 1000
     },
@@ -1062,7 +1062,7 @@
     },
     "Spaceberry Donut": {
       "ask": 530,
-      "bid": 492,
+      "bid": 491,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1102,7 +1102,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 678,
-      "bid": 581,
+      "bid": 582,
       "vendor": 75
     },
     "Strawberry": {
@@ -1131,12 +1131,12 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": -1,
+      "ask": 848,
       "bid": 558,
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 800,
+      "ask": 799,
       "bid": 102,
       "vendor": 50
     },
@@ -1161,12 +1161,12 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 570,
+      "ask": 569,
       "bid": 260,
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 887,
+      "ask": 888,
       "bid": 401,
       "vendor": 40
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 675,
+      "ask": 674,
       "bid": 601,
       "vendor": 75
     },
@@ -1236,7 +1236,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 340000,
+      "ask": 350000,
       "bid": 240057,
       "vendor": 1000
     },
@@ -1261,7 +1261,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 194,
+      "ask": 193,
       "bid": 160,
       "vendor": 12
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 620,
+      "ask": 619,
       "bid": 601,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663284602.5722642
+  "time": 1663286402.77536
 }
