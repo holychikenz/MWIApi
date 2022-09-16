@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 27,
+      "ask": 26,
       "bid": 10,
       "vendor": 2
     },
@@ -182,7 +182,7 @@
     },
     "Blueberry Donut": {
       "ask": 500,
-      "bid": 20,
+      "bid": 50,
       "vendor": 10
     },
     "Brewing Tea": {
@@ -321,7 +321,7 @@
       "vendor": 48
     },
     "Cheese Hammer": {
-      "ask": 2137,
+      "ask": 2249,
       "bid": 301,
       "vendor": 84
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 879,
+      "ask": 835,
       "bid": 676,
       "vendor": 108
     },
@@ -746,12 +746,12 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 1980532,
+      "ask": 1881505,
       "bid": 1400032,
       "vendor": 10000
     },
     "Lucky Coffee": {
-      "ask": 323,
+      "ask": 325,
       "bid": 299,
       "vendor": 40
     },
@@ -786,8 +786,8 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 377,
-      "bid": 254,
+      "ask": 419,
+      "bid": 255,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -872,7 +872,7 @@
     },
     "Pincer Gloves": {
       "ask": 90000,
-      "bid": 61000,
+      "bid": 62000,
       "vendor": 6000
     },
     "Plum": {
@@ -882,7 +882,7 @@
     },
     "Plum Gummy": {
       "ask": 90,
-      "bid": 50,
+      "bid": 55,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 336,
+      "ask": 355,
       "bid": 265,
       "vendor": 27
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 663336,
+      "ask": 630169,
       "bid": 400003,
       "vendor": 1000
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 848,
-      "bid": 558,
+      "bid": 527,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1191,13 +1191,13 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 107481,
+      "ask": 102107,
       "bid": 60002,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 750,
-      "bid": 697,
+      "ask": 778,
+      "bid": 632,
       "vendor": 50
     },
     "Toughness": {
@@ -1227,7 +1227,7 @@
     },
     "Vampire Fang": {
       "ask": 850000,
-      "bid": 600003,
+      "bid": 600002,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 1350000,
-      "bid": 997508,
+      "bid": 997509,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 619,
+      "ask": 618,
       "bid": 600,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663291803.0219445
+  "time": 1663293603.2451649
 }
