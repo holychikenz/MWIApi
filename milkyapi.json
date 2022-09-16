@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 24,
+      "ask": 25,
       "bid": 10,
       "vendor": 2
     },
@@ -127,11 +127,11 @@
     },
     "Bear Essence": {
       "ask": 69,
-      "bid": 62,
+      "bid": 61,
       "vendor": 54
     },
     "Berserk": {
-      "ask": 263772,
+      "ask": 292000,
       "bid": 200007,
       "vendor": 1000
     },
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 348,
-      "bid": 303,
+      "bid": 260,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 19,
+      "ask": 20,
       "bid": 18,
       "vendor": 1
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 90250,
+      "ask": 81451,
       "bid": 41000,
       "vendor": 5000
     },
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 199,
+      "ask": 200,
       "bid": 180,
       "vendor": 54
     },
@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1970000,
+      "ask": 1900000,
       "bid": 3000,
       "vendor": 500000
     },
@@ -1022,7 +1022,7 @@
     },
     "Smack": {
       "ask": 6515,
-      "bid": 4805,
+      "bid": 4806,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1051,7 +1051,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 90,
+      "ask": 91,
       "bid": 75,
       "vendor": 27
     },
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 285,
+      "ask": 295,
       "bid": 200,
       "vendor": 27
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 692,
+      "ask": 766,
       "bid": 583,
       "vendor": 75
     },
@@ -1226,7 +1226,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1200000,
+      "ask": 1199999,
       "bid": 850000,
       "vendor": 10000
     },
@@ -1351,12 +1351,12 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 23,
+      "ask": 24,
       "bid": 21,
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 617,
+      "ask": 618,
       "bid": 600,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663309802.8650677
+  "time": 1663311603.150574
 }
