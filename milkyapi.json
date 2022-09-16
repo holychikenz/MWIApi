@@ -16,8 +16,8 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 43,
-      "bid": 22,
+      "ask": 42,
+      "bid": 23,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 16250,
+      "ask": 16069,
       "bid": -1,
       "vendor": 864
     },
@@ -66,7 +66,7 @@
       "vendor": 1512
     },
     "Azure Gauntlets": {
-      "ask": 13228,
+      "ask": 13069,
       "bid": 4203,
       "vendor": 864
     },
@@ -86,12 +86,12 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 39,
+      "ask": 40,
       "bid": 36,
       "vendor": 8
     },
     "Azure Plate Body": {
-      "ask": -1,
+      "ask": 10000,
       "bid": 6001,
       "vendor": 1728
     },
@@ -327,7 +327,7 @@
     },
     "Cheese Helmet": {
       "ask": 1000000000000,
-      "bid": 270,
+      "bid": 275,
       "vendor": 60
     },
     "Cheese Mace": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 209,
+      "ask": 208,
       "bid": 187,
       "vendor": 54
     },
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 90250,
-      "bid": 66666,
+      "bid": 41000,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -606,8 +606,8 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 885,
-      "bid": 675,
+      "ask": 880,
+      "bid": 676,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 635,
+      "ask": 634,
       "bid": 611,
       "vendor": 162
     },
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 200,
-      "bid": 176,
+      "bid": 177,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 358,
+      "ask": 357,
       "bid": 265,
       "vendor": 27
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 678,
+      "ask": 679,
       "bid": 582,
       "vendor": 75
     },
@@ -1211,7 +1211,7 @@
       "vendor": 1500
     },
     "Turtle Shell Body": {
-      "ask": 11858,
+      "ask": 12482,
       "bid": -1,
       "vendor": 9000
     },
@@ -1221,12 +1221,12 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 298,
+      "ask": 297,
       "bid": 283,
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 880000,
+      "ask": 850000,
       "bid": 600003,
       "vendor": 10000
     },
@@ -1236,7 +1236,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 350000,
+      "ask": 340000,
       "bid": 240057,
       "vendor": 1000
     },
@@ -1292,7 +1292,7 @@
     },
     "Verdant Milk": {
       "ask": 51,
-      "bid": 38,
+      "bid": 45,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1321,7 +1321,7 @@
       "vendor": 420
     },
     "Verdant Spear": {
-      "ask": -1,
+      "ask": 5000,
       "bid": 200,
       "vendor": 540
     },
@@ -1336,13 +1336,13 @@
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 200000,
+      "ask": 199999,
       "bid": 145001,
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1350000,
-      "bid": 997509,
+      "ask": 1349999,
+      "bid": 1100000,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663288202.4295628
+  "time": 1663290002.9865344
 }
