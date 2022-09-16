@@ -162,12 +162,12 @@
     },
     "Blackberry Donut": {
       "ask": 210,
-      "bid": 31,
+      "bid": 32,
       "vendor": 20
     },
     "Blessed Tea": {
       "ask": 949,
-      "bid": 650,
+      "bid": -1,
       "vendor": 75
     },
     "Blueberry": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 296,
-      "bid": 185,
+      "bid": 186,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -247,7 +247,7 @@
     },
     "Burble Plate Body": {
       "ask": 28025,
-      "bid": 5253,
+      "bid": 8000,
       "vendor": 4320
     },
     "Burble Plate Legs": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 224,
-      "bid": 173,
+      "bid": 174,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 21,
+      "ask": 20,
       "bid": 18,
       "vendor": 1
     },
@@ -536,8 +536,8 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 248,
-      "bid": 155,
+      "ask": 247,
+      "bid": 156,
       "vendor": 18
     },
     "Eyessence": {
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 194,
-      "bid": 112,
+      "bid": 113,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -607,7 +607,7 @@
     },
     "Golem Essence": {
       "ask": 950,
-      "bid": 679,
+      "bid": 680,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 200,
-      "bid": 179,
+      "bid": 180,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -787,7 +787,7 @@
     },
     "Marsberry Donut": {
       "ask": 419,
-      "bid": 255,
+      "bid": 256,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -811,12 +811,12 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 169,
-      "bid": 118,
+      "ask": 179,
+      "bid": 119,
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 279,
+      "ask": 278,
       "bid": 131,
       "vendor": 40
     },
@@ -876,7 +876,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 9,
+      "ask": 8,
       "bid": 7,
       "vendor": 6
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 353,
+      "ask": 352,
       "bid": 266,
       "vendor": 27
     },
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 792,
+      "ask": 750,
       "bid": 686,
       "vendor": 75
     },
@@ -1112,7 +1112,7 @@
     },
     "Strawberry Cake": {
       "ask": 153,
-      "bid": 57,
+      "bid": 58,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 630169,
-      "bid": 400004,
+      "bid": 400005,
       "vendor": 1000
     },
     "Sugar": {
@@ -1157,7 +1157,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 689,
-      "bid": 510,
+      "bid": 500,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1197,7 +1197,7 @@
     },
     "Swiftness Coffee": {
       "ask": 777,
-      "bid": 634,
+      "bid": 635,
       "vendor": 50
     },
     "Toughness": {
@@ -1237,7 +1237,7 @@
     },
     "Vampirism": {
       "ask": 340000,
-      "bid": 250000,
+      "bid": 250001,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663302603.0539572
+  "time": 1663304403.231638
 }
