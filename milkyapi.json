@@ -106,7 +106,7 @@
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": 10138,
+      "ask": -1,
       "bid": 4000,
       "vendor": 1512
     },
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 280,
-      "bid": 204,
+      "bid": 215,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 255,
-      "bid": 239,
+      "bid": 240,
       "vendor": 12
     },
     "Cheese": {
@@ -321,7 +321,7 @@
       "vendor": 48
     },
     "Cheese Hammer": {
-      "ask": 2248,
+      "ask": 1999,
       "bid": 301,
       "vendor": 84
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 193,
+      "ask": 192,
       "bid": 151,
       "vendor": 54
     },
@@ -447,7 +447,7 @@
     },
     "Crimson Milk": {
       "ask": 25,
-      "bid": 20,
+      "bid": 21,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -486,7 +486,7 @@
       "vendor": 11664
     },
     "Cupcake": {
-      "ask": 41,
+      "ask": 42,
       "bid": 16,
       "vendor": 5
     },
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 189,
-      "bid": 120,
+      "bid": 118,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -611,7 +611,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 349,
+      "ask": 340,
       "bid": 267,
       "vendor": 20
     },
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 594,
-      "bid": 585,
+      "ask": 598,
+      "bid": 587,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 238,
-      "bid": 200,
+      "bid": 187,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -731,7 +731,7 @@
       "vendor": 80190
     },
     "Intelligence Coffee": {
-      "ask": 309,
+      "ask": 300,
       "bid": 200,
       "vendor": 10
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 997499,
+      "ask": 995000,
       "bid": 798783,
       "vendor": 10000
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 33,
+      "ask": 34,
       "bid": 29,
       "vendor": 27
     },
@@ -991,7 +991,7 @@
       "vendor": 20979
     },
     "Rainbow Spatula": {
-      "ask": 40000,
+      "ask": 38000,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry Cake": {
       "ask": 775,
-      "bid": 691,
+      "bid": 692,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1197,7 +1197,7 @@
     },
     "Swiftness Coffee": {
       "ask": 776,
-      "bid": 645,
+      "bid": 639,
       "vendor": 50
     },
     "Toughness": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663379102.7821095
+  "time": 1663380903.2506125
 }
