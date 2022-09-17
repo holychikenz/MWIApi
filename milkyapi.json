@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 19,
+      "ask": 26,
       "bid": 2,
       "vendor": 2
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 46,
+      "ask": 48,
       "bid": 37,
       "vendor": 8
     },
@@ -156,7 +156,7 @@
       "vendor": 4
     },
     "Blackberry Cake": {
-      "ask": 157,
+      "ask": 156,
       "bid": 22,
       "vendor": 20
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 189,
+      "ask": 190,
       "bid": 157,
       "vendor": 54
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 999,
+      "ask": 994,
       "bid": 715,
       "vendor": 50
     },
@@ -572,7 +572,7 @@
     },
     "Gator Vest": {
       "ask": 69821,
-      "bid": 44446,
+      "bid": 45000,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 615,
+      "ask": 616,
       "bid": 590,
       "vendor": 162
     },
@@ -716,7 +716,7 @@
       "vendor": 62370
     },
     "Holy Spatula": {
-      "ask": 103000,
+      "ask": 102000,
       "bid": 90000,
       "vendor": 62370
     },
@@ -867,7 +867,7 @@
     },
     "Pierce": {
       "ask": 59999,
-      "bid": 30957,
+      "bid": 25469,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -891,12 +891,12 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 7878,
+      "ask": 7877,
       "bid": 5003,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 113999,
+      "ask": 100000,
       "bid": 65002,
       "vendor": 3000
     },
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 267,
+      "ask": 268,
       "bid": 212,
       "vendor": 81
     },
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 5865,
+      "ask": 6500,
       "bid": 4808,
       "vendor": 1000
     },
@@ -1041,22 +1041,22 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 950,
+      "ask": 1297,
       "bid": 278,
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 15343,
+      "ask": 15340,
       "bid": 3144,
       "vendor": 2000
     },
     "Spaceberry": {
       "ask": 91,
-      "bid": 80,
+      "bid": 81,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 749,
+      "ask": 750,
       "bid": 698,
       "vendor": 75
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 749,
+      "ask": 748,
       "bid": 632,
       "vendor": 75
     },
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 630167,
-      "bid": 501001,
+      "bid": 501002,
       "vendor": 1000
     },
     "Sugar": {
@@ -1141,7 +1141,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 947,
+      "ask": 948,
       "bid": 531,
       "vendor": 75
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663431303.2062697
+  "time": 1663433103.1044319
 }
