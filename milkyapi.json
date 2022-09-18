@@ -132,11 +132,11 @@
     },
     "Berserk": {
       "ask": 300000,
-      "bid": 250001,
+      "bid": 260000,
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 29000,
+      "ask": 28999,
       "bid": 15007,
       "vendor": 3000
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 187,
+      "ask": 186,
       "bid": 171,
       "vendor": 54
     },
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 76,
-      "bid": 52,
+      "bid": 53,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 278645,
-      "bid": 225002,
+      "bid": 240000,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -771,7 +771,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 370000,
+      "ask": 380000,
       "bid": 350000,
       "vendor": 1000
     },
@@ -782,7 +782,7 @@
     },
     "Marsberry Cake": {
       "ask": 330,
-      "bid": 200,
+      "bid": 220,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -817,7 +817,7 @@
     },
     "Mooberry Donut": {
       "ask": 269,
-      "bid": 132,
+      "bid": 150,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 370,
+      "ask": 368,
       "bid": 290,
       "vendor": 27
     },
@@ -1101,8 +1101,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 735,
-      "bid": 638,
+      "ask": 740,
+      "bid": 650,
       "vendor": 75
     },
     "Strawberry": {
@@ -1201,7 +1201,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 28000,
+      "ask": 27999,
       "bid": 15000,
       "vendor": 1000
     },
@@ -1236,7 +1236,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 440000,
+      "ask": 418000,
       "bid": 285001,
       "vendor": 1000
     },
@@ -1292,7 +1292,7 @@
     },
     "Verdant Milk": {
       "ask": 50,
-      "bid": 40,
+      "bid": 41,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1341,7 +1341,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 1218705,
+      "ask": 1200000,
       "bid": 997518,
       "vendor": 10000
     },
@@ -1357,7 +1357,7 @@
     },
     "Wisdom Tea": {
       "ask": 612,
-      "bid": 500,
+      "bid": 580,
       "vendor": 30
     },
     "Yogurt": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663496102.1486483
+  "time": 1663497902.8720255
 }
