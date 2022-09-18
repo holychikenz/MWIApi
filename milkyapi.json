@@ -137,7 +137,7 @@
     },
     "Black Bear Fluff": {
       "ask": 28998,
-      "bid": 15009,
+      "bid": 15008,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -146,18 +146,18 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 49,
+      "ask": 48,
       "bid": 37,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 54,
+      "ask": -1,
       "bid": 20,
       "vendor": 4
     },
     "Blackberry Cake": {
       "ask": 151,
-      "bid": 22,
+      "bid": 21,
       "vendor": 20
     },
     "Blackberry Donut": {
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 275,
+      "ask": 274,
       "bid": 255,
       "vendor": 12
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 187,
+      "ask": 195,
       "bid": 180,
       "vendor": 54
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 295,
+      "ask": 294,
       "bid": 185,
       "vendor": 54
     },
@@ -586,8 +586,8 @@
       "vendor": 24
     },
     "Gobo Slasher": {
-      "ask": 19851,
-      "bid": 3001,
+      "ask": 20896,
+      "bid": 3000,
       "vendor": 20000
     },
     "Gobo Smasher": {
@@ -611,7 +611,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 340,
+      "ask": 330,
       "bid": 250,
       "vendor": 20
     },
@@ -667,7 +667,7 @@
     },
     "Holy Enhancer": {
       "ask": 107988,
-      "bid": 90000,
+      "bid": 30,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 227,
+      "ask": 226,
       "bid": 201,
       "vendor": 54
     },
@@ -896,7 +896,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 74997,
+      "ask": 71247,
       "bid": 25000,
       "vendor": 3000
     },
@@ -1047,7 +1047,7 @@
     },
     "Snake Fang Dirk": {
       "ask": 10150,
-      "bid": 3144,
+      "bid": 3143,
       "vendor": 2000
     },
     "Spaceberry": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 849,
+      "ask": 825,
       "bid": 615,
       "vendor": 75
     },
@@ -1101,13 +1101,13 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 742,
+      "ask": 750,
       "bid": 654,
       "vendor": 75
     },
     "Strawberry": {
       "ask": 38,
-      "bid": 30,
+      "bid": 26,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1187,7 +1187,7 @@
     },
     "Swamp Essence": {
       "ask": 49,
-      "bid": 40,
+      "bid": 38,
       "vendor": 8
     },
     "Sweep": {
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 728,
+      "ask": 725,
       "bid": 552,
       "vendor": 50
     },
@@ -1207,7 +1207,7 @@
     },
     "Turtle Shell": {
       "ask": 7700,
-      "bid": 2001,
+      "bid": 2000,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -1351,7 +1351,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 21,
+      "ask": 22,
       "bid": 18,
       "vendor": 1
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663526703.0181642
+  "time": 1663528502.3582482
 }
