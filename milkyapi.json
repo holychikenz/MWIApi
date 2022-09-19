@@ -241,12 +241,12 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 48,
+      "ask": 47,
       "bid": 35,
       "vendor": 12
     },
     "Burble Plate Body": {
-      "ask": 28025,
+      "ask": -1,
       "bid": 8000,
       "vendor": 4320
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 195,
-      "bid": 185,
+      "bid": 186,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 320995,
+      "ask": 300000,
       "bid": 250006,
       "vendor": 1000
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 219999,
+      "ask": 219998,
       "bid": 150000,
       "vendor": 10000
     },
@@ -766,7 +766,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 219999,
+      "ask": 219998,
       "bid": 155000,
       "vendor": 10000
     },
@@ -1161,7 +1161,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 565,
+      "ask": 564,
       "bid": 260,
       "vendor": 40
     },
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 1150000,
-      "bid": 997523,
+      "bid": 1000000,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663584301.921957
+  "time": 1663586102.7273073
 }
