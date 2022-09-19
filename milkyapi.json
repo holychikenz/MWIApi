@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 127,
-      "bid": 50,
+      "bid": 51,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 225,
+      "ask": 379,
       "bid": 185,
       "vendor": 54
     },
@@ -556,8 +556,8 @@
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": -1,
-      "bid": 200,
+      "ask": 1000,
+      "bid": 210,
       "vendor": 10
     },
     "Frenzy": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 897,
+      "ask": 850,
       "bid": 763,
       "vendor": 108
     },
@@ -742,7 +742,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 116,
-      "bid": 94,
+      "bid": 80,
       "vendor": 12
     },
     "Living Granite": {
@@ -906,7 +906,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 327,
+      "ask": 328,
       "bid": 161,
       "vendor": 30
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 32,
+      "ask": 33,
       "bid": 29,
       "vendor": 27
     },
@@ -1092,7 +1092,7 @@
     },
     "Star Fruit": {
       "ask": 250,
-      "bid": 171,
+      "bid": 225,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1131,7 +1131,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 848,
+      "ask": 799,
       "bid": 610,
       "vendor": 50
     },
@@ -1221,7 +1221,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 319,
+      "ask": 315,
       "bid": 291,
       "vendor": 108
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663589702.2301574
+  "time": 1663591502.257809
 }
