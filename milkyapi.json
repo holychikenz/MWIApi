@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 26,
-      "bid": 2,
+      "bid": 4,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -31,8 +31,8 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 280,
-      "bid": 203,
+      "ask": 270,
+      "bid": 204,
       "vendor": 20
     },
     "Azure Boots": {
@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 76,
-      "bid": 63,
+      "bid": 64,
       "vendor": 54
     },
     "Berserk": {
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 50,
-      "bid": 38,
+      "bid": 39,
       "vendor": 8
     },
     "Blackberry": {
@@ -321,7 +321,7 @@
       "vendor": 48
     },
     "Cheese Hammer": {
-      "ask": 499,
+      "ask": 2249,
       "bid": 301,
       "vendor": 84
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 129,
+      "ask": 128,
       "bid": 44,
       "vendor": 14
     },
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 224,
-      "bid": 200,
+      "bid": 201,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -786,7 +786,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 394,
+      "ask": 479,
       "bid": 296,
       "vendor": 50
     },
@@ -827,7 +827,7 @@
     },
     "Orange": {
       "ask": 7,
-      "bid": 5,
+      "bid": 6,
       "vendor": 4
     },
     "Orange Gummy": {
@@ -907,7 +907,7 @@
     },
     "Power Coffee": {
       "ask": 328,
-      "bid": 157,
+      "bid": 160,
       "vendor": 30
     },
     "Precision": {
@@ -1021,7 +1021,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 8000,
+      "ask": 5000,
       "bid": 4806,
       "vendor": 1000
     },
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 766,
+      "ask": 765,
       "bid": 698,
       "vendor": 75
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 756,
+      "ask": 754,
       "bid": 690,
       "vendor": 75
     },
@@ -1111,7 +1111,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 140,
+      "ask": 139,
       "bid": 58,
       "vendor": 30
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 799,
-      "bid": 605,
+      "bid": 606,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1181,7 +1181,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 709,
+      "ask": 708,
       "bid": 395,
       "vendor": 40
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663555502.9045098
+  "time": 1663557302.834128
 }
