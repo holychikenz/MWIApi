@@ -1,5 +1,5 @@
 {
-  "time": 1663511402.0,
+  "time": 1663513202.0,
   "market": {
     "Apple": {
       "ask": 26.0,
@@ -27,7 +27,7 @@
     },
     "Attack Coffee": {
       "ask": 300.0,
-      "bid": 202.0
+      "bid": 202.5
     },
     "Azure Boots": {
       "ask": 14503.0,
@@ -47,7 +47,7 @@
     },
     "Azure Cheese": {
       "ask": 179.0,
-      "bid": 142.5
+      "bid": 145.0
     },
     "Azure Enhancer": {
       "ask": 16599.0,
@@ -106,8 +106,8 @@
       "bid": 62.0
     },
     "Berserk": {
-      "ask": 304375.0,
-      "bid": 265005.0
+      "ask": 300000.0,
+      "bid": 265006.0
     },
     "Black Bear Fluff": {
       "ask": 28998.0,
@@ -126,7 +126,7 @@
       "bid": 14.0
     },
     "Blackberry Cake": {
-      "ask": 153.0,
+      "ask": 152.0,
       "bid": 22.0
     },
     "Blackberry Donut": {
@@ -170,7 +170,7 @@
       "bid": 5520.0
     },
     "Burble Cheese": {
-      "ask": 276.5,
+      "ask": 275.0,
       "bid": 200.0
     },
     "Burble Enhancer": {
@@ -395,7 +395,7 @@
     },
     "Defense Coffee": {
       "ask": 257.0,
-      "bid": 179.5
+      "bid": 179.0
     },
     "Donut": {
       "ask": 86.0,
@@ -406,7 +406,7 @@
       "bid": 44.0
     },
     "Dragon Fruit Gummy": {
-      "ask": 199.0,
+      "ask": 198.5,
       "bid": 135.0
     },
     "Dragon Fruit Yogurt": {
@@ -455,7 +455,7 @@
     },
     "Gathering Tea": {
       "ask": 360.0,
-      "bid": 240.5
+      "bid": 241.0
     },
     "Gator Vest": {
       "ask": 73495.0,
@@ -523,7 +523,7 @@
     },
     "Holy Cheese": {
       "ask": 619.0,
-      "bid": 606.0
+      "bid": 606.5
     },
     "Holy Enhancer": {
       "ask": 107989.0,
@@ -546,8 +546,8 @@
       "bid": 88000.0
     },
     "Holy Milk": {
-      "ask": 228.5,
-      "bid": 200.5
+      "ask": 228.0,
+      "bid": 200.0
     },
     "Holy Plate Body": {
       "ask": 144444.0,
@@ -603,7 +603,7 @@
     },
     "Marsberry": {
       "ask": 52.0,
-      "bid": 32.5
+      "bid": 34.0
     },
     "Marsberry Cake": {
       "ask": 330.0,
@@ -614,7 +614,7 @@
       "bid": 263.0
     },
     "Medium Pouch": {
-      "ask": 1950000.0,
+      "ask": 1850000.0,
       "bid": 25645.0
     },
     "Milk": {
@@ -631,10 +631,10 @@
     },
     "Mooberry Cake": {
       "ask": 184.0,
-      "bid": 135.0
+      "bid": 145.0
     },
     "Mooberry Donut": {
-      "ask": 269.0,
+      "ask": 272.5,
       "bid": 132.0
     },
     "Moolong Tea Leaf": {
@@ -722,7 +722,7 @@
       "bid": 25000.0
     },
     "Rainbow Buckler": {
-      "ask": 49997.5,
+      "ask": 49997.0,
       "bid": 18555.0
     },
     "Rainbow Bulwark": {
@@ -830,7 +830,7 @@
       "bid": 704.5
     },
     "Spaceberry Donut": {
-      "ask": 880.0,
+      "ask": 865.0,
       "bid": 611.0
     },
     "Spacia Coffee Bean": {
@@ -871,7 +871,7 @@
     },
     "Super Attack Coffee": {
       "ask": 748.5,
-      "bid": 576.5
+      "bid": 600.0
     },
     "Super Brewing Tea": {
       "ask": 757.0,
@@ -907,7 +907,7 @@
     },
     "Super Power Coffee": {
       "ask": 758.0,
-      "bid": 600.5
+      "bid": 601.0
     },
     "Super Stamina Coffee": {
       "ask": 710.0,
@@ -919,11 +919,11 @@
     },
     "Sweep": {
       "ask": 104500.0,
-      "bid": 65502.0
+      "bid": 66000.0
     },
     "Swiftness Coffee": {
       "ask": 728.0,
-      "bid": 551.0
+      "bid": 551.5
     },
     "Toughness": {
       "ask": 26999.5,
@@ -942,7 +942,7 @@
       "bid": -1.0
     },
     "Twilight Essence": {
-      "ask": 344.0,
+      "ask": 343.5,
       "bid": 291.0
     },
     "Vampire Fang": {
@@ -974,7 +974,7 @@
       "bid": 1201.0
     },
     "Verdant Cheese": {
-      "ask": 226.5,
+      "ask": 228.0,
       "bid": 146.0
     },
     "Verdant Enhancer": {
@@ -1047,7 +1047,7 @@
     },
     "Wheat": {
       "ask": 22.0,
-      "bid": 18.0
+      "bid": 18.5
     },
     "Wisdom Tea": {
       "ask": 610.0,
@@ -1067,7 +1067,7 @@
     },
     "Living Granite": {
       "ask": 2084771.0,
-      "bid": 1401000.0
+      "bid": 1401000.5
     },
     "Magnet": {
       "ask": 985000.0,
@@ -1091,7 +1091,7 @@
     },
     "Stunning Blow": {
       "ask": 630166.0,
-      "bid": 502006.5
+      "bid": 502007.0
     }
   }
 }
