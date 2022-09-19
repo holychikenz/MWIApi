@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 178,
-      "bid": 156,
+      "bid": 157,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -126,13 +126,13 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 77,
+      "ask": 75,
       "bid": 62,
       "vendor": 54
     },
     "Berserk": {
       "ask": 293313,
-      "bid": 275006,
+      "bid": 275007,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -211,8 +211,8 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 269,
-      "bid": 189,
+      "ask": 273,
+      "bid": 190,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -222,12 +222,12 @@
     },
     "Burble Gauntlets": {
       "ask": 25000,
-      "bid": 3000,
+      "bid": -1,
       "vendor": 2160
     },
     "Burble Hammer": {
       "ask": -1,
-      "bid": 100,
+      "bid": 10000,
       "vendor": 3780
     },
     "Burble Helmet": {
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 47,
-      "bid": 35,
+      "bid": 36,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 75,
-      "bid": 61,
+      "bid": 62,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 195,
-      "bid": 186,
+      "bid": 187,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 982,
+      "ask": 983,
       "bid": 750,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 238,
+      "ask": 225,
       "bid": 185,
       "vendor": 54
     },
@@ -577,7 +577,7 @@
     },
     "Giant Pouch": {
       "ask": -1,
-      "bid": 15000000,
+      "bid": 20000000,
       "vendor": 5000000
     },
     "Gobo Essence": {
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 618,
+      "ask": 617,
       "bid": 610,
       "vendor": 162
     },
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 221,
+      "ask": 220,
       "bid": 202,
       "vendor": 54
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 271,
-      "bid": 226,
+      "bid": 227,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1071,7 +1071,7 @@
       "vendor": 54
     },
     "Spike Shell": {
-      "ask": 270744,
+      "ask": 257207,
       "bid": 52512,
       "vendor": 1000
     },
@@ -1086,7 +1086,7 @@
       "vendor": 400000
     },
     "Stamina Coffee": {
-      "ask": 228,
+      "ask": 225,
       "bid": 131,
       "vendor": 10
     },
@@ -1151,7 +1151,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 648,
+      "ask": 647,
       "bid": 370,
       "vendor": 50
     },
@@ -1262,7 +1262,7 @@
     },
     "Verdant Cheese": {
       "ask": 228,
-      "bid": 162,
+      "bid": 163,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663586102.7273073
+  "time": 1663587903.0581584
 }
