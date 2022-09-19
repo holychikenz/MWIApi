@@ -107,7 +107,7 @@
     },
     "Azure Shears": {
       "ask": -1,
-      "bid": 4000,
+      "bid": -1,
       "vendor": 1512
     },
     "Azure Spatula": {
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 308750,
+      "ask": 293313,
       "bid": 275003,
       "vendor": 1000
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 358621,
+      "ask": 340690,
       "bid": 160000,
       "vendor": 1000
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 130,
+      "ask": 129,
       "bid": 44,
       "vendor": 14
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 20,
+      "ask": 19,
       "bid": 16,
       "vendor": 1
     },
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 224,
-      "bid": 201,
+      "bid": 200,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -767,7 +767,7 @@
     },
     "Magnifying Glass": {
       "ask": 219999,
-      "bid": 145001,
+      "bid": 155000,
       "vendor": 10000
     },
     "Maim": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 47500,
+      "ask": 47499,
       "bid": 29011,
       "vendor": 3000
     },
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 54148,
+      "ask": 51441,
       "bid": 22001,
       "vendor": 1000
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 10000,
+      "ask": 9999,
       "bid": 3,
       "vendor": 5000
     },
@@ -1061,8 +1061,8 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 900,
-      "bid": 616,
+      "ask": 850,
+      "bid": 617,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1351,7 +1351,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 22,
+      "ask": 20,
       "bid": 19,
       "vendor": 1
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663551902.538379
+  "time": 1663553702.1103072
 }
