@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 85,
+      "ask": 88,
       "bid": 63,
       "vendor": 54
     },
@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 184,
-      "bid": 31,
+      "bid": 32,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -161,7 +161,7 @@
       "vendor": 20
     },
     "Blackberry Donut": {
-      "ask": 1000,
+      "ask": 900,
       "bid": 32,
       "vendor": 20
     },
@@ -182,7 +182,7 @@
     },
     "Blueberry Donut": {
       "ask": 255,
-      "bid": 50,
+      "bid": 20,
       "vendor": 10
     },
     "Brewing Tea": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1095,
+      "ask": 1094,
       "bid": 750,
       "vendor": 50
     },
@@ -561,8 +561,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 349999,
-      "bid": 261861,
+      "ask": 349998,
+      "bid": 261860,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 610,
-      "bid": 598,
+      "ask": 609,
+      "bid": 599,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 230,
+      "ask": 229,
       "bid": 202,
       "vendor": 54
     },
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 2450000,
-      "bid": 1500012,
+      "bid": 1500013,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -757,7 +757,7 @@
     },
     "Magnet": {
       "ask": 934800,
-      "bid": 750000,
+      "bid": 400043,
       "vendor": 10000
     },
     "Magnetic Gloves": {
@@ -777,7 +777,7 @@
     },
     "Marsberry": {
       "ask": 52,
-      "bid": 45,
+      "bid": 43,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1102,7 +1102,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 751,
-      "bid": 661,
+      "bid": 662,
       "vendor": 75
     },
     "Strawberry": {
@@ -1162,12 +1162,12 @@
     },
     "Super Foraging Tea": {
       "ask": 554,
-      "bid": 260,
+      "bid": 200,
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 691,
-      "bid": 401,
+      "ask": 690,
+      "bid": 402,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 709,
+      "ask": 708,
       "bid": 629,
       "vendor": 50
     },
@@ -1291,8 +1291,8 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 44,
-      "bid": 38,
+      "ask": 45,
+      "bid": 37,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663688702.3172152
+  "time": 1663690502.1429446
 }
