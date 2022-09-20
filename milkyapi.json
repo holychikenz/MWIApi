@@ -161,7 +161,7 @@
       "vendor": 20
     },
     "Blackberry Donut": {
-      "ask": 900,
+      "ask": 600,
       "bid": 32,
       "vendor": 20
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 274,
-      "bid": 261,
+      "bid": 263,
       "vendor": 12
     },
     "Cheese": {
@@ -436,7 +436,7 @@
       "vendor": 9072
     },
     "Crimson Helmet": {
-      "ask": 45000,
+      "ask": 13000,
       "bid": 420,
       "vendor": 6480
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 709,
+      "ask": 738,
       "bid": 614,
       "vendor": 108
     },
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 165,
+      "ask": 149,
       "bid": 104,
       "vendor": 4
     },
@@ -646,7 +646,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 120402,
+      "ask": 120401,
       "bid": 91500,
       "vendor": 62370
     },
@@ -711,7 +711,7 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 105000,
+      "ask": 104999,
       "bid": 90000,
       "vendor": 62370
     },
@@ -746,8 +746,8 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 2500000,
-      "bid": 1700002,
+      "ask": 2499999,
+      "bid": 1700001,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -762,7 +762,7 @@
     },
     "Magnetic Gloves": {
       "ask": -1,
-      "bid": 8000000,
+      "bid": 2000000,
       "vendor": 300000
     },
     "Magnifying Glass": {
@@ -787,7 +787,7 @@
     },
     "Marsberry Donut": {
       "ask": 600,
-      "bid": 310,
+      "bid": 311,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -1006,8 +1006,8 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 300,
-      "bid": 278,
+      "ask": 299,
+      "bid": 280,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1052,11 +1052,11 @@
     },
     "Spaceberry": {
       "ask": 91,
-      "bid": 85,
+      "bid": 86,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 748,
+      "ask": 747,
       "bid": 702,
       "vendor": 75
     },
@@ -1092,7 +1092,7 @@
     },
     "Star Fruit": {
       "ask": 235,
-      "bid": 175,
+      "bid": 176,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1146,8 +1146,8 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 531,
-      "bid": 451,
+      "ask": 435,
+      "bid": 100,
       "vendor": 50
     },
     "Super Defense Coffee": {
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 1072309,
-      "bid": 997508,
+      "bid": 997507,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663703102.6377573
+  "time": 1663704902.9422667
 }
