@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 23,
+      "ask": 22,
       "bid": 4,
       "vendor": 2
     },
@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 847,
-      "bid": 700,
+      "bid": 710,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 60,
-      "bid": 38,
+      "bid": 39,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -537,7 +537,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 171,
-      "bid": 121,
+      "bid": 123,
       "vendor": 18
     },
     "Eyessence": {
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 135,
+      "ask": 198,
       "bid": 120,
       "vendor": 27
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 379998,
+      "ask": 379997,
       "bid": 261881,
       "vendor": 1000
     },
@@ -606,18 +606,18 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 675,
-      "bid": 550,
+      "ask": 674,
+      "bid": 551,
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 340,
+      "ask": 349,
       "bid": 155,
       "vendor": 20
     },
     "Granite Bludgeon": {
       "ask": -1,
-      "bid": 12000000,
+      "bid": 12000001,
       "vendor": 400000
     },
     "Green Tea Leaf": {
@@ -742,22 +742,22 @@
     },
     "Liberica Coffee Bean": {
       "ask": 116,
-      "bid": 91,
+      "bid": 93,
       "vendor": 12
     },
     "Living Granite": {
       "ask": 2499994,
-      "bid": 1500020,
+      "bid": 1500021,
       "vendor": 10000
     },
     "Lucky Coffee": {
       "ask": 395,
-      "bid": 186,
+      "bid": 187,
       "vendor": 40
     },
     "Magnet": {
       "ask": 850000,
-      "bid": 400045,
+      "bid": 150000,
       "vendor": 10000
     },
     "Magnetic Gloves": {
@@ -777,7 +777,7 @@
     },
     "Marsberry": {
       "ask": 52,
-      "bid": 44,
+      "bid": 45,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -791,13 +791,13 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 160000,
+      "ask": 198999,
       "bid": 25645,
       "vendor": 50000
     },
     "Milk": {
       "ask": 11,
-      "bid": 3,
+      "bid": 5,
       "vendor": 2
     },
     "Milking Tea": {
@@ -861,17 +861,17 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 134,
+      "ask": 135,
       "bid": 101,
       "vendor": 40
     },
     "Pierce": {
-      "ask": 92664,
+      "ask": 171475,
       "bid": 22005,
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 89996,
+      "ask": 89997,
       "bid": 69420,
       "vendor": 6000
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 30,
+      "ask": 29,
       "bid": 28,
       "vendor": 27
     },
@@ -1056,8 +1056,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 737,
-      "bid": 705,
+      "ask": 735,
+      "bid": 703,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1177,11 +1177,11 @@
     },
     "Super Power Coffee": {
       "ask": 767,
-      "bid": 660,
+      "bid": 670,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 700,
+      "ask": 695,
       "bid": 403,
       "vendor": 40
     },
@@ -1226,7 +1226,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 992749,
+      "ask": 992748,
       "bid": 900001,
       "vendor": 10000
     },
@@ -1261,7 +1261,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 245,
+      "ask": 248,
       "bid": 170,
       "vendor": 12
     },
@@ -1292,7 +1292,7 @@
     },
     "Verdant Milk": {
       "ask": 43,
-      "bid": 39,
+      "bid": 38,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 1069629,
-      "bid": 997512,
+      "bid": 997513,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663788603.235202
+  "time": 1663790402.8353987
 }
