@@ -46,7 +46,7 @@
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": -1,
+      "ask": 1824,
       "bid": 1350,
       "vendor": 1296
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 375000,
-      "bid": 275045,
+      "bid": 275046,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 74,
+      "ask": 73,
       "bid": 45,
       "vendor": 4
     },
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 254,
-      "bid": 160,
+      "bid": 151,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 297,
-      "bid": 261,
+      "bid": 260,
       "vendor": 12
     },
     "Cheese": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1079,
+      "ask": 1078,
       "bid": 860,
       "vendor": 50
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 134,
+      "ask": 135,
       "bid": 120,
       "vendor": 27
     },
@@ -561,8 +561,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 379999,
-      "bid": 261877,
+      "ask": 379998,
+      "bid": 261881,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -696,12 +696,12 @@
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 144400,
+      "ask": 139000,
       "bid": 58111,
       "vendor": 71280
     },
     "Holy Plate Legs": {
-      "ask": 100000,
+      "ask": 99999,
       "bid": 92000,
       "vendor": 62370
     },
@@ -711,7 +711,7 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 104995,
+      "ask": 104993,
       "bid": 91000,
       "vendor": 62370
     },
@@ -781,7 +781,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 330,
+      "ask": 360,
       "bid": 267,
       "vendor": 50
     },
@@ -1007,7 +1007,7 @@
     },
     "Red Tea Leaf": {
       "ask": 305,
-      "bid": 279,
+      "bid": 277,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1051,22 +1051,22 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 91,
+      "ask": 88,
       "bid": 75,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 739,
+      "ask": 740,
       "bid": 705,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 789,
-      "bid": 649,
+      "bid": 650,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 182,
+      "ask": 178,
       "bid": 160,
       "vendor": 54
     },
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 293,
+      "ask": 285,
       "bid": 180,
       "vendor": 27
     },
@@ -1132,7 +1132,7 @@
     },
     "Super Attack Coffee": {
       "ask": 825,
-      "bid": 751,
+      "bid": 752,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 681,
+      "ask": 680,
       "bid": 403,
       "vendor": 40
     },
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 710,
+      "ask": 711,
       "bid": 669,
       "vendor": 50
     },
@@ -1281,7 +1281,7 @@
       "vendor": 420
     },
     "Verdant Helmet": {
-      "ask": 5000,
+      "ask": -1,
       "bid": 803,
       "vendor": 300
     },
@@ -1296,12 +1296,12 @@
       "vendor": 4
     },
     "Verdant Plate Body": {
-      "ask": 10000,
+      "ask": -1,
       "bid": 606,
       "vendor": 480
     },
     "Verdant Plate Legs": {
-      "ask": 5000,
+      "ask": -1,
       "bid": 441,
       "vendor": 420
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663783202.9258897
+  "time": 1663785003.3684318
 }
