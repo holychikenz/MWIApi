@@ -42,7 +42,7 @@
     },
     "Azure Brush": {
       "ask": 100000,
-      "bid": 4000,
+      "bid": 6000,
       "vendor": 1512
     },
     "Azure Buckler": {
@@ -62,7 +62,7 @@
     },
     "Azure Enhancer": {
       "ask": 16599,
-      "bid": 4000,
+      "bid": 6000,
       "vendor": 1512
     },
     "Azure Gauntlets": {
@@ -72,7 +72,7 @@
     },
     "Azure Hammer": {
       "ask": 17743,
-      "bid": 4000,
+      "bid": 6000,
       "vendor": 1512
     },
     "Azure Helmet": {
@@ -102,7 +102,7 @@
     },
     "Azure Pot": {
       "ask": 12886,
-      "bid": 4000,
+      "bid": 6000,
       "vendor": 1512
     },
     "Azure Shears": {
@@ -147,12 +147,12 @@
     },
     "Black Tea Leaf": {
       "ask": 61,
-      "bid": 60,
+      "bid": 43,
       "vendor": 8
     },
     "Blackberry": {
       "ask": 184,
-      "bid": 183,
+      "bid": 40,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -227,7 +227,7 @@
     },
     "Burble Hammer": {
       "ask": -1,
-      "bid": 100,
+      "bid": 12000,
       "vendor": 3780
     },
     "Burble Helmet": {
@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 77,
-      "bid": 62,
+      "bid": 65,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -507,7 +507,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 271,
-      "bid": 116,
+      "bid": 117,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1093,
+      "ask": 1092,
       "bid": 850,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 370,
+      "ask": 361,
       "bid": 187,
       "vendor": 54
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 617,
+      "ask": 615,
       "bid": 603,
       "vendor": 162
     },
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 228,
+      "ask": 224,
       "bid": 210,
       "vendor": 54
     },
@@ -706,12 +706,12 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 91999,
+      "ask": 91998,
       "bid": 64555,
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 104997,
+      "ask": 104996,
       "bid": 91000,
       "vendor": 62370
     },
@@ -806,7 +806,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 32,
+      "ask": 31,
       "bid": 29,
       "vendor": 9
     },
@@ -882,12 +882,12 @@
     },
     "Plum Gummy": {
       "ask": 72,
-      "bid": 50,
+      "bid": 51,
       "vendor": 30
     },
     "Plum Yogurt": {
       "ask": 105,
-      "bid": 50,
+      "bid": 51,
       "vendor": 30
     },
     "Poke": {
@@ -906,8 +906,8 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 328,
-      "bid": 162,
+      "ask": 327,
+      "bid": 166,
       "vendor": 30
     },
     "Precision": {
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 242,
+      "ask": 243,
       "bid": 237,
       "vendor": 81
     },
@@ -966,8 +966,8 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 31,
-      "bid": 29,
+      "ask": 29,
+      "bid": 28,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 319,
+      "ask": 315,
       "bid": 281,
       "vendor": 27
     },
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 40000,
+      "ask": 40726,
       "bid": 4050,
       "vendor": 1000
     },
@@ -1036,7 +1036,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 5000,
+      "ask": 10000,
       "bid": 3000,
       "vendor": 6000
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 184,
+      "ask": 183,
       "bid": 161,
       "vendor": 54
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": 1894997,
-      "bid": 1200000,
+      "bid": 1200001,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 235,
+      "ask": 233,
       "bid": 179,
       "vendor": 27
     },
@@ -1151,7 +1151,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 523,
+      "ask": 500,
       "bid": 371,
       "vendor": 50
     },
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 688,
+      "ask": 687,
       "bid": 402,
       "vendor": 40
     },
@@ -1176,12 +1176,12 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 769,
+      "ask": 768,
       "bid": 567,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 703,
+      "ask": 700,
       "bid": 401,
       "vendor": 40
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 637,
+      "ask": 636,
       "bid": 476,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663719302.5789745
+  "time": 1663721103.0232167
 }
