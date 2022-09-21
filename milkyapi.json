@@ -211,8 +211,8 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 256,
-      "bid": 189,
+      "ask": 255,
+      "bid": 160,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -536,7 +536,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 172,
+      "ask": 171,
       "bid": 170,
       "vendor": 18
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 617,
+      "ask": 616,
       "bid": 601,
       "vendor": 162
     },
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 229,
+      "ask": 234,
       "bid": 203,
       "vendor": 54
     },
@@ -777,7 +777,7 @@
     },
     "Marsberry": {
       "ask": 52,
-      "bid": 44,
+      "bid": 45,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -806,13 +806,13 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 33,
+      "ask": 32,
       "bid": 27,
       "vendor": 9
     },
     "Mooberry Cake": {
       "ask": 190,
-      "bid": 145,
+      "bid": 146,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -886,7 +886,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 104,
+      "ask": 103,
       "bid": 51,
       "vendor": 30
     },
@@ -1036,7 +1036,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 6000,
+      "ask": 10000,
       "bid": 3000,
       "vendor": 6000
     },
@@ -1102,7 +1102,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 743,
-      "bid": 700,
+      "bid": 701,
       "vendor": 75
     },
     "Strawberry": {
@@ -1111,7 +1111,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 106,
+      "ask": 105,
       "bid": 60,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663766103.0098343
+  "time": 1663767903.0542421
 }
