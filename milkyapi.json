@@ -56,8 +56,8 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 188,
-      "bid": 160,
+      "ask": 187,
+      "bid": 120,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 200,
+      "ask": 197,
       "bid": 162,
       "vendor": 54
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 33,
+      "ask": 35,
       "bid": 23,
       "vendor": 1
     },
@@ -552,7 +552,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 197,
-      "bid": 118,
+      "bid": 120,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 81000,
+      "ask": 81029,
       "bid": 42222,
       "vendor": 5000
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 219997,
+      "ask": 219996,
       "bid": 180000,
       "vendor": 10000
     },
@@ -646,7 +646,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 120388,
+      "ask": 120387,
       "bid": 91500,
       "vendor": 62370
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 635,
-      "bid": 566,
+      "bid": 568,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 214,
+      "ask": 215,
       "bid": 195,
       "vendor": 54
     },
@@ -716,7 +716,7 @@
       "vendor": 62370
     },
     "Holy Spatula": {
-      "ask": 110000,
+      "ask": 100000,
       "bid": 90000,
       "vendor": 62370
     },
@@ -771,7 +771,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 300000,
+      "ask": 299999,
       "bid": 231010,
       "vendor": 1000
     },
@@ -1007,7 +1007,7 @@
     },
     "Red Tea Leaf": {
       "ask": 339,
-      "bid": 282,
+      "bid": 281,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1056,12 +1056,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 731,
+      "ask": 732,
       "bid": 634,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 767,
+      "ask": 765,
       "bid": 385,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 32,
+      "ask": 37,
       "bid": 25,
       "vendor": 6
     },
@@ -1131,18 +1131,18 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 825,
+      "ask": 824,
       "bid": 703,
       "vendor": 50
     },
     "Super Brewing Tea": {
       "ask": 670,
-      "bid": 450,
+      "bid": 500,
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": -1,
-      "bid": 600,
+      "ask": 10000,
+      "bid": 700,
       "vendor": 75
     },
     "Super Cooking Tea": {
@@ -1201,7 +1201,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 27998,
+      "ask": 27000,
       "bid": 15001,
       "vendor": 1000
     },
@@ -1221,8 +1221,8 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 300,
-      "bid": 296,
+      "ask": 296,
+      "bid": 260,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1261,8 +1261,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 238,
-      "bid": 172,
+      "ask": 237,
+      "bid": 164,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663883102.5571158
+  "time": 1663884902.1581712
 }
