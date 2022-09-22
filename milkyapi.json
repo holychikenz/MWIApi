@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 342949,
-      "bid": 275022,
+      "bid": 275021,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -206,12 +206,12 @@
       "vendor": 3240
     },
     "Burble Bulwark": {
-      "ask": -1,
+      "ask": 10000,
       "bid": 5520,
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 242,
+      "ask": 240,
       "bid": 157,
       "vendor": 36
     },
@@ -251,7 +251,7 @@
       "vendor": 4320
     },
     "Burble Plate Legs": {
-      "ask": 35000,
+      "ask": 25000,
       "bid": -1,
       "vendor": 3780
     },
@@ -396,7 +396,7 @@
       "vendor": 1500
     },
     "Crimson Boots": {
-      "ask": 58800,
+      "ask": 20000,
       "bid": 5715,
       "vendor": 5184
     },
@@ -426,7 +426,7 @@
       "vendor": 9072
     },
     "Crimson Gauntlets": {
-      "ask": 49875,
+      "ask": 25000,
       "bid": 5503,
       "vendor": 5184
     },
@@ -436,7 +436,7 @@
       "vendor": 9072
     },
     "Crimson Helmet": {
-      "ask": 45000,
+      "ask": 25000,
       "bid": 564,
       "vendor": 6480
     },
@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 388,
-      "bid": 324,
+      "bid": 302,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 499,
+      "ask": 498,
       "bid": 201,
       "vendor": 54
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 651,
+      "ask": 650,
       "bid": 526,
       "vendor": 108
     },
@@ -646,7 +646,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 120387,
+      "ask": 120386,
       "bid": 91500,
       "vendor": 62370
     },
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 635,
-      "bid": 568,
+      "ask": 636,
+      "bid": 575,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 215,
-      "bid": 195,
+      "bid": 196,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -701,7 +701,7 @@
       "vendor": 71280
     },
     "Holy Plate Legs": {
-      "ask": 96998,
+      "ask": 96900,
       "bid": 73050,
       "vendor": 62370
     },
@@ -711,12 +711,12 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 104964,
+      "ask": 104962,
       "bid": 90000,
       "vendor": 62370
     },
     "Holy Spatula": {
-      "ask": 100000,
+      "ask": 95000,
       "bid": 90000,
       "vendor": 62370
     },
@@ -747,11 +747,11 @@
     },
     "Living Granite": {
       "ask": 2499995,
-      "bid": 1850000,
+      "bid": 1900000,
       "vendor": 10000
     },
     "Lucky Coffee": {
-      "ask": 399,
+      "ask": 400,
       "bid": 200,
       "vendor": 40
     },
@@ -777,7 +777,7 @@
     },
     "Marsberry": {
       "ask": 54,
-      "bid": 44,
+      "bid": 43,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -856,7 +856,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 183,
+      "ask": 184,
       "bid": 106,
       "vendor": 40
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 309,
-      "bid": 241,
+      "bid": 280,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 757000,
+      "ask": 719150,
       "bid": 502014,
       "vendor": 1000
     },
@@ -1151,7 +1151,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 415,
+      "ask": 420,
       "bid": 372,
       "vendor": 50
     },
@@ -1197,11 +1197,11 @@
     },
     "Swiftness Coffee": {
       "ask": 628,
-      "bid": 604,
+      "bid": 550,
       "vendor": 50
     },
     "Toughness": {
-      "ask": 27000,
+      "ask": 26999,
       "bid": 15001,
       "vendor": 1000
     },
@@ -1221,7 +1221,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 296,
+      "ask": 295,
       "bid": 260,
       "vendor": 108
     },
@@ -1296,7 +1296,7 @@
       "vendor": 4
     },
     "Verdant Plate Body": {
-      "ask": -1,
+      "ask": 15000,
       "bid": 606,
       "vendor": 480
     },
@@ -1331,7 +1331,7 @@
       "vendor": 540
     },
     "Vision Helmet": {
-      "ask": 224999,
+      "ask": 225000,
       "bid": 4,
       "vendor": 20000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663884902.1581712
+  "time": 1663886702.3141434
 }
