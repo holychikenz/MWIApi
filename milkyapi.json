@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 132,
-      "bid": 126,
+      "bid": 124,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -261,7 +261,7 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": 3780,
+      "ask": -1,
       "bid": 3360,
       "vendor": 3780
     },
@@ -271,8 +271,8 @@
       "vendor": 3780
     },
     "Burble Spear": {
-      "ask": 4860,
-      "bid": 1000,
+      "ask": -1,
+      "bid": 4000,
       "vendor": 4860
     },
     "Burble Sword": {
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 264,
+      "ask": 255,
       "bid": 240,
       "vendor": 12
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 196,
+      "ask": 195,
       "bid": 127,
       "vendor": 54
     },
@@ -466,7 +466,7 @@
       "vendor": 9072
     },
     "Crimson Shears": {
-      "ask": 24999,
+      "ask": 22000,
       "bid": 6810,
       "vendor": 9072
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 56,
+      "ask": 54,
       "bid": 52,
       "vendor": 36
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 688,
+      "ask": 675,
       "bid": 526,
       "vendor": 108
     },
@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1500000,
+      "ask": 1750000,
       "bid": 3000,
       "vendor": 500000
     },
@@ -772,7 +772,7 @@
     },
     "Maim": {
       "ask": 375000,
-      "bid": 275000,
+      "bid": 276000,
       "vendor": 1000
     },
     "Marsberry": {
@@ -791,12 +791,12 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 170000,
+      "ask": 150000,
       "bid": 25645,
       "vendor": 50000
     },
     "Milk": {
-      "ask": 6,
+      "ask": 7,
       "bid": 4,
       "vendor": 2
     },
@@ -851,7 +851,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 14,
+      "ask": 13,
       "bid": 10,
       "vendor": 9
     },
@@ -861,13 +861,13 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 135,
+      "ask": 133,
       "bid": 107,
       "vendor": 40
     },
     "Pierce": {
       "ask": 180500,
-      "bid": 22010,
+      "bid": 22011,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 35420,
+      "ask": 32000,
       "bid": 19551,
       "vendor": 1000
     },
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 295,
+      "ask": 298,
       "bid": 241,
       "vendor": 81
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 320,
+      "ask": 310,
       "bid": 280,
       "vendor": 27
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 760,
+      "ask": 755,
       "bid": 390,
       "vendor": 75
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": -1,
-      "bid": 1800009,
+      "bid": 1850000,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 670,
+      "ask": 669,
       "bid": 405,
       "vendor": 40
     },
@@ -1192,7 +1192,7 @@
     },
     "Sweep": {
       "ask": 102911,
-      "bid": 80000,
+      "bid": 80001,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1226,7 +1226,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1449997,
+      "ask": 1449996,
       "bid": 900000,
       "vendor": 10000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663938902.4304113
+  "time": 1663940702.8433244
 }
