@@ -116,12 +116,12 @@
       "vendor": 1512
     },
     "Azure Spear": {
-      "ask": 4944,
+      "ask": 4239,
       "bid": 3000,
       "vendor": 1944
     },
     "Azure Sword": {
-      "ask": 2375,
+      "ask": -1,
       "bid": 2000,
       "vendor": 1944
     },
@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 75000,
+      "ask": 118741,
       "bid": 23999,
       "vendor": 3000
     },
@@ -201,7 +201,7 @@
       "vendor": 3780
     },
     "Burble Buckler": {
-      "ask": 25721,
+      "ask": 27075,
       "bid": 3350,
       "vendor": 3240
     },
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 225,
-      "bid": 161,
+      "bid": 170,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -281,8 +281,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 254,
-      "bid": 240,
+      "ask": 264,
+      "bid": 225,
       "vendor": 12
     },
     "Cheese": {
@@ -291,7 +291,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 48,
+      "ask": 300,
       "bid": -1,
       "vendor": 48
     },
@@ -306,7 +306,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 152,
+      "ask": 160,
       "bid": 151,
       "vendor": 144
     },
@@ -331,7 +331,7 @@
       "vendor": 60
     },
     "Cheese Mace": {
-      "ask": 200,
+      "ask": 2000,
       "bid": 180,
       "vendor": 108
     },
@@ -371,7 +371,7 @@
       "vendor": 108
     },
     "Cheesesmithing Tea": {
-      "ask": 449,
+      "ask": 459,
       "bid": 103,
       "vendor": 30
     },
@@ -536,7 +536,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 152,
+      "ask": 151,
       "bid": 113,
       "vendor": 18
     },
@@ -626,7 +626,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 57435,
+      "ask": 54563,
       "bid": 50001,
       "vendor": 3000
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 624,
-      "bid": 581,
+      "bid": 600,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -711,7 +711,7 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 98996,
+      "ask": 98995,
       "bid": 90000,
       "vendor": 62370
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 800000,
+      "ask": 799999,
       "bid": 479999,
       "vendor": 10000
     },
@@ -787,7 +787,7 @@
     },
     "Marsberry Donut": {
       "ask": 520,
-      "bid": 361,
+      "bid": 362,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 58891,
+      "ask": 55946,
       "bid": 30012,
       "vendor": 3000
     },
@@ -896,8 +896,8 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 67000,
-      "bid": 50004,
+      "ask": 89998,
+      "bid": 50005,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 32000,
+      "ask": 31999,
       "bid": 19551,
       "vendor": 1000
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 298,
-      "bid": 241,
+      "bid": 242,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 12500,
+      "ask": 12469,
       "bid": 3,
       "vendor": 5000
     },
@@ -1051,22 +1051,22 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 85,
+      "ask": 84,
       "bid": 75,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 722,
+      "ask": 719,
       "bid": 639,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 751,
-      "bid": 392,
+      "ask": 750,
+      "bid": 393,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 175,
+      "ask": 174,
       "bid": 107,
       "vendor": 54
     },
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 279,
+      "ask": 278,
       "bid": 168,
       "vendor": 27
     },
@@ -1111,7 +1111,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 87,
+      "ask": 86,
       "bid": 61,
       "vendor": 30
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 637,
+      "ask": 636,
       "bid": 610,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663944303.3696795
+  "time": 1663946103.1814055
 }
