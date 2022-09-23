@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 50,
+      "ask": 55,
       "bid": 41,
       "vendor": 4
     },
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 850,
+      "ask": 840,
       "bid": 801,
       "vendor": 75
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 291504,
+      "ask": 290775,
       "bid": 151004,
       "vendor": 1000
     },
@@ -391,7 +391,7 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 46215,
+      "ask": 45000,
       "bid": 26002,
       "vendor": 1500
     },
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 192,
-      "bid": 127,
+      "bid": 128,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 40,
+      "ask": 41,
       "bid": 25,
       "vendor": 14
     },
@@ -542,11 +542,11 @@
     },
     "Eyessence": {
       "ask": 56,
-      "bid": 52,
+      "bid": 53,
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 474,
+      "ask": 440,
       "bid": 326,
       "vendor": 40
     },
@@ -562,11 +562,11 @@
     },
     "Frenzy": {
       "ask": 329999,
-      "bid": 265955,
+      "bid": 265953,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 360,
+      "ask": 350,
       "bid": 300,
       "vendor": 10
     },
@@ -586,7 +586,7 @@
       "vendor": 24
     },
     "Gobo Slasher": {
-      "ask": 23750,
+      "ask": 21750,
       "bid": 3001,
       "vendor": 20000
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 219995,
+      "ask": 219996,
       "bid": 180001,
       "vendor": 10000
     },
@@ -626,7 +626,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 54563,
+      "ask": 57435,
       "bid": 50001,
       "vendor": 3000
     },
@@ -741,7 +741,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 119,
+      "ask": 120,
       "bid": 91,
       "vendor": 12
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 799999,
+      "ask": 799500,
       "bid": 479999,
       "vendor": 10000
     },
@@ -801,7 +801,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 428,
+      "ask": 450,
       "bid": 200,
       "vendor": 10
     },
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 180500,
+      "ask": 190000,
       "bid": 22011,
       "vendor": 1000
     },
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 297,
+      "ask": 296,
       "bid": 242,
       "vendor": 81
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 30,
+      "ask": 29,
       "bid": 27,
       "vendor": 27
     },
@@ -1011,7 +1011,7 @@
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 129,
+      "ask": -1,
       "bid": 96,
       "vendor": 8
     },
@@ -1056,12 +1056,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 719,
+      "ask": 722,
       "bid": 639,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 745,
+      "ask": 744,
       "bid": 393,
       "vendor": 75
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": 3000000,
-      "bid": 1800000,
+      "bid": 1800001,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1102,7 +1102,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 732,
-      "bid": 627,
+      "bid": 658,
       "vendor": 75
     },
     "Strawberry": {
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 757996,
-      "bid": 502016,
+      "bid": 502017,
       "vendor": 1000
     },
     "Sugar": {
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 636,
+      "ask": 637,
       "bid": 610,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663947902.775455
+  "time": 1663949702.2302818
 }
