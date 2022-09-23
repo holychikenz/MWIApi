@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 41,
+      "ask": 35,
       "bid": 34,
       "vendor": 16
     },
@@ -126,12 +126,12 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 82,
+      "ask": 81,
       "bid": 72,
       "vendor": 54
     },
     "Berserk": {
-      "ask": 390000,
+      "ask": 389999,
       "bid": 275023,
       "vendor": 1000
     },
@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 54,
+      "ask": 47,
       "bid": 43,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 54,
+      "ask": 45,
       "bid": 35,
       "vendor": 4
     },
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 224,
+      "ask": 201,
       "bid": 170,
       "vendor": 36
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 270,
+      "ask": 245,
       "bid": 226,
       "vendor": 12
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 192,
+      "ask": 191,
       "bid": 151,
       "vendor": 54
     },
@@ -502,11 +502,11 @@
     },
     "Dragon Fruit": {
       "ask": 39,
-      "bid": 27,
+      "bid": 28,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 370,
+      "ask": 369,
       "bid": 116,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 449,
+      "ask": 447,
       "bid": 214,
       "vendor": 54
     },
@@ -561,8 +561,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 333333,
-      "bid": 265956,
+      "ask": 333331,
+      "bid": 265957,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 999,
+      "ask": 998,
       "bid": 500,
       "vendor": 108
     },
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 139,
+      "ask": 131,
       "bid": 110,
       "vendor": 4
     },
@@ -706,7 +706,7 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 125000,
+      "ask": -1,
       "bid": 80000,
       "vendor": 62370
     },
@@ -727,7 +727,7 @@
     },
     "Holy Sword": {
       "ask": 92500,
-      "bid": 1,
+      "bid": 82000,
       "vendor": 80190
     },
     "Intelligence Coffee": {
@@ -787,7 +787,7 @@
     },
     "Marsberry Donut": {
       "ask": 498,
-      "bid": 364,
+      "bid": 365,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -826,7 +826,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 10,
+      "ask": 7,
       "bid": 6,
       "vendor": 4
     },
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 190000,
+      "ask": 99175,
       "bid": 22011,
       "vendor": 1000
     },
@@ -876,12 +876,12 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 12,
+      "ask": 9,
       "bid": 8,
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 68,
+      "ask": 67,
       "bid": 41,
       "vendor": 30
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 300,
+      "ask": 299,
       "bid": 280,
       "vendor": 27
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 696,
+      "ask": 659,
       "bid": 500,
       "vendor": 75
     },
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 278,
+      "ask": 277,
       "bid": 130,
       "vendor": 27
     },
@@ -1101,12 +1101,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 733,
-      "bid": 732,
+      "ask": 732,
+      "bid": 660,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 34,
+      "ask": 29,
       "bid": 26,
       "vendor": 6
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 757996,
+      "ask": 720096,
       "bid": 502016,
       "vendor": 1000
     },
@@ -1186,8 +1186,8 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 75,
-      "bid": 47,
+      "ask": 74,
+      "bid": 48,
       "vendor": 8
     },
     "Sweep": {
@@ -1201,7 +1201,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 25647,
+      "ask": 25646,
       "bid": 15001,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663971302.5099447
+  "time": 1663973102.3908033
 }
