@@ -106,7 +106,7 @@
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": 15012,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -152,11 +152,11 @@
     },
     "Blackberry": {
       "ask": 54,
-      "bid": 33,
+      "bid": 35,
       "vendor": 4
     },
     "Blackberry Cake": {
-      "ask": 143,
+      "ask": 135,
       "bid": 22,
       "vendor": 20
     },
@@ -522,7 +522,7 @@
     },
     "Egg": {
       "ask": 34,
-      "bid": 23,
+      "bid": 24,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 56,
+      "ask": 106,
       "bid": 53,
       "vendor": 36
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 329999,
+      "ask": 432367,
       "bid": 265953,
       "vendor": 1000
     },
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 219,
-      "bid": 198,
+      "bid": 199,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -771,7 +771,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 375000,
+      "ask": 395000,
       "bid": 276000,
       "vendor": 1000
     },
@@ -781,13 +781,13 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 395,
+      "ask": 355,
       "bid": 292,
       "vendor": 50
     },
     "Marsberry Donut": {
       "ask": 520,
-      "bid": 362,
+      "bid": 363,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -836,7 +836,7 @@
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 79,
+      "ask": 75,
       "bid": 24,
       "vendor": 20
     },
@@ -1012,11 +1012,11 @@
     },
     "Robusta Coffee Bean": {
       "ask": -1,
-      "bid": 96,
+      "bid": 100,
       "vendor": 8
     },
     "Scratch": {
-      "ask": 20897,
+      "ask": 47500,
       "bid": 4039,
       "vendor": 1000
     },
@@ -1046,17 +1046,17 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 12494,
+      "ask": 13152,
       "bid": 3001,
       "vendor": 2000
     },
     "Spaceberry": {
       "ask": 84,
-      "bid": 75,
+      "bid": 76,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 721,
+      "ask": 720,
       "bid": 639,
       "vendor": 75
     },
@@ -1092,7 +1092,7 @@
     },
     "Star Fruit": {
       "ask": 278,
-      "bid": 168,
+      "bid": 130,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 732,
+      "ask": 733,
       "bid": 659,
       "vendor": 75
     },
@@ -1276,7 +1276,7 @@
       "vendor": 240
     },
     "Verdant Hammer": {
-      "ask": 420,
+      "ask": -1,
       "bid": 364,
       "vendor": 420
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663951502.9226956
+  "time": 1663953302.1249092
 }
