@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 83,
+      "ask": 82,
       "bid": 72,
       "vendor": 54
     },
@@ -176,7 +176,7 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 40,
+      "ask": 60,
       "bid": 22,
       "vendor": 10
     },
@@ -486,7 +486,7 @@
       "vendor": 11664
     },
     "Cupcake": {
-      "ask": 20,
+      "ask": 24,
       "bid": 15,
       "vendor": 5
     },
@@ -496,7 +496,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 9,
+      "ask": 1000000000000,
       "bid": 8,
       "vendor": 5
     },
@@ -506,7 +506,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 400,
+      "ask": 390,
       "bid": 116,
       "vendor": 50
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 370000,
+      "ask": 369999,
       "bid": 265955,
       "vendor": 1000
     },
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 200000,
-      "bid": 180001,
+      "bid": 180000,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -642,7 +642,7 @@
     },
     "Holy Boots": {
       "ask": 37000,
-      "bid": 30123,
+      "bid": 29679,
       "vendor": 35640
     },
     "Holy Brush": {
@@ -677,7 +677,7 @@
     },
     "Holy Hammer": {
       "ask": 85500,
-      "bid": 51,
+      "bid": 80000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -726,8 +726,8 @@
       "vendor": 80190
     },
     "Holy Sword": {
-      "ask": 90000,
-      "bid": 82000,
+      "ask": 92500,
+      "bid": 1,
       "vendor": 80190
     },
     "Intelligence Coffee": {
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 2499994,
-      "bid": 2000001,
+      "bid": 2100001,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -796,7 +796,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 10,
+      "ask": 11,
       "bid": 3,
       "vendor": 2
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 55946,
+      "ask": 55000,
       "bid": 30012,
       "vendor": 3000
     },
@@ -916,7 +916,7 @@
       "vendor": 1000
     },
     "Rainbow Boots": {
-      "ask": 30000,
+      "ask": -1,
       "bid": -1,
       "vendor": 11988
     },
@@ -941,7 +941,7 @@
       "vendor": 81
     },
     "Rainbow Enhancer": {
-      "ask": 60324,
+      "ask": 63500,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1192,7 +1192,7 @@
     },
     "Sweep": {
       "ask": 102911,
-      "bid": 80001,
+      "bid": 80002,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1236,7 +1236,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 409999,
+      "ask": 410000,
       "bid": 342000,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663960502.2369516
+  "time": 1663962302.8708458
 }
