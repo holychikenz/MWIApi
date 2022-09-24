@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 176,
+      "ask": 177,
       "bid": 131,
       "vendor": 24
     },
@@ -126,13 +126,13 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 80,
+      "ask": 79,
       "bid": 69,
       "vendor": 54
     },
     "Berserk": {
       "ask": 374999,
-      "bid": 275027,
+      "bid": 275028,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -592,7 +592,7 @@
     },
     "Gobo Smasher": {
       "ask": 25996,
-      "bid": 21000,
+      "bid": 21001,
       "vendor": 20000
     },
     "Gobo Stabber": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 808,
+      "ask": 800,
       "bid": 550,
       "vendor": 108
     },
@@ -626,7 +626,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 57431,
+      "ask": 57430,
       "bid": 50000,
       "vendor": 3000
     },
@@ -662,12 +662,12 @@
     },
     "Holy Cheese": {
       "ask": 624,
-      "bid": 612,
+      "bid": 613,
       "vendor": 162
     },
     "Holy Enhancer": {
       "ask": 99999,
-      "bid": 1,
+      "bid": 85000,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -676,7 +676,7 @@
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": 85500,
+      "ask": 90000,
       "bid": 51,
       "vendor": 62370
     },
@@ -707,7 +707,7 @@
     },
     "Holy Pot": {
       "ask": 120000,
-      "bid": 80000,
+      "bid": 85000,
       "vendor": 62370
     },
     "Holy Shears": {
@@ -812,7 +812,7 @@
     },
     "Mooberry Cake": {
       "ask": 242,
-      "bid": 166,
+      "bid": 167,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -1071,8 +1071,8 @@
       "vendor": 54
     },
     "Spike Shell": {
-      "ask": 209479,
-      "bid": 52515,
+      "ask": 220505,
+      "bid": 102515,
       "vendor": 1000
     },
     "Stalactite Shard": {
@@ -1201,8 +1201,8 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 23143,
-      "bid": 15001,
+      "ask": 25647,
+      "bid": 15025,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -1261,8 +1261,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 221,
-      "bid": 124,
+      "ask": 220,
+      "bid": 125,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664040602.5814164
+  "time": 1664042403.0739968
 }
