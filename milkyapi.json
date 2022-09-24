@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 176,
-      "bid": 123,
+      "bid": 160,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 201,
-      "bid": 170,
+      "bid": 180,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -227,7 +227,7 @@
     },
     "Burble Hammer": {
       "ask": -1,
-      "bid": 12000,
+      "bid": 100,
       "vendor": 3780
     },
     "Burble Helmet": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 191,
-      "bid": 151,
+      "bid": 180,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 99,
-      "bid": 53,
+      "bid": 80,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -602,7 +602,7 @@
     },
     "Goggles": {
       "ask": 200000,
-      "bid": 189999,
+      "bid": 190000,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -727,7 +727,7 @@
     },
     "Holy Sword": {
       "ask": 92500,
-      "bid": 82000,
+      "bid": 1,
       "vendor": 80190
     },
     "Intelligence Coffee": {
@@ -767,7 +767,7 @@
     },
     "Magnifying Glass": {
       "ask": 199494,
-      "bid": 145001,
+      "bid": 150000,
       "vendor": 10000
     },
     "Maim": {
@@ -786,7 +786,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 498,
+      "ask": 495,
       "bid": 402,
       "vendor": 50
     },
@@ -816,7 +816,7 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 500,
+      "ask": 499,
       "bid": 200,
       "vendor": 40
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Cheese": {
       "ask": 289,
-      "bid": 242,
+      "bid": 250,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1007,7 +1007,7 @@
     },
     "Red Tea Leaf": {
       "ask": 299,
-      "bid": 280,
+      "bid": 281,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 657,
+      "ask": 656,
       "bid": 380,
       "vendor": 75
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": 2999999,
-      "bid": 2000000,
+      "bid": 2000001,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1092,7 +1092,7 @@
     },
     "Star Fruit": {
       "ask": 277,
-      "bid": 130,
+      "bid": 220,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 732,
+      "ask": 731,
       "bid": 660,
       "vendor": 75
     },
@@ -1262,7 +1262,7 @@
     },
     "Verdant Cheese": {
       "ask": 225,
-      "bid": 123,
+      "bid": 180,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663980303.0509253
+  "time": 1663982103.4183822
 }
