@@ -187,7 +187,7 @@
     },
     "Brewing Tea": {
       "ask": 237,
-      "bid": 100,
+      "bid": 150,
       "vendor": 20
     },
     "Burble Boots": {
@@ -502,11 +502,11 @@
     },
     "Dragon Fruit": {
       "ask": 36,
-      "bid": 31,
+      "bid": 32,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 367,
+      "ask": 360,
       "bid": 116,
       "vendor": 50
     },
@@ -526,8 +526,8 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 449,
-      "bid": 214,
+      "ask": 440,
+      "bid": 220,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -621,12 +621,12 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 150,
+      "ask": 149,
       "bid": 110,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 57434,
+      "ask": 57433,
       "bid": 50001,
       "vendor": 3000
     },
@@ -737,7 +737,7 @@
     },
     "Large Pouch": {
       "ask": 1750000,
-      "bid": 3000,
+      "bid": 1100000,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
@@ -777,7 +777,7 @@
     },
     "Marsberry": {
       "ask": 51,
-      "bid": 40,
+      "bid": 41,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 55000,
+      "ask": 54998,
       "bid": 30013,
       "vendor": 3000
     },
@@ -896,7 +896,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 89998,
+      "ask": 89996,
       "bid": 50004,
       "vendor": 3000
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry Cake": {
       "ask": 693,
-      "bid": 640,
+      "bid": 645,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1097,17 +1097,17 @@
     },
     "Star Fruit Gummy": {
       "ask": 569,
-      "bid": 320,
+      "bid": 341,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 729,
-      "bid": 661,
+      "bid": 672,
       "vendor": 75
     },
     "Strawberry": {
       "ask": 34,
-      "bid": 26,
+      "bid": 27,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 710096,
-      "bid": 502019,
+      "bid": 502021,
       "vendor": 1000
     },
     "Sugar": {
@@ -1192,7 +1192,7 @@
     },
     "Sweep": {
       "ask": 105350,
-      "bid": 80100,
+      "bid": 80200,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664000102.9619508
+  "time": 1664001903.1996038
 }
