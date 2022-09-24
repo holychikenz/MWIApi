@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 848,
+      "ask": 840,
       "bid": 720,
       "vendor": 75
     },
@@ -291,7 +291,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 300,
+      "ask": -1,
       "bid": -1,
       "vendor": 48
     },
@@ -336,12 +336,12 @@
       "vendor": 108
     },
     "Cheese Plate Body": {
-      "ask": 2708,
+      "ask": 2850,
       "bid": 322,
       "vendor": 96
     },
     "Cheese Plate Legs": {
-      "ask": 600,
+      "ask": -1,
       "bid": 279,
       "vendor": 84
     },
@@ -551,7 +551,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 185,
+      "ask": 184,
       "bid": 127,
       "vendor": 27
     },
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 65997,
+      "ask": 90250,
       "bid": 45000,
       "vendor": 5000
     },
@@ -807,7 +807,7 @@
     },
     "Mooberry": {
       "ask": 27,
-      "bid": 21,
+      "bid": 20,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -842,7 +842,7 @@
     },
     "Panda Fluff": {
       "ask": 54998,
-      "bid": 30013,
+      "bid": 34999,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 42869,
+      "ask": 42868,
       "bid": 4050,
       "vendor": 1000
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 627,
+      "ask": 596,
       "bid": 380,
       "vendor": 75
     },
@@ -1101,8 +1101,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 728,
-      "bid": 672,
+      "ask": 689,
+      "bid": 673,
       "vendor": 75
     },
     "Strawberry": {
@@ -1226,7 +1226,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1400000,
+      "ask": 1399999,
       "bid": 1000000,
       "vendor": 10000
     },
@@ -1261,7 +1261,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 230,
+      "ask": 229,
       "bid": 123,
       "vendor": 12
     },
@@ -1281,7 +1281,7 @@
       "vendor": 420
     },
     "Verdant Helmet": {
-      "ask": 900,
+      "ask": -1,
       "bid": 803,
       "vendor": 300
     },
@@ -1292,11 +1292,11 @@
     },
     "Verdant Milk": {
       "ask": 50,
-      "bid": 26,
+      "bid": 27,
       "vendor": 4
     },
     "Verdant Plate Body": {
-      "ask": 1000,
+      "ask": -1,
       "bid": 606,
       "vendor": 480
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664007302.9470236
+  "time": 1664009102.7782133
 }
