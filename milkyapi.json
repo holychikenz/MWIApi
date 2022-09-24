@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 845,
+      "ask": 848,
       "bid": 720,
       "vendor": 75
     },
@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 80,
+      "ask": 84,
       "bid": 72,
       "vendor": 54
     },
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 224,
-      "bid": 180,
+      "bid": 161,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -361,12 +361,12 @@
       "vendor": 84
     },
     "Cheese Spear": {
-      "ask": 300,
+      "ask": -1,
       "bid": 250,
       "vendor": 108
     },
     "Cheese Sword": {
-      "ask": 180,
+      "ask": -1,
       "bid": 170,
       "vendor": 108
     },
@@ -502,7 +502,7 @@
     },
     "Dragon Fruit": {
       "ask": 36,
-      "bid": 30,
+      "bid": 31,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 480,
+      "ask": 450,
       "bid": 214,
       "vendor": 54
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 100,
+      "ask": 106,
       "bid": 80,
       "vendor": 36
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 630,
+      "ask": 629,
       "bid": 610,
       "vendor": 162
     },
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 209,
+      "ask": 218,
       "bid": 196,
       "vendor": 54
     },
@@ -772,7 +772,7 @@
     },
     "Maim": {
       "ask": 423937,
-      "bid": 276001,
+      "bid": 286001,
       "vendor": 1000
     },
     "Marsberry": {
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 34,
+      "ask": 39,
       "bid": 22,
       "vendor": 18
     },
@@ -857,7 +857,7 @@
     },
     "Peach Gummy": {
       "ask": 187,
-      "bid": 107,
+      "bid": 106,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -896,7 +896,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 62500,
+      "ask": 89998,
       "bid": 50005,
       "vendor": 3000
     },
@@ -1012,7 +1012,7 @@
     },
     "Robusta Coffee Bean": {
       "ask": 1000,
-      "bid": 110,
+      "bid": 111,
       "vendor": 8
     },
     "Scratch": {
@@ -1051,7 +1051,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 84,
+      "ask": 85,
       "bid": 76,
       "vendor": 27
     },
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 628,
+      "ask": 627,
       "bid": 380,
       "vendor": 75
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 720096,
+      "ask": 710096,
       "bid": 502019,
       "vendor": 1000
     },
@@ -1187,11 +1187,11 @@
     },
     "Swamp Essence": {
       "ask": 73,
-      "bid": 49,
+      "bid": 50,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 107350,
+      "ask": 105350,
       "bid": 80100,
       "vendor": 1000
     },
@@ -1261,7 +1261,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 225,
+      "ask": 232,
       "bid": 180,
       "vendor": 12
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663994702.91735
+  "time": 1663996502.6278157
 }
