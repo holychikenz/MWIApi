@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 42,
-      "bid": 35,
+      "bid": 36,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 52,
+      "ask": 51,
       "bid": 42,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 53,
+      "ask": 52,
       "bid": 35,
       "vendor": 4
     },
@@ -226,7 +226,7 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": -1,
+      "ask": 15000,
       "bid": 100,
       "vendor": 3780
     },
@@ -527,7 +527,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 440,
-      "bid": 220,
+      "bid": 400,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -1181,7 +1181,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 519,
+      "ask": 518,
       "bid": 251,
       "vendor": 40
     },
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 648,
+      "ask": 647,
       "bid": 506,
       "vendor": 50
     },
@@ -1261,8 +1261,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 232,
-      "bid": 180,
+      "ask": 230,
+      "bid": 123,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664001903.1996038
+  "time": 1664003702.3098688
 }
