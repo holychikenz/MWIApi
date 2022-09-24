@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 132,
+      "ask": 136,
       "bid": 124,
       "vendor": 4
     },
@@ -31,7 +31,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 399,
+      "ask": 546,
       "bid": 240,
       "vendor": 20
     },
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 201,
+      "ask": 191,
       "bid": 180,
       "vendor": 36
     },
@@ -526,7 +526,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 443,
+      "ask": 480,
       "bid": 214,
       "vendor": 54
     },
@@ -586,7 +586,7 @@
       "vendor": 24
     },
     "Gobo Slasher": {
-      "ask": 21750,
+      "ask": 21745,
       "bid": 3001,
       "vendor": 20000
     },
@@ -606,8 +606,8 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 948,
-      "bid": 500,
+      "ask": 851,
+      "bid": 520,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 628,
+      "ask": 629,
       "bid": 610,
       "vendor": 162
     },
@@ -677,7 +677,7 @@
     },
     "Holy Hammer": {
       "ask": 85500,
-      "bid": 80000,
+      "bid": 82000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -701,7 +701,7 @@
       "vendor": 71280
     },
     "Holy Plate Legs": {
-      "ask": 96888,
+      "ask": 105000,
       "bid": 73050,
       "vendor": 62370
     },
@@ -791,7 +791,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 165000,
+      "ask": 170000,
       "bid": 25645,
       "vendor": 50000
     },
@@ -816,13 +816,13 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 499,
-      "bid": 200,
+      "ask": 350,
+      "bid": 133,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
       "ask": 25,
-      "bid": 21,
+      "bid": 22,
       "vendor": 18
     },
     "Orange": {
@@ -856,13 +856,13 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 186,
+      "ask": 187,
       "bid": 107,
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 135,
-      "bid": 107,
+      "ask": 142,
+      "bid": 108,
       "vendor": 40
     },
     "Pierce": {
@@ -882,7 +882,7 @@
     },
     "Plum Gummy": {
       "ask": 67,
-      "bid": 41,
+      "bid": 42,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 31000,
+      "ask": 30998,
       "bid": 19551,
       "vendor": 1000
     },
@@ -1006,8 +1006,8 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 284,
-      "bid": 277,
+      "ask": 283,
+      "bid": 278,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1061,7 +1061,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 656,
+      "ask": 657,
       "bid": 380,
       "vendor": 75
     },
@@ -1077,7 +1077,7 @@
     },
     "Stalactite Shard": {
       "ask": 2999999,
-      "bid": 2000001,
+      "bid": 2000002,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 731,
+      "ask": 730,
       "bid": 661,
       "vendor": 75
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 720096,
+      "ask": 684091,
       "bid": 502018,
       "vendor": 1000
     },
@@ -1151,7 +1151,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 419,
+      "ask": 597,
       "bid": 372,
       "vendor": 50
     },
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 664,
+      "ask": 663,
       "bid": 410,
       "vendor": 40
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 725,
+      "ask": 783,
       "bid": 571,
       "vendor": 75
     },
@@ -1186,7 +1186,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 74,
+      "ask": 73,
       "bid": 49,
       "vendor": 8
     },
@@ -1201,7 +1201,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 25646,
+      "ask": 25645,
       "bid": 15001,
       "vendor": 1000
     },
@@ -1351,7 +1351,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 30,
+      "ask": 36,
       "bid": 22,
       "vendor": 1
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1663983902.5266914
+  "time": 1663985702.2581663
 }
