@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 835,
+      "ask": 840,
       "bid": 802,
       "vendor": 75
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 285,
+      "ask": 275,
       "bid": 252,
       "vendor": 12
     },
@@ -421,7 +421,7 @@
       "vendor": 54
     },
     "Crimson Enhancer": {
-      "ask": 11000,
+      "ask": -1,
       "bid": 10002,
       "vendor": 9072
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 320,
+      "ask": 318,
       "bid": 262,
       "vendor": 50
     },
@@ -526,12 +526,12 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 385,
+      "ask": 384,
       "bid": 256,
       "vendor": 54
     },
     "Enhancing Tea": {
-      "ask": 240,
+      "ask": 235,
       "bid": 66,
       "vendor": 20
     },
@@ -561,7 +561,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 349999,
+      "ask": 349990,
       "bid": 267002,
       "vendor": 1000
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 266000,
+      "ask": 240000,
       "bid": 198454,
       "vendor": 10000
     },
@@ -617,7 +617,7 @@
     },
     "Granite Bludgeon": {
       "ask": -1,
-      "bid": 20000000,
+      "bid": 25000000,
       "vendor": 400000
     },
     "Green Tea Leaf": {
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 629,
-      "bid": 600,
+      "bid": 601,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -691,8 +691,8 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 228,
-      "bid": 201,
+      "ask": 227,
+      "bid": 200,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -777,11 +777,11 @@
     },
     "Marsberry": {
       "ask": 49,
-      "bid": 44,
+      "bid": 43,
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 325,
+      "ask": 324,
       "bid": 273,
       "vendor": 50
     },
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 30,
+      "ask": 29,
       "bid": 21,
       "vendor": 18
     },
@@ -896,7 +896,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 94050,
+      "ask": 94049,
       "bid": 50007,
       "vendor": 3000
     },
@@ -1056,12 +1056,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 720,
+      "ask": 719,
       "bid": 640,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 531,
+      "ask": 530,
       "bid": 366,
       "vendor": 75
     },
@@ -1101,7 +1101,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 716,
+      "ask": 717,
       "bid": 663,
       "vendor": 75
     },
@@ -1151,7 +1151,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 699,
+      "ask": 797,
       "bid": 375,
       "vendor": 50
     },
@@ -1161,7 +1161,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 650,
+      "ask": 600,
       "bid": 400,
       "vendor": 40
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 744,
+      "ask": 783,
       "bid": 503,
       "vendor": 75
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664108102.455769
+  "time": 1664109902.7883008
 }
