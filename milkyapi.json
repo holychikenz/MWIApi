@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 131,
-      "bid": 100,
+      "bid": 75,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 408499,
-      "bid": 310107,
+      "bid": 310108,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 275493,
+      "ask": 275420,
       "bid": 160001,
       "vendor": 1000
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 109,
+      "ask": 103,
       "bid": 70,
       "vendor": 14
     },
@@ -622,7 +622,7 @@
     },
     "Green Tea Leaf": {
       "ask": 100,
-      "bid": 65,
+      "bid": 66,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -692,7 +692,7 @@
     },
     "Holy Milk": {
       "ask": 213,
-      "bid": 200,
+      "bid": 205,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -712,7 +712,7 @@
     },
     "Holy Shears": {
       "ask": 113996,
-      "bid": 96000,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Spatula": {
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 99800,
+      "ask": 133408,
       "bid": 22503,
       "vendor": 1000
     },
@@ -1057,12 +1057,12 @@
     },
     "Spaceberry Cake": {
       "ask": 697,
-      "bid": 621,
+      "bid": 622,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 548,
-      "bid": 379,
+      "bid": 380,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1106,8 +1106,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 29,
-      "bid": 24,
+      "ask": 25,
+      "bid": 13,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1147,7 +1147,7 @@
     },
     "Super Cooking Tea": {
       "ask": 998,
-      "bid": 100,
+      "bid": 350,
       "vendor": 50
     },
     "Super Defense Coffee": {
@@ -1232,7 +1232,7 @@
     },
     "Vampire Fang Dirk": {
       "ask": -1,
-      "bid": 1000006,
+      "bid": 20000000,
       "vendor": 400000
     },
     "Vampirism": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664386201.698602
+  "time": 1664387102.4383445
 }
