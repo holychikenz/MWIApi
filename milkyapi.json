@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 22,
-      "bid": 15,
+      "bid": 9,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 67,
+      "ask": 100,
       "bid": 11,
       "vendor": 10
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 321,
-      "bid": 265,
+      "bid": 266,
       "vendor": 12
     },
     "Cheese": {
@@ -392,7 +392,7 @@
     },
     "Crab Pincer": {
       "ask": 37500,
-      "bid": 30006,
+      "bid": 30005,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -542,7 +542,7 @@
     },
     "Eyessence": {
       "ask": 84,
-      "bid": 63,
+      "bid": 64,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -571,7 +571,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 102026,
+      "ask": 96925,
       "bid": 75001,
       "vendor": 5000
     },
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 212,
+      "ask": 210,
       "bid": 196,
       "vendor": 54
     },
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 1500000,
+      "ask": 168000,
       "bid": 23630,
       "vendor": 1000
     },
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 22557,
+      "ask": 17500,
       "bid": 5501,
       "vendor": 1000
     },
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 692,
+      "ask": 691,
       "bid": 630,
       "vendor": 75
     },
@@ -1262,7 +1262,7 @@
     },
     "Verdant Cheese": {
       "ask": 192,
-      "bid": 150,
+      "bid": 151,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 734,
+      "ask": 733,
       "bid": 475,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664425801.9734256
+  "time": 1664426702.9071915
 }
