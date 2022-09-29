@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 440000,
-      "bid": 320004,
+      "bid": 320006,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 56,
-      "bid": 40,
+      "bid": 38,
       "vendor": 8
     },
     "Blackberry": {
@@ -401,7 +401,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 55000,
+      "ask": 60000,
       "bid": 10100,
       "vendor": 9072
     },
@@ -522,12 +522,12 @@
     },
     "Egg": {
       "ask": 83,
-      "bid": 28,
+      "bid": 29,
       "vendor": 1
     },
     "Emp Tea Leaf": {
       "ask": 354,
-      "bid": 281,
+      "bid": 282,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -771,7 +771,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 438000,
+      "ask": 500000,
       "bid": 277008,
       "vendor": 1000
     },
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 278,
+      "ask": 160,
       "bid": 130,
       "vendor": 27
     },
@@ -1161,7 +1161,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 500,
+      "ask": -1,
       "bid": 200,
       "vendor": 40
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664463601.6800148
+  "time": 1664464503.82761
 }
