@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 319,
+      "ask": -1,
       "bid": 267,
       "vendor": 12
     },
@@ -782,7 +782,7 @@
     },
     "Marsberry Cake": {
       "ask": 330,
-      "bid": 272,
+      "bid": 273,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry Cake": {
       "ask": 692,
-      "bid": 630,
+      "bid": 623,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1106,8 +1106,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 24,
-      "bid": 20,
+      "ask": 31,
+      "bid": 13,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664437502.6747847
+  "time": 1664438403.526467
 }
