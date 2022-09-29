@@ -126,8 +126,8 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 77,
-      "bid": 65,
+      "ask": 81,
+      "bid": 66,
       "vendor": 54
     },
     "Berserk": {
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 33,
+      "ask": 32,
       "bid": 30,
       "vendor": 4
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 348,
+      "ask": -1,
       "bid": 267,
       "vendor": 12
     },
@@ -416,7 +416,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 179,
+      "ask": 178,
       "bid": 153,
       "vendor": 54
     },
@@ -562,7 +562,7 @@
     },
     "Frenzy": {
       "ask": 400000,
-      "bid": 267019,
+      "bid": 267020,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -731,7 +731,7 @@
       "vendor": 80190
     },
     "Intelligence Coffee": {
-      "ask": 310,
+      "ask": 311,
       "bid": 210,
       "vendor": 10
     },
@@ -856,7 +856,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 185,
+      "ask": 184,
       "bid": 70,
       "vendor": 40
     },
@@ -906,7 +906,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 312,
+      "ask": 328,
       "bid": 266,
       "vendor": 30
     },
@@ -1051,18 +1051,18 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 85,
+      "ask": 86,
       "bid": 69,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 691,
+      "ask": 690,
       "bid": 630,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 543,
-      "bid": 402,
+      "ask": 542,
+      "bid": 403,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1071,7 +1071,7 @@
       "vendor": 54
     },
     "Spike Shell": {
-      "ask": 199998,
+      "ask": 199990,
       "bid": 102517,
       "vendor": 1000
     },
@@ -1192,7 +1192,7 @@
     },
     "Sweep": {
       "ask": 161398,
-      "bid": 100001,
+      "bid": 79602,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1262,7 +1262,7 @@
     },
     "Verdant Cheese": {
       "ask": 187,
-      "bid": 152,
+      "bid": 155,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664454602.0835376
+  "time": 1664455503.0691028
 }
