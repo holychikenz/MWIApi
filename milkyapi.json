@@ -231,7 +231,7 @@
       "vendor": 3780
     },
     "Burble Helmet": {
-      "ask": 3126,
+      "ask": -1,
       "bid": 2805,
       "vendor": 2700
     },
@@ -306,7 +306,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 160,
+      "ask": 1200000,
       "bid": 151,
       "vendor": 144
     },
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 962,
+      "ask": 961,
       "bid": 552,
       "vendor": 108
     },
@@ -657,7 +657,7 @@
     },
     "Holy Bulwark": {
       "ask": 116600,
-      "bid": 88111,
+      "bid": 109999,
       "vendor": 106920
     },
     "Holy Cheese": {
@@ -767,7 +767,7 @@
     },
     "Magnifying Glass": {
       "ask": 170999,
-      "bid": 110003,
+      "bid": 110004,
       "vendor": 10000
     },
     "Maim": {
@@ -782,7 +782,7 @@
     },
     "Marsberry Cake": {
       "ask": 330,
-      "bid": 273,
+      "bid": 274,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -857,12 +857,12 @@
     },
     "Peach Gummy": {
       "ask": 185,
-      "bid": 69,
+      "bid": 70,
       "vendor": 40
     },
     "Peach Yogurt": {
       "ask": 142,
-      "bid": 111,
+      "bid": 112,
       "vendor": 40
     },
     "Pierce": {
@@ -896,13 +896,13 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 90000,
+      "ask": 80000,
       "bid": 60004,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
       "ask": 850000,
-      "bid": 400004,
+      "bid": 400005,
       "vendor": 60000
     },
     "Power Coffee": {
@@ -912,7 +912,7 @@
     },
     "Precision": {
       "ask": 14249,
-      "bid": 4000,
+      "bid": 4001,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1326,7 +1326,7 @@
       "vendor": 540
     },
     "Verdant Sword": {
-      "ask": 540,
+      "ask": -1,
       "bid": 500,
       "vendor": 540
     },
@@ -1342,7 +1342,7 @@
     },
     "Werewolf Claw": {
       "ask": 810438,
-      "bid": 614223,
+      "bid": 614224,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664438403.526467
+  "time": 1664439304.361262
 }
