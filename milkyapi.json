@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 62,
-      "bid": 40,
+      "bid": 50,
       "vendor": 8
     },
     "Blackberry": {
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 344,
+      "ask": 343,
       "bid": 268,
       "vendor": 12
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 112,
+      "ask": 111,
       "bid": 70,
       "vendor": 14
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 981,
+      "ask": 982,
       "bid": 900,
       "vendor": 50
     },
@@ -551,8 +551,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 158,
-      "bid": 117,
+      "ask": 157,
+      "bid": 120,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -606,7 +606,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 903,
+      "ask": 949,
       "bid": 602,
       "vendor": 108
     },
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 239000,
+      "ask": 168000,
       "bid": 23631,
       "vendor": 1000
     },
@@ -966,7 +966,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 34,
+      "ask": 33,
       "bid": 29,
       "vendor": 27
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 359,
+      "ask": 358,
       "bid": 284,
       "vendor": 27
     },
@@ -1141,7 +1141,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1168,
+      "ask": 1160,
       "bid": 700,
       "vendor": 75
     },
@@ -1177,7 +1177,7 @@
     },
     "Super Power Coffee": {
       "ask": 1198,
-      "bid": 900,
+      "bid": 803,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 650,
+      "ask": 699,
       "bid": 630,
       "vendor": 50
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 724,
+      "ask": 710,
       "bid": 475,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664475302.1604273
+  "time": 1664476203.1488936
 }
