@@ -811,8 +811,8 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 300,
-      "bid": 187,
+      "ask": 250,
+      "bid": 175,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 142,
+      "ask": 130,
       "bid": 102,
       "vendor": 40
     },
@@ -916,7 +916,7 @@
       "vendor": 1000
     },
     "Rainbow Boots": {
-      "ask": 50000,
+      "ask": -1,
       "bid": -1,
       "vendor": 11988
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664408702.8173497
+  "time": 1664409602.0961978
 }
