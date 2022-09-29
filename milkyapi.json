@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 22,
-      "bid": 9,
+      "ask": 21,
+      "bid": 3,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -126,8 +126,8 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 81,
-      "bid": 64,
+      "ask": 80,
+      "bid": 65,
       "vendor": 54
     },
     "Berserk": {
@@ -391,8 +391,8 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 37500,
-      "bid": 30005,
+      "ask": 37499,
+      "bid": 30006,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -492,7 +492,7 @@
     },
     "Defense Coffee": {
       "ask": 250,
-      "bid": 177,
+      "bid": 178,
       "vendor": 20
     },
     "Donut": {
@@ -516,8 +516,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 982,
-      "bid": 900,
+      "ask": 983,
+      "bid": 982,
       "vendor": 50
     },
     "Egg": {
@@ -811,8 +811,8 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 300,
-      "bid": 110,
+      "ask": 299,
+      "bid": 111,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -936,7 +936,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 257,
+      "ask": 256,
       "bid": 233,
       "vendor": 81
     },
@@ -1031,7 +1031,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 3322,
+      "ask": 3321,
       "bid": 2004,
       "vendor": 1500
     },
@@ -1041,7 +1041,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 451,
+      "ask": 450,
       "bid": 276,
       "vendor": 100
     },
@@ -1091,8 +1091,8 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 281,
-      "bid": 160,
+      "ask": 280,
+      "bid": 161,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1106,8 +1106,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 31,
-      "bid": 13,
+      "ask": 30,
+      "bid": 14,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1151,8 +1151,8 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 795,
-      "bid": 350,
+      "ask": 794,
+      "bid": 351,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1186,8 +1186,8 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 64,
-      "bid": 59,
+      "ask": 63,
+      "bid": 40,
       "vendor": 8
     },
     "Sweep": {
@@ -1207,7 +1207,7 @@
     },
     "Turtle Shell": {
       "ask": 8931,
-      "bid": 2004,
+      "bid": 2005,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -1256,7 +1256,7 @@
       "vendor": 360
     },
     "Verdant Bulwark": {
-      "ask": 1300,
+      "ask": -1,
       "bid": 1201,
       "vendor": 720
     },
@@ -1266,7 +1266,7 @@
       "vendor": 12
     },
     "Verdant Enhancer": {
-      "ask": 1500,
+      "ask": -1,
       "bid": 1000,
       "vendor": 420
     },
@@ -1292,7 +1292,7 @@
     },
     "Verdant Milk": {
       "ask": 40,
-      "bid": 26,
+      "bid": 27,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664439304.361262
+  "time": 1664440203.006652
 }
