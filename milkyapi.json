@@ -361,7 +361,7 @@
       "vendor": 84
     },
     "Cheese Spear": {
-      "ask": -1,
+      "ask": 10800000000,
       "bid": 250,
       "vendor": 108
     },
@@ -622,7 +622,7 @@
     },
     "Green Tea Leaf": {
       "ask": 72,
-      "bid": 59,
+      "bid": 60,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -661,8 +661,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 657,
-      "bid": 631,
+      "ask": 650,
+      "bid": 615,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -671,7 +671,7 @@
       "vendor": 62370
     },
     "Holy Gauntlets": {
-      "ask": 38999,
+      "ask": 39000,
       "bid": 25444,
       "vendor": 35640
     },
@@ -787,11 +787,11 @@
     },
     "Marsberry Donut": {
       "ask": 439,
-      "bid": 301,
+      "bid": 302,
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 1662500,
+      "ask": 150000,
       "bid": 25645,
       "vendor": 50000
     },
@@ -811,7 +811,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 240,
+      "ask": 239,
       "bid": 150,
       "vendor": 40
     },
@@ -1051,22 +1051,22 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 83,
-      "bid": 69,
+      "ask": 87,
+      "bid": 55,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 676,
+      "ask": 670,
       "bid": 640,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 533,
+      "ask": 532,
       "bid": 465,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 169,
+      "ask": 178,
       "bid": 139,
       "vendor": 54
     },
@@ -1091,7 +1091,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 268,
+      "ask": 282,
       "bid": 163,
       "vendor": 27
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1246,
+      "ask": 1248,
       "bid": 847,
       "vendor": 75
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664564401.7503211
+  "time": 1664565302.8601272
 }
