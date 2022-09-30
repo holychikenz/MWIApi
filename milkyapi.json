@@ -541,8 +541,8 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 84,
-      "bid": 64,
+      "ask": 106,
+      "bid": 65,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -602,12 +602,12 @@
     },
     "Goggles": {
       "ask": 306850,
-      "bid": 189008,
+      "bid": 189007,
       "vendor": 10000
     },
     "Golem Essence": {
       "ask": 945,
-      "bid": 577,
+      "bid": 700,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -627,7 +627,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 61575,
-      "bid": 55002,
+      "bid": 55003,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 655,
+      "ask": 660,
       "bid": 604,
       "vendor": 162
     },
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 205,
+      "ask": 204,
       "bid": 196,
       "vendor": 54
     },
@@ -747,7 +747,7 @@
     },
     "Living Granite": {
       "ask": 2499999,
-      "bid": 2000014,
+      "bid": 2000015,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -897,7 +897,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 90000,
-      "bid": 60008,
+      "bid": 60009,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1011,7 +1011,7 @@
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 300,
+      "ask": 299,
       "bid": 133,
       "vendor": 8
     },
@@ -1056,7 +1056,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 674,
+      "ask": 679,
       "bid": 625,
       "vendor": 75
     },
@@ -1157,7 +1157,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 950,
-      "bid": 853,
+      "bid": 610,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1250,
+      "ask": -1,
       "bid": 929,
       "vendor": 75
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664508602.5657873
+  "time": 1664509502.0839984
 }
