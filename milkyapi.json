@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 19,
+      "ask": 18,
       "bid": 3,
       "vendor": 2
     },
@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 131,
+      "ask": 130,
       "bid": 75,
       "vendor": 4
     },
@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 41,
-      "bid": 37,
+      "bid": 36,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 55,
+      "ask": 62,
       "bid": 52,
       "vendor": 8
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 18,
+      "ask": 17,
       "bid": 14,
       "vendor": 2
     },
@@ -511,7 +511,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 304,
+      "ask": 303,
       "bid": 268,
       "vendor": 50
     },
@@ -897,7 +897,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 90000,
-      "bid": 65000,
+      "bid": 65001,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 22,
+      "ask": 27,
       "bid": 17,
       "vendor": 6
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664519401.9386818
+  "time": 1664520302.3901772
 }
