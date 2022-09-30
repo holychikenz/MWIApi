@@ -106,7 +106,7 @@
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": 10000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -446,7 +446,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 26,
+      "ask": 25,
       "bid": 20,
       "vendor": 18
     },
@@ -501,7 +501,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 97,
+      "ask": 96,
       "bid": 70,
       "vendor": 14
     },
@@ -541,7 +541,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 106,
+      "ask": 105,
       "bid": 65,
       "vendor": 36
     },
@@ -817,7 +817,7 @@
     },
     "Mooberry Donut": {
       "ask": 294,
-      "bid": 135,
+      "bid": 200,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
@@ -1166,7 +1166,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 575,
+      "ask": 654,
       "bid": 450,
       "vendor": 40
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664520302.3901772
+  "time": 1664521202.910958
 }
