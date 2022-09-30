@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 130,
+      "ask": 131,
       "bid": 75,
       "vendor": 4
     },
@@ -76,7 +76,7 @@
       "vendor": 1512
     },
     "Azure Helmet": {
-      "ask": 3700,
+      "ask": 3800,
       "bid": 3604,
       "vendor": 1080
     },
@@ -326,7 +326,7 @@
       "vendor": 84
     },
     "Cheese Helmet": {
-      "ask": 300,
+      "ask": -1,
       "bid": 270,
       "vendor": 60
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 65,
+      "ask": 64,
       "bid": 40,
       "vendor": 1
     },
@@ -601,12 +601,12 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 250000,
+      "ask": 220000,
       "bid": 189008,
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 896,
+      "ask": 895,
       "bid": 601,
       "vendor": 108
     },
@@ -651,7 +651,7 @@
       "vendor": 62370
     },
     "Holy Buckler": {
-      "ask": 80000,
+      "ask": 85481,
       "bid": -1,
       "vendor": 53460
     },
@@ -756,7 +756,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 710000,
+      "ask": 709999,
       "bid": 400000,
       "vendor": 10000
     },
@@ -782,7 +782,7 @@
     },
     "Marsberry Cake": {
       "ask": 340,
-      "bid": 265,
+      "bid": 266,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -897,7 +897,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 89999,
-      "bid": 68000,
+      "bid": 68001,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1062,7 +1062,7 @@
     },
     "Spaceberry Donut": {
       "ask": 536,
-      "bid": 455,
+      "bid": 456,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 699999,
+      "ask": 699998,
       "bid": 600001,
       "vendor": 1000
     },
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 674,
+      "ask": 675,
       "bid": 562,
       "vendor": 50
     },
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 748,
+      "ask": 747,
       "bid": 473,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664544602.762534
+  "time": 1664545502.226986
 }
