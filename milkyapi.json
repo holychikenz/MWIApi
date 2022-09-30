@@ -12,7 +12,7 @@
     },
     "Apple Yogurt": {
       "ask": 100,
-      "bid": 11,
+      "bid": 10,
       "vendor": 10
     },
     "Aqua Essence": {
@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 1353,
-      "bid": 900,
+      "bid": 800,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -56,8 +56,8 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 172,
-      "bid": 152,
+      "ask": 184,
+      "bid": 151,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 259,
-      "bid": 186,
+      "bid": 184,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -391,8 +391,8 @@
       "vendor": 20
     },
     "Crab Pincer": {
-      "ask": 35624,
-      "bid": 30008,
+      "ask": 138000,
+      "bid": 40000,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -417,7 +417,7 @@
     },
     "Crimson Cheese": {
       "ask": 179,
-      "bid": 161,
+      "bid": 160,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 982,
-      "bid": 900,
+      "bid": 860,
       "vendor": 50
     },
     "Egg": {
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 290000,
+      "ask": 250000,
       "bid": 189008,
       "vendor": 10000
     },
@@ -647,7 +647,7 @@
     },
     "Holy Brush": {
       "ask": 109996,
-      "bid": 90000,
+      "bid": 85000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 655,
-      "bid": 600,
+      "bid": 602,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -742,12 +742,12 @@
     },
     "Liberica Coffee Bean": {
       "ask": 189,
-      "bid": 125,
+      "bid": 126,
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 2500000,
-      "bid": 2000011,
+      "ask": 2499999,
+      "bid": 2000013,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": -1,
+      "ask": 250000,
       "bid": 46000,
       "vendor": 6000
     },
@@ -1086,7 +1086,7 @@
       "vendor": 400000
     },
     "Stamina Coffee": {
-      "ask": 281,
+      "ask": 280,
       "bid": 131,
       "vendor": 10
     },
@@ -1122,7 +1122,7 @@
     },
     "Stunning Blow": {
       "ask": 700000,
-      "bid": 600000,
+      "bid": 600001,
       "vendor": 1000
     },
     "Sugar": {
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1197,
+      "ask": 1200,
       "bid": 929,
       "vendor": 75
     },
@@ -1262,7 +1262,7 @@
     },
     "Verdant Cheese": {
       "ask": 192,
-      "bid": 175,
+      "bid": 170,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1356,7 +1356,7 @@
       "vendor": 1
     },
     "Wisdom Tea": {
-      "ask": 720,
+      "ask": 719,
       "bid": 475,
       "vendor": 30
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664504102.4497592
+  "time": 1664505002.9283307
 }
