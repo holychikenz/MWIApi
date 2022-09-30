@@ -107,7 +107,7 @@
     },
     "Azure Shears": {
       "ask": -1,
-      "bid": 1,
+      "bid": -1,
       "vendor": 1512
     },
     "Azure Spatula": {
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 349,
+      "ask": 320,
       "bid": 177,
       "vendor": 36
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 657,
-      "bid": 630,
+      "bid": 640,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -711,7 +711,7 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 111999,
+      "ask": 117990,
       "bid": 78750,
       "vendor": 62370
     },
@@ -777,7 +777,7 @@
     },
     "Marsberry": {
       "ask": 43,
-      "bid": 34,
+      "bid": 35,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -911,7 +911,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 15000,
+      "ask": 14250,
       "bid": 5051,
       "vendor": 1000
     },
@@ -1006,7 +1006,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 329,
+      "ask": 320,
       "bid": 290,
       "vendor": 27
     },
@@ -1196,7 +1196,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 699,
+      "ask": 700,
       "bid": 563,
       "vendor": 50
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664580602.938328
+  "time": 1664581502.7393467
 }
