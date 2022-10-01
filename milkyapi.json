@@ -436,7 +436,7 @@
       "vendor": 9072
     },
     "Crimson Helmet": {
-      "ask": 23750,
+      "ask": -1,
       "bid": 420,
       "vendor": 6480
     },
@@ -662,7 +662,7 @@
     },
     "Holy Cheese": {
       "ask": 656,
-      "bid": 623,
+      "bid": 622,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -766,7 +766,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 161500,
+      "ask": 170000,
       "bid": 110010,
       "vendor": 10000
     },
@@ -1001,8 +1001,8 @@
       "vendor": 26973
     },
     "Rainbow Sword": {
-      "ask": 48860,
-      "bid": 28000,
+      "ask": 30000,
+      "bid": 22000,
       "vendor": 26973
     },
     "Red Tea Leaf": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664604002.6776707
+  "time": 1664604902.593506
 }
