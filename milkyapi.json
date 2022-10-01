@@ -566,7 +566,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 600,
+      "ask": 599,
       "bid": 300,
       "vendor": 10
     },
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 86,
+      "ask": 87,
       "bid": 75,
       "vendor": 4
     },
@@ -656,7 +656,7 @@
       "vendor": 53460
     },
     "Holy Bulwark": {
-      "ask": 116600,
+      "ask": -1,
       "bid": 109999,
       "vendor": 106920
     },
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 68000,
+      "ask": 67999,
       "bid": 30001,
       "vendor": 1000
     },
@@ -1016,7 +1016,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 11026,
+      "ask": 11025,
       "bid": 6002,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664601303.1954117
+  "time": 1664602202.326064
 }
