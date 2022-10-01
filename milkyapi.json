@@ -406,7 +406,7 @@
       "vendor": 9072
     },
     "Crimson Buckler": {
-      "ask": 50000,
+      "ask": -1,
       "bid": 15000,
       "vendor": 7776
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 267140,
+      "ask": 250000,
       "bid": 189010,
       "vendor": 10000
     },
@@ -667,7 +667,7 @@
     },
     "Holy Enhancer": {
       "ask": 102499,
-      "bid": 95001,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 698999,
+      "ask": 699990,
       "bid": 550002,
       "vendor": 1000
     },
@@ -1191,7 +1191,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 130000,
+      "ask": 153320,
       "bid": 82000,
       "vendor": 1000
     },
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664627402.876315
+  "time": 1664628303.237762
 }
