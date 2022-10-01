@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 15,
+      "ask": 10,
       "bid": 3,
       "vendor": 2
     },
@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 131,
+      "ask": 120,
       "bid": 75,
       "vendor": 4
     },
@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 208,
+      "ask": 180,
       "bid": 161,
       "vendor": 24
     },
@@ -517,7 +517,7 @@
     },
     "Efficiency Tea": {
       "ask": 981,
-      "bid": 860,
+      "bid": 920,
       "vendor": 50
     },
     "Egg": {
@@ -621,7 +621,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 87,
+      "ask": 88,
       "bid": 75,
       "vendor": 4
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 12499,
+      "ask": 10000,
       "bid": 500,
       "vendor": 5000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1100,
+      "ask": 1050,
       "bid": 850,
       "vendor": 75
     },
@@ -1357,7 +1357,7 @@
     },
     "Wisdom Tea": {
       "ask": 745,
-      "bid": 473,
+      "bid": 650,
       "vendor": 30
     },
     "Yogurt": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664613902.8721328
+  "time": 1664614802.1156194
 }
