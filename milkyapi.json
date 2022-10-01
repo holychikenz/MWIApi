@@ -257,7 +257,7 @@
     },
     "Burble Pot": {
       "ask": -1,
-      "bid": 53155,
+      "bid": 3155,
       "vendor": 3780
     },
     "Burble Shears": {
@@ -631,7 +631,7 @@
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
-      "ask": 600000,
+      "ask": 599999,
       "bid": 270000,
       "vendor": 60000
     },
@@ -661,7 +661,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 656,
+      "ask": 655,
       "bid": 627,
       "vendor": 162
     },
@@ -677,7 +677,7 @@
     },
     "Holy Hammer": {
       "ask": 90249,
-      "bid": 51,
+      "bid": 75000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -691,7 +691,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 207,
+      "ask": 206,
       "bid": 200,
       "vendor": 54
     },
@@ -736,7 +736,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1771328,
+      "ask": 1773329,
       "bid": 750000,
       "vendor": 500000
     },
@@ -777,7 +777,7 @@
     },
     "Marsberry": {
       "ask": 44,
-      "bid": 36,
+      "bid": 35,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -807,7 +807,7 @@
     },
     "Mooberry": {
       "ask": 23,
-      "bid": 20,
+      "bid": 19,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -927,7 +927,7 @@
     },
     "Rainbow Buckler": {
       "ask": 49997,
-      "bid": 18555,
+      "bid": -1,
       "vendor": 17982
     },
     "Rainbow Bulwark": {
@@ -1022,7 +1022,7 @@
     },
     "Smack": {
       "ask": 9999,
-      "bid": 5051,
+      "bid": 5075,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1187,7 +1187,7 @@
     },
     "Swamp Essence": {
       "ask": 53,
-      "bid": 40,
+      "bid": 39,
       "vendor": 8
     },
     "Sweep": {
@@ -1366,5 +1366,5 @@
       "vendor": 5
     }
   },
-  "time": 1664628303.237762
+  "time": 1664629202.2255383
 }
