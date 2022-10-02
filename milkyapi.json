@@ -147,11 +147,11 @@
     },
     "Black Tea Leaf": {
       "ask": 58,
-      "bid": 55,
+      "bid": 52,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 47,
+      "ask": 44,
       "bid": 33,
       "vendor": 4
     },
@@ -281,8 +281,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 283,
-      "bid": 270,
+      "ask": 266,
+      "bid": 230,
       "vendor": 12
     },
     "Cheese": {
@@ -531,7 +531,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 400,
+      "ask": 380,
       "bid": 250,
       "vendor": 54
     },
@@ -547,11 +547,11 @@
     },
     "Eyessence": {
       "ask": 80,
-      "bid": 67,
+      "bid": 66,
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 567,
+      "ask": -1,
       "bid": 355,
       "vendor": 40
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 110,
+      "ask": 105,
       "bid": 58,
       "vendor": 4
     },
@@ -666,8 +666,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 680,
-      "bid": 645,
+      "ask": 684,
+      "bid": 660,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -752,7 +752,7 @@
     },
     "Living Granite": {
       "ask": 3498998,
-      "bid": 2000101,
+      "bid": 2000103,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -916,7 +916,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 12000,
+      "ask": 11400,
       "bid": 6001,
       "vendor": 1000
     },
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 315,
+      "ask": 299,
       "bid": 288,
       "vendor": 27
     },
@@ -1227,7 +1227,7 @@
     },
     "Twilight Essence": {
       "ask": 297,
-      "bid": 250,
+      "bid": 265,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1346,7 +1346,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 721999,
+      "ask": 721998,
       "bid": 614235,
       "vendor": 10000
     },
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 748,
+      "ask": 749,
       "bid": 701,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664730002.3258808
+  "time": 1664730903.0068312
 }
