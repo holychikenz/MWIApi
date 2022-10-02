@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 188,
-      "bid": 165,
+      "bid": 166,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -266,7 +266,7 @@
       "vendor": 3780
     },
     "Burble Spatula": {
-      "ask": 4000,
+      "ask": -1,
       "bid": 3050,
       "vendor": 3780
     },
@@ -281,8 +281,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 279,
-      "bid": 269,
+      "ask": 284,
+      "bid": 268,
       "vendor": 12
     },
     "Cheese": {
@@ -422,7 +422,7 @@
     },
     "Crimson Cheese": {
       "ask": 169,
-      "bid": 159,
+      "bid": 160,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 981,
+      "ask": 982,
       "bid": 871,
       "vendor": 50
     },
@@ -611,7 +611,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 900,
+      "ask": 947,
       "bid": 650,
       "vendor": 108
     },
@@ -666,8 +666,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 658,
-      "bid": 637,
+      "ask": 657,
+      "bid": 638,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 205,
+      "ask": 204,
       "bid": 196,
       "vendor": 54
     },
@@ -772,7 +772,7 @@
     },
     "Magnifying Glass": {
       "ask": 199450,
-      "bid": 110015,
+      "bid": 110016,
       "vendor": 10000
     },
     "Maim": {
@@ -1012,7 +1012,7 @@
     },
     "Red Tea Leaf": {
       "ask": 321,
-      "bid": 320,
+      "bid": 285,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1111,7 +1111,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 25,
+      "ask": 26,
       "bid": 20,
       "vendor": 6
     },
@@ -1127,7 +1127,7 @@
     },
     "Stunning Blow": {
       "ask": 664987,
-      "bid": 550003,
+      "bid": 550002,
       "vendor": 1000
     },
     "Sugar": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664694002.5261474
+  "time": 1664694902.4542234
 }
