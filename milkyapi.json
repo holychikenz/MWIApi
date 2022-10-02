@@ -147,11 +147,11 @@
     },
     "Black Tea Leaf": {
       "ask": 58,
-      "bid": 55,
+      "bid": 56,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 47,
+      "ask": 48,
       "bid": 30,
       "vendor": 4
     },
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 48,
-      "bid": 34,
+      "bid": 39,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -532,7 +532,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 394,
-      "bid": 245,
+      "bid": 246,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 549,
+      "ask": -1,
       "bid": 300,
       "vendor": 10
     },
@@ -627,7 +627,7 @@
     },
     "Green Tea Leaf": {
       "ask": 116,
-      "bid": 79,
+      "bid": 80,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -782,7 +782,7 @@
     },
     "Marsberry": {
       "ask": 53,
-      "bid": 42,
+      "bid": 43,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -882,7 +882,7 @@
     },
     "Plum": {
       "ask": 88,
-      "bid": 44,
+      "bid": 45,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -896,7 +896,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 14702,
+      "ask": 13967,
       "bid": 5508,
       "vendor": 1000
     },
@@ -1021,12 +1021,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 9999,
+      "ask": 9499,
       "bid": 6004,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 11730,
+      "ask": 11144,
       "bid": 5096,
       "vendor": 1000
     },
@@ -1046,7 +1046,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 900,
+      "ask": 855,
       "bid": 276,
       "vendor": 100
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry": {
       "ask": 85,
-      "bid": 48,
+      "bid": 49,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1097,7 +1097,7 @@
     },
     "Star Fruit": {
       "ask": 281,
-      "bid": 125,
+      "bid": 126,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1116,8 +1116,8 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 154,
-      "bid": 106,
+      "ask": 100,
+      "bid": 80,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1181,7 +1181,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1099,
+      "ask": 1100,
       "bid": 1000,
       "vendor": 75
     },
@@ -1191,7 +1191,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 49,
+      "ask": 47,
       "bid": 39,
       "vendor": 8
     },
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 740,
+      "ask": 749,
       "bid": 500,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664701202.074194
+  "time": 1664702102.3241682
 }
