@@ -1,12 +1,12 @@
 {
-  "time": 1664633252.0,
+  "time": 1664634152.5,
   "market": {
     "Apple": {
       "ask": 10.0,
       "bid": 3.0
     },
     "Apple Gummy": {
-      "ask": 29.5,
+      "ask": 29.0,
       "bid": -1.0
     },
     "Apple Yogurt": {
@@ -402,12 +402,12 @@
       "bid": 8.0
     },
     "Dragon Fruit": {
-      "ask": 78.0,
+      "ask": 76.0,
       "bid": 40.0
     },
     "Dragon Fruit Gummy": {
       "ask": 337.0,
-      "bid": 102.5
+      "bid": 103.0
     },
     "Dragon Fruit Yogurt": {
       "ask": 300.0,
@@ -483,7 +483,7 @@
     },
     "Goggles": {
       "ask": 250000.0,
-      "bid": 189010.0
+      "bid": 189010.5
     },
     "Gourmet Tea": {
       "ask": 420.0,
@@ -523,7 +523,7 @@
     },
     "Holy Cheese": {
       "ask": 655.0,
-      "bid": 629.5
+      "bid": 630.0
     },
     "Holy Enhancer": {
       "ask": 102499.0,
@@ -662,7 +662,7 @@
       "bid": 280003.0
     },
     "Peach": {
-      "ask": 13.5,
+      "ask": 13.0,
       "bid": 11.0
     },
     "Peach Gummy": {
@@ -790,7 +790,7 @@
       "bid": 291.0
     },
     "Robusta Coffee Bean": {
-      "ask": 289.5,
+      "ask": 289.0,
       "bid": 110.0
     },
     "Scratch": {
@@ -822,7 +822,7 @@
       "bid": 3002.0
     },
     "Spaceberry": {
-      "ask": 86.0,
+      "ask": 85.5,
       "bid": 46.0
     },
     "Spaceberry Cake": {
@@ -1082,7 +1082,7 @@
       "bid": 125001.0
     },
     "Stalactite Shard": {
-      "ask": 2853750.0,
+      "ask": 2707500.0,
       "bid": 2000000.0
     },
     "Stalactite Spear": {
@@ -1098,8 +1098,8 @@
       "bid": -1.0
     },
     "Wisdom Coffee": {
-      "ask": 1911.0,
-      "bid": 750.0
+      "ask": 1800.0,
+      "bid": 500.0
     }
   }
 }
