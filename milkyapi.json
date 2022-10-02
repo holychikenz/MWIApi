@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 28,
+      "ask": 14,
       "bid": -1,
       "vendor": 10
     },
@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 53,
-      "bid": 39,
+      "bid": 40,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -126,13 +126,13 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 81,
+      "ask": 80,
       "bid": 70,
       "vendor": 54
     },
     "Berserk": {
       "ask": 430000,
-      "bid": 320022,
+      "bid": 321000,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 58,
-      "bid": 56,
+      "bid": 55,
       "vendor": 8
     },
     "Blackberry": {
@@ -156,7 +156,7 @@
       "vendor": 4
     },
     "Blackberry Cake": {
-      "ask": 122,
+      "ask": 50,
       "bid": 22,
       "vendor": 20
     },
@@ -517,7 +517,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 309,
-      "bid": 272,
+      "bid": 270,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -551,7 +551,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 476,
+      "ask": 518,
       "bid": 355,
       "vendor": 40
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": -1,
+      "ask": 10000,
       "bid": 300,
       "vendor": 10
     },
@@ -627,7 +627,7 @@
     },
     "Green Tea Leaf": {
       "ask": 116,
-      "bid": 80,
+      "bid": 58,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -747,7 +747,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 465,
-      "bid": 159,
+      "bid": 160,
       "vendor": 12
     },
     "Living Granite": {
@@ -836,7 +836,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 22,
+      "ask": 21,
       "bid": -1,
       "vendor": 20
     },
@@ -861,13 +861,13 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 169,
+      "ask": 170,
       "bid": 111,
       "vendor": 40
     },
     "Peach Yogurt": {
       "ask": 141,
-      "bid": 118,
+      "bid": 116,
       "vendor": 40
     },
     "Pierce": {
@@ -906,7 +906,7 @@
       "vendor": 3000
     },
     "Polar Bear Shoes": {
-      "ask": 950000,
+      "ask": -1,
       "bid": 400006,
       "vendor": 60000
     },
@@ -1027,7 +1027,7 @@
     },
     "Smack": {
       "ask": 11144,
-      "bid": 5096,
+      "bid": 5095,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry": {
       "ask": 85,
-      "bid": 49,
+      "bid": 50,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1081,8 +1081,8 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2572125,
-      "bid": 2000000,
+      "ask": 3000000,
+      "bid": 1203000,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1116,7 +1116,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 100,
+      "ask": 154,
       "bid": 80,
       "vendor": 30
     },
@@ -1192,7 +1192,7 @@
     },
     "Swamp Essence": {
       "ask": 47,
-      "bid": 39,
+      "bid": 38,
       "vendor": 8
     },
     "Sweep": {
@@ -1357,12 +1357,12 @@
     },
     "Wheat": {
       "ask": 28,
-      "bid": 20,
+      "bid": 25,
       "vendor": 1
     },
     "Wisdom Coffee": {
       "ask": 1112,
-      "bid": 600,
+      "bid": 601,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664702102.3241682
+  "time": 1664703001.8961065
 }
