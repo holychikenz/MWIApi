@@ -76,7 +76,7 @@
       "vendor": 1512
     },
     "Azure Helmet": {
-      "ask": 3800,
+      "ask": -1,
       "bid": 3604,
       "vendor": 1080
     },
@@ -666,8 +666,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 659,
-      "bid": 634,
+      "ask": 658,
+      "bid": 635,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -696,8 +696,8 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 207,
-      "bid": 194,
+      "ask": 205,
+      "bid": 195,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -746,13 +746,13 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 400,
+      "ask": 475,
       "bid": 151,
       "vendor": 12
     },
     "Living Granite": {
       "ask": 2849994,
-      "bid": 2000050,
+      "bid": 2000051,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -856,7 +856,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 12,
+      "ask": 14,
       "bid": 11,
       "vendor": 9
     },
@@ -917,7 +917,7 @@
     },
     "Precision": {
       "ask": 14250,
-      "bid": 6000,
+      "bid": 6001,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1046,12 +1046,12 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 885,
+      "ask": 901,
       "bid": 276,
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 22800,
+      "ask": 17000,
       "bid": 3002,
       "vendor": 2000
     },
@@ -1072,7 +1072,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 282,
-      "bid": 144,
+      "bid": 145,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1181,7 +1181,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1100,
+      "ask": 1099,
       "bid": 1000,
       "vendor": 75
     },
@@ -1211,7 +1211,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 11400,
+      "ask": 17000,
       "bid": 2007,
       "vendor": 1500
     },
@@ -1266,7 +1266,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 190,
+      "ask": 191,
       "bid": 174,
       "vendor": 12
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664685001.9525685
+  "time": 1664685902.950406
 }
