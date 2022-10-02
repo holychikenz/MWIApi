@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 100,
+      "ask": 200,
       "bid": 10,
       "vendor": 10
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 429998,
-      "bid": 340000,
+      "bid": 340001,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -146,13 +146,13 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 57,
-      "bid": 56,
+      "ask": 58,
+      "bid": 55,
       "vendor": 8
     },
     "Blackberry": {
       "ask": 47,
-      "bid": 30,
+      "bid": 31,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -176,12 +176,12 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 39,
+      "ask": 40,
       "bid": 22,
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 109,
+      "ask": 115,
       "bid": 11,
       "vendor": 10
     },
@@ -501,7 +501,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 93,
+      "ask": 98,
       "bid": 8,
       "vendor": 5
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 24,
+      "ask": 27,
       "bid": 20,
       "vendor": 1
     },
@@ -692,11 +692,11 @@
     },
     "Holy Mace": {
       "ask": 106298,
-      "bid": 82000,
+      "bid": 88000,
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 202,
+      "ask": 203,
       "bid": 192,
       "vendor": 54
     },
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 436,
+      "ask": 433,
       "bid": 300,
       "vendor": 12
     },
@@ -812,7 +812,7 @@
     },
     "Mooberry": {
       "ask": 23,
-      "bid": 18,
+      "bid": 20,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -867,7 +867,7 @@
     },
     "Peach Yogurt": {
       "ask": 141,
-      "bid": 116,
+      "bid": 117,
       "vendor": 40
     },
     "Pierce": {
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 83,
+      "ask": 87,
       "bid": 55,
       "vendor": 27
     },
@@ -1072,7 +1072,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 282,
-      "bid": 175,
+      "bid": 180,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1356,13 +1356,13 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 28,
+      "ask": 29,
       "bid": 25,
       "vendor": 1
     },
     "Wisdom Coffee": {
       "ask": 1149,
-      "bid": 1000,
+      "bid": 900,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664723702.3892941
+  "time": 1664724601.991525
 }
