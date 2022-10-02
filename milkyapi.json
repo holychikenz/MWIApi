@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 53,
-      "bid": 41,
+      "bid": 40,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 47,
-      "bid": 32,
+      "bid": 33,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 48,
+      "ask": 44,
       "bid": 40,
       "vendor": 12
     },
@@ -527,7 +527,7 @@
     },
     "Egg": {
       "ask": 28,
-      "bid": 20,
+      "bid": 19,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -541,7 +541,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 348,
+      "ask": 347,
       "bid": 125,
       "vendor": 18
     },
@@ -607,7 +607,7 @@
     },
     "Goggles": {
       "ask": 296000,
-      "bid": 200001,
+      "bid": 200002,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -697,7 +697,7 @@
     },
     "Holy Milk": {
       "ask": 203,
-      "bid": 193,
+      "bid": 194,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -716,7 +716,7 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 250000,
+      "ask": -1,
       "bid": 79500,
       "vendor": 62370
     },
@@ -746,13 +746,13 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 433,
-      "bid": 300,
+      "ask": 431,
+      "bid": 225,
       "vendor": 12
     },
     "Living Granite": {
       "ask": 3498998,
-      "bid": 2000100,
+      "bid": 2000101,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -761,7 +761,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 709900,
+      "ask": 709899,
       "bid": 550001,
       "vendor": 10000
     },
@@ -772,11 +772,11 @@
     },
     "Magnifying Glass": {
       "ask": 199493,
-      "bid": 110018,
+      "bid": 110019,
       "vendor": 10000
     },
     "Maim": {
-      "ask": 400000,
+      "ask": 439999,
       "bid": 300000,
       "vendor": 1000
     },
@@ -796,7 +796,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 81225,
+      "ask": 85000,
       "bid": 25645,
       "vendor": 50000
     },
@@ -901,7 +901,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 108298,
+      "ask": 108297,
       "bid": 75000,
       "vendor": 3000
     },
@@ -971,7 +971,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 28,
+      "ask": 29,
       "bid": 27,
       "vendor": 27
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry": {
       "ask": 87,
-      "bid": 55,
+      "bid": 54,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1206,7 +1206,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 18855,
+      "ask": 33772,
       "bid": 15775,
       "vendor": 1000
     },
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1199,
+      "ask": 1195,
       "bid": 900,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664727302.7642272
+  "time": 1664729103.3927088
 }
