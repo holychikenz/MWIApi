@@ -7,7 +7,7 @@
     },
     "Apple Gummy": {
       "ask": 25,
-      "bid": -1,
+      "bid": 1,
       "vendor": 10
     },
     "Apple Yogurt": {
@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 86,
+      "ask": 59,
       "bid": 38,
       "vendor": 16
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 269,
+      "ask": 259,
       "bid": 233,
       "vendor": 12
     },
@@ -551,7 +551,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 999,
+      "ask": 998,
       "bid": 356,
       "vendor": 40
     },
@@ -631,7 +631,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 89999,
+      "ask": 90000,
       "bid": 60002,
       "vendor": 3000
     },
@@ -837,7 +837,7 @@
     },
     "Orange Gummy": {
       "ask": 141,
-      "bid": -1,
+      "bid": 20,
       "vendor": 20
     },
     "Orange Yogurt": {
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 148000,
+      "ask": 168000,
       "bid": 30002,
       "vendor": 1000
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 647,
+      "ask": 648,
       "bid": 475,
       "vendor": 75
     },
@@ -1107,7 +1107,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 758,
-      "bid": 701,
+      "bid": 702,
       "vendor": 75
     },
     "Strawberry": {
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 792,
+      "ask": 797,
       "bid": 350,
       "vendor": 50
     },
@@ -1181,8 +1181,8 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 921,
-      "bid": 753,
+      "ask": 969,
+      "bid": 900,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1336,7 +1336,7 @@
       "vendor": 540
     },
     "Vision Helmet": {
-      "ask": 274440,
+      "ask": 274444,
       "bid": 4,
       "vendor": 20000
     },
@@ -1357,7 +1357,7 @@
     },
     "Wheat": {
       "ask": 27,
-      "bid": 25,
+      "bid": 20,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664819103.662174
+  "time": 1664820003.1060789
 }
