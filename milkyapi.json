@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 119,
+      "ask": 120,
       "bid": 76,
       "vendor": 4
     },
@@ -106,7 +106,7 @@
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": 5000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 44,
+      "ask": 48,
       "bid": 33,
       "vendor": 12
     },
@@ -541,7 +541,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 296,
+      "ask": 295,
       "bid": 125,
       "vendor": 18
     },
@@ -696,8 +696,8 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 196,
-      "bid": 174,
+      "ask": 198,
+      "bid": 175,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -756,7 +756,7 @@
       "vendor": 10000
     },
     "Lucky Coffee": {
-      "ask": 396,
+      "ask": 399,
       "bid": 363,
       "vendor": 40
     },
@@ -772,7 +772,7 @@
     },
     "Magnifying Glass": {
       "ask": 199420,
-      "bid": 115014,
+      "bid": 115015,
       "vendor": 10000
     },
     "Maim": {
@@ -801,7 +801,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 12,
+      "ask": 14,
       "bid": 5,
       "vendor": 2
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 8572,
+      "ask": 8573,
       "bid": 5105,
       "vendor": 1000
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 1000,
+      "ask": 900,
       "bid": 702,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664824503.6413624
+  "time": 1664825402.9910653
 }
