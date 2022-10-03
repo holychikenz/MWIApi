@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 15,
+      "ask": 16,
       "bid": 3,
       "vendor": 2
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 20,
+      "ask": 22,
       "bid": 14,
       "vendor": 2
     },
@@ -452,7 +452,7 @@
     },
     "Crimson Milk": {
       "ask": 23,
-      "bid": 22,
+      "bid": 21,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -531,7 +531,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 374,
+      "ask": 373,
       "bid": 257,
       "vendor": 54
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 995,
+      "ask": 994,
       "bid": 400,
       "vendor": 10
     },
@@ -746,13 +746,13 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 343,
+      "ask": 342,
       "bid": 228,
       "vendor": 12
     },
     "Living Granite": {
       "ask": 3490249,
-      "bid": 2000203,
+      "bid": 2000205,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -836,7 +836,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 23,
+      "ask": 30,
       "bid": -1,
       "vendor": 20
     },
@@ -887,7 +887,7 @@
     },
     "Plum Gummy": {
       "ask": 114,
-      "bid": 41,
+      "bid": 75,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -902,7 +902,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 102882,
-      "bid": 75003,
+      "bid": 75004,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 304,
+      "ask": 303,
       "bid": 290,
       "vendor": 27
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 9500,
+      "ask": 9499,
       "bid": 5100,
       "vendor": 1000
     },
@@ -1187,7 +1187,7 @@
     },
     "Super Stamina Coffee": {
       "ask": 503,
-      "bid": 263,
+      "bid": 264,
       "vendor": 40
     },
     "Swamp Essence": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664772302.7447574
+  "time": 1664773201.9747782
 }
