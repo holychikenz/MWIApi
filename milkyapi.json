@@ -717,7 +717,7 @@
     },
     "Holy Shears": {
       "ask": -1,
-      "bid": 100000,
+      "bid": 80001,
       "vendor": 62370
     },
     "Holy Spatula": {
@@ -787,7 +787,7 @@
     },
     "Marsberry Cake": {
       "ask": 330,
-      "bid": 182,
+      "bid": 220,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -896,7 +896,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 9952,
+      "ask": -1,
       "bid": 5508,
       "vendor": 1000
     },
@@ -1016,7 +1016,7 @@
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 267,
+      "ask": 266,
       "bid": 111,
       "vendor": 8
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 9024,
+      "ask": 11729,
       "bid": 5110,
       "vendor": 1000
     },
@@ -1061,7 +1061,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 694,
+      "ask": 690,
       "bid": 562,
       "vendor": 75
     },
@@ -1127,7 +1127,7 @@
     },
     "Stunning Blow": {
       "ask": 759998,
-      "bid": 550005,
+      "bid": 550006,
       "vendor": 1000
     },
     "Sugar": {
@@ -1182,7 +1182,7 @@
     },
     "Super Power Coffee": {
       "ask": 985,
-      "bid": 755,
+      "bid": 800,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1362,7 +1362,7 @@
     },
     "Wisdom Coffee": {
       "ask": 991,
-      "bid": 712,
+      "bid": 800,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664881202.3290458
+  "time": 1664882103.7053707
 }
