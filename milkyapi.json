@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 60,
+      "ask": 64,
       "bid": 41,
       "vendor": 8
     },
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 45,
-      "bid": 33,
+      "bid": 32,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -421,7 +421,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 177,
+      "ask": 178,
       "bid": 160,
       "vendor": 54
     },
@@ -511,7 +511,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 327,
+      "ask": 326,
       "bid": 102,
       "vendor": 50
     },
@@ -531,7 +531,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 330,
+      "ask": 329,
       "bid": 303,
       "vendor": 54
     },
@@ -566,12 +566,12 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 375000,
+      "ask": 374999,
       "bid": 290000,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 699,
+      "ask": 500,
       "bid": 260,
       "vendor": 10
     },
@@ -606,8 +606,8 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 219000,
-      "bid": 189018,
+      "ask": 249666,
+      "bid": 189017,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 102,
+      "ask": 107,
       "bid": 80,
       "vendor": 4
     },
@@ -836,7 +836,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 140,
+      "ask": 139,
       "bid": 20,
       "vendor": 20
     },
@@ -861,7 +861,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": -1,
+      "ask": 172,
       "bid": 112,
       "vendor": 40
     },
@@ -886,7 +886,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 98,
+      "ask": 97,
       "bid": 45,
       "vendor": 30
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Cheese": {
       "ask": 223,
-      "bid": 165,
+      "bid": 200,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -976,7 +976,7 @@
       "vendor": 27
     },
     "Rainbow Plate Body": {
-      "ask": 87500,
+      "ask": 87499,
       "bid": -1,
       "vendor": 23976
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": -1,
+      "ask": 749,
       "bid": 477,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 799,
+      "ask": 925,
       "bid": 712,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664877602.5391622
+  "time": 1664878502.8734815
 }
