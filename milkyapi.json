@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 16,
-      "bid": 4,
+      "bid": 5,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -86,7 +86,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 49,
+      "ask": 52,
       "bid": 34,
       "vendor": 8
     },
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 39,
+      "ask": 44,
       "bid": 21,
       "vendor": 4
     },
@@ -607,12 +607,12 @@
     },
     "Goggles": {
       "ask": 220000,
-      "bid": 189017,
+      "bid": 189018,
       "vendor": 10000
     },
     "Golem Essence": {
       "ask": 942,
-      "bid": 685,
+      "bid": 686,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -697,7 +697,7 @@
     },
     "Holy Milk": {
       "ask": 201,
-      "bid": 180,
+      "bid": 176,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -807,7 +807,7 @@
     },
     "Milking Tea": {
       "ask": 351,
-      "bid": 202,
+      "bid": 203,
       "vendor": 10
     },
     "Mooberry": {
@@ -827,7 +827,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 26,
-      "bid": 22,
+      "bid": 23,
       "vendor": 18
     },
     "Orange": {
@@ -882,11 +882,11 @@
     },
     "Plum": {
       "ask": 54,
-      "bid": 13,
+      "bid": 14,
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 113,
+      "ask": 100,
       "bid": 45,
       "vendor": 30
     },
@@ -1061,7 +1061,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 645,
+      "ask": 692,
       "bid": 561,
       "vendor": 75
     },
@@ -1172,12 +1172,12 @@
     },
     "Super Intelligence Coffee": {
       "ask": 623,
-      "bid": 507,
+      "bid": 508,
       "vendor": 40
     },
     "Super Milking Tea": {
       "ask": 1399,
-      "bid": 401,
+      "bid": 600,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664856903.6500413
+  "time": 1664857803.059218
 }
