@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 15,
+      "ask": 14,
       "bid": 6,
       "vendor": 2
     },
@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 500000,
+      "ask": 499999,
       "bid": 340256,
       "vendor": 1000
     },
@@ -421,7 +421,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 175,
+      "ask": 179,
       "bid": 161,
       "vendor": 54
     },
@@ -436,7 +436,7 @@
       "vendor": 5184
     },
     "Crimson Hammer": {
-      "ask": 20000,
+      "ask": 25000,
       "bid": 6810,
       "vendor": 9072
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 22,
+      "ask": 21,
       "bid": 19,
       "vendor": 1
     },
@@ -567,11 +567,11 @@
     },
     "Frenzy": {
       "ask": 770000,
-      "bid": 300000,
+      "bid": 400000,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 299,
+      "ask": 300,
       "bid": 260,
       "vendor": 10
     },
@@ -777,7 +777,7 @@
     },
     "Maim": {
       "ask": 390000,
-      "bid": 325000,
+      "bid": 300002,
       "vendor": 1000
     },
     "Marsberry": {
@@ -831,12 +831,12 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 8,
+      "ask": 7,
       "bid": 5,
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 79,
+      "ask": 69,
       "bid": 20,
       "vendor": 20
     },
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 188000,
+      "ask": 1500000,
       "bid": 40000,
       "vendor": 1000
     },
@@ -882,7 +882,7 @@
     },
     "Plum": {
       "ask": 79,
-      "bid": 14,
+      "bid": 40,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -1111,7 +1111,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 35,
+      "ask": 34,
       "bid": 30,
       "vendor": 6
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664924402.7601237
+  "time": 1664925303.5136232
 }
