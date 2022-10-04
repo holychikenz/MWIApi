@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 44,
-      "bid": 21,
+      "bid": 22,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -201,7 +201,7 @@
       "vendor": 3780
     },
     "Burble Buckler": {
-      "ask": 27075,
+      "ask": 34872,
       "bid": 3350,
       "vendor": 3240
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 258,
+      "ask": 269,
       "bid": 235,
       "vendor": 12
     },
@@ -421,7 +421,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 178,
+      "ask": 179,
       "bid": 160,
       "vendor": 54
     },
@@ -451,8 +451,8 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 23,
-      "bid": 21,
+      "ask": 21,
+      "bid": 20,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 325,
+      "ask": 300,
       "bid": 261,
       "vendor": 50
     },
@@ -552,7 +552,7 @@
     },
     "Fermenting Tea": {
       "ask": 996,
-      "bid": 356,
+      "bid": 357,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
@@ -567,7 +567,7 @@
     },
     "Frenzy": {
       "ask": 374999,
-      "bid": 290000,
+      "bid": 290001,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 198,
+      "ask": 197,
       "bid": 180,
       "vendor": 54
     },
@@ -746,13 +746,13 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 332,
+      "ask": 250,
       "bid": 210,
       "vendor": 12
     },
     "Living Granite": {
       "ask": 3490249,
-      "bid": 2100010,
+      "bid": 2500000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -861,7 +861,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 172,
+      "ask": -1,
       "bid": 112,
       "vendor": 40
     },
@@ -896,7 +896,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": -1,
+      "ask": 12155,
       "bid": 5508,
       "vendor": 1000
     },
@@ -916,7 +916,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 23997,
+      "ask": 23996,
       "bid": 8001,
       "vendor": 1000
     },
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 296,
+      "ask": 298,
       "bid": 278,
       "vendor": 27
     },
@@ -1081,7 +1081,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2900000,
+      "ask": 2899999,
       "bid": 2200000,
       "vendor": 10000
     },
@@ -1297,7 +1297,7 @@
     },
     "Verdant Milk": {
       "ask": 49,
-      "bid": 33,
+      "bid": 34,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1347,7 +1347,7 @@
     },
     "Werewolf Claw": {
       "ask": 808080,
-      "bid": 614248,
+      "bid": 614249,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664883902.6866813
+  "time": 1664885703.625312
 }
