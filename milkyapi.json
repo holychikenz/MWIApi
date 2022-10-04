@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 14,
+      "ask": 16,
       "bid": 6,
       "vendor": 2
     },
@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 120,
-      "bid": 77,
+      "bid": 76,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 45,
-      "bid": 23,
+      "bid": 24,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 97,
+      "ask": 96,
       "bid": 34,
       "vendor": 12
     },
@@ -507,7 +507,7 @@
     },
     "Dragon Fruit": {
       "ask": 59,
-      "bid": 47,
+      "bid": 48,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -557,7 +557,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 187,
-      "bid": 120,
+      "bid": 121,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -566,7 +566,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 770000,
+      "ask": 694925,
       "bid": 400000,
       "vendor": 1000
     },
@@ -611,7 +611,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 938,
+      "ask": 937,
       "bid": 685,
       "vendor": 108
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 105,
+      "ask": 108,
       "bid": 83,
       "vendor": 4
     },
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 193,
+      "ask": 192,
       "bid": 183,
       "vendor": 54
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 11143,
+      "ask": 8000,
       "bid": 5110,
       "vendor": 1000
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry": {
       "ask": 84,
-      "bid": 72,
+      "bid": 73,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1081,7 +1081,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2899995,
+      "ask": 2899994,
       "bid": 2200000,
       "vendor": 10000
     },
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1389,
+      "ask": 1300,
       "bid": 700,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664925303.5136232
+  "time": 1664926202.6164675
 }
