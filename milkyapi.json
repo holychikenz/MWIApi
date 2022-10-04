@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 414000,
-      "bid": 335000,
+      "bid": 335500,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -541,7 +541,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 250,
+      "ask": 249,
       "bid": 125,
       "vendor": 18
     },
@@ -567,7 +567,7 @@
     },
     "Frenzy": {
       "ask": 499999,
-      "bid": 285000,
+      "bid": 285001,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -801,17 +801,17 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 14,
+      "ask": 15,
       "bid": 4,
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 351,
+      "ask": 370,
       "bid": 203,
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 20,
+      "ask": 19,
       "bid": 17,
       "vendor": 9
     },
@@ -856,7 +856,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 14,
+      "ask": 13,
       "bid": 11,
       "vendor": 9
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664858703.0426593
+  "time": 1664859602.768702
 }
