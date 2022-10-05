@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 470000,
-      "bid": 350000,
+      "bid": 350005,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -146,13 +146,13 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 59,
+      "ask": 73,
       "bid": 50,
       "vendor": 8
     },
     "Blackberry": {
       "ask": 44,
-      "bid": 24,
+      "bid": 25,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 94,
+      "ask": 93,
       "bid": 34,
       "vendor": 12
     },
@@ -451,7 +451,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 24,
+      "ask": 25,
       "bid": 20,
       "vendor": 18
     },
@@ -551,7 +551,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 899,
+      "ask": 898,
       "bid": 357,
       "vendor": 40
     },
@@ -862,7 +862,7 @@
     },
     "Peach Gummy": {
       "ask": -1,
-      "bid": 112,
+      "bid": 113,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -911,7 +911,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 597,
+      "ask": 596,
       "bid": 237,
       "vendor": 30
     },
@@ -1031,12 +1031,12 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 10998,
+      "ask": 12499,
       "bid": 3,
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 2999,
+      "ask": 2849,
       "bid": 2004,
       "vendor": 1500
     },
@@ -1046,7 +1046,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 541,
+      "ask": 514,
       "bid": 201,
       "vendor": 100
     },
@@ -1106,8 +1106,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 1750,
-      "bid": 850,
+      "ask": 999,
+      "bid": 712,
       "vendor": 75
     },
     "Strawberry": {
@@ -1297,7 +1297,7 @@
     },
     "Verdant Milk": {
       "ask": 49,
-      "bid": 36,
+      "bid": 37,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1249,
+      "ask": 1248,
       "bid": 700,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664937903.2881556
+  "time": 1664938803.2342813
 }
