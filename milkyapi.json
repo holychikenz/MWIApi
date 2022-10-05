@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 95,
-      "bid": 37,
+      "bid": 40,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -352,7 +352,7 @@
     },
     "Cheese Shears": {
       "ask": -1,
-      "bid": 85,
+      "bid": 500,
       "vendor": 84
     },
     "Cheese Spatula": {
@@ -576,7 +576,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 50000,
+      "ask": 90000,
       "bid": 45004,
       "vendor": 5000
     },
@@ -627,11 +627,11 @@
     },
     "Green Tea Leaf": {
       "ask": 95,
-      "bid": 90,
+      "bid": 84,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 80000,
+      "ask": 75000,
       "bid": 60006,
       "vendor": 3000
     },
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 713,
+      "ask": 712,
       "bid": 681,
       "vendor": 162
     },
@@ -896,7 +896,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 69000,
+      "ask": 20000,
       "bid": 5511,
       "vendor": 1000
     },
@@ -1021,7 +1021,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 12000,
+      "ask": 11400,
       "bid": 6007,
       "vendor": 1000
     },
@@ -1102,7 +1102,7 @@
     },
     "Star Fruit Gummy": {
       "ask": 695,
-      "bid": 475,
+      "bid": 131,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1664979302.1378815
+  "time": 1664980202.777745
 }
