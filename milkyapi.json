@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 262,
+      "ask": 260,
       "bid": 240,
       "vendor": 12
     },
@@ -627,11 +627,11 @@
     },
     "Green Tea Leaf": {
       "ask": 107,
-      "bid": 100,
+      "bid": 90,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 90000,
+      "ask": 105000,
       "bid": 60006,
       "vendor": 3000
     },
@@ -772,7 +772,7 @@
     },
     "Magnifying Glass": {
       "ask": 350000,
-      "bid": 130004,
+      "bid": 130005,
       "vendor": 10000
     },
     "Maim": {
@@ -786,7 +786,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 261,
+      "ask": 320,
       "bid": 250,
       "vendor": 50
     },
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 294,
+      "ask": 292,
       "bid": 277,
       "vendor": 27
     },
@@ -1284,7 +1284,97 @@
       "ask": 4000,
       "bid": 364,
       "vendor": 420
+    },
+    "Verdant Helmet": {
+      "ask": -1,
+      "bid": 803,
+      "vendor": 300
+    },
+    "Verdant Mace": {
+      "ask": 4877,
+      "bid": 500,
+      "vendor": 540
+    },
+    "Verdant Milk": {
+      "ask": 50,
+      "bid": 37,
+      "vendor": 4
+    },
+    "Verdant Plate Body": {
+      "ask": 9000,
+      "bid": 606,
+      "vendor": 480
+    },
+    "Verdant Plate Legs": {
+      "ask": -1,
+      "bid": 441,
+      "vendor": 420
+    },
+    "Verdant Pot": {
+      "ask": 3956,
+      "bid": 445,
+      "vendor": 420
+    },
+    "Verdant Shears": {
+      "ask": 9000,
+      "bid": 435,
+      "vendor": 420
+    },
+    "Verdant Spatula": {
+      "ask": -1,
+      "bid": 465,
+      "vendor": 420
+    },
+    "Verdant Spear": {
+      "ask": -1,
+      "bid": 250,
+      "vendor": 540
+    },
+    "Verdant Sword": {
+      "ask": -1,
+      "bid": 500,
+      "vendor": 540
+    },
+    "Vision Helmet": {
+      "ask": 404958,
+      "bid": 4,
+      "vendor": 20000
+    },
+    "Vision Shield": {
+      "ask": 198051,
+      "bid": 110004,
+      "vendor": 20000
+    },
+    "Werewolf Claw": {
+      "ask": 750000,
+      "bid": 614250,
+      "vendor": 10000
+    },
+    "Werewolf Slasher": {
+      "ask": -1,
+      "bid": 2100009,
+      "vendor": 400000
+    },
+    "Wheat": {
+      "ask": 20,
+      "bid": 19,
+      "vendor": 1
+    },
+    "Wisdom Coffee": {
+      "ask": 1247,
+      "bid": 700,
+      "vendor": 30
+    },
+    "Wisdom Tea": {
+      "ask": 719,
+      "bid": 579,
+      "vendor": 30
+    },
+    "Yogurt": {
+      "ask": 6983,
+      "bid": 6,
+      "vendor": 5
     }
   },
-  "time": 1664946002.996375
+  "time": 1664946902.7783926
 }
