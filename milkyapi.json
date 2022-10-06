@@ -616,8 +616,8 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 600,
-      "bid": 375,
+      "ask": -1,
+      "bid": 250,
       "vendor": 20
     },
     "Granite Bludgeon": {
@@ -1112,7 +1112,7 @@
     },
     "Strawberry": {
       "ask": 49,
-      "bid": 32,
+      "bid": 31,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1192,7 +1192,7 @@
     },
     "Swamp Essence": {
       "ask": 46,
-      "bid": 40,
+      "bid": 39,
       "vendor": 8
     },
     "Sweep": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665088203.061213
+  "time": 1665089103.262592
 }
