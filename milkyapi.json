@@ -621,7 +621,7 @@
       "vendor": 20
     },
     "Granite Bludgeon": {
-      "ask": 70000000,
+      "ask": -1,
       "bid": 35000000,
       "vendor": 400000
     },
@@ -1162,7 +1162,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 1416,
-      "bid": 721,
+      "bid": 750,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1226,8 +1226,8 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 255,
-      "bid": 211,
+      "ask": 258,
+      "bid": 210,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665037802.344318
+  "time": 1665038703.3545158
 }
