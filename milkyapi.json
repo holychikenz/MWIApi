@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 93,
-      "bid": 83,
+      "bid": 84,
       "vendor": 54
     },
     "Berserk": {
@@ -186,7 +186,7 @@
       "vendor": 10
     },
     "Brewing Tea": {
-      "ask": 237,
+      "ask": 214,
       "bid": 31,
       "vendor": 20
     },
@@ -256,7 +256,7 @@
       "vendor": 3780
     },
     "Burble Pot": {
-      "ask": 5000,
+      "ask": -1,
       "bid": 3155,
       "vendor": 3780
     },
@@ -1356,7 +1356,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 19,
+      "ask": 17,
       "bid": 16,
       "vendor": 1
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665018002.9720669
+  "time": 1665018902.9890807
 }
