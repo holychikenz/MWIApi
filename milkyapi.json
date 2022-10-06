@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 42747,
+      "ask": 42500,
       "bid": 16005,
       "vendor": 3000
     },
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 112,
+      "ask": 105,
       "bid": 69,
       "vendor": 6
     },
@@ -367,7 +367,7 @@
     },
     "Cheese Sword": {
       "ask": -1,
-      "bid": 170,
+      "bid": 166,
       "vendor": 108
     },
     "Cheesesmithing Tea": {
@@ -447,7 +447,7 @@
     },
     "Crimson Mace": {
       "ask": 24692,
-      "bid": 10000,
+      "bid": -1,
       "vendor": 11664
     },
     "Crimson Milk": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 939,
+      "ask": 937,
       "bid": 850,
       "vendor": 50
     },
@@ -531,8 +531,8 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 298,
-      "bid": 236,
+      "ask": 320,
+      "bid": 239,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -566,7 +566,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 430000,
+      "ask": 429999,
       "bid": 350000,
       "vendor": 1000
     },
@@ -631,7 +631,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 85000,
+      "ask": 84999,
       "bid": 60006,
       "vendor": 3000
     },
@@ -696,12 +696,12 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 203,
+      "ask": 202,
       "bid": 188,
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 124995,
+      "ask": 124996,
       "bid": 58111,
       "vendor": 71280
     },
@@ -1016,7 +1016,7 @@
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 226,
+      "ask": 225,
       "bid": 111,
       "vendor": 8
     },
@@ -1181,7 +1181,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 919,
+      "ask": 918,
       "bid": 846,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665057603.7595332
+  "time": 1665058502.665041
 }
