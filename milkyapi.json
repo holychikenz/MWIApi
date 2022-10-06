@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 45,
+      "ask": 44,
       "bid": 23,
       "vendor": 4
     },
@@ -186,7 +186,7 @@
       "vendor": 10
     },
     "Brewing Tea": {
-      "ask": 213,
+      "ask": 212,
       "bid": 31,
       "vendor": 20
     },
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 90,
+      "ask": 89,
       "bid": 40,
       "vendor": 12
     },
@@ -326,7 +326,7 @@
       "vendor": 84
     },
     "Cheese Helmet": {
-      "ask": 750,
+      "ask": -1,
       "bid": 270,
       "vendor": 60
     },
@@ -506,7 +506,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 80,
+      "ask": 85,
       "bid": 65,
       "vendor": 14
     },
@@ -541,7 +541,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 239,
+      "ask": 238,
       "bid": 90,
       "vendor": 18
     },
@@ -592,7 +592,7 @@
     },
     "Gobo Slasher": {
       "ask": 24000,
-      "bid": 3001,
+      "bid": 15000,
       "vendor": 20000
     },
     "Gobo Smasher": {
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 351,
+      "ask": 350,
       "bid": 250,
       "vendor": 12
     },
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 87,
+      "ask": 86,
       "bid": 80,
       "vendor": 27
     },
@@ -1106,18 +1106,18 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 719,
-      "bid": 668,
+      "ask": 710,
+      "bid": 670,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 47,
+      "ask": 46,
       "bid": 30,
       "vendor": 6
     },
     "Strawberry Cake": {
       "ask": 200,
-      "bid": 120,
+      "bid": 80,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1246,7 +1246,7 @@
       "vendor": 1000
     },
     "Verdant Boots": {
-      "ask": 2000,
+      "ask": -1,
       "bid": -1,
       "vendor": 240
     },
@@ -1356,13 +1356,13 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 20,
+      "ask": 22,
       "bid": 16,
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 991,
-      "bid": 700,
+      "ask": 993,
+      "bid": 991,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665042302.8818152
+  "time": 1665043202.5432668
 }
