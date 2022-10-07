@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 80,
-      "bid": 49,
+      "bid": 50,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 919,
+      "ask": 920,
       "bid": 900,
       "vendor": 50
     },
@@ -546,12 +546,12 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 85,
+      "ask": 84,
       "bid": 64,
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 600,
+      "ask": 570,
       "bid": 401,
       "vendor": 40
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 600,
+      "ask": 700,
       "bid": 260,
       "vendor": 10
     },
@@ -882,7 +882,7 @@
     },
     "Plum": {
       "ask": 51,
-      "bid": 25,
+      "bid": 27,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665125103.478813
+  "time": 1665126003.361481
 }
