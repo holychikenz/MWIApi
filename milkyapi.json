@@ -352,7 +352,7 @@
     },
     "Cheese Shears": {
       "ask": -1,
-      "bid": 89,
+      "bid": 85,
       "vendor": 84
     },
     "Cheese Spatula": {
@@ -461,7 +461,7 @@
       "vendor": 10368
     },
     "Crimson Plate Legs": {
-      "ask": 45000,
+      "ask": 54150,
       "bid": -1,
       "vendor": 9072
     },
@@ -471,12 +471,12 @@
       "vendor": 9072
     },
     "Crimson Shears": {
-      "ask": 34999,
+      "ask": -1,
       "bid": 6810,
       "vendor": 9072
     },
     "Crimson Spatula": {
-      "ask": 34887,
+      "ask": -1,
       "bid": 6810,
       "vendor": 9072
     },
@@ -607,7 +607,7 @@
     },
     "Goggles": {
       "ask": 279999,
-      "bid": 189019,
+      "bid": 189020,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -752,7 +752,7 @@
     },
     "Living Granite": {
       "ask": 3315736,
-      "bid": 2250001,
+      "bid": 2300000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -786,7 +786,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 316,
+      "ask": 319,
       "bid": 182,
       "vendor": 50
     },
@@ -1061,7 +1061,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 720,
+      "ask": 730,
       "bid": 580,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 855,
+      "ask": 902,
       "bid": 711,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665112502.2858992
+  "time": 1665113402.3304422
 }
