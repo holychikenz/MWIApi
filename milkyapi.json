@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 268,
+      "ask": 267,
       "bid": 173,
       "vendor": 36
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 261,
-      "bid": 252,
+      "bid": 251,
       "vendor": 12
     },
     "Cheese": {
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 600,
+      "ask": 599,
       "bid": 260,
       "vendor": 10
     },
@@ -611,7 +611,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 914,
+      "ask": 930,
       "bid": 712,
       "vendor": 108
     },
@@ -736,7 +736,7 @@
       "vendor": 80190
     },
     "Intelligence Coffee": {
-      "ask": 314,
+      "ask": 309,
       "bid": 201,
       "vendor": 10
     },
@@ -752,7 +752,7 @@
     },
     "Living Granite": {
       "ask": 3315734,
-      "bid": 2310000,
+      "bid": 2310001,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -817,7 +817,7 @@
     },
     "Mooberry Cake": {
       "ask": 290,
-      "bid": 133,
+      "bid": 134,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -826,8 +826,8 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 36,
-      "bid": 35,
+      "ask": 35,
+      "bid": 23,
       "vendor": 18
     },
     "Orange": {
@@ -877,7 +877,7 @@
     },
     "Pincer Gloves": {
       "ask": 230000,
-      "bid": 45000,
+      "bid": 46000,
       "vendor": 6000
     },
     "Plum": {
@@ -916,7 +916,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 21999,
+      "ask": 21998,
       "bid": 10000,
       "vendor": 1000
     },
@@ -1076,12 +1076,12 @@
       "vendor": 54
     },
     "Spike Shell": {
-      "ask": 199894,
+      "ask": 170000,
       "bid": 52516,
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2899870,
+      "ask": 2899871,
       "bid": 2200000,
       "vendor": 10000
     },
@@ -1202,7 +1202,7 @@
     },
     "Swiftness Coffee": {
       "ask": 579,
-      "bid": 400,
+      "bid": 401,
       "vendor": 50
     },
     "Toughness": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665147602.5695221
+  "time": 1665148503.0679426
 }
