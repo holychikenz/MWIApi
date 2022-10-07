@@ -411,7 +411,7 @@
       "vendor": 9072
     },
     "Crimson Buckler": {
-      "ask": -1,
+      "ask": 50000,
       "bid": 15000,
       "vendor": 7776
     },
@@ -421,7 +421,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 195,
+      "ask": 199,
       "bid": 176,
       "vendor": 54
     },
@@ -697,7 +697,7 @@
     },
     "Holy Milk": {
       "ask": 199,
-      "bid": 185,
+      "bid": 184,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 188000,
+      "ask": 349000,
       "bid": 40000,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 500,
+      "ask": 597,
       "bid": 474,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665163803.1513116
+  "time": 1665164703.9034996
 }
