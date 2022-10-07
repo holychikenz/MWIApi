@@ -76,7 +76,7 @@
       "vendor": 1512
     },
     "Azure Helmet": {
-      "ask": -1,
+      "ask": 10757,
       "bid": 3604,
       "vendor": 1080
     },
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 61,
-      "bid": 34,
+      "bid": 35,
       "vendor": 8
     },
     "Blackberry": {
@@ -197,7 +197,7 @@
     },
     "Burble Brush": {
       "ask": 1000000000000,
-      "bid": 4200,
+      "bid": 4000,
       "vendor": 3780
     },
     "Burble Buckler": {
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 70,
+      "ask": 68,
       "bid": 53,
       "vendor": 12
     },
@@ -421,7 +421,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 199,
+      "ask": 195,
       "bid": 176,
       "vendor": 54
     },
@@ -531,12 +531,12 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 299,
-      "bid": 253,
+      "ask": 300,
+      "bid": 254,
       "vendor": 54
     },
     "Enhancing Tea": {
-      "ask": 249,
+      "ask": 1000,
       "bid": 150,
       "vendor": 20
     },
@@ -572,7 +572,7 @@
     },
     "Gathering Tea": {
       "ask": 599,
-      "bid": 260,
+      "bid": 350,
       "vendor": 10
     },
     "Gator Vest": {
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 207,
+      "ask": 200,
       "bid": 183,
       "vendor": 54
     },
@@ -826,7 +826,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 34,
+      "ask": 30,
       "bid": 23,
       "vendor": 18
     },
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 292,
+      "ask": 295,
       "bid": 279,
       "vendor": 27
     },
@@ -1181,8 +1181,8 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 900,
-      "bid": 857,
+      "ask": 899,
+      "bid": 856,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665152103.6358173
+  "time": 1665153002.33771
 }
