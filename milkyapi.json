@@ -532,7 +532,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 308,
-      "bid": 250,
+      "bid": 252,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 108,
+      "ask": 104,
       "bid": 87,
       "vendor": 4
     },
@@ -716,7 +716,7 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 120000,
+      "ask": -1,
       "bid": 90000,
       "vendor": 62370
     },
@@ -812,7 +812,7 @@
     },
     "Mooberry": {
       "ask": 25,
-      "bid": 17,
+      "bid": 18,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -912,7 +912,7 @@
     },
     "Power Coffee": {
       "ask": 500,
-      "bid": 301,
+      "bid": 302,
       "vendor": 30
     },
     "Precision": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665101703.0442822
+  "time": 1665102602.2529743
 }
