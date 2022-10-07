@@ -12,7 +12,7 @@
     },
     "Apple Yogurt": {
       "ask": 150,
-      "bid": 10,
+      "bid": 15,
       "vendor": 10
     },
     "Aqua Essence": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 261,
-      "bid": 250,
+      "bid": 235,
       "vendor": 12
     },
     "Cheese": {
@@ -421,7 +421,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 198,
+      "ask": 199,
       "bid": 176,
       "vendor": 54
     },
@@ -541,7 +541,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 225,
+      "ask": 224,
       "bid": 121,
       "vendor": 18
     },
@@ -557,7 +557,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 230,
-      "bid": 127,
+      "bid": 128,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -577,7 +577,7 @@
     },
     "Gator Vest": {
       "ask": 90000,
-      "bid": 46000,
+      "bid": 46001,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -606,7 +606,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 250000,
+      "ask": 240000,
       "bid": 189020,
       "vendor": 10000
     },
@@ -746,8 +746,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 350,
-      "bid": 270,
+      "ask": 348,
+      "bid": 271,
       "vendor": 12
     },
     "Living Granite": {
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 172,
+      "ask": 1000000000000,
       "bid": 122,
       "vendor": 40
     },
@@ -886,7 +886,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 100,
+      "ask": 116,
       "bid": 50,
       "vendor": 30
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 744,
+      "ask": 743,
       "bid": 478,
       "vendor": 75
     },
@@ -1096,7 +1096,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 224,
+      "ask": 205,
       "bid": 190,
       "vendor": 27
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 700,
+      "ask": 750,
       "bid": 604,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665151202.8717346
+  "time": 1665152103.6358173
 }
