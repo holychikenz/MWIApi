@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 14,
+      "ask": 15,
       "bid": 7,
       "vendor": 2
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 473998,
-      "bid": 400001,
+      "bid": 430000,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 273,
-      "bid": 235,
+      "bid": 236,
       "vendor": 12
     },
     "Cheese": {
@@ -567,7 +567,7 @@
     },
     "Frenzy": {
       "ask": 499990,
-      "bid": 410000,
+      "bid": 430000,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 359,
+      "ask": 358,
       "bid": 280,
       "vendor": 12
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 200000,
+      "ask": 175000,
       "bid": 46000,
       "vendor": 6000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665193503.2463036
+  "time": 1665194402.3204257
 }
