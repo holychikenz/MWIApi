@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 60,
-      "bid": 36,
+      "bid": 37,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -541,7 +541,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 187,
+      "ask": 178,
       "bid": 121,
       "vendor": 18
     },
@@ -757,7 +757,7 @@
     },
     "Lucky Coffee": {
       "ask": 398,
-      "bid": 334,
+      "bid": 343,
       "vendor": 40
     },
     "Magnet": {
@@ -912,7 +912,7 @@
     },
     "Power Coffee": {
       "ask": 566,
-      "bid": 201,
+      "bid": 210,
       "vendor": 30
     },
     "Precision": {
@@ -1026,8 +1026,8 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 8571,
-      "bid": 4841,
+      "ask": 4500,
+      "bid": -1,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 887,
+      "ask": 849,
       "bid": 610,
       "vendor": 75
     },
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 738,
+      "ask": 739,
       "bid": 651,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665254703.6104136
+  "time": 1665255602.4320686
 }
