@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 75,
+      "ask": 103,
       "bid": 71,
       "vendor": 6
     },
@@ -556,7 +556,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 187,
+      "ask": 186,
       "bid": 136,
       "vendor": 27
     },
@@ -892,7 +892,7 @@
     },
     "Plum Yogurt": {
       "ask": 160,
-      "bid": 90,
+      "bid": 61,
       "vendor": 30
     },
     "Poke": {
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 229,
+      "ask": 228,
       "bid": 101,
       "vendor": 30
     },
@@ -1137,7 +1137,7 @@
     },
     "Super Attack Coffee": {
       "ask": 727,
-      "bid": 501,
+      "bid": -1,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1146,7 +1146,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 799,
+      "ask": 798,
       "bid": 530,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665266403.1117418
+  "time": 1665267303.3252194
 }
