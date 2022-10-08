@@ -131,7 +131,7 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 600000,
+      "ask": 599999,
       "bid": 440000,
       "vendor": 1000
     },
@@ -771,7 +771,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 303999,
+      "ask": 270000,
       "bid": 150027,
       "vendor": 10000
     },
@@ -901,7 +901,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 140705,
+      "ask": 140704,
       "bid": 90618,
       "vendor": 3000
     },
@@ -911,7 +911,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 539,
+      "ask": 567,
       "bid": 201,
       "vendor": 30
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 230,
+      "ask": 229,
       "bid": 101,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665238502.80991
+  "time": 1665239402.0120873
 }
