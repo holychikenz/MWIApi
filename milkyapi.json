@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 14,
+      "ask": 13,
       "bid": 8,
       "vendor": 2
     },
@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 200,
+      "ask": 199,
       "bid": 182,
       "vendor": 24
     },
@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 60,
-      "bid": 38,
+      "bid": 39,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -141,7 +141,7 @@
       "vendor": 3000
     },
     "Black Bear Shoes": {
-      "ask": 569998,
+      "ask": 541498,
       "bid": 105000,
       "vendor": 60000
     },
@@ -171,8 +171,8 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 21,
-      "bid": 17,
+      "ask": 22,
+      "bid": 21,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -607,7 +607,7 @@
     },
     "Goggles": {
       "ask": 293302,
-      "bid": 190013,
+      "bid": 190015,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -747,7 +747,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 341,
-      "bid": 272,
+      "bid": 280,
       "vendor": 12
     },
     "Living Granite": {
@@ -772,7 +772,7 @@
     },
     "Magnifying Glass": {
       "ask": 269999,
-      "bid": 160000,
+      "bid": 160002,
       "vendor": 10000
     },
     "Maim": {
@@ -902,7 +902,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 125000,
-      "bid": 90620,
+      "bid": 90622,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 86,
+      "ask": 87,
       "bid": 81,
       "vendor": 27
     },
@@ -1206,7 +1206,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 21171,
+      "ask": 21170,
       "bid": 15776,
       "vendor": 1000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665263703.1711688
+  "time": 1665264602.7131162
 }
