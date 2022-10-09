@@ -241,8 +241,8 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 64,
-      "bid": 32,
+      "ask": 65,
+      "bid": 64,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -531,7 +531,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 288,
+      "ask": 287,
       "bid": 256,
       "vendor": 54
     },
@@ -621,7 +621,7 @@
       "vendor": 20
     },
     "Granite Bludgeon": {
-      "ask": -1,
+      "ask": 60000000,
       "bid": 4000000,
       "vendor": 400000
     },
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 293,
+      "ask": 292,
       "bid": 276,
       "vendor": 27
     },
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 744,
+      "ask": 743,
       "bid": 500,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665320402.6913273
+  "time": 1665321302.6882281
 }
