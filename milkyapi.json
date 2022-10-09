@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 22,
+      "ask": 23,
       "bid": 8,
       "vendor": 2
     },
@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 119,
+      "ask": 120,
       "bid": 80,
       "vendor": 4
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 269,
+      "ask": 270,
       "bid": 251,
       "vendor": 12
     },
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 190,
+      "ask": 194,
       "bid": 188,
       "vendor": 54
     },
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 340,
+      "ask": 323,
       "bid": 137,
       "vendor": 12
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Cheese": {
       "ask": 253,
-      "bid": 221,
+      "bid": 220,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 293,
+      "ask": 295,
       "bid": 275,
       "vendor": 27
     },
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 8142,
+      "ask": 10000,
       "bid": 2000,
       "vendor": 1000
     },
@@ -1151,7 +1151,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 850,
+      "ask": 849,
       "bid": 300,
       "vendor": 50
     },
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 741,
+      "ask": 739,
       "bid": 652,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665277202.2232544
+  "time": 1665278102.4153452
 }
