@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 22,
+      "ask": 19,
       "bid": 8,
       "vendor": 2
     },
@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 120,
+      "ask": 119,
       "bid": 81,
       "vendor": 4
     },
@@ -86,7 +86,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 64,
+      "ask": 59,
       "bid": 55,
       "vendor": 8
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 47,
+      "ask": 46,
       "bid": 30,
       "vendor": 2
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 20,
+      "ask": 19,
       "bid": 18,
       "vendor": 1
     },
@@ -561,7 +561,7 @@
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": 305,
+      "ask": 299,
       "bid": 250,
       "vendor": 10
     },
@@ -782,11 +782,11 @@
     },
     "Marsberry": {
       "ask": 43,
-      "bid": 28,
+      "bid": 27,
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 337,
+      "ask": 336,
       "bid": 273,
       "vendor": 50
     },
@@ -806,7 +806,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 278,
+      "ask": 265,
       "bid": 202,
       "vendor": 10
     },
@@ -831,7 +831,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 8,
+      "ask": 7,
       "bid": 5,
       "vendor": 4
     },
@@ -1021,7 +1021,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 10700,
+      "ask": 10727,
       "bid": 6012,
       "vendor": 1000
     },
@@ -1096,7 +1096,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 200,
+      "ask": 165,
       "bid": 141,
       "vendor": 27
     },
@@ -1106,12 +1106,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 788,
+      "ask": 786,
       "bid": 688,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 73,
+      "ask": 72,
       "bid": 34,
       "vendor": 6
     },
@@ -1356,7 +1356,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 18,
+      "ask": 17,
       "bid": 16,
       "vendor": 1
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665340202.581473
+  "time": 1665341102.516578
 }
