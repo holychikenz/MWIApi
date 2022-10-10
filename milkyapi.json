@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 67,
+      "ask": -1,
       "bid": 43,
       "vendor": 16
     },
@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 226,
+      "ask": 267,
       "bid": 182,
       "vendor": 24
     },
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 62,
-      "bid": 38,
+      "bid": 39,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -531,7 +531,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 250,
+      "ask": 282,
       "bid": 235,
       "vendor": 54
     },
@@ -557,7 +557,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 186,
-      "bid": 127,
+      "bid": 128,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -696,8 +696,8 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 188,
-      "bid": 174,
+      "ask": 187,
+      "bid": 175,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 85,
+      "ask": 86,
       "bid": 83,
       "vendor": 27
     },
@@ -1072,7 +1072,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 352,
-      "bid": 275,
+      "bid": 276,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1196,7 +1196,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 104500,
+      "ask": 97500,
       "bid": 90000,
       "vendor": 1000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665406803.062473
+  "time": 1665407702.7421882
 }
