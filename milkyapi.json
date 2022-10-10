@@ -32,7 +32,7 @@
     },
     "Attack Coffee": {
       "ask": 475,
-      "bid": 178,
+      "bid": 190,
       "vendor": 20
     },
     "Azure Boots": {
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1422,
+      "ask": 1421,
       "bid": 1200,
       "vendor": 75
     },
@@ -396,7 +396,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 86548,
+      "ask": 60000,
       "bid": 40020,
       "vendor": 1500
     },
@@ -452,7 +452,7 @@
     },
     "Crimson Milk": {
       "ask": 23,
-      "bid": 20,
+      "bid": 21,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -536,7 +536,7 @@
       "vendor": 54
     },
     "Enhancing Tea": {
-      "ask": 250,
+      "ask": 900,
       "bid": 170,
       "vendor": 20
     },
@@ -631,7 +631,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 149999,
+      "ask": 142499,
       "bid": 60015,
       "vendor": 3000
     },
@@ -746,13 +746,13 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 288,
+      "ask": 304,
       "bid": 250,
       "vendor": 12
     },
     "Living Granite": {
       "ask": 2599997,
-      "bid": -1,
+      "bid": 1300000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -771,8 +771,8 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 360000,
-      "bid": 169003,
+      "ask": 300000,
+      "bid": 169004,
       "vendor": 10000
     },
     "Maim": {
@@ -787,11 +787,11 @@
     },
     "Marsberry Cake": {
       "ask": 337,
-      "bid": 206,
+      "bid": 207,
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 433,
+      "ask": 432,
       "bid": 232,
       "vendor": 50
     },
@@ -837,7 +837,7 @@
     },
     "Orange Gummy": {
       "ask": 25,
-      "bid": 10,
+      "bid": 20,
       "vendor": 20
     },
     "Orange Yogurt": {
@@ -847,7 +847,7 @@
     },
     "Panda Fluff": {
       "ask": 62149,
-      "bid": 31549,
+      "bid": 31550,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -862,7 +862,7 @@
     },
     "Peach Gummy": {
       "ask": 181,
-      "bid": 90,
+      "bid": 91,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 142500,
+      "ask": 142499,
       "bid": 46001,
       "vendor": 6000
     },
@@ -886,8 +886,8 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 108,
-      "bid": 59,
+      "ask": 80,
+      "bid": 61,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -902,7 +902,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 120636,
-      "bid": 90627,
+      "bid": 90630,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -911,7 +911,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 565,
+      "ask": 564,
       "bid": 450,
       "vendor": 30
     },
@@ -1012,7 +1012,7 @@
     },
     "Red Tea Leaf": {
       "ask": 280,
-      "bid": 206,
+      "bid": 208,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1036,7 +1036,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 2846,
+      "ask": 2500,
       "bid": 2004,
       "vendor": 1500
     },
@@ -1061,12 +1061,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 830,
-      "bid": 687,
+      "ask": 820,
+      "bid": 725,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 731,
+      "ask": 730,
       "bid": 555,
       "vendor": 75
     },
@@ -1211,7 +1211,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 13300,
+      "ask": 10000,
       "bid": 2007,
       "vendor": 1500
     },
@@ -1297,7 +1297,7 @@
     },
     "Verdant Milk": {
       "ask": 61,
-      "bid": 38,
+      "bid": 40,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1347,7 +1347,7 @@
     },
     "Werewolf Claw": {
       "ask": 808410,
-      "bid": 580001,
+      "bid": 580002,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1367,7 +1367,7 @@
     },
     "Wisdom Tea": {
       "ask": 685,
-      "bid": 680,
+      "bid": 322,
       "vendor": 30
     },
     "Yogurt": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665437402.8929608
+  "time": 1665438303.2071347
 }
