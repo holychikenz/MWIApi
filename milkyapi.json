@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 580000,
-      "bid": 360000,
+      "bid": 360002,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1500,
+      "ask": 1424,
       "bid": 1200,
       "vendor": 75
     },
@@ -606,12 +606,12 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 278638,
+      "ask": 278630,
       "bid": 190032,
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 835,
+      "ask": 834,
       "bid": 716,
       "vendor": 108
     },
@@ -771,7 +771,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 399999,
+      "ask": 399990,
       "bid": 165010,
       "vendor": 10000
     },
@@ -816,8 +816,8 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 250,
-      "bid": 160,
+      "ask": 276,
+      "bid": 162,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -1227,7 +1227,7 @@
     },
     "Twilight Essence": {
       "ask": 348,
-      "bid": 227,
+      "bid": 228,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665411302.7428606
+  "time": 1665412202.9017274
 }
