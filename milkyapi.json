@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 16,
+      "ask": 17,
       "bid": 6,
       "vendor": 2
     },
@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 140,
-      "bid": 44,
+      "bid": 50,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 264,
+      "ask": 263,
       "bid": 250,
       "vendor": 12
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 305652,
+      "ask": 290369,
       "bid": 160101,
       "vendor": 1000
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 934,
+      "ask": 936,
       "bid": 850,
       "vendor": 50
     },
@@ -631,7 +631,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 150000,
+      "ask": 149999,
       "bid": 60015,
       "vendor": 3000
     },
@@ -751,8 +751,8 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 2599998,
-      "bid": 2320002,
+      "ask": 2599997,
+      "bid": -1,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -787,7 +787,7 @@
     },
     "Marsberry Cake": {
       "ask": 337,
-      "bid": 205,
+      "bid": 206,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -867,11 +867,11 @@
     },
     "Peach Yogurt": {
       "ask": 287,
-      "bid": 147,
+      "bid": 148,
       "vendor": 40
     },
     "Pierce": {
-      "ask": 186922,
+      "ask": 177576,
       "bid": 40000,
       "vendor": 1000
     },
@@ -886,12 +886,12 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 65,
+      "ask": 108,
       "bid": 59,
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 120,
+      "ask": 160,
       "bid": 61,
       "vendor": 30
     },
@@ -1011,8 +1011,8 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 281,
-      "bid": 201,
+      "ask": 280,
+      "bid": 206,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1082,7 +1082,7 @@
     },
     "Stalactite Shard": {
       "ask": 2200000,
-      "bid": 1400000,
+      "bid": 1500000,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1177,7 +1177,7 @@
     },
     "Super Milking Tea": {
       "ask": 1698,
-      "bid": 350,
+      "bid": -1,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665435602.9972637
+  "time": 1665436503.562356
 }
