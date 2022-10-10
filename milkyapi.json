@@ -412,7 +412,7 @@
     },
     "Crimson Buckler": {
       "ask": 50000,
-      "bid": 15001,
+      "bid": 15000,
       "vendor": 7776
     },
     "Crimson Bulwark": {
@@ -442,7 +442,7 @@
     },
     "Crimson Helmet": {
       "ask": 30000,
-      "bid": 12000,
+      "bid": 420,
       "vendor": 6480
     },
     "Crimson Mace": {
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 193,
+      "ask": 192,
       "bid": 174,
       "vendor": 54
     },
@@ -772,7 +772,7 @@
     },
     "Magnifying Glass": {
       "ask": 399999,
-      "bid": 165009,
+      "bid": 165010,
       "vendor": 10000
     },
     "Maim": {
@@ -996,7 +996,7 @@
       "vendor": 20979
     },
     "Rainbow Spatula": {
-      "ask": 54999,
+      "ask": 54998,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 86,
+      "ask": 85,
       "bid": 83,
       "vendor": 27
     },
@@ -1066,12 +1066,12 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 736,
+      "ask": 735,
       "bid": 555,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 354,
+      "ask": 353,
       "bid": 275,
       "vendor": 54
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665393303.2392557
+  "time": 1665394203.5440617
 }
