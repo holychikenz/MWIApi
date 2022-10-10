@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": -1,
+      "ask": 555,
       "bid": 43,
       "vendor": 16
     },
@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 51,
-      "bid": 26,
+      "bid": 27,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -172,7 +172,7 @@
     },
     "Blueberry": {
       "ask": 43,
-      "bid": 22,
+      "bid": 23,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -442,7 +442,7 @@
     },
     "Crimson Helmet": {
       "ask": 30000,
-      "bid": 420,
+      "bid": 10000,
       "vendor": 6480
     },
     "Crimson Mace": {
@@ -511,7 +511,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 265,
+      "ask": 264,
       "bid": 111,
       "vendor": 50
     },
@@ -941,7 +941,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 247,
+      "ask": 246,
       "bid": 217,
       "vendor": 81
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665410599.9839034
+  "time": 1665411302.7428606
 }
