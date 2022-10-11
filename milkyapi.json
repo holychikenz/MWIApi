@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 18,
+      "ask": 17,
       "bid": 6,
       "vendor": 2
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 579997,
-      "bid": 375001,
+      "bid": 375555,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -146,12 +146,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 66,
+      "ask": 63,
       "bid": 52,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 51,
+      "ask": 48,
       "bid": 29,
       "vendor": 4
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 45,
+      "ask": 43,
       "bid": 24,
       "vendor": 2
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 21,
+      "ask": 20,
       "bid": 17,
       "vendor": 1
     },
@@ -576,7 +576,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 123000,
+      "ask": 116850,
       "bid": 46008,
       "vendor": 5000
     },
@@ -611,7 +611,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 802,
+      "ask": 800,
       "bid": 602,
       "vendor": 108
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 116,
+      "ask": 110,
       "bid": 98,
       "vendor": 4
     },
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 664,
+      "ask": 663,
       "bid": 608,
       "vendor": 162
     },
@@ -696,8 +696,8 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 186,
-      "bid": 176,
+      "ask": 185,
+      "bid": 174,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -721,7 +721,7 @@
       "vendor": 62370
     },
     "Holy Spatula": {
-      "ask": 118967,
+      "ask": 118966,
       "bid": 90000,
       "vendor": 62370
     },
@@ -831,7 +831,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 9,
+      "ask": 8,
       "bid": 5,
       "vendor": 4
     },
@@ -896,7 +896,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 17363,
+      "ask": 16495,
       "bid": 5512,
       "vendor": 1000
     },
@@ -1021,12 +1021,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 23250,
+      "ask": 22088,
       "bid": 6014,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 6979,
+      "ask": 6630,
       "bid": 3002,
       "vendor": 1000
     },
@@ -1046,7 +1046,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 810,
+      "ask": 770,
       "bid": 204,
       "vendor": 100
     },
@@ -1191,12 +1191,12 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 57,
+      "ask": 54,
       "bid": 51,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 110000,
+      "ask": 104500,
       "bid": 85001,
       "vendor": 1000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665446403.3563564
+  "time": 1665447304.3147418
 }
