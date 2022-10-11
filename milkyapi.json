@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 115,
-      "bid": 70,
+      "bid": 50,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 925,
+      "ask": 993,
       "bid": 683,
       "vendor": 75
     },
@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 579997,
-      "bid": 380000,
+      "bid": 380001,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 310,
+      "ask": 309,
       "bid": 292,
       "vendor": 50
     },
@@ -612,7 +612,7 @@
     },
     "Golem Essence": {
       "ask": 789,
-      "bid": 603,
+      "bid": 602,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -632,7 +632,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 135374,
-      "bid": 60016,
+      "bid": 60017,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -667,11 +667,11 @@
     },
     "Holy Cheese": {
       "ask": 680,
-      "bid": 609,
+      "bid": 610,
       "vendor": 162
     },
     "Holy Enhancer": {
-      "ask": 109000,
+      "ask": 109826,
       "bid": 81000,
       "vendor": 62370
     },
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 285,
+      "ask": 284,
       "bid": 148,
       "vendor": 40
     },
@@ -972,7 +972,7 @@
     },
     "Rainbow Milk": {
       "ask": 32,
-      "bid": 31,
+      "bid": 27,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1012,7 +1012,7 @@
     },
     "Red Tea Leaf": {
       "ask": 250,
-      "bid": 211,
+      "bid": 212,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 86,
+      "ask": 87,
       "bid": 84,
       "vendor": 27
     },
@@ -1126,7 +1126,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 827925,
+      "ask": 825855,
       "bid": 550001,
       "vendor": 1000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665455402.7984507
+  "time": 1665456303.413032
 }
