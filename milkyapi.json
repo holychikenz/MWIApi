@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 74,
-      "bid": 52,
+      "bid": 53,
       "vendor": 8
     },
     "Blackberry": {
@@ -361,7 +361,7 @@
       "vendor": 84
     },
     "Cheese Spear": {
-      "ask": 1080,
+      "ask": 10800000000,
       "bid": 251,
       "vendor": 108
     },
@@ -491,7 +491,7 @@
       "vendor": 11664
     },
     "Cupcake": {
-      "ask": 125,
+      "ask": 100,
       "bid": 20,
       "vendor": 5
     },
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 184,
+      "ask": 182,
       "bid": 130,
       "vendor": 54
     },
@@ -1177,7 +1177,7 @@
     },
     "Super Milking Tea": {
       "ask": 1698,
-      "bid": -1,
+      "bid": 650,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -1361,8 +1361,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 809,
-      "bid": 754,
+      "ask": 800,
+      "bid": 755,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665456303.413032
+  "time": 1665457203.5838017
 }
