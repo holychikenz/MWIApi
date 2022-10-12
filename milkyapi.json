@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 30,
+      "ask": 28,
       "bid": 18,
       "vendor": 1
     },
@@ -611,8 +611,8 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 748,
-      "bid": 632,
+      "ask": 745,
+      "bid": 631,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 287,
+      "ask": 296,
       "bid": 100,
       "vendor": 12
     },
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 168000,
+      "ask": 165000,
       "bid": 40000,
       "vendor": 1000
     },
@@ -881,7 +881,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 39,
+      "ask": -1,
       "bid": 17,
       "vendor": 6
     },
@@ -1056,12 +1056,12 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 89,
+      "ask": 95,
       "bid": 82,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 815,
+      "ask": 814,
       "bid": 702,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 859,
+      "ask": 872,
       "bid": 630,
       "vendor": 75
     },
@@ -1126,7 +1126,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 783750,
+      "ask": 781791,
       "bid": -1,
       "vendor": 1000
     },
@@ -1227,7 +1227,7 @@
     },
     "Twilight Essence": {
       "ask": 310,
-      "bid": 243,
+      "bid": 245,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1356,7 +1356,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 17,
+      "ask": 16,
       "bid": 15,
       "vendor": 1
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665551702.817916
+  "time": 1665552602.994035
 }
