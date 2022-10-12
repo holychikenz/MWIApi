@@ -512,7 +512,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 259,
-      "bid": 123,
+      "bid": 124,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -522,11 +522,11 @@
     },
     "Efficiency Tea": {
       "ask": 932,
-      "bid": 750,
+      "bid": 510,
       "vendor": 50
     },
     "Egg": {
-      "ask": 23,
+      "ask": 22,
       "bid": 16,
       "vendor": 1
     },
@@ -546,7 +546,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 69,
+      "ask": 71,
       "bid": 63,
       "vendor": 36
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 700,
+      "ask": 699,
       "bid": 450,
       "vendor": 10
     },
@@ -607,7 +607,7 @@
     },
     "Goggles": {
       "ask": 249999,
-      "bid": 199543,
+      "bid": 199544,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 178,
+      "ask": 180,
       "bid": 153,
       "vendor": 54
     },
@@ -772,7 +772,7 @@
     },
     "Magnifying Glass": {
       "ask": 237499,
-      "bid": 170007,
+      "bid": 170009,
       "vendor": 10000
     },
     "Maim": {
@@ -787,7 +787,7 @@
     },
     "Marsberry Cake": {
       "ask": 336,
-      "bid": 250,
+      "bid": 237,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -802,7 +802,7 @@
     },
     "Milk": {
       "ask": 19,
-      "bid": 11,
+      "bid": 10,
       "vendor": 2
     },
     "Milking Tea": {
@@ -862,7 +862,7 @@
     },
     "Peach Gummy": {
       "ask": 181,
-      "bid": 97,
+      "bid": 98,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -902,7 +902,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 119999,
-      "bid": 90643,
+      "bid": 90644,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 6630,
+      "ask": 5984,
       "bid": 3002,
       "vendor": 1000
     },
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 95,
+      "ask": 94,
       "bid": 83,
       "vendor": 27
     },
@@ -1096,7 +1096,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 184,
+      "ask": 183,
       "bid": 147,
       "vendor": 27
     },
@@ -1111,7 +1111,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 54,
+      "ask": 45,
       "bid": 36,
       "vendor": 6
     },
@@ -1152,7 +1152,7 @@
     },
     "Super Cooking Tea": {
       "ask": 849,
-      "bid": 550,
+      "bid": 300,
       "vendor": 50
     },
     "Super Defense Coffee": {
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 1599,
+      "ask": 800,
       "bid": 650,
       "vendor": 40
     },
@@ -1271,7 +1271,7 @@
       "vendor": 12
     },
     "Verdant Enhancer": {
-      "ask": 2000,
+      "ask": -1,
       "bid": 1000,
       "vendor": 420
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665586802.8122413
+  "time": 1665587703.2330513
 }
