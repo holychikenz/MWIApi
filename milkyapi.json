@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 61,
-      "bid": 44,
+      "bid": 45,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -176,7 +176,7 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 1000,
+      "ask": 5000,
       "bid": 19,
       "vendor": 10
     },
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 59,
-      "bid": 40,
+      "bid": 41,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -341,7 +341,7 @@
       "vendor": 96
     },
     "Cheese Plate Legs": {
-      "ask": 3480,
+      "ask": -1,
       "bid": 279,
       "vendor": 84
     },
@@ -757,7 +757,7 @@
     },
     "Lucky Coffee": {
       "ask": 399,
-      "bid": 192,
+      "bid": 191,
       "vendor": 40
     },
     "Magnet": {
@@ -772,7 +772,7 @@
     },
     "Magnifying Glass": {
       "ask": 237499,
-      "bid": 170009,
+      "bid": 170010,
       "vendor": 10000
     },
     "Maim": {
@@ -902,7 +902,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 119999,
-      "bid": 90645,
+      "bid": 90646,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1026,7 +1026,7 @@
       "vendor": 1000
     },
     "Smack": {
-      "ask": 5984,
+      "ask": 6529,
       "bid": 3002,
       "vendor": 1000
     },
@@ -1067,7 +1067,7 @@
     },
     "Spaceberry Donut": {
       "ask": 694,
-      "bid": 583,
+      "bid": 585,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1181,7 +1181,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 780,
+      "ask": 770,
       "bid": 704,
       "vendor": 75
     },
@@ -1201,7 +1201,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 498,
+      "ask": 495,
       "bid": 465,
       "vendor": 50
     },
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 785,
+      "ask": 780,
       "bid": 751,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665595803.0147643
+  "time": 1665596703.2898948
 }
