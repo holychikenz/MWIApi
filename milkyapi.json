@@ -191,7 +191,7 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": 22563,
+      "ask": -1,
       "bid": -1,
       "vendor": 2160
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 28,
+      "ask": 25,
       "bid": 18,
       "vendor": 1
     },
@@ -1061,7 +1061,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 814,
+      "ask": 813,
       "bid": 702,
       "vendor": 75
     },
@@ -1111,7 +1111,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 56,
+      "ask": 55,
       "bid": 37,
       "vendor": 6
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665558902.5293005
+  "time": 1665559803.1186275
 }
