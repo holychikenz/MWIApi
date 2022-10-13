@@ -466,7 +466,7 @@
       "vendor": 9072
     },
     "Crimson Pot": {
-      "ask": 59999,
+      "ask": -1,
       "bid": 26000,
       "vendor": 9072
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 24,
+      "ask": 26,
       "bid": 18,
       "vendor": 1
     },
@@ -616,7 +616,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 542,
+      "ask": 543,
       "bid": 302,
       "vendor": 20
     },
@@ -631,12 +631,12 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 90000,
+      "ask": 85500,
       "bid": 60023,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
-      "ask": 1599999,
+      "ask": 1519999,
       "bid": 270000,
       "vendor": 60000
     },
@@ -696,13 +696,13 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 198,
+      "ask": 200,
       "bid": 168,
       "vendor": 54
     },
     "Holy Plate Body": {
       "ask": 113894,
-      "bid": 101008,
+      "bid": 101007,
       "vendor": 71280
     },
     "Holy Plate Legs": {
@@ -786,7 +786,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 334,
+      "ask": 335,
       "bid": 237,
       "vendor": 50
     },
@@ -811,7 +811,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 36,
+      "ask": 37,
       "bid": 21,
       "vendor": 9
     },
@@ -826,7 +826,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 38,
+      "ask": 50,
       "bid": 30,
       "vendor": 18
     },
@@ -861,8 +861,8 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 181,
-      "bid": 98,
+      "ask": 300,
+      "bid": 181,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -1012,7 +1012,7 @@
     },
     "Red Tea Leaf": {
       "ask": 238,
-      "bid": 222,
+      "bid": 223,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1056,12 +1056,12 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 94,
-      "bid": 58,
+      "ask": 110,
+      "bid": 57,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 787,
+      "ask": 786,
       "bid": 687,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 663,
+      "ask": 698,
       "bid": 640,
       "vendor": 75
     },
@@ -1177,7 +1177,7 @@
     },
     "Super Milking Tea": {
       "ask": 1200,
-      "bid": -1,
+      "bid": 300,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -1356,7 +1356,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 16,
+      "ask": 17,
       "bid": 15,
       "vendor": 1
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665626402.5804474
+  "time": 1665627302.9742422
 }
