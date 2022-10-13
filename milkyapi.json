@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 13,
+      "ask": 17,
       "bid": 6,
       "vendor": 2
     },
@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 73,
-      "bid": 60,
+      "bid": 51,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 43,
+      "ask": 41,
       "bid": 27,
       "vendor": 4
     },
@@ -166,12 +166,12 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1195,
+      "ask": 1196,
       "bid": 900,
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 42,
+      "ask": 40,
       "bid": 35,
       "vendor": 2
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 23,
+      "ask": 22,
       "bid": 20,
       "vendor": 1
     },
@@ -547,7 +547,7 @@
     },
     "Eyessence": {
       "ask": 77,
-      "bid": 52,
+      "bid": 60,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -576,7 +576,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 73509,
+      "ask": 69834,
       "bid": 50000,
       "vendor": 5000
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 120,
+      "ask": 119,
       "bid": 101,
       "vendor": 4
     },
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 282,
+      "ask": 281,
       "bid": 106,
       "vendor": 12
     },
@@ -771,7 +771,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 218499,
+      "ask": 218490,
       "bid": 170017,
       "vendor": 10000
     },
@@ -817,7 +817,7 @@
     },
     "Mooberry Cake": {
       "ask": 289,
-      "bid": 127,
+      "bid": 128,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -831,7 +831,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 11,
+      "ask": 10,
       "bid": 5,
       "vendor": 4
     },
@@ -1027,7 +1027,7 @@
     },
     "Smack": {
       "ask": 4874,
-      "bid": 3103,
+      "bid": 3200,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1067,7 +1067,7 @@
     },
     "Spaceberry Donut": {
       "ask": 691,
-      "bid": 596,
+      "bid": 600,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1182,7 +1182,7 @@
     },
     "Super Power Coffee": {
       "ask": 775,
-      "bid": 710,
+      "bid": 715,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1362,7 +1362,7 @@
     },
     "Wisdom Coffee": {
       "ask": 806,
-      "bid": 751,
+      "bid": 752,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665679503.4552808
+  "time": 1665680402.6453385
 }
