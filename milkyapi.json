@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 14,
+      "ask": 13,
       "bid": 6,
       "vendor": 2
     },
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 46,
+      "ask": 44,
       "bid": 27,
       "vendor": 4
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 42,
+      "ask": 40,
       "bid": 28,
       "vendor": 2
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 26,
+      "ask": 25,
       "bid": 19,
       "vendor": 1
     },
@@ -576,7 +576,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 81451,
+      "ask": 77378,
       "bid": 46008,
       "vendor": 5000
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 130,
+      "ask": 124,
       "bid": 99,
       "vendor": 4
     },
@@ -741,7 +741,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1250000,
+      "ask": 1330000,
       "bid": 750000,
       "vendor": 500000
     },
@@ -757,7 +757,7 @@
     },
     "Lucky Coffee": {
       "ask": 400,
-      "bid": 191,
+      "bid": 201,
       "vendor": 40
     },
     "Magnet": {
@@ -831,7 +831,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 11,
+      "ask": 10,
       "bid": 5,
       "vendor": 4
     },
@@ -862,7 +862,7 @@
     },
     "Peach Gummy": {
       "ask": 300,
-      "bid": 181,
+      "bid": 98,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -896,7 +896,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 22537,
+      "ask": 21410,
       "bid": 5515,
       "vendor": 1000
     },
@@ -1021,12 +1021,12 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 19902,
+      "ask": 18907,
       "bid": 6030,
       "vendor": 1000
     },
     "Smack": {
-      "ask": 6299,
+      "ask": 5984,
       "bid": 3003,
       "vendor": 1000
     },
@@ -1046,7 +1046,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 595,
+      "ask": 626,
       "bid": 204,
       "vendor": 100
     },
@@ -1182,7 +1182,7 @@
     },
     "Super Power Coffee": {
       "ask": 780,
-      "bid": 705,
+      "bid": 740,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1191,18 +1191,18 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 63,
+      "ask": 60,
       "bid": 51,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 119700,
+      "ask": 113715,
       "bid": 85000,
       "vendor": 1000
     },
     "Swiftness Coffee": {
       "ask": 494,
-      "bid": 463,
+      "bid": 486,
       "vendor": 50
     },
     "Toughness": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665639002.3274512
+  "time": 1665639903.323571
 }
