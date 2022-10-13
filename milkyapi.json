@@ -397,7 +397,7 @@
     },
     "Crab Pincer": {
       "ask": 90000,
-      "bid": 40021,
+      "bid": 40022,
       "vendor": 1500
     },
     "Crimson Boots": {
@@ -556,7 +556,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 182,
+      "ask": 184,
       "bid": 151,
       "vendor": 27
     },
@@ -652,12 +652,12 @@
     },
     "Holy Brush": {
       "ask": 100000,
-      "bid": 85000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Buckler": {
       "ask": 89980,
-      "bid": -1,
+      "bid": 65000,
       "vendor": 53460
     },
     "Holy Bulwark": {
@@ -687,7 +687,7 @@
     },
     "Holy Helmet": {
       "ask": 65750,
-      "bid": 33222,
+      "bid": 50000,
       "vendor": 44550
     },
     "Holy Mace": {
@@ -712,12 +712,12 @@
     },
     "Holy Pot": {
       "ask": 100000,
-      "bid": 80000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Shears": {
       "ask": 200000,
-      "bid": 90000,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Spatula": {
@@ -1061,7 +1061,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 785,
+      "ask": 784,
       "bid": 687,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665644402.8393018
+  "time": 1665645303.278218
 }
