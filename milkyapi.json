@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 16,
+      "ask": 15,
       "bid": 8,
       "vendor": 2
     },
@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 160000,
+      "ask": 120000,
       "bid": 16008,
       "vendor": 3000
     },
@@ -376,8 +376,8 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 240064,
-      "bid": 160102,
+      "ask": 240063,
+      "bid": 160103,
       "vendor": 1000
     },
     "Coin": {
@@ -531,7 +531,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 200,
+      "ask": 199,
       "bid": 187,
       "vendor": 54
     },
@@ -756,7 +756,7 @@
       "vendor": 10000
     },
     "Lucky Coffee": {
-      "ask": 396,
+      "ask": 397,
       "bid": 191,
       "vendor": 40
     },
@@ -776,7 +776,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 619991,
+      "ask": 599991,
       "bid": 335009,
       "vendor": 1000
     },
@@ -1062,12 +1062,12 @@
     },
     "Spaceberry Cake": {
       "ask": 760,
-      "bid": 662,
+      "bid": 670,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 550,
-      "bid": 476,
+      "ask": 688,
+      "bid": 500,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1107,7 +1107,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 740,
-      "bid": 455,
+      "bid": 500,
       "vendor": 75
     },
     "Strawberry": {
@@ -1172,7 +1172,7 @@
     },
     "Super Intelligence Coffee": {
       "ask": 829,
-      "bid": 720,
+      "bid": 600,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1202,7 +1202,7 @@
     },
     "Swiftness Coffee": {
       "ask": 635,
-      "bid": 491,
+      "bid": 495,
       "vendor": 50
     },
     "Toughness": {
@@ -1346,7 +1346,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 900000,
+      "ask": 897750,
       "bid": 750000,
       "vendor": 10000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665763202.1911278
+  "time": 1665764102.9302819
 }
