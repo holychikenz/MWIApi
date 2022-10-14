@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 17,
+      "ask": 18,
       "bid": 7,
       "vendor": 2
     },
@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 14000,
+      "ask": 13000,
       "bid": -1,
       "vendor": 864
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 61,
+      "ask": 97,
       "bid": 39,
       "vendor": 8
     },
@@ -441,7 +441,7 @@
       "vendor": 9072
     },
     "Crimson Helmet": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 10000,
       "vendor": 6480
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 598,
+      "ask": 597,
       "bid": 550,
       "vendor": 10
     },
@@ -616,7 +616,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 485,
+      "ask": 484,
       "bid": 302,
       "vendor": 20
     },
@@ -921,7 +921,7 @@
       "vendor": 1000
     },
     "Rainbow Boots": {
-      "ask": 18900,
+      "ask": 18000,
       "bid": -1,
       "vendor": 11988
     },
@@ -1157,7 +1157,7 @@
     },
     "Super Defense Coffee": {
       "ask": 1000,
-      "bid": 401,
+      "bid": 450,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1182,7 +1182,7 @@
     },
     "Super Power Coffee": {
       "ask": 779,
-      "bid": 737,
+      "bid": 740,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1201,7 +1201,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 480,
+      "ask": 635,
       "bid": 465,
       "vendor": 50
     },
@@ -1362,7 +1362,7 @@
     },
     "Wisdom Coffee": {
       "ask": 809,
-      "bid": 752,
+      "bid": 753,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665737102.755621
+  "time": 1665738002.1170027
 }
