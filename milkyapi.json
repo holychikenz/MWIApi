@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 13000,
+      "ask": 10000,
       "bid": -1,
       "vendor": 864
     },
@@ -76,7 +76,7 @@
       "vendor": 1512
     },
     "Azure Helmet": {
-      "ask": -1,
+      "ask": 4000,
       "bid": 3604,
       "vendor": 1080
     },
@@ -96,7 +96,7 @@
       "vendor": 1728
     },
     "Azure Plate Legs": {
-      "ask": -1,
+      "ask": 20000,
       "bid": -1,
       "vendor": 1512
     },
@@ -511,7 +511,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 200,
+      "ask": 257,
       "bid": 150,
       "vendor": 50
     },
@@ -666,8 +666,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 644,
-      "bid": 606,
+      "ask": 640,
+      "bid": 610,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 203,
+      "ask": 204,
       "bid": 185,
       "vendor": 54
     },
@@ -761,7 +761,7 @@
       "vendor": 40
     },
     "Magnet": {
-      "ask": 1799999,
+      "ask": 1709999,
       "bid": 750000,
       "vendor": 10000
     },
@@ -1072,7 +1072,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 340,
-      "bid": 156,
+      "bid": 157,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665759602.5056646
+  "time": 1665760503.1642425
 }
