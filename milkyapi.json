@@ -441,7 +441,7 @@
       "vendor": 9072
     },
     "Crimson Helmet": {
-      "ask": 20000,
+      "ask": -1,
       "bid": 10000,
       "vendor": 6480
     },
@@ -531,7 +531,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 199,
+      "ask": 198,
       "bid": 187,
       "vendor": 54
     },
@@ -611,7 +611,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 654,
+      "ask": 655,
       "bid": 551,
       "vendor": 108
     },
@@ -667,7 +667,7 @@
     },
     "Holy Cheese": {
       "ask": 659,
-      "bid": 620,
+      "bid": 621,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -697,7 +697,7 @@
     },
     "Holy Milk": {
       "ask": 204,
-      "bid": 185,
+      "bid": 186,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -751,7 +751,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 2750000,
+      "ask": 2749999,
       "bid": 2250010,
       "vendor": 10000
     },
@@ -906,7 +906,7 @@
       "vendor": 3000
     },
     "Polar Bear Shoes": {
-      "ask": 11606713,
+      "ask": 7315124,
       "bid": 800000,
       "vendor": 60000
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Cheese": {
       "ask": 217,
-      "bid": 200,
+      "bid": 201,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -961,7 +961,7 @@
       "vendor": 20979
     },
     "Rainbow Helmet": {
-      "ask": 45123,
+      "ask": 42867,
       "bid": -1,
       "vendor": 14985
     },
@@ -971,7 +971,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 29,
+      "ask": 30,
       "bid": 27,
       "vendor": 27
     },
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 220,
+      "ask": 226,
       "bid": 208,
       "vendor": 27
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry": {
       "ask": 103,
-      "bid": 71,
+      "bid": 72,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 687,
+      "ask": 688,
       "bid": 521,
       "vendor": 75
     },
@@ -1096,7 +1096,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 147,
+      "ask": 140,
       "bid": 117,
       "vendor": 27
     },
@@ -1136,7 +1136,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 750,
+      "ask": 700,
       "bid": 464,
       "vendor": 50
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665788402.8722932
+  "time": 1665789303.060246
 }
