@@ -131,12 +131,12 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 493049,
+      "ask": 493048,
       "bid": 388908,
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 180000,
+      "ask": 200000,
       "bid": 16008,
       "vendor": 3000
     },
@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 1298,
-      "bid": 901,
+      "bid": 950,
       "vendor": 75
     },
     "Blueberry": {
@@ -527,7 +527,7 @@
     },
     "Egg": {
       "ask": 64,
-      "bid": 17,
+      "bid": 18,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -667,7 +667,7 @@
     },
     "Holy Cheese": {
       "ask": 659,
-      "bid": 621,
+      "bid": 620,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -747,7 +747,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 277,
-      "bid": 174,
+      "bid": 185,
       "vendor": 12
     },
     "Living Granite": {
@@ -756,7 +756,7 @@
       "vendor": 10000
     },
     "Lucky Coffee": {
-      "ask": 397,
+      "ask": 399,
       "bid": 191,
       "vendor": 40
     },
@@ -1036,8 +1036,8 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 2566,
-      "bid": 2004,
+      "ask": 2000,
+      "bid": -1,
       "vendor": 1500
     },
     "Snail Shell Helmet": {
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 688,
+      "ask": 687,
       "bid": 511,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 740,
+      "ask": 739,
       "bid": 501,
       "vendor": 75
     },
@@ -1202,7 +1202,7 @@
     },
     "Swiftness Coffee": {
       "ask": 635,
-      "bid": 495,
+      "bid": 491,
       "vendor": 50
     },
     "Toughness": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665777601.5959668
+  "time": 1665778502.9321144
 }
