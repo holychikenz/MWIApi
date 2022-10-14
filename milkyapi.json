@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 15,
+      "ask": 14,
       "bid": 8,
       "vendor": 2
     },
@@ -146,13 +146,13 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 80,
+      "ask": 76,
       "bid": 39,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 18,
-      "bid": 17,
+      "ask": 35,
+      "bid": 18,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 210,
+      "ask": 217,
       "bid": 195,
       "vendor": 12
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 68,
+      "ask": 64,
       "bid": 17,
       "vendor": 1
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 137,
+      "ask": 130,
       "bid": 103,
       "vendor": 4
     },
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 195,
+      "ask": 206,
       "bid": 183,
       "vendor": 54
     },
@@ -917,7 +917,7 @@
     },
     "Precision": {
       "ask": 33644,
-      "bid": 11583,
+      "bid": 12162,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1012,7 +1012,7 @@
     },
     "Red Tea Leaf": {
       "ask": 220,
-      "bid": 212,
+      "bid": 207,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry": {
       "ask": 103,
-      "bid": 65,
+      "bid": 69,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 650,
+      "ask": 740,
       "bid": 556,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665775802.993851
+  "time": 1665776703.1358087
 }
