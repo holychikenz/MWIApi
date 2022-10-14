@@ -51,7 +51,7 @@
       "vendor": 1296
     },
     "Azure Bulwark": {
-      "ask": -1,
+      "ask": 30000,
       "bid": -1,
       "vendor": 2592
     },
@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 100,
-      "bid": 88,
+      "bid": 87,
       "vendor": 54
     },
     "Berserk": {
@@ -141,7 +141,7 @@
       "vendor": 3000
     },
     "Black Bear Shoes": {
-      "ask": 514421,
+      "ask": -1,
       "bid": 218290,
       "vendor": 60000
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 252700,
+      "ask": 240065,
       "bid": 170000,
       "vendor": 1000
     },
@@ -511,7 +511,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 256,
+      "ask": 257,
       "bid": 138,
       "vendor": 50
     },
@@ -591,7 +591,7 @@
       "vendor": 24
     },
     "Gobo Slasher": {
-      "ask": 22799,
+      "ask": 21659,
       "bid": 3001,
       "vendor": 20000
     },
@@ -601,7 +601,7 @@
       "vendor": 20000
     },
     "Gobo Stabber": {
-      "ask": 20093,
+      "ask": 19088,
       "bid": 1500,
       "vendor": 20000
     },
@@ -691,7 +691,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 122222,
+      "ask": 121111,
       "bid": 100000,
       "vendor": 80190
     },
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 188000,
+      "ask": 178600,
       "bid": 45000,
       "vendor": 1000
     },
@@ -1107,7 +1107,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 747,
-      "bid": 591,
+      "bid": 592,
       "vendor": 75
     },
     "Strawberry": {
@@ -1186,7 +1186,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 502,
+      "ask": 500,
       "bid": 402,
       "vendor": 40
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665704703.1058524
+  "time": 1665705602.4493606
 }
