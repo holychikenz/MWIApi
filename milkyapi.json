@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 17,
+      "ask": 16,
       "bid": 8,
       "vendor": 2
     },
@@ -151,8 +151,8 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 37,
-      "bid": 29,
+      "ask": 36,
+      "bid": 18,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -556,8 +556,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 174,
-      "bid": 160,
+      "ask": 173,
+      "bid": 137,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 138,
+      "ask": 137,
       "bid": 103,
       "vendor": 4
     },
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 644,
+      "ask": 643,
       "bid": 610,
       "vendor": 162
     },
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 204,
+      "ask": 190,
       "bid": 183,
       "vendor": 54
     },
@@ -747,7 +747,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 277,
-      "bid": 171,
+      "bid": 173,
       "vendor": 12
     },
     "Living Granite": {
@@ -902,7 +902,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 114998,
-      "bid": 90702,
+      "bid": 90703,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -936,7 +936,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 45124,
+      "ask": 10001,
       "bid": 10000,
       "vendor": 35964
     },
@@ -1001,7 +1001,7 @@
       "vendor": 20979
     },
     "Rainbow Spear": {
-      "ask": 48869,
+      "ask": 20001,
       "bid": 20000,
       "vendor": 26973
     },
@@ -1031,7 +1031,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 12500,
+      "ask": 11875,
       "bid": 3,
       "vendor": 5000
     },
@@ -1107,7 +1107,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 740,
-      "bid": 454,
+      "bid": 455,
       "vendor": 75
     },
     "Strawberry": {
@@ -1232,7 +1232,7 @@
     },
     "Vampire Fang": {
       "ask": 1249999,
-      "bid": 850009,
+      "bid": 900000,
       "vendor": 10000
     },
     "Vampire Fang Dirk": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665748803.9701645
+  "time": 1665749702.9586792
 }
