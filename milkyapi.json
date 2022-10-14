@@ -287,11 +287,11 @@
     },
     "Cheese": {
       "ask": 124,
-      "bid": 79,
+      "bid": 78,
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": -1,
+      "ask": 48,
       "bid": -1,
       "vendor": 48
     },
@@ -697,7 +697,7 @@
     },
     "Holy Milk": {
       "ask": 200,
-      "bid": 181,
+      "bid": 182,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -942,7 +942,7 @@
     },
     "Rainbow Cheese": {
       "ask": 223,
-      "bid": 191,
+      "bid": 200,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1012,7 +1012,7 @@
     },
     "Red Tea Leaf": {
       "ask": 215,
-      "bid": 206,
+      "bid": 207,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1267,7 +1267,7 @@
     },
     "Verdant Cheese": {
       "ask": 161,
-      "bid": 153,
+      "bid": 154,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665727201.9890568
+  "time": 1665728102.4679763
 }
