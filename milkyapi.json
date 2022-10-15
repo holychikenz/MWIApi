@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 981,
+      "ask": 900,
       "bid": 686,
       "vendor": 75
     },
@@ -126,13 +126,13 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 90,
-      "bid": 88,
+      "ask": 110,
+      "bid": 89,
       "vendor": 54
     },
     "Berserk": {
       "ask": 519996,
-      "bid": 400007,
+      "bid": 400008,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -321,7 +321,7 @@
       "vendor": 48
     },
     "Cheese Hammer": {
-      "ask": 2249,
+      "ask": 2248,
       "bid": 301,
       "vendor": 84
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 900,
+      "ask": 875,
       "bid": 660,
       "vendor": 50
     },
@@ -667,7 +667,7 @@
     },
     "Holy Cheese": {
       "ask": 658,
-      "bid": 625,
+      "bid": 650,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -697,7 +697,7 @@
     },
     "Holy Milk": {
       "ask": 205,
-      "bid": 188,
+      "bid": 195,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -707,7 +707,7 @@
     },
     "Holy Plate Legs": {
       "ask": 123997,
-      "bid": 73050,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -746,8 +746,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 272,
-      "bid": 168,
+      "ask": 271,
+      "bid": 170,
       "vendor": 12
     },
     "Living Granite": {
@@ -801,7 +801,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 20,
+      "ask": 19,
       "bid": 10,
       "vendor": 2
     },
@@ -816,12 +816,12 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 288,
+      "ask": 250,
       "bid": 135,
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 298,
+      "ask": 250,
       "bid": 139,
       "vendor": 40
     },
@@ -1061,12 +1061,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 757,
+      "ask": 725,
       "bid": 662,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 687,
+      "ask": 625,
       "bid": 552,
       "vendor": 75
     },
@@ -1096,8 +1096,8 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 100,
-      "bid": 80,
+      "ask": 110,
+      "bid": 75,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 729,
+      "ask": 720,
       "bid": 555,
       "vendor": 75
     },
@@ -1181,7 +1181,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 876,
+      "ask": 870,
       "bid": 746,
       "vendor": 75
     },
@@ -1201,7 +1201,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 633,
+      "ask": 620,
       "bid": 500,
       "vendor": 50
     },
@@ -1266,7 +1266,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 159,
+      "ask": 160,
       "bid": 153,
       "vendor": 12
     },
@@ -1361,12 +1361,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 800,
+      "ask": 795,
       "bid": 621,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 729,
+      "ask": 720,
       "bid": 600,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665851402.3360443
+  "time": 1665852303.021264
 }
