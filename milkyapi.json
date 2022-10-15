@@ -502,7 +502,7 @@
     },
     "Donut": {
       "ask": 100,
-      "bid": 10,
+      "bid": 6,
       "vendor": 5
     },
     "Dragon Fruit": {
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 62,
+      "ask": 60,
       "bid": 19,
       "vendor": 1
     },
@@ -902,7 +902,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 114997,
-      "bid": 90802,
+      "bid": 90803,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665812703.1588888
+  "time": 1665813602.1300144
 }
