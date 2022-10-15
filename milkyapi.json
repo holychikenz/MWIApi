@@ -127,11 +127,11 @@
     },
     "Bear Essence": {
       "ask": 91,
-      "bid": 87,
+      "bid": 88,
       "vendor": 54
     },
     "Berserk": {
-      "ask": 519000,
+      "ask": 519999,
       "bid": 400003,
       "vendor": 1000
     },
@@ -636,7 +636,7 @@
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
-      "ask": 1499999,
+      "ask": 1353749,
       "bid": 270000,
       "vendor": 60000
     },
@@ -902,7 +902,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 114997,
-      "bid": 90803,
+      "bid": 100000,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1111,7 +1111,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 41,
+      "ask": 42,
       "bid": 17,
       "vendor": 6
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665825303.041047
+  "time": 1665826202.6453276
 }
