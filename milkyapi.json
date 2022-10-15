@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 71,
-      "bid": 39,
+      "bid": 32,
       "vendor": 8
     },
     "Blackberry": {
@@ -551,7 +551,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 720,
+      "ask": 721,
       "bid": 350,
       "vendor": 40
     },
@@ -652,12 +652,12 @@
     },
     "Holy Brush": {
       "ask": 110000,
-      "bid": 90000,
+      "bid": 85000,
       "vendor": 62370
     },
     "Holy Buckler": {
-      "ask": 89980,
-      "bid": 65000,
+      "ask": 89981,
+      "bid": -1,
       "vendor": 53460
     },
     "Holy Bulwark": {
@@ -687,12 +687,12 @@
     },
     "Holy Helmet": {
       "ask": 64750,
-      "bid": 50000,
+      "bid": 33222,
       "vendor": 44550
     },
     "Holy Mace": {
       "ask": 121111,
-      "bid": 90000,
+      "bid": 99225,
       "vendor": 80190
     },
     "Holy Milk": {
@@ -741,7 +741,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 1200325,
+      "ask": 1263500,
       "bid": 750000,
       "vendor": 500000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665819002.64096
+  "time": 1665819902.6427054
 }
