@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 15,
-      "bid": 10,
+      "bid": 9,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -26,7 +26,7 @@
       "vendor": 4
     },
     "Artisan Tea": {
-      "ask": 949,
+      "ask": 948,
       "bid": 684,
       "vendor": 75
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 137,
+      "ask": 136,
       "bid": 53,
       "vendor": 8
     },
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 47,
+      "ask": 48,
       "bid": 39,
       "vendor": 12
     },
@@ -507,7 +507,7 @@
     },
     "Dragon Fruit": {
       "ask": 94,
-      "bid": 52,
+      "bid": 53,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -542,7 +542,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 147,
-      "bid": 97,
+      "bid": 111,
       "vendor": 18
     },
     "Eyessence": {
@@ -557,7 +557,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 166,
-      "bid": 141,
+      "bid": 139,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -566,12 +566,12 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": -1,
+      "ask": 450000,
       "bid": 385016,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 450,
+      "ask": 449,
       "bid": 261,
       "vendor": 10
     },
@@ -616,7 +616,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 420,
+      "ask": 419,
       "bid": 302,
       "vendor": 20
     },
@@ -631,7 +631,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 150000,
+      "ask": 125000,
       "bid": 60033,
       "vendor": 3000
     },
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 255,
+      "ask": 254,
       "bid": 177,
       "vendor": 12
     },
@@ -781,8 +781,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 55,
-      "bid": 50,
+      "ask": 52,
+      "bid": 34,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -811,8 +811,8 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 48,
-      "bid": 31,
+      "ask": 47,
+      "bid": 32,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -847,7 +847,7 @@
     },
     "Panda Fluff": {
       "ask": 56089,
-      "bid": 45101,
+      "bid": 45102,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 237,
+      "ask": 236,
       "bid": 153,
       "vendor": 40
     },
@@ -901,7 +901,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 114998,
+      "ask": 114999,
       "bid": 90903,
       "vendor": 3000
     },
@@ -1041,7 +1041,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 9699,
+      "ask": 9214,
       "bid": 3000,
       "vendor": 6000
     },
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 104,
+      "ask": 105,
       "bid": 80,
       "vendor": 27
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 748,
+      "ask": 793,
       "bid": 675,
       "vendor": 75
     },
@@ -1206,7 +1206,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 33324,
+      "ask": 33325,
       "bid": 16002,
       "vendor": 1000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665934203.1491106
+  "time": 1665935103.5960307
 }
