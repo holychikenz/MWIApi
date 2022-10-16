@@ -132,7 +132,7 @@
     },
     "Berserk": {
       "ask": 518990,
-      "bid": 400011,
+      "bid": 400013,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 139,
-      "bid": 33,
+      "bid": 34,
       "vendor": 8
     },
     "Blackberry": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 204,
-      "bid": 191,
+      "bid": 200,
       "vendor": 12
     },
     "Cheese": {
@@ -421,7 +421,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 201,
+      "ask": 200,
       "bid": 169,
       "vendor": 54
     },
@@ -581,7 +581,7 @@
       "vendor": 5000
     },
     "Giant Pouch": {
-      "ask": 19500000,
+      "ask": -1,
       "bid": 15000000,
       "vendor": 5000000
     },
@@ -627,12 +627,12 @@
     },
     "Green Tea Leaf": {
       "ask": 121,
-      "bid": 80,
+      "bid": 81,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
       "ask": 150000,
-      "bid": 60031,
+      "bid": 60032,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -742,7 +742,7 @@
     },
     "Large Pouch": {
       "ask": 1150000,
-      "bid": 750000,
+      "bid": 500000,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
@@ -827,7 +827,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 39,
-      "bid": 21,
+      "bid": 22,
       "vendor": 18
     },
     "Orange": {
@@ -1102,11 +1102,11 @@
     },
     "Star Fruit Gummy": {
       "ask": 425,
-      "bid": 207,
+      "bid": 208,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 744,
+      "ask": 748,
       "bid": 529,
       "vendor": 75
     },
@@ -1136,7 +1136,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 748,
+      "ask": 747,
       "bid": -1,
       "vendor": 50
     },
@@ -1181,7 +1181,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 878,
+      "ask": 850,
       "bid": 780,
       "vendor": 75
     },
@@ -1221,7 +1221,7 @@
       "vendor": 9000
     },
     "Turtle Shell Legs": {
-      "ask": 38573,
+      "ask": 38500,
       "bid": -1,
       "vendor": 6000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665922503.9093986
+  "time": 1665924303.1911502
 }
