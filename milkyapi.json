@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 58,
-      "bid": 48,
+      "bid": 50,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -571,8 +571,8 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 590,
-      "bid": 501,
+      "ask": 500,
+      "bid": 260,
       "vendor": 10
     },
     "Gator Vest": {
@@ -802,7 +802,7 @@
     },
     "Milk": {
       "ask": 19,
-      "bid": 11,
+      "bid": 12,
       "vendor": 2
     },
     "Milking Tea": {
@@ -856,7 +856,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 15,
+      "ask": 16,
       "bid": 13,
       "vendor": 9
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 113999,
+      "ask": 110000,
       "bid": 48001,
       "vendor": 6000
     },
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 790,
+      "ask": 795,
       "bid": 625,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665906302.8580692
+  "time": 1665907202.7427561
 }
