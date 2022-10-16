@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 139,
-      "bid": 75,
+      "bid": 33,
       "vendor": 8
     },
     "Blackberry": {
@@ -207,7 +207,7 @@
     },
     "Burble Bulwark": {
       "ask": -1,
-      "bid": 5520,
+      "bid": 1,
       "vendor": 6480
     },
     "Burble Cheese": {
@@ -556,7 +556,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 169,
+      "ask": 168,
       "bid": 141,
       "vendor": 27
     },
@@ -627,7 +627,7 @@
     },
     "Green Tea Leaf": {
       "ask": 120,
-      "bid": 103,
+      "bid": 101,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 653,
+      "ask": 680,
       "bid": 635,
       "vendor": 162
     },
@@ -752,7 +752,7 @@
     },
     "Living Granite": {
       "ask": 2612494,
-      "bid": 2250111,
+      "bid": 2250112,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 250,
+      "ask": 1000000000000,
       "bid": 139,
       "vendor": 40
     },
@@ -937,7 +937,7 @@
     },
     "Rainbow Bulwark": {
       "ask": 47499,
-      "bid": 10000,
+      "bid": -1,
       "vendor": 35964
     },
     "Rainbow Cheese": {
@@ -1096,7 +1096,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 130,
+      "ask": 175,
       "bid": 76,
       "vendor": 27
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 719,
+      "ask": 730,
       "bid": 529,
       "vendor": 75
     },
@@ -1357,7 +1357,7 @@
     },
     "Wheat": {
       "ask": 20,
-      "bid": 18,
+      "bid": 19,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 700,
+      "ask": 704,
       "bid": 600,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665892801.779077
+  "time": 1665893702.986753
 }
