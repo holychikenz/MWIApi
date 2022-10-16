@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 139,
-      "bid": 34,
+      "bid": 51,
       "vendor": 8
     },
     "Blackberry": {
@@ -156,7 +156,7 @@
       "vendor": 4
     },
     "Blackberry Cake": {
-      "ask": 122,
+      "ask": 142,
       "bid": 22,
       "vendor": 20
     },
@@ -451,7 +451,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 24,
+      "ask": 25,
       "bid": 21,
       "vendor": 18
     },
@@ -611,8 +611,8 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 651,
-      "bid": 530,
+      "ask": 650,
+      "bid": 300,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -722,7 +722,7 @@
     },
     "Holy Spatula": {
       "ask": 128999,
-      "bid": 95000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Spear": {
@@ -827,7 +827,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 46,
-      "bid": 22,
+      "bid": 31,
       "vendor": 18
     },
     "Orange": {
@@ -882,7 +882,7 @@
     },
     "Plum": {
       "ask": 33,
-      "bid": 18,
+      "bid": 20,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -971,7 +971,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 31,
+      "ask": 33,
       "bid": 29,
       "vendor": 27
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry": {
       "ask": 105,
-      "bid": 79,
+      "bid": 78,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1081,8 +1081,8 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2800000,
-      "bid": 1250001,
+      "ask": 2799999,
+      "bid": 1260000,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 725,
+      "ask": 720,
       "bid": 529,
       "vendor": 75
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 1590,
+      "ask": 1000,
       "bid": 300,
       "vendor": 40
     },
@@ -1231,7 +1231,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1000000,
+      "ask": 1099998,
       "bid": 950000,
       "vendor": 10000
     },
@@ -1296,7 +1296,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 49,
+      "ask": 50,
       "bid": 37,
       "vendor": 4
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665927903.8490198
+  "time": 1665928803.3859656
 }
