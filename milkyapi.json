@@ -96,7 +96,7 @@
       "vendor": 1728
     },
     "Azure Plate Legs": {
-      "ask": 20000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -862,12 +862,12 @@
     },
     "Peach Gummy": {
       "ask": 229,
-      "bid": 113,
+      "bid": 114,
       "vendor": 40
     },
     "Peach Yogurt": {
       "ask": 249,
-      "bid": 172,
+      "bid": 151,
       "vendor": 40
     },
     "Pierce": {
@@ -1046,7 +1046,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 495,
+      "ask": 500,
       "bid": 204,
       "vendor": 100
     },
@@ -1127,7 +1127,7 @@
     },
     "Stunning Blow": {
       "ask": 589920,
-      "bid": 355004,
+      "bid": 310000,
       "vendor": 1000
     },
     "Sugar": {
@@ -1182,7 +1182,7 @@
     },
     "Super Power Coffee": {
       "ask": 876,
-      "bid": 747,
+      "bid": 748,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1362,7 +1362,7 @@
     },
     "Wisdom Coffee": {
       "ask": 794,
-      "bid": 623,
+      "bid": 624,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665894602.6111426
+  "time": 1665895502.5082855
 }
