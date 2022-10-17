@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 99,
-      "bid": 88,
+      "bid": 89,
       "vendor": 54
     },
     "Berserk": {
@@ -566,7 +566,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": -1,
+      "ask": 700000,
       "bid": 385018,
       "vendor": 1000
     },
@@ -612,7 +612,7 @@
     },
     "Golem Essence": {
       "ask": 646,
-      "bid": 465,
+      "bid": 466,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -847,7 +847,7 @@
     },
     "Panda Fluff": {
       "ask": 100000,
-      "bid": 45103,
+      "bid": 45104,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 265000,
+      "ask": 1500000,
       "bid": 47777,
       "vendor": 1000
     },
@@ -902,12 +902,12 @@
     },
     "Polar Bear Fluff": {
       "ask": 109248,
-      "bid": 90904,
+      "bid": 90905,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
       "ask": 1100000,
-      "bid": 800000,
+      "bid": 606376,
       "vendor": 60000
     },
     "Power Coffee": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 748,
+      "ask": 747,
       "bid": 675,
       "vendor": 75
     },
@@ -1182,7 +1182,7 @@
     },
     "Super Power Coffee": {
       "ask": 849,
-      "bid": 786,
+      "bid": 787,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1346,12 +1346,12 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 949991,
+      "ask": 902491,
       "bid": 653109,
       "vendor": 10000
     },
     "Werewolf Slasher": {
-      "ask": 20000000,
+      "ask": -1,
       "bid": 2100009,
       "vendor": 400000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665981903.2734044
+  "time": 1665982802.619118
 }
