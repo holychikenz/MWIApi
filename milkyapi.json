@@ -17,7 +17,7 @@
     },
     "Aqua Essence": {
       "ask": 64,
-      "bid": 47,
+      "bid": 42,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 899,
-      "bid": 700,
+      "bid": 684,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 240,
+      "ask": 228,
       "bid": 199,
       "vendor": 12
     },
@@ -857,12 +857,12 @@
     },
     "Peach": {
       "ask": 30,
-      "bid": 14,
+      "bid": 20,
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 209,
-      "bid": 118,
+      "ask": 208,
+      "bid": 119,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -881,7 +881,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 65,
+      "ask": 64,
       "bid": 30,
       "vendor": 6
     },
@@ -891,7 +891,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 194,
+      "ask": 199,
       "bid": 100,
       "vendor": 30
     },
@@ -1067,7 +1067,7 @@
     },
     "Spaceberry Donut": {
       "ask": 678,
-      "bid": 500,
+      "bid": 365,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1231,7 +1231,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1050000,
+      "ask": 1049999,
       "bid": 950000,
       "vendor": 10000
     },
@@ -1346,7 +1346,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 902491,
+      "ask": 902490,
       "bid": 653120,
       "vendor": 10000
     },
@@ -1362,12 +1362,12 @@
     },
     "Wisdom Coffee": {
       "ask": 715,
-      "bid": 679,
+      "bid": 692,
       "vendor": 30
     },
     "Wisdom Tea": {
       "ask": 736,
-      "bid": 556,
+      "bid": 557,
       "vendor": 30
     },
     "Yogurt": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1665988203.6170616
+  "time": 1665989104.2064354
 }
