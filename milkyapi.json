@@ -127,7 +127,7 @@
     },
     "Bear Essence": {
       "ask": 92,
-      "bid": 89,
+      "bid": 90,
       "vendor": 54
     },
     "Berserk": {
@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 50,
-      "bid": 42,
+      "bid": 43,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -451,7 +451,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 26,
+      "ask": 27,
       "bid": 22,
       "vendor": 18
     },
@@ -611,12 +611,12 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 638,
-      "bid": 471,
+      "ask": 637,
+      "bid": 500,
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 415,
+      "ask": 409,
       "bid": 302,
       "vendor": 20
     },
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 239,
+      "ask": 238,
       "bid": 180,
       "vendor": 27
     },
@@ -1021,7 +1021,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": -1,
+      "ask": 50000,
       "bid": 7000,
       "vendor": 1000
     },
@@ -1136,7 +1136,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 699,
+      "ask": 698,
       "bid": 200,
       "vendor": 50
     },
@@ -1146,7 +1146,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1899,
+      "ask": 1200,
       "bid": 625,
       "vendor": 75
     },
@@ -1176,12 +1176,12 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 1581,
+      "ask": 1200,
       "bid": 300,
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 840,
+      "ask": 839,
       "bid": 791,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666038602.7629046
+  "time": 1666039503.8019564
 }
