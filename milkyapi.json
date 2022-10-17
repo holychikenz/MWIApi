@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 215,
-      "bid": 182,
+      "bid": 183,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -131,8 +131,8 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 497945,
-      "bid": 400069,
+      "ask": 500000,
+      "bid": 400070,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 195,
+      "ask": 196,
       "bid": 160,
       "vendor": 36
     },
@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 126,
-      "bid": 77,
+      "bid": 80,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -422,7 +422,7 @@
     },
     "Crimson Cheese": {
       "ask": 204,
-      "bid": 172,
+      "bid": 173,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -532,7 +532,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 229,
-      "bid": 189,
+      "bid": 186,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -577,7 +577,7 @@
     },
     "Gator Vest": {
       "ask": 109999,
-      "bid": 50000,
+      "bid": 50001,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -611,7 +611,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 637,
+      "ask": 605,
       "bid": 500,
       "vendor": 108
     },
@@ -887,12 +887,12 @@
     },
     "Plum Gummy": {
       "ask": 234,
-      "bid": 37,
+      "bid": 100,
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 198,
-      "bid": 100,
+      "ask": 199,
+      "bid": 125,
       "vendor": 30
     },
     "Poke": {
@@ -942,7 +942,7 @@
     },
     "Rainbow Cheese": {
       "ask": 192,
-      "bid": 169,
+      "bid": 170,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 740,
+      "ask": 739,
       "bid": 529,
       "vendor": 75
     },
@@ -1117,7 +1117,7 @@
     },
     "Strawberry Cake": {
       "ask": 249,
-      "bid": 81,
+      "bid": 100,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1126,7 +1126,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 589900,
+      "ask": 589920,
       "bid": 310000,
       "vendor": 1000
     },
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 900,
+      "ask": 899,
       "bid": 300,
       "vendor": 40
     },
@@ -1181,7 +1181,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 839,
+      "ask": 840,
       "bid": 791,
       "vendor": 75
     },
@@ -1197,7 +1197,7 @@
     },
     "Sweep": {
       "ask": 129999,
-      "bid": 90015,
+      "bid": 90019,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1361,8 +1361,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 775,
-      "bid": 679,
+      "ask": 834,
+      "bid": 700,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666044902.8543434
+  "time": 1666045803.1215057
 }
