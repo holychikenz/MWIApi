@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1200,
+      "ask": 1100,
       "bid": 901,
       "vendor": 75
     },
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 199,
-      "bid": 160,
+      "bid": 161,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -406,7 +406,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 46426,
+      "ask": 60000,
       "bid": 10100,
       "vendor": 9072
     },
@@ -481,12 +481,12 @@
       "vendor": 9072
     },
     "Crimson Spear": {
-      "ask": 14886,
+      "ask": -1,
       "bid": 3150,
       "vendor": 11664
     },
     "Crimson Sword": {
-      "ask": 17955,
+      "ask": 23949,
       "bid": 3000,
       "vendor": 11664
     },
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 850,
+      "ask": 840,
       "bid": 750,
       "vendor": 50
     },
@@ -606,7 +606,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 220000,
+      "ask": 219999,
       "bid": 199553,
       "vendor": 10000
     },
@@ -667,7 +667,7 @@
     },
     "Holy Cheese": {
       "ask": 718,
-      "bid": 645,
+      "bid": 646,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -916,7 +916,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 149999,
+      "ask": 100000,
       "bid": 12774,
       "vendor": 1000
     },
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry": {
       "ask": 104,
-      "bid": 96,
+      "bid": 100,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1097,7 +1097,7 @@
     },
     "Star Fruit": {
       "ask": 165,
-      "bid": 128,
+      "bid": 129,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1157,7 +1157,7 @@
     },
     "Super Defense Coffee": {
       "ask": 1800,
-      "bid": 525,
+      "bid": 550,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 1150,
+      "ask": 1100,
       "bid": 300,
       "vendor": 40
     },
@@ -1202,7 +1202,7 @@
     },
     "Swiftness Coffee": {
       "ask": 632,
-      "bid": 603,
+      "bid": 604,
       "vendor": 50
     },
     "Toughness": {
@@ -1361,12 +1361,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 728,
+      "ask": 732,
       "bid": 701,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 718,
+      "ask": 729,
       "bid": 652,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666078202.699189
+  "time": 1666079103.266548
 }
