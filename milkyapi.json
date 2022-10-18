@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 15,
-      "bid": 9,
+      "bid": 12,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 35,
+      "ask": 33,
       "bid": 24,
       "vendor": 4
     },
@@ -241,7 +241,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 47,
+      "ask": 46,
       "bid": 45,
       "vendor": 12
     },
@@ -422,7 +422,7 @@
     },
     "Crimson Cheese": {
       "ask": 204,
-      "bid": 136,
+      "bid": 155,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -507,11 +507,11 @@
     },
     "Dragon Fruit": {
       "ask": 70,
-      "bid": 55,
+      "bid": 56,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 298,
+      "ask": 303,
       "bid": 202,
       "vendor": 50
     },
@@ -612,7 +612,7 @@
     },
     "Golem Essence": {
       "ask": 639,
-      "bid": 507,
+      "bid": 506,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -627,7 +627,7 @@
     },
     "Green Tea Leaf": {
       "ask": 106,
-      "bid": 89,
+      "bid": 95,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -667,7 +667,7 @@
     },
     "Holy Cheese": {
       "ask": 717,
-      "bid": 651,
+      "bid": 650,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -747,12 +747,12 @@
     },
     "Liberica Coffee Bean": {
       "ask": 274,
-      "bid": 210,
+      "bid": 193,
       "vendor": 12
     },
     "Living Granite": {
       "ask": 2339126,
-      "bid": 2000002,
+      "bid": 1500000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -827,7 +827,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 37,
-      "bid": 27,
+      "bid": 30,
       "vendor": 18
     },
     "Orange": {
@@ -861,7 +861,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 146,
+      "ask": 148,
       "bid": 117,
       "vendor": 40
     },
@@ -882,7 +882,7 @@
     },
     "Plum": {
       "ask": 78,
-      "bid": 29,
+      "bid": 27,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -917,7 +917,7 @@
     },
     "Precision": {
       "ask": 94998,
-      "bid": 12776,
+      "bid": 12777,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1082,7 +1082,7 @@
     },
     "Stalactite Shard": {
       "ask": 2999998,
-      "bid": 1200000,
+      "bid": 1000001,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1101,7 +1101,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 400,
+      "ask": 688,
       "bid": 205,
       "vendor": 75
     },
@@ -1227,7 +1227,7 @@
     },
     "Twilight Essence": {
       "ask": 344,
-      "bid": 254,
+      "bid": 253,
       "vendor": 108
     },
     "Vampire Fang": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666124103.2400272
+  "time": 1666125003.516848
 }
