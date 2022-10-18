@@ -36,7 +36,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 10000,
+      "ask": 13000,
       "bid": -1,
       "vendor": 864
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 36,
+      "ask": 35,
       "bid": 30,
       "vendor": 2
     },
@@ -606,7 +606,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 227660,
+      "ask": 220000,
       "bid": 199553,
       "vendor": 10000
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 117,
+      "ask": 111,
       "bid": 86,
       "vendor": 4
     },
@@ -916,7 +916,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 95000,
+      "ask": 94999,
       "bid": 12776,
       "vendor": 1000
     },
@@ -941,7 +941,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 197,
+      "ask": 230,
       "bid": 172,
       "vendor": 81
     },
@@ -1041,7 +1041,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 9213,
+      "ask": 9214,
       "bid": 3000,
       "vendor": 6000
     },
@@ -1051,7 +1051,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 12399,
+      "ask": 12400,
       "bid": 3002,
       "vendor": 2000
     },
@@ -1072,7 +1072,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 333,
-      "bid": 265,
+      "bid": 266,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1161,8 +1161,8 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 696,
-      "bid": 625,
+      "ask": 624,
+      "bid": 500,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1176,13 +1176,13 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 700,
+      "ask": 1100,
       "bid": 300,
       "vendor": 40
     },
     "Super Power Coffee": {
       "ask": 850,
-      "bid": 792,
+      "bid": 790,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1202,7 +1202,7 @@
     },
     "Swiftness Coffee": {
       "ask": 630,
-      "bid": 605,
+      "bid": 610,
       "vendor": 50
     },
     "Toughness": {
@@ -1221,7 +1221,7 @@
       "vendor": 9000
     },
     "Turtle Shell Legs": {
-      "ask": 36574,
+      "ask": 36575,
       "bid": -1,
       "vendor": 6000
     },
@@ -1271,7 +1271,7 @@
       "vendor": 12
     },
     "Verdant Enhancer": {
-      "ask": 2000,
+      "ask": -1,
       "bid": 1000,
       "vendor": 420
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666120502.779192
+  "time": 1666121402.5053647
 }
