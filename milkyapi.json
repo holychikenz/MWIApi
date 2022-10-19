@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 15,
+      "ask": 16,
       "bid": 12,
       "vendor": 2
     },
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 33,
+      "ask": 40,
       "bid": 24,
       "vendor": 4
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 35,
+      "ask": 37,
       "bid": 30,
       "vendor": 2
     },
@@ -286,7 +286,7 @@
       "vendor": 12
     },
     "Cheese": {
-      "ask": 126,
+      "ask": 127,
       "bid": 83,
       "vendor": 6
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 333333,
+      "ask": 349000,
       "bid": 200000,
       "vendor": 1000
     },
@@ -632,7 +632,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 124996,
-      "bid": 85001,
+      "bid": 85003,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -751,7 +751,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 2000000,
+      "ask": 1995000,
       "bid": 1500000,
       "vendor": 10000
     },
@@ -791,7 +791,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 340,
+      "ask": 338,
       "bid": 143,
       "vendor": 50
     },
@@ -881,7 +881,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 77,
+      "ask": 76,
       "bid": 11,
       "vendor": 6
     },
@@ -1051,7 +1051,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 12000,
+      "ask": 12400,
       "bid": 3002,
       "vendor": 2000
     },
@@ -1062,7 +1062,7 @@
     },
     "Spaceberry Cake": {
       "ask": 770,
-      "bid": 702,
+      "bid": 676,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1221,7 +1221,7 @@
       "vendor": 9000
     },
     "Turtle Shell Legs": {
-      "ask": 25000,
+      "ask": 36575,
       "bid": -1,
       "vendor": 6000
     },
@@ -1346,7 +1346,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 997493,
+      "ask": 994999,
       "bid": 653113,
       "vendor": 10000
     },
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 721,
+      "ask": 722,
       "bid": 653,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666136702.5065641
+  "time": 1666137603.2860115
 }
