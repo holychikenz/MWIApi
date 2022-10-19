@@ -546,7 +546,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 70,
+      "ask": 80,
       "bid": 52,
       "vendor": 36
     },
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 269,
+      "ask": 268,
       "bid": 204,
       "vendor": 12
     },
@@ -771,7 +771,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 179999,
+      "ask": 270000,
       "bid": 165011,
       "vendor": 10000
     },
@@ -856,7 +856,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 133,
+      "ask": 132,
       "bid": 16,
       "vendor": 9
     },
@@ -881,12 +881,12 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 74,
-      "bid": 32,
+      "ask": 73,
+      "bid": 33,
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 185,
+      "ask": 184,
       "bid": 60,
       "vendor": 30
     },
@@ -1056,12 +1056,12 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 466,
-      "bid": 122,
+      "ask": 442,
+      "bid": 123,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 1479,
+      "ask": 1478,
       "bid": 689,
       "vendor": 75
     },
@@ -1071,7 +1071,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 499,
+      "ask": 495,
       "bid": 271,
       "vendor": 54
     },
@@ -1081,7 +1081,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2799998,
+      "ask": 2700000,
       "bid": 1000001,
       "vendor": 10000
     },
@@ -1111,8 +1111,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 46,
-      "bid": 28,
+      "ask": 45,
+      "bid": 26,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1127,7 +1127,7 @@
     },
     "Stunning Blow": {
       "ask": 504500,
-      "bid": 260000,
+      "bid": 262000,
       "vendor": 1000
     },
     "Sugar": {
@@ -1347,7 +1347,7 @@
     },
     "Werewolf Claw": {
       "ask": 992510,
-      "bid": 653115,
+      "bid": 653116,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666203302.6214917
+  "time": 1666204202.3178444
 }
