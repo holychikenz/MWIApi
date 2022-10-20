@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 874,
-      "bid": 684,
+      "bid": 650,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -131,8 +131,8 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 496969,
-      "bid": 400025,
+      "ask": 690000,
+      "bid": 400026,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -566,7 +566,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 438868,
+      "ask": -1,
       "bid": 385019,
       "vendor": 1000
     },
@@ -741,7 +741,7 @@
       "vendor": 10
     },
     "Large Pouch": {
-      "ask": 995000,
+      "ask": 994999,
       "bid": 505000,
       "vendor": 500000
     },
@@ -776,7 +776,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 444998,
+      "ask": 598000,
       "bid": 335009,
       "vendor": 1000
     },
@@ -791,7 +791,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 360,
+      "ask": 366,
       "bid": 148,
       "vendor": 50
     },
@@ -1021,7 +1021,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 31194,
+      "ask": 50000,
       "bid": 10002,
       "vendor": 1000
     },
@@ -1056,17 +1056,17 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 364,
+      "ask": 363,
       "bid": 169,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 1300,
+      "ask": 1445,
       "bid": 704,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 1249,
+      "ask": 1248,
       "bid": 702,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 719,
+      "ask": 720,
       "bid": 531,
       "vendor": 75
     },
@@ -1181,8 +1181,8 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1300,
-      "bid": 802,
+      "ask": 1398,
+      "bid": 842,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1226,7 +1226,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 340,
+      "ask": 339,
       "bid": 256,
       "vendor": 108
     },
@@ -1346,7 +1346,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 992508,
+      "ask": 990027,
       "bid": 653118,
       "vendor": 10000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666264502.816026
+  "time": 1666265401.815298
 }
