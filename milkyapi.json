@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 149,
+      "ask": 148,
       "bid": 91,
       "vendor": 54
     },
@@ -161,7 +161,7 @@
       "vendor": 20
     },
     "Blackberry Donut": {
-      "ask": 200,
+      "ask": 199,
       "bid": 32,
       "vendor": 20
     },
@@ -281,8 +281,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 222,
-      "bid": 213,
+      "ask": 221,
+      "bid": 214,
       "vendor": 12
     },
     "Cheese": {
@@ -566,7 +566,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": -1,
+      "ask": 600000,
       "bid": 385019,
       "vendor": 1000
     },
@@ -586,7 +586,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 37,
+      "ask": 36,
       "bid": 27,
       "vendor": 24
     },
@@ -627,12 +627,12 @@
     },
     "Green Tea Leaf": {
       "ask": 118,
-      "bid": 102,
+      "bid": 103,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 118739,
-      "bid": 85007,
+      "ask": 118738,
+      "bid": 85008,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -777,7 +777,7 @@
     },
     "Maim": {
       "ask": 598000,
-      "bid": 335009,
+      "bid": 335010,
       "vendor": 1000
     },
     "Marsberry": {
@@ -817,7 +817,7 @@
     },
     "Mooberry Cake": {
       "ask": 280,
-      "bid": 157,
+      "bid": 158,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -861,13 +861,13 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 118,
-      "bid": 67,
+      "ask": 147,
+      "bid": 68,
       "vendor": 40
     },
     "Peach Yogurt": {
       "ask": 256,
-      "bid": 127,
+      "bid": 130,
       "vendor": 40
     },
     "Pierce": {
@@ -886,7 +886,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 173,
+      "ask": 164,
       "bid": 61,
       "vendor": 30
     },
@@ -901,7 +901,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 112811,
+      "ask": 107170,
       "bid": 90922,
       "vendor": 3000
     },
@@ -917,7 +917,7 @@
     },
     "Precision": {
       "ask": 118750,
-      "bid": 16802,
+      "bid": 17643,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -942,7 +942,7 @@
     },
     "Rainbow Cheese": {
       "ask": 274,
-      "bid": 180,
+      "bid": 181,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1036,7 +1036,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 3000,
+      "ask": 2999,
       "bid": 1500,
       "vendor": 1500
     },
@@ -1206,7 +1206,7 @@
       "vendor": 50
     },
     "Toughness": {
-      "ask": 24421,
+      "ask": 24424,
       "bid": 16007,
       "vendor": 1000
     },
@@ -1266,8 +1266,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 414,
-      "bid": 263,
+      "ask": 413,
+      "bid": 264,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666273503.211942
+  "time": 1666274403.0809567
 }
