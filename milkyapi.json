@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 16,
+      "ask": 18,
       "bid": 12,
       "vendor": 2
     },
@@ -506,7 +506,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 90,
+      "ask": 94,
       "bid": 79,
       "vendor": 14
     },
@@ -557,7 +557,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 150,
-      "bid": 123,
+      "bid": 135,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -1072,7 +1072,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 492,
-      "bid": 316,
+      "bid": 314,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1081,7 +1081,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 2400000,
+      "ask": 2399999,
       "bid": 1000005,
       "vendor": 10000
     },
@@ -1107,7 +1107,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 720,
-      "bid": 532,
+      "bid": 600,
       "vendor": 75
     },
     "Strawberry": {
@@ -1226,12 +1226,12 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 339,
+      "ask": 300,
       "bid": 256,
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1099990,
+      "ask": 1099989,
       "bid": 950000,
       "vendor": 10000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666282502.849403
+  "time": 1666283402.264156
 }
