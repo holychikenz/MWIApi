@@ -121,12 +121,12 @@
       "vendor": 1944
     },
     "Azure Sword": {
-      "ask": 20000,
+      "ask": -1,
       "bid": 2000,
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 110,
+      "ask": 187,
       "bid": 91,
       "vendor": 54
     },
@@ -507,7 +507,7 @@
     },
     "Dragon Fruit": {
       "ask": 99,
-      "bid": 75,
+      "bid": 76,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -546,7 +546,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 74,
+      "ask": 70,
       "bid": 52,
       "vendor": 36
     },
@@ -636,7 +636,7 @@
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
-      "ask": 1187499,
+      "ask": 1128124,
       "bid": 700000,
       "vendor": 60000
     },
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 200,
+      "ask": 206,
       "bid": 168,
       "vendor": 54
     },
@@ -1061,7 +1061,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 1467,
+      "ask": 1466,
       "bid": 702,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666227602.8385558
+  "time": 1666228503.3979483
 }
