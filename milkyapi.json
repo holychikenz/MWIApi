@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 25,
-      "bid": 15,
+      "bid": 18,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 70,
-      "bid": 46,
+      "bid": 47,
       "vendor": 8
     },
     "Blackberry": {
@@ -171,8 +171,8 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 999,
-      "bid": 13,
+      "ask": 998,
+      "bid": 14,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -507,7 +507,7 @@
     },
     "Dragon Fruit": {
       "ask": 98,
-      "bid": 79,
+      "bid": 76,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 145,
+      "ask": 144,
       "bid": 22,
       "vendor": 1
     },
@@ -536,7 +536,7 @@
       "vendor": 54
     },
     "Enhancing Tea": {
-      "ask": 839,
+      "ask": 838,
       "bid": 209,
       "vendor": 20
     },
@@ -612,7 +612,7 @@
     },
     "Golem Essence": {
       "ask": 548,
-      "bid": 500,
+      "bid": 453,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -746,8 +746,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 263,
-      "bid": 200,
+      "ask": 262,
+      "bid": 201,
       "vendor": 12
     },
     "Living Granite": {
@@ -782,7 +782,7 @@
     },
     "Marsberry": {
       "ask": 93,
-      "bid": 73,
+      "bid": 67,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -812,7 +812,7 @@
     },
     "Mooberry": {
       "ask": 47,
-      "bid": 37,
+      "bid": 38,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -826,7 +826,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 46,
+      "ask": 45,
       "bid": 31,
       "vendor": 18
     },
@@ -847,7 +847,7 @@
     },
     "Panda Fluff": {
       "ask": 68586,
-      "bid": 50172,
+      "bid": 50173,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -856,8 +856,8 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 60,
-      "bid": 31,
+      "ask": 59,
+      "bid": 32,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -1072,7 +1072,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 490,
-      "bid": 358,
+      "bid": 359,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 1534,
+      "ask": 1384,
       "bid": 701,
       "vendor": 40
     },
@@ -1196,8 +1196,8 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 66498,
-      "bid": 40001,
+      "ask": 66497,
+      "bid": 40002,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 989,
+      "ask": 900,
       "bid": 751,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666461602.3131661
+  "time": 1666462503.0198328
 }
