@@ -21,8 +21,8 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 400,
-      "bid": 100,
+      "ask": -1,
+      "bid": 80,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -171,8 +171,8 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 300,
-      "bid": 30,
+      "ask": 999,
+      "bid": 13,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -521,17 +521,17 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1068,
+      "ask": 1069,
       "bid": 632,
       "vendor": 50
     },
     "Egg": {
-      "ask": 300,
-      "bid": 26,
+      "ask": 88,
+      "bid": 22,
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 210,
+      "ask": 226,
       "bid": 193,
       "vendor": 54
     },
@@ -571,12 +571,12 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 659,
+      "ask": 660,
       "bid": 450,
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 108997,
+      "ask": 108998,
       "bid": 47254,
       "vendor": 5000
     },
@@ -826,7 +826,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 39,
+      "ask": 46,
       "bid": 31,
       "vendor": 18
     },
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 236,
+      "ask": 235,
       "bid": 165,
       "vendor": 27
     },
@@ -1081,7 +1081,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 1999999,
+      "ask": 1899999,
       "bid": 1000010,
       "vendor": 10000
     },
@@ -1111,8 +1111,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 300,
-      "bid": 36,
+      "ask": -1,
+      "bid": 34,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 1498,
+      "ask": 1581,
       "bid": 701,
       "vendor": 40
     },
@@ -1192,7 +1192,7 @@
     },
     "Swamp Essence": {
       "ask": 70,
-      "bid": 32,
+      "bid": 34,
       "vendor": 8
     },
     "Sweep": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666443603.0122519
+  "time": 1666444503.4544017
 }
