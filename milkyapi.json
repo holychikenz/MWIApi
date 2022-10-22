@@ -527,7 +527,7 @@
     },
     "Egg": {
       "ask": 34,
-      "bid": 20,
+      "bid": 21,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -636,7 +636,7 @@
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
-      "ask": 1200000,
+      "ask": 1250000,
       "bid": 270000,
       "vendor": 60000
     },
@@ -1061,12 +1061,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 1060,
+      "ask": 999,
       "bid": 754,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 1009,
+      "ask": 999,
       "bid": 563,
       "vendor": 75
     },
@@ -1121,7 +1121,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 239,
+      "ask": 238,
       "bid": 101,
       "vendor": 30
     },
@@ -1226,12 +1226,12 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 340,
-      "bid": 260,
+      "ask": 339,
+      "bid": 261,
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 1099988,
+      "ask": 1050000,
       "bid": 950000,
       "vendor": 10000
     },
@@ -1347,7 +1347,7 @@
     },
     "Werewolf Claw": {
       "ask": 987547,
-      "bid": 653122,
+      "bid": 653123,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666399503.3441436
+  "time": 1666400402.5833683
 }
