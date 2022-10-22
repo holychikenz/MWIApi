@@ -106,7 +106,7 @@
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": 5000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -351,7 +351,7 @@
       "vendor": 84
     },
     "Cheese Shears": {
-      "ask": 537,
+      "ask": 538,
       "bid": 85,
       "vendor": 84
     },
@@ -376,7 +376,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 331546,
+      "ask": 325000,
       "bid": 200000,
       "vendor": 1000
     },
@@ -821,7 +821,7 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 390,
+      "ask": 395,
       "bid": 141,
       "vendor": 40
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Cheese": {
       "ask": 255,
-      "bid": 201,
+      "bid": 202,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 722,
+      "ask": 723,
       "bid": 621,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666447201.9580142
+  "time": 1666448102.5981302
 }
