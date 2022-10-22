@@ -166,7 +166,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1480,
+      "ask": 1400,
       "bid": 805,
       "vendor": 75
     },
@@ -422,7 +422,7 @@
     },
     "Crimson Cheese": {
       "ask": 219,
-      "bid": 161,
+      "bid": 165,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -546,7 +546,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 80,
+      "ask": 76,
       "bid": 56,
       "vendor": 36
     },
@@ -557,7 +557,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 150,
-      "bid": 129,
+      "bid": 130,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -691,8 +691,8 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 103332,
-      "bid": 90000,
+      "ask": 103333,
+      "bid": 82000,
       "vendor": 80190
     },
     "Holy Milk": {
@@ -857,7 +857,7 @@
     },
     "Peach": {
       "ask": 66,
-      "bid": 29,
+      "bid": 30,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -956,7 +956,7 @@
       "vendor": 11988
     },
     "Rainbow Hammer": {
-      "ask": 47154,
+      "ask": 49637,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1062,17 +1062,17 @@
     },
     "Spaceberry Cake": {
       "ask": 900,
-      "bid": 775,
+      "bid": 755,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 810,
+      "ask": 809,
       "bid": 566,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
       "ask": 490,
-      "bid": 355,
+      "bid": 357,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1101,7 +1101,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 597,
+      "ask": 539,
       "bid": 360,
       "vendor": 75
     },
@@ -1156,17 +1156,17 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 1591,
+      "ask": 1585,
       "bid": 650,
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 582,
+      "ask": 581,
       "bid": 250,
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 959,
+      "ask": 950,
       "bid": 300,
       "vendor": 40
     },
@@ -1182,7 +1182,7 @@
     },
     "Super Power Coffee": {
       "ask": 1359,
-      "bid": 1101,
+      "bid": 1150,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1197,11 +1197,11 @@
     },
     "Sweep": {
       "ask": 69998,
-      "bid": 40002,
+      "bid": 40001,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 897,
+      "ask": 896,
       "bid": 692,
       "vendor": 50
     },
@@ -1347,7 +1347,7 @@
     },
     "Werewolf Claw": {
       "ask": 979998,
-      "bid": 653123,
+      "bid": 700000,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666448102.5981302
+  "time": 1666449002.3177938
 }
