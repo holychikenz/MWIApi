@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 12,
+      "ask": 13,
       "bid": 10,
       "vendor": 10
     },
@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 297,
-      "bid": 212,
+      "bid": 215,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -131,8 +131,8 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 549999,
-      "bid": 400036,
+      "ask": 549998,
+      "bid": 400037,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -212,7 +212,7 @@
     },
     "Burble Cheese": {
       "ask": 265,
-      "bid": 162,
+      "bid": 165,
       "vendor": 36
     },
     "Burble Enhancer": {
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 58,
+      "ask": 1000000000000,
       "bid": 26,
       "vendor": 1
     },
@@ -591,17 +591,17 @@
       "vendor": 24
     },
     "Gobo Slasher": {
-      "ask": 17642,
+      "ask": 21659,
       "bid": 3001,
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 19109,
+      "ask": 24696,
       "bid": 1,
       "vendor": 20000
     },
     "Gobo Stabber": {
-      "ask": 14771,
+      "ask": 20093,
       "bid": 1500,
       "vendor": 20000
     },
@@ -667,7 +667,7 @@
     },
     "Holy Cheese": {
       "ask": 671,
-      "bid": 616,
+      "bid": 617,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -776,7 +776,7 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 569999,
+      "ask": 569998,
       "bid": 335009,
       "vendor": 1000
     },
@@ -861,7 +861,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 139,
+      "ask": 138,
       "bid": 75,
       "vendor": 40
     },
@@ -886,7 +886,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 149,
+      "ask": 148,
       "bid": 64,
       "vendor": 30
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Cheese": {
       "ask": 273,
-      "bid": 196,
+      "bid": 200,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1066,7 +1066,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 898,
+      "ask": 810,
       "bid": 566,
       "vendor": 75
     },
@@ -1267,7 +1267,7 @@
     },
     "Verdant Cheese": {
       "ask": 299,
-      "bid": 151,
+      "bid": 175,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666441803.363478
+  "time": 1666442703.2152207
 }
