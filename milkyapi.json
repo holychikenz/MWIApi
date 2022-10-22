@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 119,
+      "ask": 400,
       "bid": 98,
       "vendor": 4
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 38,
+      "ask": 300,
       "bid": 30,
       "vendor": 2
     },
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 245,
-      "bid": 216,
+      "bid": 217,
       "vendor": 12
     },
     "Cheese": {
@@ -526,8 +526,8 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 46,
-      "bid": 21,
+      "ask": 300,
+      "bid": 25,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -557,7 +557,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 150,
-      "bid": 126,
+      "bid": 128,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -697,7 +697,7 @@
     },
     "Holy Milk": {
       "ask": 222,
-      "bid": 196,
+      "bid": 186,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -782,7 +782,7 @@
     },
     "Marsberry": {
       "ask": 93,
-      "bid": 67,
+      "bid": 70,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -811,7 +811,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 46,
+      "ask": 47,
       "bid": 36,
       "vendor": 9
     },
@@ -857,7 +857,7 @@
     },
     "Peach": {
       "ask": 67,
-      "bid": 25,
+      "bid": 28,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 387777,
+      "ask": 385000,
       "bid": 58000,
       "vendor": 1000
     },
@@ -1012,12 +1012,12 @@
     },
     "Red Tea Leaf": {
       "ask": 238,
-      "bid": 202,
+      "bid": 205,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
       "ask": 193,
-      "bid": 121,
+      "bid": 125,
       "vendor": 8
     },
     "Scratch": {
@@ -1057,7 +1057,7 @@
     },
     "Spaceberry": {
       "ask": 237,
-      "bid": 161,
+      "bid": 165,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1072,7 +1072,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 490,
-      "bid": 352,
+      "bid": 353,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1082,7 +1082,7 @@
     },
     "Stalactite Shard": {
       "ask": 1999999,
-      "bid": 1000007,
+      "bid": 1000010,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1097,7 +1097,7 @@
     },
     "Star Fruit": {
       "ask": 184,
-      "bid": 145,
+      "bid": 151,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1106,12 +1106,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 722,
+      "ask": 720,
       "bid": 620,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 47,
+      "ask": 300,
       "bid": 35,
       "vendor": 6
     },
@@ -1146,7 +1146,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1881,
+      "ask": 1880,
       "bid": 850,
       "vendor": 75
     },
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 960,
+      "ask": 959,
       "bid": 300,
       "vendor": 40
     },
@@ -1357,7 +1357,7 @@
     },
     "Wheat": {
       "ask": 42,
-      "bid": 18,
+      "bid": 19,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666437303.1572626
+  "time": 1666438203.270581
 }
