@@ -16,12 +16,12 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 66,
+      "ask": 65,
       "bid": 44,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": -1,
+      "ask": 249,
       "bid": 81,
       "vendor": 4
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 233,
+      "ask": 221,
       "bid": 217,
       "vendor": 12
     },
@@ -386,7 +386,7 @@
       "vendor": 0
     },
     "Cooking Tea": {
-      "ask": 248,
+      "ask": 249,
       "bid": 200,
       "vendor": 20
     },
@@ -531,7 +531,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 226,
+      "ask": 215,
       "bid": 193,
       "vendor": 54
     },
@@ -566,7 +566,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 427498,
+      "ask": 406123,
       "bid": 385020,
       "vendor": 1000
     },
@@ -651,7 +651,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 109248,
+      "ask": 109000,
       "bid": 85000,
       "vendor": 62370
     },
@@ -681,7 +681,7 @@
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": 101888,
+      "ask": 100000,
       "bid": 51,
       "vendor": 62370
     },
@@ -691,7 +691,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 103333,
+      "ask": 103300,
       "bid": 82000,
       "vendor": 80190
     },
@@ -701,7 +701,7 @@
       "vendor": 54
     },
     "Holy Plate Body": {
-      "ask": 118888,
+      "ask": 118000,
       "bid": 58111,
       "vendor": 71280
     },
@@ -771,7 +771,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 225000,
+      "ask": 213750,
       "bid": 165011,
       "vendor": 10000
     },
@@ -882,7 +882,7 @@
     },
     "Plum": {
       "ask": 118,
-      "bid": 80,
+      "bid": 81,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 222,
+      "ask": 211,
       "bid": 207,
       "vendor": 27
     },
@@ -1056,23 +1056,23 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 233,
+      "ask": 232,
       "bid": 165,
       "vendor": 27
     },
     "Spaceberry Cake": {
       "ask": 900,
-      "bid": 755,
+      "bid": 756,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 809,
-      "bid": 567,
+      "ask": 768,
+      "bid": 569,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 490,
-      "bid": 357,
+      "ask": 466,
+      "bid": 358,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 726,
+      "ask": 700,
       "bid": 621,
       "vendor": 75
     },
@@ -1337,7 +1337,7 @@
     },
     "Vision Helmet": {
       "ask": 375000,
-      "bid": 4,
+      "bid": 199994,
       "vendor": 20000
     },
     "Vision Shield": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666452602.3844125
+  "time": 1666453503.019999
 }
