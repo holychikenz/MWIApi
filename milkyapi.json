@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": -1,
-      "bid": 80,
+      "bid": 81,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 114194,
+      "ask": 114193,
       "bid": 16038,
       "vendor": 3000
     },
@@ -917,7 +917,7 @@
     },
     "Precision": {
       "ask": 99999,
-      "bid": 28121,
+      "bid": 28122,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -941,7 +941,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 255,
+      "ask": 250,
       "bid": 202,
       "vendor": 81
     },
@@ -1081,7 +1081,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 1799999,
+      "ask": 1599999,
       "bid": 1000010,
       "vendor": 10000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666451702.5651689
+  "time": 1666452602.3844125
 }
