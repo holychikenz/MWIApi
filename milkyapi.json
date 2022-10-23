@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 248,
-      "bid": 90,
+      "bid": 100,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -152,7 +152,7 @@
     },
     "Blackberry": {
       "ask": 56,
-      "bid": 44,
+      "bid": 45,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 73,
+      "ask": 71,
       "bid": 23,
       "vendor": 1
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 997,
+      "ask": -1,
       "bid": 501,
       "vendor": 10
     },
@@ -632,7 +632,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 101795,
-      "bid": 66196,
+      "bid": 66197,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 237,
+      "ask": 225,
       "bid": 207,
       "vendor": 27
     },
@@ -1167,7 +1167,7 @@
     },
     "Super Foraging Tea": {
       "ask": 999,
-      "bid": 450,
+      "bid": 751,
       "vendor": 40
     },
     "Super Intelligence Coffee": {
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 950,
+      "ask": 900,
       "bid": 801,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666532702.734617
+  "time": 1666533602.2741704
 }
