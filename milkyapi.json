@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1066,
+      "ask": 1065,
       "bid": 650,
       "vendor": 50
     },
@@ -551,7 +551,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 888,
+      "ask": 887,
       "bid": 301,
       "vendor": 40
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1000,
+      "ask": -1,
       "bid": 506,
       "vendor": 10
     },
@@ -752,7 +752,7 @@
     },
     "Living Granite": {
       "ask": 1750000,
-      "bid": 1300012,
+      "bid": 1350000,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -801,7 +801,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 44,
+      "ask": 43,
       "bid": 26,
       "vendor": 2
     },
@@ -1076,8 +1076,8 @@
       "vendor": 54
     },
     "Spike Shell": {
-      "ask": 119994,
-      "bid": 47252,
+      "ask": 119995,
+      "bid": 45002,
       "vendor": 1000
     },
     "Stalactite Shard": {
@@ -1176,13 +1176,13 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 749,
+      "ask": 750,
       "bid": 701,
       "vendor": 40
     },
     "Super Power Coffee": {
       "ask": 1334,
-      "bid": 1155,
+      "bid": 1200,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666554303.4681387
+  "time": 1666555202.4015663
 }
