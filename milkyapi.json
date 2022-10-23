@@ -172,7 +172,7 @@
     },
     "Blueberry": {
       "ask": 77,
-      "bid": 20,
+      "bid": 21,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -466,7 +466,7 @@
       "vendor": 9072
     },
     "Crimson Pot": {
-      "ask": -1,
+      "ask": 12000,
       "bid": 6815,
       "vendor": 9072
     },
@@ -476,7 +476,7 @@
       "vendor": 9072
     },
     "Crimson Spatula": {
-      "ask": -1,
+      "ask": 9000,
       "bid": 6810,
       "vendor": 9072
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1000,
+      "ask": 950,
       "bid": 501,
       "vendor": 10
     },
@@ -747,7 +747,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 254,
-      "bid": 202,
+      "bid": 203,
       "vendor": 12
     },
     "Living Granite": {
@@ -986,7 +986,7 @@
       "vendor": 20979
     },
     "Rainbow Pot": {
-      "ask": 55545,
+      "ask": 50000,
       "bid": 23000,
       "vendor": 20979
     },
@@ -1161,12 +1161,12 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 577,
+      "ask": 578,
       "bid": 350,
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 10000,
+      "ask": 1999,
       "bid": 755,
       "vendor": 40
     },
@@ -1356,7 +1356,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 42,
+      "ask": 30,
       "bid": 19,
       "vendor": 1
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666541702.639374
+  "time": 1666542602.282913
 }
