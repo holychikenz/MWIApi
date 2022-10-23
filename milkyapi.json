@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 248,
-      "bid": 100,
+      "bid": 101,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -167,7 +167,7 @@
     },
     "Blessed Tea": {
       "ask": 1399,
-      "bid": 805,
+      "bid": 900,
       "vendor": 75
     },
     "Blueberry": {
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 650,
+      "ask": 672,
       "bid": 636,
       "vendor": 162
     },
@@ -1102,12 +1102,12 @@
     },
     "Star Fruit Gummy": {
       "ask": 596,
-      "bid": 364,
+      "bid": 366,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 730,
-      "bid": 623,
+      "bid": 624,
       "vendor": 75
     },
     "Strawberry": {
@@ -1162,7 +1162,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 578,
-      "bid": 250,
+      "bid": 350,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1231,7 +1231,7 @@
       "vendor": 108
     },
     "Vampire Fang": {
-      "ask": 999999,
+      "ask": 999998,
       "bid": 950000,
       "vendor": 10000
     },
@@ -1346,7 +1346,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 979996,
+      "ask": 979995,
       "bid": 700006,
       "vendor": 10000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666533602.2741704
+  "time": 1666534503.3090408
 }
