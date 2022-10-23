@@ -51,7 +51,7 @@
       "vendor": 1296
     },
     "Azure Bulwark": {
-      "ask": 25000,
+      "ask": 30000,
       "bid": -1,
       "vendor": 2592
     },
@@ -131,8 +131,8 @@
       "vendor": 54
     },
     "Berserk": {
-      "ask": 500000,
-      "bid": 415005,
+      "ask": 499999,
+      "bid": 415006,
       "vendor": 1000
     },
     "Black Bear Fluff": {
@@ -206,7 +206,7 @@
       "vendor": 3240
     },
     "Burble Bulwark": {
-      "ask": 65000,
+      "ask": -1,
       "bid": 1,
       "vendor": 6480
     },
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 209,
+      "ask": 200,
       "bid": 176,
       "vendor": 54
     },
@@ -772,7 +772,7 @@
     },
     "Magnifying Glass": {
       "ask": 213750,
-      "bid": 165011,
+      "bid": 115021,
       "vendor": 10000
     },
     "Maim": {
@@ -871,8 +871,8 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 384995,
-      "bid": 105000,
+      "ask": 384998,
+      "bid": 105003,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -966,7 +966,7 @@
       "vendor": 14985
     },
     "Rainbow Mace": {
-      "ask": 45495,
+      "ask": 40000,
       "bid": -1,
       "vendor": 26973
     },
@@ -1367,7 +1367,7 @@
     },
     "Wisdom Tea": {
       "ask": 744,
-      "bid": 666,
+      "bid": 700,
       "vendor": 30
     },
     "Yogurt": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666518303.069767
+  "time": 1666519202.8174064
 }
