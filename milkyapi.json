@@ -126,7 +126,7 @@
       "vendor": 1944
     },
     "Bear Essence": {
-      "ask": 131,
+      "ask": 132,
       "bid": 95,
       "vendor": 54
     },
@@ -231,7 +231,7 @@
       "vendor": 3780
     },
     "Burble Helmet": {
-      "ask": 11112,
+      "ask": -1,
       "bid": 2805,
       "vendor": 2700
     },
@@ -251,7 +251,7 @@
       "vendor": 4320
     },
     "Burble Plate Legs": {
-      "ask": 15757,
+      "ask": 21435,
       "bid": 1500,
       "vendor": 3780
     },
@@ -591,8 +591,8 @@
       "vendor": 24
     },
     "Gobo Slasher": {
-      "ask": 20425,
-      "bid": 3001,
+      "ask": 21659,
+      "bid": 3000,
       "vendor": 20000
     },
     "Gobo Smasher": {
@@ -882,7 +882,7 @@
     },
     "Plum": {
       "ask": 99,
-      "bid": 29,
+      "bid": 31,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -941,7 +941,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 271,
+      "ask": 273,
       "bid": 211,
       "vendor": 81
     },
@@ -1112,7 +1112,7 @@
     },
     "Strawberry": {
       "ask": 20,
-      "bid": 15,
+      "bid": 16,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1181,8 +1181,8 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1309,
-      "bid": 1205,
+      "ask": 1306,
+      "bid": 1203,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1267,7 +1267,7 @@
     },
     "Verdant Cheese": {
       "ask": 293,
-      "bid": 166,
+      "bid": 168,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1346,7 +1346,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 979991,
+      "ask": 979990,
       "bid": 840001,
       "vendor": 10000
     },
@@ -1361,8 +1361,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1300,
-      "bid": 900,
+      "ask": 1298,
+      "bid": 801,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666648802.64441
+  "time": 1666649703.1164813
 }
