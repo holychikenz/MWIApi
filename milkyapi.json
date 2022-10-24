@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 242,
-      "bid": 107,
+      "bid": 109,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 20,
+      "ask": 19,
       "bid": 17,
       "vendor": 4
     },
@@ -171,8 +171,8 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 20,
-      "bid": 15,
+      "ask": 19,
+      "bid": 17,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -506,7 +506,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 83,
+      "ask": 82,
       "bid": 73,
       "vendor": 14
     },
@@ -547,7 +547,7 @@
     },
     "Eyessence": {
       "ask": 61,
-      "bid": 58,
+      "bid": 57,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -736,7 +736,7 @@
       "vendor": 80190
     },
     "Intelligence Coffee": {
-      "ask": 335,
+      "ask": -1,
       "bid": 254,
       "vendor": 10
     },
@@ -771,7 +771,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 179998,
+      "ask": 150000,
       "bid": 115022,
       "vendor": 10000
     },
@@ -781,8 +781,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 40,
-      "bid": 34,
+      "ask": 78,
+      "bid": 35,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -811,7 +811,7 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 20,
+      "ask": 19,
       "bid": 16,
       "vendor": 9
     },
@@ -827,7 +827,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 31,
-      "bid": 26,
+      "bid": 25,
       "vendor": 18
     },
     "Orange": {
@@ -856,7 +856,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 26,
+      "ask": 24,
       "bid": 17,
       "vendor": 9
     },
@@ -867,7 +867,7 @@
     },
     "Peach Yogurt": {
       "ask": 225,
-      "bid": 157,
+      "bid": 158,
       "vendor": 40
     },
     "Pierce": {
@@ -887,7 +887,7 @@
     },
     "Plum Gummy": {
       "ask": 98,
-      "bid": 67,
+      "bid": 68,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -1011,8 +1011,8 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 250,
-      "bid": 221,
+      "ask": 265,
+      "bid": 222,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
@@ -1111,7 +1111,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 19,
+      "ask": 20,
       "bid": 18,
       "vendor": 6
     },
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 1397,
+      "ask": 1200,
       "bid": 751,
       "vendor": 40
     },
@@ -1201,7 +1201,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 895,
+      "ask": 894,
       "bid": 696,
       "vendor": 50
     },
@@ -1267,7 +1267,7 @@
     },
     "Verdant Cheese": {
       "ask": 293,
-      "bid": 161,
+      "bid": 162,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666644303.7582574
+  "time": 1666645203.2369752
 }
