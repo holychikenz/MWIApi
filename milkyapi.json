@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 899,
+      "ask": 890,
       "bid": 750,
       "vendor": 10
     },
@@ -586,7 +586,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 47,
+      "ask": -1,
       "bid": -1,
       "vendor": 24
     },
@@ -1171,12 +1171,12 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1000000,
+      "ask": 2000,
       "bid": 668,
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 950,
+      "ask": 1559,
       "bid": 701,
       "vendor": 40
     },
@@ -1197,7 +1197,7 @@
     },
     "Sweep": {
       "ask": 42750,
-      "bid": 1001,
+      "bid": 10000,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1211,7 +1211,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 14000,
+      "ask": 27000,
       "bid": 10000,
       "vendor": 1500
     },
@@ -1266,7 +1266,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 293,
+      "ask": 292,
       "bid": 201,
       "vendor": 12
     },
@@ -1296,7 +1296,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 141,
+      "ask": 140,
       "bid": 61,
       "vendor": 4
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666622702.9854186
+  "time": 1666623602.9104815
 }
