@@ -121,8 +121,8 @@
       "vendor": 1944
     },
     "Azure Sword": {
-      "ask": -1,
-      "bid": 1875,
+      "ask": 2041,
+      "bid": 1874,
       "vendor": 1944
     },
     "Bear Essence": {
@@ -277,7 +277,7 @@
     },
     "Burble Sword": {
       "ask": -1,
-      "bid": 3800,
+      "bid": -1,
       "vendor": 4860
     },
     "Burble Tea Leaf": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 650,
+      "ask": 649,
       "bid": 400,
       "vendor": 50
     },
@@ -751,7 +751,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 1749997,
+      "ask": 1662497,
       "bid": 1350003,
       "vendor": 10000
     },
@@ -786,7 +786,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 748,
+      "ask": 749,
       "bid": 318,
       "vendor": 50
     },
@@ -1196,7 +1196,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 45000,
+      "ask": 42750,
       "bid": 1001,
       "vendor": 1000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666603802.241912
+  "time": 1666604703.5015843
 }
