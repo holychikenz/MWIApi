@@ -356,8 +356,8 @@
       "vendor": 84
     },
     "Cheese Spatula": {
-      "ask": 250,
-      "bid": -1,
+      "ask": 1000000,
+      "bid": 160,
       "vendor": 84
     },
     "Cheese Spear": {
@@ -401,7 +401,7 @@
       "vendor": 1500
     },
     "Crimson Boots": {
-      "ask": 29936,
+      "ask": 25000,
       "bid": 5715,
       "vendor": 5184
     },
@@ -506,7 +506,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 91,
+      "ask": 85,
       "bid": 79,
       "vendor": 14
     },
@@ -556,7 +556,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 240,
+      "ask": 220,
       "bid": 134,
       "vendor": 27
     },
@@ -667,7 +667,7 @@
     },
     "Holy Cheese": {
       "ask": 671,
-      "bid": 652,
+      "bid": 653,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -697,7 +697,7 @@
     },
     "Holy Milk": {
       "ask": 208,
-      "bid": 184,
+      "bid": 185,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -781,7 +781,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 88,
+      "ask": 80,
       "bid": 65,
       "vendor": 14
     },
@@ -812,7 +812,7 @@
     },
     "Mooberry": {
       "ask": 40,
-      "bid": 24,
+      "bid": 25,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 149,
+      "ask": 150,
       "bid": 139,
       "vendor": 27
     },
@@ -1102,7 +1102,7 @@
     },
     "Star Fruit Gummy": {
       "ask": 538,
-      "bid": 374,
+      "bid": 375,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
@@ -1126,7 +1126,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 440000,
+      "ask": 439999,
       "bid": 255002,
       "vendor": 1000
     },
@@ -1146,7 +1146,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1869,
+      "ask": 1850,
       "bid": 907,
       "vendor": 75
     },
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 1000,
+      "ask": 990,
       "bid": 751,
       "vendor": 40
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 950,
+      "ask": 1560,
       "bid": 701,
       "vendor": 40
     },
@@ -1261,7 +1261,7 @@
       "vendor": 360
     },
     "Verdant Bulwark": {
-      "ask": -1,
+      "ask": 5000,
       "bid": 1201,
       "vendor": 720
     },
@@ -1356,7 +1356,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 42,
+      "ask": 47,
       "bid": 19,
       "vendor": 1
     },
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 756,
+      "ask": 758,
       "bid": 700,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666617302.7322285
+  "time": 1666618202.9117045
 }
