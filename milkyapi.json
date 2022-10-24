@@ -326,7 +326,7 @@
       "vendor": 84
     },
     "Cheese Helmet": {
-      "ask": 4000,
+      "ask": -1,
       "bid": 270,
       "vendor": 60
     },
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 649,
+      "ask": 645,
       "bid": 400,
       "vendor": 50
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 61,
+      "ask": 60,
       "bid": 24,
       "vendor": 1
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 168,
+      "ask": 167,
       "bid": 111,
       "vendor": 4
     },
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 203,
+      "ask": 200,
       "bid": 157,
       "vendor": 40
     },
@@ -881,8 +881,8 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 155,
-      "bid": 21,
+      "ask": 154,
+      "bid": 22,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -941,7 +941,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 255,
+      "ask": 274,
       "bid": 210,
       "vendor": 81
     },
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 150,
+      "ask": 149,
       "bid": 139,
       "vendor": 27
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 1580,
+      "ask": 1000,
       "bid": 701,
       "vendor": 40
     },
@@ -1346,8 +1346,8 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 950000,
-      "bid": 615001,
+      "ask": 949999,
+      "bid": 620000,
       "vendor": 10000
     },
     "Werewolf Slasher": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666611903.870525
+  "time": 1666613703.4803581
 }
