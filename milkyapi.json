@@ -172,7 +172,7 @@
     },
     "Blueberry": {
       "ask": 77,
-      "bid": 37,
+      "bid": 45,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -356,8 +356,8 @@
       "vendor": 84
     },
     "Cheese Spatula": {
-      "ask": 1000000,
-      "bid": 500,
+      "ask": 250,
+      "bid": -1,
       "vendor": 84
     },
     "Cheese Spear": {
@@ -451,7 +451,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 25,
+      "ask": 26,
       "bid": 21,
       "vendor": 18
     },
@@ -551,7 +551,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 887,
+      "ask": 888,
       "bid": 301,
       "vendor": 40
     },
@@ -566,13 +566,13 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 427454,
+      "ask": 427453,
       "bid": 385022,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1500,
-      "bid": 651,
+      "ask": 900,
+      "bid": 750,
       "vendor": 10
     },
     "Gator Vest": {
@@ -627,7 +627,7 @@
     },
     "Green Tea Leaf": {
       "ask": 168,
-      "bid": 101,
+      "bid": 110,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -782,7 +782,7 @@
     },
     "Marsberry": {
       "ask": 88,
-      "bid": 66,
+      "bid": 64,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1297,7 +1297,7 @@
     },
     "Verdant Milk": {
       "ask": 142,
-      "bid": 75,
+      "bid": 60,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666610102.973127
+  "time": 1666611002.906132
 }
