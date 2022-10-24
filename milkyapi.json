@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 69,
+      "ask": 68,
       "bid": 44,
       "vendor": 16
     },
@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 326,
+      "ask": 327,
       "bid": 261,
       "vendor": 24
     },
@@ -466,7 +466,7 @@
       "vendor": 9072
     },
     "Crimson Pot": {
-      "ask": 12000,
+      "ask": -1,
       "bid": 6815,
       "vendor": 9072
     },
@@ -476,7 +476,7 @@
       "vendor": 9072
     },
     "Crimson Spatula": {
-      "ask": 9000,
+      "ask": -1,
       "bid": 6810,
       "vendor": 9072
     },
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 671,
+      "ask": 670,
       "bid": 653,
       "vendor": 162
     },
@@ -697,7 +697,7 @@
     },
     "Holy Milk": {
       "ask": 208,
-      "bid": 185,
+      "bid": 184,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -771,13 +771,13 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 180500,
+      "ask": 180000,
       "bid": 115021,
       "vendor": 10000
     },
     "Maim": {
-      "ask": 424999,
-      "bid": 344400,
+      "ask": 399000,
+      "bid": 335008,
       "vendor": 1000
     },
     "Marsberry": {
@@ -786,7 +786,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 748,
+      "ask": 700,
       "bid": 318,
       "vendor": 50
     },
@@ -1081,7 +1081,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 1700000,
+      "ask": 1699999,
       "bid": 1050015,
       "vendor": 10000
     },
@@ -1216,7 +1216,7 @@
       "vendor": 1500
     },
     "Turtle Shell Body": {
-      "ask": 10997,
+      "ask": 17063,
       "bid": -1,
       "vendor": 9000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666620002.517071
+  "time": 1666620903.0172808
 }
