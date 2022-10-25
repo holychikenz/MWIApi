@@ -406,7 +406,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 60000,
+      "ask": 25000,
       "bid": 10100,
       "vendor": 9072
     },
@@ -431,12 +431,12 @@
       "vendor": 9072
     },
     "Crimson Gauntlets": {
-      "ask": 49875,
+      "ask": 40000,
       "bid": 5503,
       "vendor": 5184
     },
     "Crimson Hammer": {
-      "ask": -1,
+      "ask": 15000,
       "bid": 6810,
       "vendor": 9072
     },
@@ -476,7 +476,7 @@
       "vendor": 9072
     },
     "Crimson Spatula": {
-      "ask": -1,
+      "ask": 9500,
       "bid": 6810,
       "vendor": 9072
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 994,
+      "ask": 993,
       "bid": 811,
       "vendor": 10
     },
@@ -616,7 +616,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 792,
+      "ask": 791,
       "bid": 303,
       "vendor": 20
     },
@@ -867,7 +867,7 @@
     },
     "Peach Yogurt": {
       "ask": 225,
-      "bid": 157,
+      "bid": 158,
       "vendor": 40
     },
     "Pierce": {
@@ -881,7 +881,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 97,
+      "ask": 96,
       "bid": 69,
       "vendor": 6
     },
@@ -986,7 +986,7 @@
       "vendor": 20979
     },
     "Rainbow Pot": {
-      "ask": 50000,
+      "ask": 40000,
       "bid": 23000,
       "vendor": 20979
     },
@@ -1106,8 +1106,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 804,
-      "bid": 730,
+      "ask": 805,
+      "bid": 731,
       "vendor": 75
     },
     "Strawberry": {
@@ -1146,7 +1146,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1843,
+      "ask": 1842,
       "bid": 916,
       "vendor": 75
     },
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 1195,
+      "ask": 1193,
       "bid": 751,
       "vendor": 40
     },
@@ -1221,7 +1221,7 @@
       "vendor": 9000
     },
     "Turtle Shell Legs": {
-      "ask": 44992,
+      "ask": 40000,
       "bid": -1,
       "vendor": 6000
     },
@@ -1267,7 +1267,7 @@
     },
     "Verdant Cheese": {
       "ask": 293,
-      "bid": 155,
+      "bid": 180,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1297,7 +1297,7 @@
     },
     "Verdant Milk": {
       "ask": 123,
-      "bid": 61,
+      "bid": 47,
       "vendor": 4
     },
     "Verdant Plate Body": {
@@ -1361,8 +1361,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1199,
-      "bid": 801,
+      "ask": 1198,
+      "bid": 752,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666665902.7731385
+  "time": 1666666802.2377121
 }
