@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 644,
+      "ask": 645,
       "bid": 400,
       "vendor": 50
     },
@@ -561,7 +561,7 @@
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": 340,
+      "ask": -1,
       "bid": 210,
       "vendor": 10
     },
@@ -652,7 +652,7 @@
     },
     "Holy Brush": {
       "ask": 108000,
-      "bid": 90000,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -672,7 +672,7 @@
     },
     "Holy Enhancer": {
       "ask": 121441,
-      "bid": 82502,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 222,
+      "ask": 223,
       "bid": 192,
       "vendor": 54
     },
@@ -781,12 +781,12 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 74,
+      "ask": 73,
       "bid": 35,
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 745,
+      "ask": 744,
       "bid": 317,
       "vendor": 50
     },
@@ -882,7 +882,7 @@
     },
     "Plum": {
       "ask": 96,
-      "bid": 62,
+      "bid": 64,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 143,
+      "ask": 191,
       "bid": 141,
       "vendor": 27
     },
@@ -1126,7 +1126,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 425000,
+      "ask": 424999,
       "bid": 255004,
       "vendor": 1000
     },
@@ -1346,7 +1346,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 940000,
+      "ask": 939999,
       "bid": 700000,
       "vendor": 10000
     },
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1274,
+      "ask": 1272,
       "bid": 801,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666664102.700459
+  "time": 1666665002.652339
 }
