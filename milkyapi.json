@@ -141,7 +141,7 @@
       "vendor": 3000
     },
     "Black Bear Shoes": {
-      "ask": -1,
+      "ask": 1000000,
       "bid": 218290,
       "vendor": 60000
     },
@@ -667,7 +667,7 @@
     },
     "Holy Cheese": {
       "ask": 670,
-      "bid": 652,
+      "bid": 655,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -717,7 +717,7 @@
     },
     "Holy Shears": {
       "ask": -1,
-      "bid": 110000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Spatula": {
@@ -866,7 +866,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 224,
+      "ask": 225,
       "bid": 159,
       "vendor": 40
     },
@@ -897,7 +897,7 @@
     },
     "Poke": {
       "ask": 110000,
-      "bid": 11111,
+      "bid": 10001,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -1022,7 +1022,7 @@
     },
     "Scratch": {
       "ask": 49985,
-      "bid": 10100,
+      "bid": 10006,
       "vendor": 1000
     },
     "Smack": {
@@ -1061,7 +1061,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 829,
+      "ask": 839,
       "bid": 706,
       "vendor": 75
     },
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 796,
+      "ask": 800,
       "bid": 710,
       "vendor": 75
     },
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 794,
+      "ask": 795,
       "bid": 701,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666708202.2000036
+  "time": 1666709102.6096845
 }
