@@ -476,7 +476,7 @@
       "vendor": 9072
     },
     "Crimson Spatula": {
-      "ask": 12500,
+      "ask": -1,
       "bid": 6810,
       "vendor": 9072
     },
@@ -507,7 +507,7 @@
     },
     "Dragon Fruit": {
       "ask": 81,
-      "bid": 41,
+      "bid": 42,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -516,7 +516,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 640,
+      "ask": 639,
       "bid": 400,
       "vendor": 50
     },
@@ -801,7 +801,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 90,
+      "ask": 89,
       "bid": 22,
       "vendor": 2
     },
@@ -816,7 +816,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 492,
+      "ask": 491,
       "bid": 173,
       "vendor": 40
     },
@@ -941,7 +941,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 274,
+      "ask": 273,
       "bid": 195,
       "vendor": 81
     },
@@ -1056,8 +1056,8 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 199,
-      "bid": 150,
+      "ask": 214,
+      "bid": 151,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1106,7 +1106,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 800,
+      "ask": 799,
       "bid": 680,
       "vendor": 75
     },
@@ -1296,7 +1296,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 123,
+      "ask": 122,
       "bid": 79,
       "vendor": 4
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666674902.3823807
+  "time": 1666675802.3149023
 }
