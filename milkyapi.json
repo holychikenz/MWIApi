@@ -27,7 +27,7 @@
     },
     "Artisan Tea": {
       "ask": 866,
-      "bid": 700,
+      "bid": -1,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -86,7 +86,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 124,
+      "ask": 123,
       "bid": 48,
       "vendor": 8
     },
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 368,
+      "ask": 367,
       "bid": 168,
       "vendor": 36
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 217,
+      "ask": 220,
       "bid": 161,
       "vendor": 12
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 981,
+      "ask": 978,
       "bid": 800,
       "vendor": 10
     },
@@ -616,7 +616,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 650,
+      "ask": 649,
       "bid": 303,
       "vendor": 20
     },
@@ -801,7 +801,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 48,
+      "ask": 46,
       "bid": 27,
       "vendor": 2
     },
@@ -826,7 +826,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 27,
+      "ask": 28,
       "bid": 25,
       "vendor": 18
     },
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 333333,
+      "ask": 666666,
       "bid": 160001,
       "vendor": 1000
     },
@@ -881,8 +881,8 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 78,
-      "bid": 54,
+      "ask": 77,
+      "bid": 55,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -896,13 +896,13 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 104239,
+      "ask": 110000,
       "bid": 10001,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
       "ask": 124992,
-      "bid": 90935,
+      "bid": 90936,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1096,7 +1096,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 167,
+      "ask": 169,
       "bid": 141,
       "vendor": 27
     },
@@ -1106,12 +1106,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 799,
+      "ask": 800,
       "bid": 711,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 56,
+      "ask": 55,
       "bid": 33,
       "vendor": 6
     },
@@ -1136,7 +1136,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 894,
+      "ask": 895,
       "bid": 450,
       "vendor": 50
     },
@@ -1156,7 +1156,7 @@
       "vendor": 50
     },
     "Super Defense Coffee": {
-      "ask": 945,
+      "ask": 944,
       "bid": 655,
       "vendor": 50
     },
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 999,
+      "ask": 998,
       "bid": 201,
       "vendor": 40
     },
@@ -1296,7 +1296,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 68,
+      "ask": 65,
       "bid": 27,
       "vendor": 4
     },
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1050,
+      "ask": 1049,
       "bid": 760,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666729802.0902958
+  "time": 1666730703.4679985
 }
