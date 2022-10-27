@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 24,
-      "bid": 20,
+      "ask": 75,
+      "bid": 5,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -147,7 +147,7 @@
     },
     "Black Tea Leaf": {
       "ask": 74,
-      "bid": 65,
+      "bid": 66,
       "vendor": 8
     },
     "Blackberry": {
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 222,
+      "ask": 150,
       "bid": 24,
       "vendor": 2
     },
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 320,
+      "ask": 319,
       "bid": 186,
       "vendor": 36
     },
@@ -241,8 +241,8 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 46,
-      "bid": 28,
+      "ask": 45,
+      "bid": 29,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -282,7 +282,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 264,
-      "bid": 220,
+      "bid": 221,
       "vendor": 12
     },
     "Cheese": {
@@ -421,7 +421,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 249,
+      "ask": 248,
       "bid": 171,
       "vendor": 54
     },
@@ -452,7 +452,7 @@
     },
     "Crimson Milk": {
       "ask": 98,
-      "bid": 27,
+      "bid": 30,
       "vendor": 18
     },
     "Crimson Plate Body": {
@@ -527,7 +527,7 @@
     },
     "Egg": {
       "ask": 37,
-      "bid": 28,
+      "bid": 29,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -557,7 +557,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 209,
-      "bid": 150,
+      "bid": 158,
       "vendor": 27
     },
     "Foraging Tea": {
@@ -781,7 +781,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 67,
+      "ask": 60,
       "bid": 25,
       "vendor": 14
     },
@@ -856,8 +856,8 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 19,
-      "bid": 17,
+      "ask": 21,
+      "bid": -1,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -881,7 +881,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 71,
+      "ask": 70,
       "bid": 46,
       "vendor": 6
     },
@@ -1017,7 +1017,7 @@
     },
     "Robusta Coffee Bean": {
       "ask": 190,
-      "bid": 102,
+      "bid": 120,
       "vendor": 8
     },
     "Scratch": {
@@ -1112,7 +1112,7 @@
     },
     "Strawberry": {
       "ask": 42,
-      "bid": 38,
+      "bid": 37,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1267,7 +1267,7 @@
     },
     "Verdant Cheese": {
       "ask": 282,
-      "bid": 199,
+      "bid": 200,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 900,
+      "ask": 899,
       "bid": 758,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666883703.042821
+  "time": 1666884603.4188035
 }
