@@ -711,7 +711,7 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 127567,
+      "ask": -1,
       "bid": 80001,
       "vendor": 62370
     },
@@ -747,7 +747,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 268,
-      "bid": 210,
+      "bid": 211,
       "vendor": 12
     },
     "Living Granite": {
@@ -1181,7 +1181,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1234,
+      "ask": 1299,
       "bid": 1007,
       "vendor": 75
     },
@@ -1197,7 +1197,7 @@
     },
     "Sweep": {
       "ask": 38572,
-      "bid": 17007,
+      "bid": 17008,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666899903.6507213
+  "time": 1666900802.1283913
 }
