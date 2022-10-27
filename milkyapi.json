@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 75,
-      "bid": 5,
+      "bid": 6,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 895,
+      "ask": 850,
       "bid": 555,
       "vendor": 10
     },
@@ -626,8 +626,8 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 450,
-      "bid": 76,
+      "ask": 449,
+      "bid": 95,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 697,
+      "ask": 696,
       "bid": 653,
       "vendor": 162
     },
@@ -691,7 +691,7 @@
       "vendor": 44550
     },
     "Holy Mace": {
-      "ask": 98888,
+      "ask": 98800,
       "bid": 82000,
       "vendor": 80190
     },
@@ -726,7 +726,7 @@
       "vendor": 62370
     },
     "Holy Spear": {
-      "ask": 81899,
+      "ask": 81850,
       "bid": -1,
       "vendor": 80190
     },
@@ -747,12 +747,12 @@
     },
     "Liberica Coffee Bean": {
       "ask": 269,
-      "bid": 204,
+      "bid": 205,
       "vendor": 12
     },
     "Living Granite": {
       "ask": 1565341,
-      "bid": 1400020,
+      "bid": -1,
       "vendor": 10000
     },
     "Lucky Coffee": {
@@ -782,7 +782,7 @@
     },
     "Marsberry": {
       "ask": 60,
-      "bid": 25,
+      "bid": 26,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -832,7 +832,7 @@
     },
     "Orange": {
       "ask": 70,
-      "bid": 4,
+      "bid": 5,
       "vendor": 4
     },
     "Orange Gummy": {
@@ -857,7 +857,7 @@
     },
     "Peach": {
       "ask": 21,
-      "bid": -1,
+      "bid": 11,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 500000,
+      "ask": 490000,
       "bid": 225002,
       "vendor": 1000
     },
@@ -917,7 +917,7 @@
     },
     "Precision": {
       "ask": 79990,
-      "bid": 40003,
+      "bid": 16002,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -926,7 +926,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 50000,
+      "ask": 48000,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1136,7 +1136,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 900,
+      "ask": 948,
       "bid": 700,
       "vendor": 50
     },
@@ -1176,12 +1176,12 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 1263,
+      "ask": 1250,
       "bid": 701,
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1300,
+      "ask": 1299,
       "bid": 1006,
       "vendor": 75
     },
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 854,
+      "ask": 899,
       "bid": 758,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666886402.917808
+  "time": 1666887303.3237903
 }
