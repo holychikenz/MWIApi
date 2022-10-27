@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 896,
+      "ask": 895,
       "bid": 555,
       "vendor": 10
     },
@@ -612,7 +612,7 @@
     },
     "Golem Essence": {
       "ask": 468,
-      "bid": 413,
+      "bid": 414,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -666,13 +666,13 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 696,
+      "ask": 697,
       "bid": 653,
       "vendor": 162
     },
     "Holy Enhancer": {
       "ask": 134224,
-      "bid": 100000,
+      "bid": 97500,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -717,7 +717,7 @@
     },
     "Holy Shears": {
       "ask": -1,
-      "bid": 97502,
+      "bid": 97550,
       "vendor": 62370
     },
     "Holy Spatula": {
@@ -747,7 +747,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 269,
-      "bid": 205,
+      "bid": 204,
       "vendor": 12
     },
     "Living Granite": {
@@ -831,8 +831,8 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 11,
-      "bid": 9,
+      "ask": 75,
+      "bid": 4,
       "vendor": 4
     },
     "Orange Gummy": {
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 543800,
+      "ask": 500000,
       "bid": 225002,
       "vendor": 1000
     },
@@ -942,7 +942,7 @@
     },
     "Rainbow Cheese": {
       "ask": 259,
-      "bid": 203,
+      "bid": 204,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -992,7 +992,7 @@
     },
     "Rainbow Shears": {
       "ask": 57999,
-      "bid": 29000,
+      "bid": 25000,
       "vendor": 20979
     },
     "Rainbow Spatula": {
@@ -1056,8 +1056,8 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 110,
-      "bid": 95,
+      "ask": 144,
+      "bid": 93,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666882802.353402
+  "time": 1666883703.042821
 }
