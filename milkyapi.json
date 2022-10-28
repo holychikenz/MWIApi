@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 74,
+      "ask": 99,
       "bid": 6,
       "vendor": 2
     },
@@ -136,7 +136,7 @@
       "vendor": 1000
     },
     "Black Bear Fluff": {
-      "ask": 61530,
+      "ask": 61529,
       "bid": 16038,
       "vendor": 3000
     },
@@ -171,8 +171,8 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 139,
-      "bid": 27,
+      "ask": 138,
+      "bid": 28,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -421,8 +421,8 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 238,
-      "bid": 177,
+      "ask": 237,
+      "bid": 178,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -561,7 +561,7 @@
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": 757,
+      "ask": 756,
       "bid": 210,
       "vendor": 10
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 838,
+      "ask": 837,
       "bid": 501,
       "vendor": 10
     },
@@ -626,12 +626,12 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 270,
-      "bid": 150,
+      "ask": 239,
+      "bid": 151,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 87264,
+      "ask": 87263,
       "bid": 60045,
       "vendor": 3000
     },
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 720,
+      "ask": 730,
       "bid": 656,
       "vendor": 162
     },
@@ -746,8 +746,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 265,
-      "bid": 204,
+      "ask": 264,
+      "bid": 205,
       "vendor": 12
     },
     "Living Granite": {
@@ -781,8 +781,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 66,
-      "bid": 34,
+      "ask": 65,
+      "bid": 35,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -826,12 +826,12 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 38,
+      "ask": 37,
       "bid": 28,
       "vendor": 18
     },
     "Orange": {
-      "ask": 65,
+      "ask": 64,
       "bid": 8,
       "vendor": 4
     },
@@ -881,8 +881,8 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 52,
-      "bid": 26,
+      "ask": 51,
+      "bid": 27,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -942,7 +942,7 @@
     },
     "Rainbow Cheese": {
       "ask": 275,
-      "bid": 215,
+      "bid": 216,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1061,7 +1061,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 989,
+      "ask": 995,
       "bid": 728,
       "vendor": 75
     },
@@ -1096,23 +1096,23 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 150,
+      "ask": 149,
       "bid": 124,
       "vendor": 27
     },
     "Star Fruit Gummy": {
       "ask": 723,
-      "bid": 236,
+      "bid": 237,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 796,
+      "ask": 840,
       "bid": 730,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 34,
-      "bid": 17,
+      "ask": 33,
+      "bid": 18,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1136,7 +1136,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 948,
+      "ask": 5000,
       "bid": 703,
       "vendor": 50
     },
@@ -1146,8 +1146,8 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1762,
-      "bid": 935,
+      "ask": 1760,
+      "bid": 936,
       "vendor": 75
     },
     "Super Cooking Tea": {
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 769,
+      "ask": 767,
       "bid": 400,
       "vendor": 40
     },
@@ -1181,7 +1181,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1299,
+      "ask": 1309,
       "bid": 1024,
       "vendor": 75
     },
@@ -1196,12 +1196,12 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 83932,
-      "bid": 17017,
+      "ask": 83931,
+      "bid": 17018,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1067,
+      "ask": 1070,
       "bid": 736,
       "vendor": 50
     },
@@ -1266,8 +1266,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 275,
-      "bid": 199,
+      "ask": 274,
+      "bid": 200,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666995303.3185577
+  "time": 1666996202.7050338
 }
