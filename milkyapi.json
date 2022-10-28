@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 99,
+      "ask": 10000,
       "bid": 6,
       "vendor": 2
     },
@@ -506,7 +506,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 98,
+      "ask": 97,
       "bid": 71,
       "vendor": 14
     },
@@ -611,7 +611,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 443,
+      "ask": 442,
       "bid": 275,
       "vendor": 108
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 238,
+      "ask": 348,
       "bid": 151,
       "vendor": 4
     },
@@ -1172,7 +1172,7 @@
     },
     "Super Intelligence Coffee": {
       "ask": 1800,
-      "bid": 728,
+      "bid": 730,
       "vendor": 40
     },
     "Super Milking Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1666997103.3693724
+  "time": 1666998002.6572113
 }
