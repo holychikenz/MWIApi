@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 343,
+      "ask": 342,
       "bid": 276,
       "vendor": 24
     },
@@ -112,7 +112,7 @@
     },
     "Azure Spatula": {
       "ask": -1,
-      "bid": 6000,
+      "bid": 3000,
       "vendor": 1512
     },
     "Azure Spear": {
@@ -371,7 +371,7 @@
       "vendor": 108
     },
     "Cheesesmithing Tea": {
-      "ask": 699,
+      "ask": 700,
       "bid": 120,
       "vendor": 30
     },
@@ -586,7 +586,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 105,
+      "ask": 104,
       "bid": 48,
       "vendor": 24
     },
@@ -606,7 +606,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 250000,
+      "ask": 245000,
       "bid": 181002,
       "vendor": 10000
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 283,
+      "ask": 282,
       "bid": 182,
       "vendor": 4
     },
@@ -656,7 +656,7 @@
       "vendor": 62370
     },
     "Holy Buckler": {
-      "ask": -1,
+      "ask": 80000,
       "bid": -1,
       "vendor": 53460
     },
@@ -696,8 +696,8 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 399,
-      "bid": 226,
+      "ask": 349,
+      "bid": 225,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -726,7 +726,7 @@
       "vendor": 62370
     },
     "Holy Spear": {
-      "ask": 81850,
+      "ask": 81849,
       "bid": -1,
       "vendor": 80190
     },
@@ -771,7 +771,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 169098,
+      "ask": 169095,
       "bid": 120000,
       "vendor": 10000
     },
@@ -786,7 +786,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 484,
+      "ask": 483,
       "bid": 333,
       "vendor": 50
     },
@@ -901,7 +901,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 118728,
+      "ask": 118723,
       "bid": 90931,
       "vendor": 3000
     },
@@ -916,7 +916,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 79665,
+      "ask": 78000,
       "bid": 20001,
       "vendor": 1000
     },
@@ -936,7 +936,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 47498,
+      "ask": 47497,
       "bid": -1,
       "vendor": 35964
     },
@@ -951,8 +951,8 @@
       "vendor": 20979
     },
     "Rainbow Gauntlets": {
-      "ask": -1,
-      "bid": 15000,
+      "ask": 29000,
+      "bid": -1,
       "vendor": 11988
     },
     "Rainbow Hammer": {
@@ -961,12 +961,12 @@
       "vendor": 20979
     },
     "Rainbow Helmet": {
-      "ask": 45123,
+      "ask": 42864,
       "bid": -1,
       "vendor": 14985
     },
     "Rainbow Mace": {
-      "ask": 35000,
+      "ask": 34999,
       "bid": -1,
       "vendor": 26973
     },
@@ -976,12 +976,12 @@
       "vendor": 27
     },
     "Rainbow Plate Body": {
-      "ask": 62325,
+      "ask": 59209,
       "bid": -1,
       "vendor": 23976
     },
     "Rainbow Plate Legs": {
-      "ask": 80000,
+      "ask": 60000,
       "bid": 22001,
       "vendor": 20979
     },
@@ -1101,7 +1101,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 706,
+      "ask": 705,
       "bid": 251,
       "vendor": 75
     },
@@ -1196,12 +1196,12 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 92999,
+      "ask": 92995,
       "bid": 17022,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1059,
+      "ask": 1058,
       "bid": 950,
       "vendor": 50
     },
@@ -1336,12 +1336,12 @@
       "vendor": 540
     },
     "Vision Helmet": {
-      "ask": 383333,
-      "bid": 199994,
+      "ask": 383332,
+      "bid": 4,
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 299995,
+      "ask": 299994,
       "bid": 65000,
       "vendor": 20000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667055603.4752376
+  "time": 1667056502.7201598
 }
