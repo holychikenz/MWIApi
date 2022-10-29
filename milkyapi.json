@@ -22,7 +22,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 230,
-      "bid": 127,
+      "bid": 128,
       "vendor": 4
     },
     "Artisan Tea": {
@@ -146,13 +146,13 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 75,
+      "ask": 76,
       "bid": 70,
       "vendor": 8
     },
     "Blackberry": {
       "ask": 53,
-      "bid": 31,
+      "bid": 32,
       "vendor": 4
     },
     "Blackberry Cake": {
@@ -172,7 +172,7 @@
     },
     "Blueberry": {
       "ask": 133,
-      "bid": 30,
+      "bid": 31,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -372,7 +372,7 @@
     },
     "Cheesesmithing Tea": {
       "ask": 700,
-      "bid": 120,
+      "bid": 121,
       "vendor": 30
     },
     "Cleave": {
@@ -422,7 +422,7 @@
     },
     "Crimson Cheese": {
       "ask": 234,
-      "bid": 180,
+      "bid": 181,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -517,7 +517,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 699,
-      "bid": 399,
+      "bid": 400,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -532,7 +532,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 235,
-      "bid": 207,
+      "bid": 208,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -566,7 +566,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 399989,
+      "ask": 379990,
       "bid": 265952,
       "vendor": 1000
     },
@@ -666,8 +666,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 729,
-      "bid": 700,
+      "ask": 730,
+      "bid": 701,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -867,7 +867,7 @@
     },
     "Peach Yogurt": {
       "ask": 285,
-      "bid": 171,
+      "bid": 172,
       "vendor": 40
     },
     "Pierce": {
@@ -887,7 +887,7 @@
     },
     "Plum Gummy": {
       "ask": 126,
-      "bid": 74,
+      "bid": 75,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -901,7 +901,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 118723,
+      "ask": 112787,
       "bid": 90931,
       "vendor": 3000
     },
@@ -1112,7 +1112,7 @@
     },
     "Strawberry": {
       "ask": 22,
-      "bid": 18,
+      "bid": 19,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1137,7 +1137,7 @@
     },
     "Super Attack Coffee": {
       "ask": 4686,
-      "bid": 801,
+      "bid": 802,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1182,11 +1182,11 @@
     },
     "Super Power Coffee": {
       "ask": 1354,
-      "bid": 1027,
+      "bid": 1028,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 690,
+      "ask": 689,
       "bid": 453,
       "vendor": 40
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667061902.9625545
+  "time": 1667062803.4771438
 }
