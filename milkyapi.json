@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 98,
+      "ask": 97,
       "bid": 7,
       "vendor": 2
     },
@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 57,
+      "ask": 56,
       "bid": 37,
       "vendor": 16
     },
@@ -61,7 +61,7 @@
       "vendor": 24
     },
     "Azure Enhancer": {
-      "ask": 16500,
+      "ask": 16599,
       "bid": 1800,
       "vendor": 1512
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 117,
+      "ask": 115,
       "bid": 32,
       "vendor": 2
     },
@@ -396,7 +396,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 64000,
+      "ask": -1,
       "bid": 40021,
       "vendor": 1500
     },
@@ -522,7 +522,7 @@
     },
     "Efficiency Tea": {
       "ask": 1059,
-      "bid": 635,
+      "bid": 900,
       "vendor": 50
     },
     "Egg": {
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 814,
+      "ask": 812,
       "bid": 502,
       "vendor": 10
     },
@@ -626,8 +626,8 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 265,
-      "bid": 197,
+      "ask": 249,
+      "bid": 198,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -662,7 +662,7 @@
     },
     "Holy Bulwark": {
       "ask": 121274,
-      "bid": 110000,
+      "bid": 88111,
       "vendor": 106920
     },
     "Holy Cheese": {
@@ -776,8 +776,8 @@
       "vendor": 10000
     },
     "Maim": {
-      "ask": 355553,
-      "bid": 100017,
+      "ask": 355550,
+      "bid": 100018,
       "vendor": 1000
     },
     "Marsberry": {
@@ -831,12 +831,12 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 48,
+      "ask": 30,
       "bid": 9,
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 66,
+      "ask": 65,
       "bid": 20,
       "vendor": 20
     },
@@ -846,7 +846,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 53064,
+      "ask": 55857,
       "bid": 50170,
       "vendor": 3000
     },
@@ -876,12 +876,12 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 110000,
+      "ask": -1,
       "bid": 48003,
       "vendor": 6000
     },
     "Plum": {
-      "ask": 70,
+      "ask": 69,
       "bid": 29,
       "vendor": 6
     },
@@ -1146,7 +1146,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1302,
+      "ask": 1300,
       "bid": 941,
       "vendor": 75
     },
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 741,
+      "ask": 739,
       "bid": 400,
       "vendor": 40
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667084402.0514612
+  "time": 1667085303.3558729
 }
