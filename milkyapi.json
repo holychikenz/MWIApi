@@ -191,7 +191,7 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": 10000,
+      "ask": -1,
       "bid": -1,
       "vendor": 2160
     },
@@ -506,7 +506,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 83,
+      "ask": 84,
       "bid": 71,
       "vendor": 14
     },
@@ -576,7 +576,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 107000,
+      "ask": 106731,
       "bid": 49619,
       "vendor": 5000
     },
@@ -627,7 +627,7 @@
     },
     "Green Tea Leaf": {
       "ask": 283,
-      "bid": 181,
+      "bid": 182,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 586,
+      "ask": 399,
       "bid": 226,
       "vendor": 54
     },
@@ -742,7 +742,7 @@
     },
     "Large Pouch": {
       "ask": 944782,
-      "bid": 530250,
+      "bid": 505000,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
@@ -751,7 +751,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 1189999,
+      "ask": 1130498,
       "bid": 600000,
       "vendor": 10000
     },
@@ -807,7 +807,7 @@
     },
     "Milking Tea": {
       "ask": 722,
-      "bid": 170,
+      "bid": 200,
       "vendor": 10
     },
     "Mooberry": {
@@ -1021,7 +1021,7 @@
       "vendor": 8
     },
     "Scratch": {
-      "ask": 46000,
+      "ask": 45999,
       "bid": 10008,
       "vendor": 1000
     },
@@ -1237,7 +1237,7 @@
     },
     "Vampire Fang Dirk": {
       "ask": -1,
-      "bid": 1750000,
+      "bid": 1000000,
       "vendor": 400000
     },
     "Vampirism": {
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1039,
+      "ask": 1035,
       "bid": 850,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667054702.7719743
+  "time": 1667055603.4752376
 }
