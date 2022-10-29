@@ -191,7 +191,7 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": -1,
+      "ask": 10000,
       "bid": -1,
       "vendor": 2160
     },
@@ -556,7 +556,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 216,
+      "ask": 217,
       "bid": 180,
       "vendor": 27
     },
@@ -586,7 +586,7 @@
       "vendor": 5000000
     },
     "Gobo Essence": {
-      "ask": 124,
+      "ask": 119,
       "bid": 48,
       "vendor": 24
     },
@@ -631,7 +631,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 87263,
+      "ask": 87261,
       "bid": 60047,
       "vendor": 3000
     },
@@ -857,7 +857,7 @@
     },
     "Peach": {
       "ask": 59,
-      "bid": 35,
+      "bid": 28,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 406113,
+      "ask": 399999,
       "bid": 225001,
       "vendor": 1000
     },
@@ -941,8 +941,8 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 371,
-      "bid": 210,
+      "ask": 300,
+      "bid": 208,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 259,
+      "ask": 267,
       "bid": 225,
       "vendor": 27
     },
@@ -1061,8 +1061,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 926,
-      "bid": 738,
+      "ask": 925,
+      "bid": 740,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1101,12 +1101,12 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 709,
+      "ask": 708,
       "bid": 251,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 840,
+      "ask": 839,
       "bid": 731,
       "vendor": 75
     },
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 761,
+      "ask": 760,
       "bid": 400,
       "vendor": 40
     },
@@ -1202,7 +1202,7 @@
     },
     "Swiftness Coffee": {
       "ask": 1057,
-      "bid": 800,
+      "bid": 900,
       "vendor": 50
     },
     "Toughness": {
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1045,
+      "ask": 1044,
       "bid": 860,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667043903.2397583
+  "time": 1667045702.8884366
 }
