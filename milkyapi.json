@@ -27,12 +27,12 @@
     },
     "Artisan Tea": {
       "ask": 861,
-      "bid": -1,
+      "bid": 100,
       "vendor": 75
     },
     "Attack Coffee": {
       "ask": 1179,
-      "bid": 222,
+      "bid": 223,
       "vendor": 20
     },
     "Azure Boots": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1058,
+      "ask": 1057,
       "bid": 965,
       "vendor": 50
     },
@@ -1201,7 +1201,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1056,
+      "ask": 1055,
       "bid": 800,
       "vendor": 50
     },
@@ -1361,7 +1361,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 900,
+      "ask": 899,
       "bid": 801,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667095202.3855007
+  "time": 1667096103.3228672
 }
