@@ -1,5 +1,5 @@
 {
-  "time": 1667056052.5,
+  "time": 1667056952.5,
   "market": {
     "Apple": {
       "ask": 99.0,
@@ -91,7 +91,7 @@
     },
     "Azure Spatula": {
       "ask": -1.0,
-      "bid": 4500.0
+      "bid": 3000.0
     },
     "Azure Spear": {
       "ask": -1.0,
@@ -466,7 +466,7 @@
       "bid": 15000000.0
     },
     "Gobo Essence": {
-      "ask": 104.5,
+      "ask": 104.0,
       "bid": 48.0
     },
     "Gobo Slasher": {
@@ -482,7 +482,7 @@
       "bid": 1500.0
     },
     "Goggles": {
-      "ask": 247500.0,
+      "ask": 245000.0,
       "bid": 181002.0
     },
     "Gourmet Tea": {
@@ -490,7 +490,7 @@
       "bid": 303.0
     },
     "Green Tea Leaf": {
-      "ask": 282.5,
+      "ask": 282.0,
       "bid": 182.0
     },
     "Grizzly Bear Fluff": {
@@ -514,7 +514,7 @@
       "bid": 90000.0
     },
     "Holy Buckler": {
-      "ask": 39999.5,
+      "ask": 80000.0,
       "bid": -1.0
     },
     "Holy Bulwark": {
@@ -570,7 +570,7 @@
       "bid": 65555.0
     },
     "Holy Spear": {
-      "ask": 81849.5,
+      "ask": 81849.0,
       "bid": -1.0
     },
     "Holy Sword": {
@@ -594,7 +594,7 @@
       "bid": 226.0
     },
     "Magnifying Glass": {
-      "ask": 169096.5,
+      "ask": 169095.0,
       "bid": 120000.0
     },
     "Maim": {
@@ -606,7 +606,7 @@
       "bid": 41.0
     },
     "Marsberry Cake": {
-      "ask": 483.5,
+      "ask": 483.0,
       "bid": 333.0
     },
     "Marsberry Donut": {
@@ -710,7 +710,7 @@
       "bid": 428.0
     },
     "Precision": {
-      "ask": 78832.5,
+      "ask": 78000.0,
       "bid": 20001.0
     },
     "Rainbow Boots": {
@@ -726,7 +726,7 @@
       "bid": -1.0
     },
     "Rainbow Bulwark": {
-      "ask": 47497.5,
+      "ask": 47497.0,
       "bid": -1.0
     },
     "Rainbow Cheese": {
@@ -738,19 +738,19 @@
       "bid": 25000.0
     },
     "Rainbow Gauntlets": {
-      "ask": 14499.5,
-      "bid": 7499.5
+      "ask": 29000.0,
+      "bid": -1.0
     },
     "Rainbow Hammer": {
       "ask": -1.0,
       "bid": 25000.0
     },
     "Rainbow Helmet": {
-      "ask": 43993.5,
+      "ask": 42864.0,
       "bid": -1.0
     },
     "Rainbow Mace": {
-      "ask": 34999.5,
+      "ask": 34999.0,
       "bid": -1.0
     },
     "Rainbow Milk": {
@@ -758,11 +758,11 @@
       "bid": 28.0
     },
     "Rainbow Plate Body": {
-      "ask": 60767.0,
+      "ask": 59209.0,
       "bid": -1.0
     },
     "Rainbow Plate Legs": {
-      "ask": 70000.0,
+      "ask": 60000.0,
       "bid": 22001.0
     },
     "Rainbow Pot": {
@@ -846,7 +846,7 @@
       "bid": 123.0
     },
     "Star Fruit Gummy": {
-      "ask": 705.5,
+      "ask": 705.0,
       "bid": 251.0
     },
     "Star Fruit Yogurt": {
@@ -870,7 +870,7 @@
       "bid": 2.0
     },
     "Super Attack Coffee": {
-      "ask": 4686.5,
+      "ask": 4686.0,
       "bid": 801.0
     },
     "Super Brewing Tea": {
@@ -919,7 +919,7 @@
     },
     "Sweep": {
       "ask": 88343.0,
-      "bid": 17022.0
+      "bid": 17399.5
     },
     "Swiftness Coffee": {
       "ask": 1058.0,
@@ -1031,10 +1031,10 @@
     },
     "Vision Helmet": {
       "ask": 383333.0,
-      "bid": 99999.0
+      "bid": 4.0
     },
     "Vision Shield": {
-      "ask": 299994.5,
+      "ask": 299994.0,
       "bid": 65000.0
     },
     "Werewolf Claw": {
@@ -1099,7 +1099,7 @@
     },
     "Wisdom Coffee": {
       "ask": 1035.0,
-      "bid": 850.0
+      "bid": 837.5
     }
   }
 }
