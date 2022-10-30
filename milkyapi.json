@@ -57,7 +57,7 @@
     },
     "Azure Cheese": {
       "ask": 339,
-      "bid": 243,
+      "bid": 112,
       "vendor": 24
     },
     "Azure Enhancer": {
@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 109,
-      "bid": 54,
+      "bid": 61,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -157,7 +157,7 @@
     },
     "Blackberry Cake": {
       "ask": 999,
-      "bid": 175,
+      "bid": 22,
       "vendor": 20
     },
     "Blackberry Donut": {
@@ -547,7 +547,7 @@
     },
     "Eyessence": {
       "ask": 70,
-      "bid": 59,
+      "bid": 60,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -666,8 +666,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 725,
-      "bid": 635,
+      "ask": 724,
+      "bid": 632,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 290,
+      "ask": 288,
       "bid": 240,
       "vendor": 54
     },
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 258,
+      "ask": 259,
       "bid": 203,
       "vendor": 12
     },
@@ -811,17 +811,17 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 26,
+      "ask": 25,
       "bid": 18,
       "vendor": 9
     },
     "Mooberry Cake": {
       "ask": 400,
-      "bid": 200,
+      "bid": 161,
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 398,
+      "ask": 1000000000000,
       "bid": 150,
       "vendor": 40
     },
@@ -1056,17 +1056,17 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 167,
+      "ask": 168,
       "bid": 90,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 879,
+      "ask": 880,
       "bid": 775,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 650,
+      "ask": 681,
       "bid": 410,
       "vendor": 75
     },
@@ -1117,7 +1117,7 @@
     },
     "Strawberry Cake": {
       "ask": 250,
-      "bid": 175,
+      "bid": 106,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1171,7 +1171,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1425,
+      "ask": 1300,
       "bid": 1200,
       "vendor": 40
     },
@@ -1181,7 +1181,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1669,
+      "ask": 1673,
       "bid": 1028,
       "vendor": 75
     },
@@ -1201,7 +1201,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1058,
+      "ask": 1059,
       "bid": 800,
       "vendor": 50
     },
@@ -1361,12 +1361,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 993,
-      "bid": 756,
+      "ask": 990,
+      "bid": 751,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 774,
+      "ask": 773,
       "bid": 702,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667160903.2234647
+  "time": 1667161803.635809
 }
