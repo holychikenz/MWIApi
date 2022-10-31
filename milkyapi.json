@@ -422,7 +422,7 @@
     },
     "Crimson Cheese": {
       "ask": 225,
-      "bid": 197,
+      "bid": 198,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -566,7 +566,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": -1,
+      "ask": 1000000,
       "bid": 175007,
       "vendor": 1000
     },
@@ -786,7 +786,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 479,
+      "ask": 478,
       "bid": 335,
       "vendor": 50
     },
@@ -1082,7 +1082,7 @@
     },
     "Stalactite Shard": {
       "ask": 1499990,
-      "bid": 1050020,
+      "bid": 1050021,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667178002.3297467
+  "time": 1667178902.9121006
 }
