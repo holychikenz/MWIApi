@@ -652,7 +652,7 @@
     },
     "Holy Brush": {
       "ask": 125000,
-      "bid": 90000,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -666,8 +666,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 685,
-      "bid": 633,
+      "ask": 694,
+      "bid": 650,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -682,7 +682,7 @@
     },
     "Holy Hammer": {
       "ask": -1,
-      "bid": 51,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -712,7 +712,7 @@
     },
     "Holy Pot": {
       "ask": -1,
-      "bid": 80002,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Shears": {
@@ -1061,7 +1061,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 925,
+      "ask": 926,
       "bid": 800,
       "vendor": 75
     },
@@ -1097,7 +1097,7 @@
     },
     "Star Fruit": {
       "ask": 170,
-      "bid": 122,
+      "bid": 116,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1201,7 +1201,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 996,
+      "ask": 998,
       "bid": 895,
       "vendor": 50
     },
@@ -1266,8 +1266,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 211,
-      "bid": 207,
+      "ask": 275,
+      "bid": 208,
       "vendor": 12
     },
     "Verdant Enhancer": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667243703.6955767
+  "time": 1667244602.1118886
 }
