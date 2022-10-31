@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 97,
-      "bid": 8,
+      "bid": 10,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 51,
+      "ask": 50,
       "bid": 37,
       "vendor": 16
     },
@@ -511,12 +511,12 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 604,
+      "ask": 603,
       "bid": 470,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 694,
+      "ask": 693,
       "bid": 400,
       "vendor": 50
     },
@@ -781,7 +781,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 63,
+      "ask": 62,
       "bid": 50,
       "vendor": 14
     },
@@ -1097,11 +1097,11 @@
     },
     "Star Fruit": {
       "ask": 175,
-      "bid": 121,
+      "bid": 115,
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 718,
+      "ask": 717,
       "bid": 251,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667187003.3515682
+  "time": 1667187903.4714894
 }
