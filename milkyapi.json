@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 315,
+      "ask": 150,
       "bid": 112,
       "vendor": 24
     },
@@ -196,7 +196,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 45000,
+      "ask": 25000,
       "bid": 4000,
       "vendor": 3780
     },
@@ -277,7 +277,7 @@
     },
     "Burble Sword": {
       "ask": -1,
-      "bid": 6666,
+      "bid": -1,
       "vendor": 4860
     },
     "Burble Tea Leaf": {
@@ -421,8 +421,8 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 225,
-      "bid": 198,
+      "ask": 236,
+      "bid": 199,
       "vendor": 54
     },
     "Crimson Enhancer": {
@@ -546,8 +546,8 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 65,
-      "bid": 60,
+      "ask": 70,
+      "bid": 59,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -812,7 +812,7 @@
     },
     "Mooberry": {
       "ask": 44,
-      "bid": 18,
+      "bid": 19,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -916,7 +916,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 76666,
+      "ask": 76665,
       "bid": 20003,
       "vendor": 1000
     },
@@ -1266,7 +1266,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 274,
+      "ask": 220,
       "bid": 213,
       "vendor": 12
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667186104.254442
+  "time": 1667187003.3515682
 }
