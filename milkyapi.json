@@ -287,7 +287,7 @@
     },
     "Cheese": {
       "ask": 115,
-      "bid": 59,
+      "bid": 65,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1049,
+      "ask": 1048,
       "bid": 635,
       "vendor": 50
     },
@@ -612,7 +612,7 @@
     },
     "Golem Essence": {
       "ask": 358,
-      "bid": 281,
+      "bid": 282,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -681,8 +681,8 @@
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": 115000,
-      "bid": 51,
+      "ask": -1,
+      "bid": 115000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1076,7 +1076,7 @@
       "vendor": 54
     },
     "Spike Shell": {
-      "ask": 149996,
+      "ask": 149995,
       "bid": 45002,
       "vendor": 1000
     },
@@ -1107,11 +1107,11 @@
     },
     "Star Fruit Yogurt": {
       "ask": 850,
-      "bid": 741,
+      "bid": 742,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 26,
+      "ask": 31,
       "bid": 14,
       "vendor": 6
     },
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 765,
+      "ask": 766,
       "bid": 702,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667177103.4585423
+  "time": 1667178002.3297467
 }
