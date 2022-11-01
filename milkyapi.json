@@ -396,7 +396,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": -1,
+      "ask": 60000,
       "bid": 40021,
       "vendor": 1500
     },
@@ -587,7 +587,7 @@
     },
     "Gobo Essence": {
       "ask": 125,
-      "bid": 67,
+      "bid": 69,
       "vendor": 24
     },
     "Gobo Slasher": {
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 235000,
+      "ask": 234999,
       "bid": 99031,
       "vendor": 1000
     },
@@ -1191,7 +1191,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 69,
+      "ask": 70,
       "bid": 34,
       "vendor": 8
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667285104.2467546
+  "time": 1667286002.9501703
 }
