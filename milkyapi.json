@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 88,
-      "bid": 12,
+      "ask": 87,
+      "bid": 13,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 347,
+      "ask": 329,
       "bid": 213,
       "vendor": 24
     },
@@ -606,7 +606,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 284666,
+      "ask": 270433,
       "bid": 181005,
       "vendor": 10000
     },
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 693,
+      "ask": 691,
       "bid": 650,
       "vendor": 162
     },
@@ -771,7 +771,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 152513,
+      "ask": 144887,
       "bid": 115021,
       "vendor": 10000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667339104.3032765
+  "time": 1667340003.438255
 }
