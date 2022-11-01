@@ -87,7 +87,7 @@
     },
     "Azure Milk": {
       "ask": 74,
-      "bid": 73,
+      "bid": 70,
       "vendor": 8
     },
     "Azure Plate Body": {
@@ -172,7 +172,7 @@
     },
     "Blueberry": {
       "ask": 71,
-      "bid": 34,
+      "bid": -1,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 225,
+      "ask": 224,
       "bid": 205,
       "vendor": 12
     },
@@ -527,7 +527,7 @@
     },
     "Egg": {
       "ask": 34,
-      "bid": 27,
+      "bid": 11,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 195,
+      "ask": 194,
       "bid": 181,
       "vendor": 4
     },
@@ -751,7 +751,7 @@
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 898000,
+      "ask": 897999,
       "bid": 500001,
       "vendor": 10000
     },
@@ -1081,7 +1081,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 1499983,
+      "ask": 1499982,
       "bid": 1060000,
       "vendor": 10000
     },
@@ -1146,7 +1146,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 729,
+      "ask": 719,
       "bid": 531,
       "vendor": 75
     },
@@ -1182,7 +1182,7 @@
     },
     "Super Power Coffee": {
       "ask": 1438,
-      "bid": 1169,
+      "bid": 1200,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1196,7 +1196,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 69987,
+      "ask": 69986,
       "bid": 21011,
       "vendor": 1000
     },
@@ -1357,7 +1357,7 @@
     },
     "Wheat": {
       "ask": 44,
-      "bid": 30,
+      "bid": 10,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667343602.8793087
+  "time": 1667344503.1102986
 }
