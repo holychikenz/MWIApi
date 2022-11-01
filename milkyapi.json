@@ -396,7 +396,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 60000,
+      "ask": -1,
       "bid": 40021,
       "vendor": 1500
     },
@@ -497,7 +497,7 @@
     },
     "Defense Coffee": {
       "ask": 250,
-      "bid": 187,
+      "bid": 183,
       "vendor": 20
     },
     "Donut": {
@@ -531,7 +531,7 @@
       "vendor": 1
     },
     "Emp Tea Leaf": {
-      "ask": 254,
+      "ask": 249,
       "bid": 208,
       "vendor": 54
     },
@@ -542,7 +542,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 155,
-      "bid": 105,
+      "bid": 91,
       "vendor": 18
     },
     "Eyessence": {
@@ -551,7 +551,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 884,
+      "ask": 879,
       "bid": 305,
       "vendor": 40
     },
@@ -566,7 +566,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 379997,
+      "ask": 350000,
       "bid": 175011,
       "vendor": 1000
     },
@@ -696,7 +696,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 298,
+      "ask": 297,
       "bid": 264,
       "vendor": 54
     },
@@ -827,7 +827,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 28,
-      "bid": 25,
+      "bid": 20,
       "vendor": 18
     },
     "Orange": {
@@ -1027,7 +1027,7 @@
     },
     "Smack": {
       "ask": 17597,
-      "bid": 3811,
+      "bid": 4000,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1081,7 +1081,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 1499984,
+      "ask": 1499983,
       "bid": 1060000,
       "vendor": 10000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667330103.8804023
+  "time": 1667331003.3221161
 }
