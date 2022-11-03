@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Essence": {
-      "ask": 57,
+      "ask": 56,
       "bid": 37,
       "vendor": 16
     },
@@ -522,7 +522,7 @@
     },
     "Efficiency Tea": {
       "ask": 1065,
-      "bid": 920,
+      "bid": 600,
       "vendor": 50
     },
     "Egg": {
@@ -606,7 +606,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 250000,
+      "ask": 249999,
       "bid": 220000,
       "vendor": 10000
     },
@@ -616,7 +616,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 978,
+      "ask": 979,
       "bid": 500,
       "vendor": 20
     },
@@ -811,12 +811,12 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 22,
-      "bid": 20,
+      "ask": 27,
+      "bid": 16,
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 398,
+      "ask": 300,
       "bid": 163,
       "vendor": 40
     },
@@ -971,7 +971,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 35,
+      "ask": 34,
       "bid": 32,
       "vendor": 27
     },
@@ -1016,7 +1016,7 @@
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 534,
+      "ask": 533,
       "bid": 130,
       "vendor": 8
     },
@@ -1062,7 +1062,7 @@
     },
     "Spaceberry Cake": {
       "ask": 895,
-      "bid": 719,
+      "bid": 720,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1107,11 +1107,11 @@
     },
     "Star Fruit Yogurt": {
       "ask": 994,
-      "bid": 603,
+      "bid": 605,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 25,
+      "ask": 29,
       "bid": 16,
       "vendor": 6
     },
@@ -1146,7 +1146,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 550,
+      "ask": 549,
       "bid": 531,
       "vendor": 75
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667505603.0748553
+  "time": 1667506502.6540515
 }
