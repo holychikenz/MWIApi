@@ -172,7 +172,7 @@
     },
     "Blueberry": {
       "ask": 54,
-      "bid": 35,
+      "bid": -1,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -527,7 +527,7 @@
     },
     "Egg": {
       "ask": 34,
-      "bid": 22,
+      "bid": 21,
       "vendor": 1
     },
     "Emp Tea Leaf": {
@@ -882,7 +882,7 @@
     },
     "Plum": {
       "ask": 49,
-      "bid": 30,
+      "bid": 31,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -971,8 +971,8 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 34,
-      "bid": 33,
+      "ask": 35,
+      "bid": 32,
       "vendor": 27
     },
     "Rainbow Plate Body": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667460603.0255024
+  "time": 1667461502.6381648
 }
