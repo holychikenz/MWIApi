@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 82,
-      "bid": 14,
+      "ask": 81,
+      "bid": 20,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -171,8 +171,8 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 54,
-      "bid": -1,
+      "ask": 53,
+      "bid": 5,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 378,
+      "ask": 379,
       "bid": 315,
       "vendor": 36
     },
@@ -562,7 +562,7 @@
     },
     "Foraging Tea": {
       "ask": 749,
-      "bid": 250,
+      "bid": 300,
       "vendor": 10
     },
     "Frenzy": {
@@ -627,7 +627,7 @@
     },
     "Green Tea Leaf": {
       "ask": 237,
-      "bid": 190,
+      "bid": 195,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -667,7 +667,7 @@
     },
     "Holy Cheese": {
       "ask": 692,
-      "bid": 649,
+      "bid": 650,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -812,7 +812,7 @@
     },
     "Mooberry": {
       "ask": 26,
-      "bid": 16,
+      "bid": 17,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -842,7 +842,7 @@
     },
     "Orange Yogurt": {
       "ask": 132,
-      "bid": 80,
+      "bid": 85,
       "vendor": 20
     },
     "Panda Fluff": {
@@ -1097,7 +1097,7 @@
     },
     "Star Fruit": {
       "ask": 277,
-      "bid": 116,
+      "bid": 117,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667466903.250607
+  "time": 1667467803.668067
 }
