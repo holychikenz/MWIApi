@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 81,
+      "ask": 80,
       "bid": 20,
       "vendor": 2
     },
@@ -31,7 +31,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 864,
+      "ask": 863,
       "bid": 232,
       "vendor": 20
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 955,
+      "ask": 954,
       "bid": 70,
       "vendor": 8
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 49,
+      "ask": 48,
       "bid": 8,
       "vendor": 2
     },
@@ -506,8 +506,8 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 172,
-      "bid": 81,
+      "ask": 171,
+      "bid": 82,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -561,7 +561,7 @@
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": 748,
+      "ask": 747,
       "bid": 300,
       "vendor": 10
     },
@@ -571,7 +571,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1798,
+      "ask": 1797,
       "bid": 535,
       "vendor": 10
     },
@@ -616,7 +616,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 979,
+      "ask": 978,
       "bid": 500,
       "vendor": 20
     },
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 691,
+      "ask": 690,
       "bid": 658,
       "vendor": 162
     },
@@ -742,11 +742,11 @@
     },
     "Large Pouch": {
       "ask": 1750000,
-      "bid": 650001,
+      "bid": 500001,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 250,
+      "ask": 249,
       "bid": 225,
       "vendor": 12
     },
@@ -781,8 +781,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 79,
-      "bid": 42,
+      "ask": 78,
+      "bid": 44,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -826,7 +826,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 169,
+      "ask": 168,
       "bid": 24,
       "vendor": 18
     },
@@ -1071,7 +1071,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 450,
+      "ask": 474,
       "bid": 401,
       "vendor": 54
     },
@@ -1097,17 +1097,17 @@
     },
     "Star Fruit": {
       "ask": 219,
-      "bid": 125,
+      "bid": 127,
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 590,
+      "ask": 589,
       "bid": 268,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 993,
-      "bid": 576,
+      "bid": 578,
       "vendor": 75
     },
     "Strawberry": {
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 986,
+      "ask": 985,
       "bid": 600,
       "vendor": 40
     },
@@ -1176,7 +1176,7 @@
       "vendor": 40
     },
     "Super Milking Tea": {
-      "ask": 1460,
+      "ask": 1459,
       "bid": 701,
       "vendor": 40
     },
@@ -1192,7 +1192,7 @@
     },
     "Swamp Essence": {
       "ask": 70,
-      "bid": 52,
+      "bid": 34,
       "vendor": 8
     },
     "Sweep": {
@@ -1202,7 +1202,7 @@
     },
     "Swiftness Coffee": {
       "ask": 1039,
-      "bid": 950,
+      "bid": 901,
       "vendor": 50
     },
     "Toughness": {
@@ -1361,12 +1361,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 896,
+      "ask": 895,
       "bid": 662,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 771,
+      "ask": 770,
       "bid": 658,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667500203.165669
+  "time": 1667501103.4694455
 }
