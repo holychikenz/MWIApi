@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 38,
+      "ask": 37,
       "bid": 8,
       "vendor": 2
     },
@@ -202,7 +202,7 @@
     },
     "Burble Buckler": {
       "ask": -1,
-      "bid": 3350,
+      "bid": -1,
       "vendor": 3240
     },
     "Burble Bulwark": {
@@ -451,7 +451,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 32,
+      "ask": 41,
       "bid": 23,
       "vendor": 18
     },
@@ -506,8 +506,8 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 157,
-      "bid": 84,
+      "ask": 148,
+      "bid": 120,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -627,7 +627,7 @@
     },
     "Green Tea Leaf": {
       "ask": 371,
-      "bid": 200,
+      "bid": 201,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -711,7 +711,7 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 135000,
+      "ask": 120000,
       "bid": 105000,
       "vendor": 62370
     },
@@ -781,8 +781,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 71,
-      "bid": 55,
+      "ask": 66,
+      "bid": 56,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -917,7 +917,7 @@
     },
     "Precision": {
       "ask": 68905,
-      "bid": 20005,
+      "bid": 20001,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1011,12 +1011,12 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 250,
+      "ask": 249,
       "bid": 203,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 492,
+      "ask": 491,
       "bid": 130,
       "vendor": 8
     },
@@ -1056,7 +1056,7 @@
       "vendor": 2000
     },
     "Spaceberry": {
-      "ask": 152,
+      "ask": 151,
       "bid": 92,
       "vendor": 27
     },
@@ -1096,8 +1096,8 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 214,
-      "bid": 119,
+      "ask": 213,
+      "bid": 120,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1107,7 +1107,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 990,
-      "bid": 714,
+      "bid": 716,
       "vendor": 75
     },
     "Strawberry": {
@@ -1166,7 +1166,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 995,
+      "ask": 994,
       "bid": 600,
       "vendor": 40
     },
@@ -1362,7 +1362,7 @@
     },
     "Wisdom Coffee": {
       "ask": 891,
-      "bid": 668,
+      "bid": 670,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667562304.246486
+  "time": 1667565002.7222638
 }
