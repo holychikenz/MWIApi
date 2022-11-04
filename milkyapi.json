@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 27,
+      "ask": 32,
       "bid": 21,
       "vendor": 1
     },
@@ -667,7 +667,7 @@
     },
     "Holy Cheese": {
       "ask": 700,
-      "bid": 677,
+      "bid": 676,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -941,8 +941,8 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 282,
-      "bid": 247,
+      "ask": 281,
+      "bid": 248,
       "vendor": 81
     },
     "Rainbow Enhancer": {
@@ -991,7 +991,7 @@
       "vendor": 20979
     },
     "Rainbow Shears": {
-      "ask": 65000,
+      "ask": -1,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1096,18 +1096,18 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 199,
+      "ask": 198,
       "bid": 127,
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 575,
-      "bid": 287,
+      "ask": 574,
+      "bid": 288,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 988,
-      "bid": 716,
+      "bid": 718,
       "vendor": 75
     },
     "Strawberry": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667574003.1141582
+  "time": 1667574903.2877316
 }
