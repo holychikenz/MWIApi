@@ -507,7 +507,7 @@
     },
     "Dragon Fruit": {
       "ask": 130,
-      "bid": 88,
+      "bid": 89,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -652,7 +652,7 @@
     },
     "Holy Brush": {
       "ask": 142479,
-      "bid": 101011,
+      "bid": 101101,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -666,8 +666,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 724,
-      "bid": 668,
+      "ask": 723,
+      "bid": 669,
       "vendor": 162
     },
     "Holy Enhancer": {
@@ -682,7 +682,7 @@
     },
     "Holy Hammer": {
       "ask": 150000,
-      "bid": 95000,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -697,7 +697,7 @@
     },
     "Holy Milk": {
       "ask": 275,
-      "bid": 245,
+      "bid": 246,
       "vendor": 54
     },
     "Holy Plate Body": {
@@ -711,8 +711,8 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 135000,
-      "bid": 100000,
+      "ask": -1,
+      "bid": 101010,
       "vendor": 62370
     },
     "Holy Shears": {
@@ -747,11 +747,11 @@
     },
     "Liberica Coffee Bean": {
       "ask": 263,
-      "bid": 191,
+      "bid": 192,
       "vendor": 12
     },
     "Living Granite": {
-      "ask": 865000,
+      "ask": 864998,
       "bid": 520001,
       "vendor": 10000
     },
@@ -816,7 +816,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 200,
+      "ask": 399,
       "bid": 163,
       "vendor": 40
     },
@@ -1102,7 +1102,7 @@
     },
     "Star Fruit Gummy": {
       "ask": 566,
-      "bid": 298,
+      "bid": 300,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
@@ -1126,7 +1126,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 306849,
+      "ask": 306846,
       "bid": 150000,
       "vendor": 1000
     },
@@ -1196,7 +1196,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 59999,
+      "ask": 59996,
       "bid": 18889,
       "vendor": 1000
     },
@@ -1367,7 +1367,7 @@
     },
     "Wisdom Tea": {
       "ask": 749,
-      "bid": 400,
+      "bid": 401,
       "vendor": 30
     },
     "Yogurt": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667592002.9375494
+  "time": 1667592903.5062294
 }
