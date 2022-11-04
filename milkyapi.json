@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 67,
+      "ask": 66,
       "bid": 20,
       "vendor": 2
     },
@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 219,
+      "ask": 217,
       "bid": 170,
       "vendor": 4
     },
@@ -56,7 +56,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 320,
+      "ask": 304,
       "bid": 245,
       "vendor": 24
     },
@@ -151,7 +151,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 47,
+      "ask": 46,
       "bid": 29,
       "vendor": 4
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 36,
+      "ask": 34,
       "bid": 8,
       "vendor": 2
     },
@@ -211,7 +211,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 420,
+      "ask": 399,
       "bid": 316,
       "vendor": 36
     },
@@ -281,7 +281,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 249,
+      "ask": 248,
       "bid": 202,
       "vendor": 12
     },
@@ -421,7 +421,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 225,
+      "ask": 224,
       "bid": 201,
       "vendor": 54
     },
@@ -451,7 +451,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 37,
+      "ask": 36,
       "bid": 23,
       "vendor": 18
     },
@@ -526,7 +526,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 32,
+      "ask": 31,
       "bid": 21,
       "vendor": 1
     },
@@ -541,7 +541,7 @@
       "vendor": 20
     },
     "Excelsa Coffee Bean": {
-      "ask": 131,
+      "ask": 130,
       "bid": 91,
       "vendor": 18
     },
@@ -646,7 +646,7 @@
       "vendor": 5
     },
     "Holy Boots": {
-      "ask": 35950,
+      "ask": 35949,
       "bid": 30125,
       "vendor": 35640
     },
@@ -666,7 +666,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 726,
+      "ask": 725,
       "bid": 676,
       "vendor": 162
     },
@@ -746,7 +746,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 265,
+      "ask": 264,
       "bid": 189,
       "vendor": 12
     },
@@ -811,8 +811,8 @@
       "vendor": 10
     },
     "Mooberry": {
-      "ask": 19,
-      "bid": 18,
+      "ask": 17,
+      "bid": 10,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -826,12 +826,12 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 93,
+      "ask": 92,
       "bid": 51,
       "vendor": 18
     },
     "Orange": {
-      "ask": 53,
+      "ask": 52,
       "bid": 16,
       "vendor": 4
     },
@@ -856,8 +856,8 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 22,
-      "bid": 17,
+      "ask": 21,
+      "bid": -1,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -916,7 +916,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 68905,
+      "ask": 68904,
       "bid": 20001,
       "vendor": 1000
     },
@@ -1011,12 +1011,12 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 214,
+      "ask": 213,
       "bid": 203,
       "vendor": 27
     },
     "Robusta Coffee Bean": {
-      "ask": 420,
+      "ask": 419,
       "bid": 130,
       "vendor": 8
     },
@@ -1107,12 +1107,12 @@
     },
     "Star Fruit Yogurt": {
       "ask": 984,
-      "bid": 725,
+      "bid": 726,
       "vendor": 75
     },
     "Strawberry": {
       "ask": 22,
-      "bid": 21,
+      "bid": 20,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667578504.477639
+  "time": 1667579403.6648035
 }
