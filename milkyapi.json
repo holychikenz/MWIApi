@@ -591,12 +591,12 @@
       "vendor": 24
     },
     "Gobo Slasher": {
-      "ask": 28500,
+      "ask": 25000,
       "bid": 3001,
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": -1,
+      "ask": 25000,
       "bid": 100,
       "vendor": 20000
     },
@@ -747,7 +747,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 279,
-      "bid": 200,
+      "bid": 201,
       "vendor": 12
     },
     "Living Granite": {
@@ -1346,7 +1346,7 @@
       "vendor": 20000
     },
     "Werewolf Claw": {
-      "ask": 631744,
+      "ask": 600000,
       "bid": 300008,
       "vendor": 10000
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667661302.5500793
+  "time": 1667662202.716265
 }
