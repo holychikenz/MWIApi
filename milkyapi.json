@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 65,
+      "ask": 62,
       "bid": 25,
       "vendor": 2
     },
@@ -21,7 +21,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 215,
+      "ask": 204,
       "bid": 170,
       "vendor": 4
     },
@@ -86,7 +86,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 68,
+      "ask": 65,
       "bid": 57,
       "vendor": 8
     },
@@ -146,7 +146,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 595,
+      "ask": 565,
       "bid": 76,
       "vendor": 8
     },
@@ -171,7 +171,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 34,
+      "ask": 32,
       "bid": 8,
       "vendor": 2
     },
@@ -241,8 +241,8 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 44,
-      "bid": 37,
+      "ask": 42,
+      "bid": 36,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -396,7 +396,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 100000,
+      "ask": -1,
       "bid": 40021,
       "vendor": 1500
     },
@@ -626,7 +626,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 376,
+      "ask": 357,
       "bid": 208,
       "vendor": 4
     },
@@ -816,7 +816,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 399,
+      "ask": 395,
       "bid": 163,
       "vendor": 40
     },
@@ -831,7 +831,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 52,
+      "ask": 49,
       "bid": 16,
       "vendor": 4
     },
@@ -1107,7 +1107,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 983,
-      "bid": 738,
+      "bid": 739,
       "vendor": 75
     },
     "Strawberry": {
@@ -1356,7 +1356,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 31,
+      "ask": 29,
       "bid": 25,
       "vendor": 1
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667610903.6237988
+  "time": 1667611803.2079196
 }
