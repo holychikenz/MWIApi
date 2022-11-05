@@ -242,7 +242,7 @@
     },
     "Burble Milk": {
       "ask": 79,
-      "bid": 40,
+      "bid": 41,
       "vendor": 12
     },
     "Burble Plate Body": {
@@ -521,7 +521,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1025,
+      "ask": 1024,
       "bid": 601,
       "vendor": 50
     },
@@ -547,7 +547,7 @@
     },
     "Eyessence": {
       "ask": 76,
-      "bid": 43,
+      "bid": 44,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -561,12 +561,12 @@
       "vendor": 27
     },
     "Foraging Tea": {
-      "ask": 707,
+      "ask": 10000,
       "bid": 300,
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 364998,
+      "ask": 364900,
       "bid": 192006,
       "vendor": 1000
     },
@@ -606,7 +606,7 @@
       "vendor": 20000
     },
     "Goggles": {
-      "ask": 240000,
+      "ask": 239999,
       "bid": 210000,
       "vendor": 10000
     },
@@ -806,7 +806,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 748,
+      "ask": 747,
       "bid": 360,
       "vendor": 10
     },
@@ -862,7 +862,7 @@
     },
     "Peach Gummy": {
       "ask": 237,
-      "bid": 109,
+      "bid": 110,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -871,7 +871,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 193325,
+      "ask": 190000,
       "bid": 50018,
       "vendor": 1000
     },
@@ -887,7 +887,7 @@
     },
     "Plum Gummy": {
       "ask": 141,
-      "bid": 79,
+      "bid": 80,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -916,7 +916,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 125000,
+      "ask": 119999,
       "bid": 20014,
       "vendor": 1000
     },
@@ -1011,7 +1011,7 @@
       "vendor": 26973
     },
     "Red Tea Leaf": {
-      "ask": 240,
+      "ask": 239,
       "bid": 203,
       "vendor": 27
     },
@@ -1061,12 +1061,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 793,
-      "bid": 692,
+      "ask": 917,
+      "bid": 693,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 594,
+      "ask": 593,
       "bid": 551,
       "vendor": 75
     },
@@ -1366,7 +1366,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 739,
+      "ask": 738,
       "bid": 411,
       "vendor": 30
     },
@@ -1376,5 +1376,5 @@
       "vendor": 5
     }
   },
-  "time": 1667690103.1816554
+  "time": 1667691002.332482
 }
