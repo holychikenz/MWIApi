@@ -121,7 +121,7 @@
       "vendor": 1512
     },
     "Azure Hatchet": {
-      "ask": -1,
+      "ask": 75000,
       "bid": -1,
       "vendor": 1512
     },
@@ -186,8 +186,8 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 2495,
-      "bid": 500,
+      "ask": 2493,
+      "bid": 526,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 869,
+      "ask": 867,
       "bid": 50,
       "vendor": 24
     },
@@ -276,13 +276,13 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 399,
-      "bid": 131,
+      "ask": 423,
+      "bid": 150,
       "vendor": 4
     },
     "Birch Lumber": {
       "ask": 2500,
-      "bid": 2100,
+      "bid": 2000,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 429,
+      "ask": 427,
       "bid": 250,
       "vendor": 8
     },
@@ -471,13 +471,13 @@
       "vendor": 1944
     },
     "Cedar Fire Staff": {
-      "ask": 750000,
+      "ask": 696969,
       "bid": -1,
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 702,
-      "bid": 200,
+      "ask": 701,
+      "bid": 350,
       "vendor": 8
     },
     "Cedar Lumber": {
@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 389,
-      "bid": 80,
+      "bid": 85,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -632,11 +632,11 @@
     },
     "Cotton": {
       "ask": 550,
-      "bid": 107,
+      "bid": 112,
       "vendor": 2
     },
     "Cotton Boots": {
-      "ask": 89000,
+      "ask": 84550,
       "bid": -1,
       "vendor": 48
     },
@@ -646,22 +646,22 @@
       "vendor": 6
     },
     "Cotton Gloves": {
-      "ask": 94998,
+      "ask": 73508,
       "bid": -1,
       "vendor": 48
     },
     "Cotton Hat": {
-      "ask": 89999,
+      "ask": 66158,
       "bid": -1,
       "vendor": 60
     },
     "Cotton Robe Bottoms": {
-      "ask": 89999,
+      "ask": 85499,
       "bid": -1,
       "vendor": 84
     },
     "Cotton Robe Top": {
-      "ask": 89294,
+      "ask": 69094,
       "bid": -1,
       "vendor": 96
     },
@@ -827,11 +827,11 @@
     },
     "Elemental Affinity": {
       "ask": -1,
-      "bid": 2000000,
+      "bid": 2000001,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 1010,
+      "ask": 1009,
       "bid": 250,
       "vendor": 54
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 227960,
+      "ask": 200000,
       "bid": 50000,
       "vendor": 1000
     },
@@ -922,7 +922,7 @@
     },
     "Giant Pouch": {
       "ask": -1,
-      "bid": 15000000,
+      "bid": 7000000,
       "vendor": 2000000
     },
     "Ginkgo Bow": {
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 4876,
-      "bid": 200,
+      "bid": 300,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -981,12 +981,12 @@
       "vendor": 3276
     },
     "Gobo Essence": {
-      "ask": 290,
+      "ask": 289,
       "bid": 74,
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 599,
+      "ask": 597,
       "bid": 101,
       "vendor": 12
     },
@@ -1177,7 +1177,7 @@
     },
     "Ice Spear": {
       "ask": -1,
-      "bid": 4321956,
+      "bid": 4321957,
       "vendor": 1000
     },
     "Icy Cloth": {
@@ -1216,7 +1216,7 @@
       "vendor": 12
     },
     "Linen Boots": {
-      "ask": 200000,
+      "ask": 250000,
       "bid": -1,
       "vendor": 432
     },
@@ -1226,22 +1226,22 @@
       "vendor": 18
     },
     "Linen Gloves": {
-      "ask": 250000,
+      "ask": 239884,
       "bid": -1,
       "vendor": 432
     },
     "Linen Hat": {
-      "ask": 275000,
+      "ask": 248188,
       "bid": -1,
       "vendor": 540
     },
     "Linen Robe Bottoms": {
-      "ask": 210057,
+      "ask": 189576,
       "bid": -1,
       "vendor": 756
     },
     "Linen Robe Top": {
-      "ask": 269800,
+      "ask": 256310,
       "bid": -1,
       "vendor": 864
     },
@@ -1252,7 +1252,7 @@
     },
     "Log": {
       "ask": 220,
-      "bid": 100,
+      "bid": 125,
       "vendor": 2
     },
     "Lucky Coffee": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 2000,
-      "bid": 1100,
+      "bid": 1000,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 6770000,
+      "ask": 4999999,
       "bid": 1001,
       "vendor": 1000
     },
@@ -1451,8 +1451,8 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 874,
-      "bid": 200,
+      "ask": 789,
+      "bid": 300,
       "vendor": 12
     },
     "Purpleheart Lumber": {
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 222222,
+      "ask": 222221,
       "bid": 100000,
       "vendor": 1000
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 6805,
+      "ask": 6804,
       "bid": 588,
       "vendor": 6
     },
@@ -1711,7 +1711,7 @@
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 171470,
+      "ask": 162897,
       "bid": -1,
       "vendor": 48
     },
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 990,
+      "ask": 941,
       "bid": 557,
       "vendor": 2
     },
@@ -1736,7 +1736,7 @@
       "vendor": 6
     },
     "Rough Tunic": {
-      "ask": 189990,
+      "ask": 180491,
       "bid": -1,
       "vendor": 96
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 14490,
+      "ask": 14489,
       "bid": 600,
       "vendor": 75
     },
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 664990,
+      "ask": 650000,
       "bid": -1,
       "vendor": 10000
     },
@@ -2056,7 +2056,7 @@
       "vendor": 43344
     },
     "Umbral Hide": {
-      "ask": 9995,
+      "ask": 9994,
       "bid": 300,
       "vendor": 48
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667826003.4357896
+  "time": 1667826903.619706
 }
