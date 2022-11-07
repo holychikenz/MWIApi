@@ -46,7 +46,7 @@
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 17101,
+      "ask": 14662,
       "bid": -1,
       "vendor": 54
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 875,
+      "ask": 874,
       "bid": 100,
       "vendor": 24
     },
@@ -271,7 +271,7 @@
       "vendor": 540
     },
     "Birch Fire Staff": {
-      "ask": 150000,
+      "ask": 140000,
       "bid": -1,
       "vendor": 540
     },
@@ -462,7 +462,7 @@
     },
     "Cedar Bow": {
       "ask": -1,
-      "bid": 500002,
+      "bid": -1,
       "vendor": 2592
     },
     "Cedar Crossbow": {
@@ -472,11 +472,11 @@
     },
     "Cedar Fire Staff": {
       "ask": 2000000,
-      "bid": 1000001,
+      "bid": -1,
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 700,
+      "ask": 739,
       "bid": 200,
       "vendor": 8
     },
@@ -676,7 +676,7 @@
       "vendor": 1500
     },
     "Crafting Tea": {
-      "ask": 750,
+      "ask": 375,
       "bid": -1,
       "vendor": 30
     },
@@ -842,7 +842,7 @@
     },
     "Entangle": {
       "ask": 284389,
-      "bid": 26000,
+      "bid": 26001,
       "vendor": 1000
     },
     "Excelsa Coffee Bean": {
@@ -871,13 +871,13 @@
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 10000000,
+      "ask": 6000000,
       "bid": 1000000,
       "vendor": 1000
     },
     "Flame Blast": {
       "ask": -1,
-      "bid": 300001,
+      "bid": 315001,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 5687,
-      "bid": -1,
+      "bid": 200,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -1177,7 +1177,7 @@
     },
     "Ice Spear": {
       "ask": -1,
-      "bid": 1407102,
+      "bid": 1407103,
       "vendor": 1000
     },
     "Icy Cloth": {
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 55,
+      "ask": 67,
       "bid": 40,
       "vendor": 6
     },
@@ -1451,8 +1451,8 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 875,
-      "bid": -1,
+      "ask": 874,
+      "bid": 200,
       "vendor": 12
     },
     "Purpleheart Lumber": {
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 350000,
+      "ask": 420420,
       "bid": 100000,
       "vendor": 1000
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 3250,
+      "ask": 1000,
       "bid": 48,
       "vendor": 48
     },
@@ -1666,17 +1666,17 @@
       "vendor": 26973
     },
     "Reptile Boots": {
-      "ask": -1,
+      "ask": 500000,
       "bid": -1,
       "vendor": 432
     },
     "Reptile Bracers": {
-      "ask": -1,
+      "ask": 500000,
       "bid": -1,
       "vendor": 432
     },
     "Reptile Chaps": {
-      "ask": -1,
+      "ask": 500000,
       "bid": -1,
       "vendor": 756
     },
@@ -1686,17 +1686,17 @@
       "vendor": 6
     },
     "Reptile Hood": {
-      "ask": -1,
+      "ask": 500000,
       "bid": -1,
       "vendor": 540
     },
     "Reptile Leather": {
       "ask": -1,
-      "bid": 800,
+      "bid": 801,
       "vendor": 18
     },
     "Reptile Tunic": {
-      "ask": -1,
+      "ask": 500000,
       "bid": -1,
       "vendor": 864
     },
@@ -1711,7 +1711,7 @@
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 399999,
+      "ask": 200000,
       "bid": -1,
       "vendor": 48
     },
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 1268,
+      "ask": 1205,
       "bid": 557,
       "vendor": 2
     },
@@ -1732,7 +1732,7 @@
     },
     "Rough Leather": {
       "ask": 19997,
-      "bid": 1000,
+      "bid": 1001,
       "vendor": 6
     },
     "Rough Tunic": {
@@ -1877,7 +1877,7 @@
     },
     "Strawberry": {
       "ask": 26,
-      "bid": 21,
+      "bid": 20,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 5000,
+      "ask": 24000,
       "bid": 1500,
       "vendor": 75
     },
@@ -1996,7 +1996,7 @@
       "vendor": 50
     },
     "Tailoring Tea": {
-      "ask": 7998,
+      "ask": 375,
       "bid": -1,
       "vendor": 30
     },
@@ -2261,7 +2261,7 @@
       "vendor": 108
     },
     "Wooden Water Staff": {
-      "ask": 71248,
+      "ask": 71070,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667819703.6497543
+  "time": 1667820602.847587
 }
