@@ -46,7 +46,7 @@
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 17145,
+      "ask": 17102,
       "bid": -1,
       "vendor": 54
     },
@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 40000,
+      "ask": 35000,
       "bid": -1,
       "vendor": 1512
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 3156,
+      "ask": 3155,
       "bid": 100,
       "vendor": 24
     },
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 74,
+      "ask": 75,
       "bid": 55,
       "vendor": 12
     },
@@ -471,12 +471,12 @@
       "vendor": 1944
     },
     "Cedar Fire Staff": {
-      "ask": 1000000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 743,
+      "ask": 741,
       "bid": -1,
       "vendor": 8
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 6991,
+      "ask": 1750,
       "bid": 120,
       "vendor": 2
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": -1,
-      "bid": 400001,
+      "bid": 400002,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -866,8 +866,8 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 928533,
-      "bid": 2000,
+      "ask": 928530,
+      "bid": 50000,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -877,7 +877,7 @@
     },
     "Flame Blast": {
       "ask": -1,
-      "bid": 300000,
+      "bid": 300001,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 773,
+      "ask": 699,
       "bid": 251,
       "vendor": 12
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 37500000,
+      "ask": 28800000,
       "bid": 5000000,
       "vendor": 1000
     },
@@ -1201,7 +1201,7 @@
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 193,
+      "ask": 192,
       "bid": 35,
       "vendor": 24
     },
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 4287,
-      "bid": 200,
+      "bid": -1,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1322,7 +1322,7 @@
     },
     "Minor Heal": {
       "ask": -1,
-      "bid": 25000,
+      "bid": 1001,
       "vendor": 1000
     },
     "Mooberry": {
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 4993,
+      "ask": 4000,
       "bid": 300,
       "vendor": 40
     },
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 799999,
+      "ask": 700000,
       "bid": -1,
       "vendor": 10000
     },
@@ -2016,8 +2016,8 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": -1,
-      "bid": 5000001,
+      "ask": 3500000,
+      "bid": 1000,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": -1,
-      "bid": 250,
+      "bid": 225,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 735090,
+      "ask": 500000,
       "bid": 51001,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667808001.9540026
+  "time": 1667808902.629286
 }
