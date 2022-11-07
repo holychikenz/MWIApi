@@ -471,7 +471,7 @@
       "vendor": 1944
     },
     "Cedar Fire Staff": {
-      "ask": -1,
+      "ask": 1000000,
       "bid": -1,
       "vendor": 1944
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 6993,
+      "ask": 6992,
       "bid": 120,
       "vendor": 2
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 977404,
+      "ask": 977403,
       "bid": 2000,
       "vendor": 1000
     },
@@ -966,12 +966,12 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": -1,
+      "ask": 1000000,
       "bid": 200000,
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": -1,
+      "ask": 1000000,
       "bid": 200000,
       "vendor": 1872
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 950,
+      "ask": 815,
       "bid": 250,
       "vendor": 12
     },
@@ -1002,7 +1002,7 @@
     },
     "Gobo Shooter": {
       "ask": -1,
-      "bid": 1000001,
+      "bid": 7000000,
       "vendor": 20000
     },
     "Gobo Slasher": {
@@ -1041,7 +1041,7 @@
       "vendor": 20
     },
     "Granite Bludgeon": {
-      "ask": 22999997,
+      "ask": 15000000,
       "bid": 4000000,
       "vendor": 400000
     },
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 556,
+      "ask": 555,
       "bid": 50,
       "vendor": 2
     },
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 4750,
+      "ask": 4513,
       "bid": -1,
       "vendor": 6
     },
@@ -1271,7 +1271,7 @@
       "vendor": 30
     },
     "Magnet": {
-      "ask": 1000000,
+      "ask": 999999,
       "bid": 500002,
       "vendor": 10000
     },
@@ -1326,7 +1326,7 @@
       "vendor": 1000
     },
     "Mooberry": {
-      "ask": 28,
+      "ask": 48,
       "bid": 13,
       "vendor": 9
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": -1,
+      "ask": 10000000,
       "bid": 1000008,
       "vendor": 1000
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 207,
+      "ask": 206,
       "bid": 203,
       "vendor": 27
     },
@@ -1702,7 +1702,7 @@
     },
     "Robusta Coffee Bean": {
       "ask": 286,
-      "bid": 130,
+      "bid": 90,
       "vendor": 8
     },
     "Rough Boots": {
@@ -1736,7 +1736,7 @@
       "vendor": 6
     },
     "Rough Tunic": {
-      "ask": 300000,
+      "ask": 200000,
       "bid": -1,
       "vendor": 96
     },
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 898,
-      "bid": 722,
+      "bid": 723,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1836,7 +1836,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 474,
+      "ask": 480,
       "bid": 333,
       "vendor": 54
     },
@@ -1846,7 +1846,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 1499968,
+      "ask": 1299950,
       "bid": 800000,
       "vendor": 10000
     },
@@ -1891,7 +1891,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 324999,
+      "ask": 324997,
       "bid": 151000,
       "vendor": 1000
     },
@@ -1986,12 +1986,12 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 59896,
+      "ask": 59895,
       "bid": 17021,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 942,
+      "ask": 1042,
       "bid": 803,
       "vendor": 50
     },
@@ -2136,7 +2136,7 @@
       "vendor": 420
     },
     "Verdant Hatchet": {
-      "ask": 29998,
+      "ask": 29999,
       "bid": -1,
       "vendor": 420
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 814506,
+      "ask": 773781,
       "bid": 51000,
       "vendor": 1000
     },
@@ -2246,7 +2246,7 @@
       "vendor": 144
     },
     "Wooden Crossbow": {
-      "ask": 50000,
+      "ask": 49999,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667805304.1588209
+  "time": 1667806203.1199186
 }
