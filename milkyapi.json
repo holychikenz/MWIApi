@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 75,
+      "ask": 74,
       "bid": 26,
       "vendor": 2
     },
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 1498,
+      "ask": 1000,
       "bid": 552,
       "vendor": 12
     },
@@ -261,7 +261,7 @@
       "vendor": 1000
     },
     "Birch Bow": {
-      "ask": 230000,
+      "ask": 200000,
       "bid": -1,
       "vendor": 720
     },
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 420,
+      "ask": 419,
       "bid": 112,
       "vendor": 8
     },
@@ -331,7 +331,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 18,
+      "ask": 17,
       "bid": 9,
       "vendor": 2
     },
@@ -502,7 +502,7 @@
     },
     "Centaur Hoof": {
       "ask": 2992497,
-      "bid": 100001,
+      "bid": 100002,
       "vendor": 3000
     },
     "Cheese": {
@@ -566,7 +566,7 @@
       "vendor": 108
     },
     "Cheese Needle": {
-      "ask": 98000,
+      "ask": -1,
       "bid": -1,
       "vendor": 84
     },
@@ -636,7 +636,7 @@
       "vendor": 2
     },
     "Cotton Boots": {
-      "ask": 44999,
+      "ask": 43000,
       "bid": -1,
       "vendor": 48
     },
@@ -646,22 +646,22 @@
       "vendor": 6
     },
     "Cotton Gloves": {
-      "ask": 69832,
+      "ask": 66340,
       "bid": -1,
       "vendor": 48
     },
     "Cotton Hat": {
-      "ask": 59706,
+      "ask": 56721,
       "bid": -1,
       "vendor": 60
     },
     "Cotton Robe Bottoms": {
-      "ask": 59706,
+      "ask": 56721,
       "bid": -1,
       "vendor": 84
     },
     "Cotton Robe Top": {
-      "ask": 62355,
+      "ask": 59237,
       "bid": -1,
       "vendor": 96
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1068,
+      "ask": 1067,
       "bid": 601,
       "vendor": 50
     },
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 1000,
+      "ask": 998,
       "bid": 251,
       "vendor": 54
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 180488,
+      "ask": 171460,
       "bid": 50000,
       "vendor": 1000
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 799999,
+      "ask": 1010101,
       "bid": 500001,
       "vendor": 4000
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1485,
+      "ask": 1483,
       "bid": 537,
       "vendor": 10
     },
@@ -986,8 +986,8 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 589,
-      "bid": 101,
+      "ask": 588,
+      "bid": 300,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 318,
-      "bid": 230,
+      "bid": 231,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 8999999,
+      "ask": 8549990,
       "bid": 500000,
       "vendor": 1000
     },
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 864,
+      "ask": 861,
       "bid": 730,
       "vendor": 162
     },
@@ -1211,12 +1211,12 @@
       "vendor": 200000
     },
     "Liberica Coffee Bean": {
-      "ask": 418,
+      "ask": 417,
       "bid": 201,
       "vendor": 12
     },
     "Linen Boots": {
-      "ask": 149999,
+      "ask": 142499,
       "bid": -1,
       "vendor": 432
     },
@@ -1226,7 +1226,7 @@
       "vendor": 18
     },
     "Linen Gloves": {
-      "ask": 149999,
+      "ask": 142499,
       "bid": -1,
       "vendor": 432
     },
@@ -1236,12 +1236,12 @@
       "vendor": 540
     },
     "Linen Robe Bottoms": {
-      "ask": 150000,
+      "ask": 142500,
       "bid": -1,
       "vendor": 756
     },
     "Linen Robe Top": {
-      "ask": 150000,
+      "ask": 142500,
       "bid": -1,
       "vendor": 864
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 1353748,
+      "ask": 1286061,
       "bid": 50000,
       "vendor": 1000
     },
@@ -1346,7 +1346,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 43,
+      "ask": 42,
       "bid": 17,
       "vendor": 4
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 66,
+      "ask": 64,
       "bid": 41,
       "vendor": 6
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 237,
+      "ask": 236,
       "bid": 203,
       "vendor": 27
     },
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 6444,
-      "bid": 588,
+      "bid": 589,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1811,13 +1811,13 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 200,
+      "ask": 199,
       "bid": 50,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 1500554,
-      "bid": 810000,
+      "ask": 1255555,
+      "bid": 860000,
       "vendor": 3000
     },
     "Spaceberry": {
@@ -1971,17 +1971,17 @@
       "vendor": 40
     },
     "Super Tailoring Tea": {
-      "ask": 3499,
+      "ask": 3498,
       "bid": 700,
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 2399,
-      "bid": 400,
+      "ask": 2350,
+      "bid": 500,
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 69,
+      "ask": 68,
       "bid": 35,
       "vendor": 8
     },
@@ -1996,12 +1996,12 @@
       "vendor": 50
     },
     "Tailoring Tea": {
-      "ask": 7997,
+      "ask": 2000,
       "bid": -1,
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 649998,
+      "ask": 617498,
       "bid": -1,
       "vendor": 10000
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 9999997,
+      "ask": 9999995,
       "bid": 1000000,
       "vendor": 1000
     },
@@ -2241,7 +2241,7 @@
       "vendor": 10
     },
     "Wooden Bow": {
-      "ask": 36950,
+      "ask": 35103,
       "bid": -1,
       "vendor": 144
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667835002.6142683
+  "time": 1667835903.8997967
 }
