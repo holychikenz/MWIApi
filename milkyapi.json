@@ -141,7 +141,7 @@
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 50000,
+      "ask": 49000,
       "bid": -1,
       "vendor": 1512
     },
@@ -181,12 +181,12 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 1000000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 2639,
+      "ask": 2505,
       "bid": 500,
       "vendor": 12
     },
@@ -477,7 +477,7 @@
     },
     "Cedar Log": {
       "ask": 700,
-      "bid": -1,
+      "bid": 200,
       "vendor": 8
     },
     "Cedar Lumber": {
@@ -986,8 +986,8 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 600,
-      "bid": -1,
+      "ask": 599,
+      "bid": 50,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1177,7 +1177,7 @@
     },
     "Ice Spear": {
       "ask": -1,
-      "bid": 1215508,
+      "bid": 1407102,
       "vendor": 1000
     },
     "Icy Cloth": {
@@ -1207,7 +1207,7 @@
     },
     "Large Pouch": {
       "ask": 1550000,
-      "bid": 500000,
+      "bid": 500001,
       "vendor": 200000
     },
     "Liberica Coffee Bean": {
@@ -1231,7 +1231,7 @@
       "vendor": 432
     },
     "Linen Hat": {
-      "ask": -1,
+      "ask": 250000,
       "bid": -1,
       "vendor": 540
     },
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 300,
+      "ask": 299,
       "bid": 4,
       "vendor": 2
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 420420,
+      "ask": 350000,
       "bid": 100000,
       "vendor": 1000
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 6982499,
+      "ask": 6500000,
       "bid": 2000000,
       "vendor": 1000
     },
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 7940,
-      "bid": 600,
+      "bid": 531,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 1269,
+      "ask": 1268,
       "bid": 557,
       "vendor": 2
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": -1,
-      "bid": 1000,
+      "bid": 200000,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 497504,
+      "ask": 497503,
       "bid": 51001,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667818802.5056393
+  "time": 1667819703.6497543
 }
