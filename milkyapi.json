@@ -121,7 +121,7 @@
       "vendor": 1512
     },
     "Azure Hatchet": {
-      "ask": -1,
+      "ask": 50000,
       "bid": -1,
       "vendor": 1512
     },
@@ -727,7 +727,7 @@
     },
     "Crimson Hatchet": {
       "ask": 150000,
-      "bid": 20000,
+      "bid": 21000,
       "vendor": 9072
     },
     "Crimson Helmet": {
@@ -906,7 +906,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 349998,
+      "ask": 332498,
       "bid": 192011,
       "vendor": 1000
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 869,
-      "bid": 730,
+      "bid": 731,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1177,7 +1177,7 @@
     },
     "Ice Spear": {
       "ask": -1,
-      "bid": 1102500,
+      "bid": 1102501,
       "vendor": 1000
     },
     "Icy Cloth": {
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 4287,
+      "ask": 3287,
       "bid": 1000,
       "vendor": 6
     },
@@ -1351,7 +1351,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 43,
+      "ask": 44,
       "bid": 21,
       "vendor": 20
     },
@@ -1621,7 +1621,7 @@
       "vendor": 26973
     },
     "Ranged Coffee": {
-      "ask": 2000,
+      "ask": 1805,
       "bid": -1,
       "vendor": 30
     },
@@ -1666,17 +1666,17 @@
       "vendor": 26973
     },
     "Reptile Boots": {
-      "ask": 500000,
+      "ask": -1,
       "bid": -1,
       "vendor": 432
     },
     "Reptile Bracers": {
-      "ask": 500000,
+      "ask": -1,
       "bid": -1,
       "vendor": 432
     },
     "Reptile Chaps": {
-      "ask": 500000,
+      "ask": -1,
       "bid": -1,
       "vendor": 756
     },
@@ -1686,7 +1686,7 @@
       "vendor": 6
     },
     "Reptile Hood": {
-      "ask": 500000,
+      "ask": -1,
       "bid": -1,
       "vendor": 540
     },
@@ -1696,7 +1696,7 @@
       "vendor": 18
     },
     "Reptile Tunic": {
-      "ask": 500000,
+      "ask": -1,
       "bid": -1,
       "vendor": 864
     },
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 24439,
+      "ask": 24000,
       "bid": 1500,
       "vendor": 75
     },
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 4993,
+      "ask": 4500,
       "bid": 300,
       "vendor": 40
     },
@@ -2241,7 +2241,7 @@
       "vendor": 10
     },
     "Wooden Bow": {
-      "ask": 99999,
+      "ask": 50000,
       "bid": -1,
       "vendor": 144
     },
@@ -2251,7 +2251,7 @@
       "vendor": 108
     },
     "Wooden Fire Staff": {
-      "ask": 49999,
+      "ask": 50000,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667812503.5385337
+  "time": 1667813403.3411794
 }
