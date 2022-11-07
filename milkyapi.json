@@ -271,12 +271,12 @@
       "vendor": 540
     },
     "Birch Fire Staff": {
-      "ask": 180000,
+      "ask": 150000,
       "bid": -1,
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 424,
+      "ask": 423,
       "bid": 131,
       "vendor": 4
     },
@@ -476,7 +476,7 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 518,
+      "ask": 517,
       "bid": -1,
       "vendor": 8
     },
@@ -501,7 +501,7 @@
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 2992497,
+      "ask": 2992498,
       "bid": 10000,
       "vendor": 3000
     },
@@ -551,7 +551,7 @@
       "vendor": 84
     },
     "Cheese Hatchet": {
-      "ask": 2000,
+      "ask": 99999,
       "bid": -1,
       "vendor": 84
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 1000,
+      "ask": 950,
       "bid": 120,
       "vendor": 2
     },
@@ -641,8 +641,8 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 5000,
-      "bid": 300,
+      "ask": 2500,
+      "bid": 1000,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -861,12 +861,12 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 246,
+      "ask": 245,
       "bid": 175,
       "vendor": 27
     },
     "Fireball": {
-      "ask": 879899,
+      "ask": 750000,
       "bid": 50000,
       "vendor": 1000
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 5702,
+      "ask": 5688,
       "bid": -1,
       "vendor": 18
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 5000000,
+      "ask": -1,
       "bid": 100000,
       "vendor": 20000
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 699,
+      "ask": 600,
       "bid": 251,
       "vendor": 12
     },
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 5000,
+      "ask": 2500,
       "bid": 600,
       "vendor": 18
     },
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 498,
+      "ask": 497,
       "bid": 4,
       "vendor": 2
     },
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 896,
+      "ask": 894,
       "bid": -1,
       "vendor": 12
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 7000000,
+      "ask": 6999999,
       "bid": 2000000,
       "vendor": 1000
     },
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 370,
-      "bid": 326,
+      "bid": 327,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1646,7 +1646,7 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 1999,
+      "ask": 1994,
       "bid": -1,
       "vendor": 27
     },
@@ -1732,7 +1732,7 @@
     },
     "Rough Leather": {
       "ask": 19997,
-      "bid": 200,
+      "bid": 1000,
       "vendor": 6
     },
     "Rough Tunic": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 899,
+      "ask": 895,
       "bid": -1,
       "vendor": 75
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 3500000,
+      "ask": -1,
       "bid": 1000,
       "vendor": 1000
     },
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 24,
+      "ask": 28,
       "bid": 23,
       "vendor": 1
     },
@@ -2241,7 +2241,7 @@
       "vendor": 10
     },
     "Wooden Bow": {
-      "ask": 142495,
+      "ask": 99999,
       "bid": -1,
       "vendor": 144
     },
@@ -2251,7 +2251,7 @@
       "vendor": 108
     },
     "Wooden Fire Staff": {
-      "ask": 67683,
+      "ask": 49999,
       "bid": -1,
       "vendor": 108
     },
@@ -2261,7 +2261,7 @@
       "vendor": 108
     },
     "Wooden Water Staff": {
-      "ask": 71248,
+      "ask": 50000,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667811602.9801142
+  "time": 1667812503.5385337
 }
