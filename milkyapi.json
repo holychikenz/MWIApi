@@ -136,7 +136,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 90,
+      "ask": 80,
       "bid": 62,
       "vendor": 8
     },
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 70,
+      "ask": 60,
       "bid": 59,
       "vendor": 12
     },
@@ -476,7 +476,7 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 386,
+      "ask": 365,
       "bid": -1,
       "vendor": 8
     },
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 249,
+      "ask": 288,
       "bid": 92,
       "vendor": 6
     },
@@ -551,7 +551,7 @@
       "vendor": 84
     },
     "Cheese Hatchet": {
-      "ask": 11873,
+      "ask": 5000,
       "bid": -1,
       "vendor": 84
     },
@@ -701,7 +701,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 221,
+      "ask": 234,
       "bid": 180,
       "vendor": 54
     },
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 900,
+      "ask": 855,
       "bid": 264,
       "vendor": 54
     },
@@ -866,13 +866,13 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 189995,
+      "ask": 189993,
       "bid": 75002,
       "vendor": 1000
     },
     "Flame Arrow": {
       "ask": 5000000,
-      "bid": 1500000,
+      "bid": 1000002,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1432,
+      "ask": 1431,
       "bid": 537,
       "vendor": 10
     },
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 324,
-      "bid": 242,
+      "bid": 244,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 853,
+      "ask": 850,
       "bid": 731,
       "vendor": 162
     },
@@ -1211,8 +1211,8 @@
       "vendor": 200000
     },
     "Liberica Coffee Bean": {
-      "ask": 395,
-      "bid": 258,
+      "ask": 397,
+      "bid": 259,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1261,12 +1261,12 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 2295,
-      "bid": 600,
+      "ask": 1500,
+      "bid": 6,
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 799,
+      "ask": 800,
       "bid": -1,
       "vendor": 30
     },
@@ -1371,8 +1371,8 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 16,
-      "bid": 15,
+      "ask": 15,
+      "bid": 14,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 66,
+      "ask": 65,
       "bid": 41,
       "vendor": 6
     },
@@ -1696,7 +1696,7 @@
       "vendor": 18
     },
     "Reptile Tunic": {
-      "ask": 192962,
+      "ask": 192961,
       "bid": -1,
       "vendor": 864
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 11869,
+      "ask": 11867,
       "bid": 5001,
       "vendor": 1000
     },
@@ -1826,12 +1826,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 888,
+      "ask": 840,
       "bid": 653,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 843,
+      "ask": 800,
       "bid": 557,
       "vendor": 75
     },
@@ -1866,12 +1866,12 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 800,
+      "ask": 760,
       "bid": 355,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 923,
+      "ask": 870,
       "bid": 766,
       "vendor": 75
     },
@@ -1916,7 +1916,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 897,
+      "ask": 896,
       "bid": 301,
       "vendor": 50
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1219,
+      "ask": 1220,
       "bid": 737,
       "vendor": 30
     },
@@ -2251,7 +2251,7 @@
       "vendor": 108
     },
     "Wooden Fire Staff": {
-      "ask": 67683,
+      "ask": 67684,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667862003.0460613
+  "time": 1667862904.2582464
 }
