@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 68,
+      "ask": 67,
       "bid": 16,
       "vendor": 2
     },
@@ -67,7 +67,7 @@
     },
     "Artisan Tea": {
       "ask": 1864,
-      "bid": 713,
+      "bid": 1000,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 248,
+      "ask": 249,
       "bid": 101,
       "vendor": 6
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667897103.8004427
+  "time": 1667898002.8373353
 }
