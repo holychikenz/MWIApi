@@ -16,8 +16,8 @@
       "vendor": 10
     },
     "Aqua Arrow": {
-      "ask": 4999999,
-      "bid": 3000000,
+      "ask": -1,
+      "bid": 1100002,
       "vendor": 1000
     },
     "Aqua Essence": {
@@ -181,37 +181,37 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 541646,
+      "ask": 514564,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 883,
-      "bid": 320,
+      "ask": 882,
+      "bid": 336,
       "vendor": 12
     },
     "Bamboo Fabric": {
       "ask": 9000,
-      "bid": 842,
+      "bid": 900,
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 631750,
+      "ask": 600163,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Hat": {
-      "ask": 551317,
+      "ask": 523751,
       "bid": -1,
       "vendor": 2340
     },
     "Bamboo Robe Bottoms": {
-      "ask": 676875,
+      "ask": 643031,
       "bid": -1,
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 610879,
+      "ask": 580335,
       "bid": -1,
       "vendor": 3744
     },
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 74,
+      "ask": 76,
       "bid": 38,
       "vendor": 12
     },
@@ -476,12 +476,12 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 447,
+      "ask": 424,
       "bid": 20,
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 19999,
+      "ask": 2250,
       "bid": 1650,
       "vendor": 24
     },
@@ -661,7 +661,7 @@
       "vendor": 84
     },
     "Cotton Robe Top": {
-      "ask": 50000,
+      "ask": 49999,
       "bid": -1,
       "vendor": 96
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 94714,
+      "ask": 94712,
       "bid": 10000,
       "vendor": 1000
     },
@@ -882,7 +882,7 @@
     },
     "Flaming Cloth": {
       "ask": 1900000,
-      "bid": 1250000,
+      "bid": 1312500,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -1046,8 +1046,8 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 320,
-      "bid": 253,
+      "ask": 319,
+      "bid": 252,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1182,7 +1182,7 @@
     },
     "Icy Cloth": {
       "ask": 3333333,
-      "bid": 750000,
+      "bid": 787500,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1266,7 +1266,7 @@
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 799,
+      "ask": 750,
       "bid": -1,
       "vendor": 30
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 499997,
+      "ask": 499996,
       "bid": 50000,
       "vendor": 1000
     },
@@ -1436,7 +1436,7 @@
       "vendor": 1000
     },
     "Purpleheart Bow": {
-      "ask": 929929,
+      "ask": 929927,
       "bid": -1,
       "vendor": 6480
     },
@@ -1446,7 +1446,7 @@
       "vendor": 4860
     },
     "Purpleheart Fire Staff": {
-      "ask": 999999,
+      "ask": 999998,
       "bid": -1,
       "vendor": 4860
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 500000,
+      "ask": 224999,
       "bid": 189049,
       "vendor": 1000
     },
@@ -1536,7 +1536,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 365,
+      "ask": 360,
       "bid": 285,
       "vendor": 81
     },
@@ -1681,8 +1681,8 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 750,
-      "bid": 223,
+      "ask": 665,
+      "bid": 210,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 24,
+      "ask": 25,
       "bid": 21,
       "vendor": 6
     },
@@ -1977,7 +1977,7 @@
     },
     "Super Woodcutting Tea": {
       "ask": 1397,
-      "bid": 501,
+      "bid": 301,
       "vendor": 40
     },
     "Swamp Essence": {
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1039,
+      "ask": 1038,
       "bid": 730,
       "vendor": 50
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667882703.632368
+  "time": 1667883602.8528588
 }
