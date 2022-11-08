@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 69,
+      "ask": 68,
       "bid": 16,
       "vendor": 2
     },
@@ -181,7 +181,7 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 514564,
+      "ask": 488836,
       "bid": -1,
       "vendor": 1872
     },
@@ -191,27 +191,27 @@
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 9000,
+      "ask": 8550,
       "bid": 900,
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 541647,
+      "ask": 488837,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Hat": {
-      "ask": 523751,
+      "ask": 497563,
       "bid": -1,
       "vendor": 2340
     },
     "Bamboo Robe Bottoms": {
-      "ask": 643031,
+      "ask": 610879,
       "bid": -1,
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 580335,
+      "ask": 551318,
       "bid": -1,
       "vendor": 3744
     },
@@ -282,7 +282,7 @@
     },
     "Birch Lumber": {
       "ask": 1200,
-      "bid": 750,
+      "bid": 600,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -351,7 +351,7 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": 2160,
+      "ask": -1,
       "bid": -1,
       "vendor": 2160
     },
@@ -466,7 +466,7 @@
       "vendor": 2592
     },
     "Cedar Crossbow": {
-      "ask": 500000,
+      "ask": 499999,
       "bid": -1,
       "vendor": 1944
     },
@@ -676,8 +676,8 @@
       "vendor": 1500
     },
     "Crafting Tea": {
-      "ask": 2500,
-      "bid": -1,
+      "ask": -1,
+      "bid": 2500,
       "vendor": 30
     },
     "Crimson Boots": {
@@ -776,7 +776,7 @@
       "vendor": 9072
     },
     "Crimson Spear": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 3150,
       "vendor": 11664
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 94712,
+      "ask": 94711,
       "bid": 10000,
       "vendor": 1000
     },
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 968,
+      "ask": 967,
       "bid": 277,
       "vendor": 6
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 849,
-      "bid": 729,
+      "bid": 731,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1117,7 +1117,7 @@
     },
     "Holy Hatchet": {
       "ask": 200000,
-      "bid": 105000,
+      "bid": 130000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1257,7 +1257,7 @@
     },
     "Lucky Coffee": {
       "ask": 374,
-      "bid": 228,
+      "bid": 230,
       "vendor": 40
     },
     "Lumber": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 499996,
+      "ask": 499995,
       "bid": 50000,
       "vendor": 1000
     },
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 360,
-      "bid": 286,
+      "bid": 285,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1562,7 +1562,7 @@
     },
     "Rainbow Hatchet": {
       "ask": 99998,
-      "bid": -1,
+      "bid": 50000,
       "vendor": 20979
     },
     "Rainbow Helmet": {
@@ -1746,7 +1746,7 @@
       "vendor": 1000
     },
     "Silk Boots": {
-      "ask": 2000000,
+      "ask": -1,
       "bid": -1,
       "vendor": 7200
     },
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 2400,
+      "ask": 2200,
       "bid": 2001,
       "vendor": 75
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667884503.701325
+  "time": 1667885403.7743025
 }
