@@ -187,11 +187,11 @@
     },
     "Bamboo Branch": {
       "ask": 882,
-      "bid": 338,
+      "bid": 355,
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 8398,
+      "ask": 8395,
       "bid": 1001,
       "vendor": 36
     },
@@ -222,7 +222,7 @@
     },
     "Beast Boots": {
       "ask": 2000000,
-      "bid": 1000000,
+      "bid": -1,
       "vendor": 7200
     },
     "Beast Bracers": {
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 350,
-      "bid": 51,
+      "bid": 52,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -477,7 +477,7 @@
     },
     "Cedar Log": {
       "ask": 378,
-      "bid": 50,
+      "bid": 51,
       "vendor": 8
     },
     "Cedar Lumber": {
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 378,
+      "ask": 377,
       "bid": 137,
       "vendor": 2
     },
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 800,
+      "ask": 799,
       "bid": 264,
       "vendor": 6
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1333,
+      "ask": 1332,
       "bid": 537,
       "vendor": 10
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 1259,
+      "ask": 1135,
       "bid": 600,
       "vendor": 18
     },
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 315,
-      "bid": 235,
+      "bid": 237,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 496,
-      "bid": 357,
+      "bid": 358,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 75,
+      "ask": 80,
       "bid": 25,
       "vendor": 2
     },
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 1187,
+      "ask": 1185,
       "bid": 350,
       "vendor": 6
     },
@@ -1346,7 +1346,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 33,
+      "ask": 32,
       "bid": 19,
       "vendor": 4
     },
@@ -1436,17 +1436,17 @@
       "vendor": 1000
     },
     "Purpleheart Bow": {
-      "ask": 929919,
+      "ask": 929915,
       "bid": -1,
       "vendor": 6480
     },
     "Purpleheart Crossbow": {
-      "ask": 999994,
+      "ask": 999993,
       "bid": -1,
       "vendor": 4860
     },
     "Purpleheart Fire Staff": {
-      "ask": 750000,
+      "ask": 749999,
       "bid": -1,
       "vendor": 4860
     },
@@ -1837,7 +1837,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 450,
-      "bid": 333,
+      "bid": 334,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1936,7 +1936,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 1003,
+      "ask": 1002,
       "bid": 201,
       "vendor": 40
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667911504.2135057
+  "time": 1667912402.7293057
 }
