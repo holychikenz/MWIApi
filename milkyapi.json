@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 715,
+      "ask": 714,
       "bid": 25,
       "vendor": 24
     },
@@ -476,7 +476,7 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 402,
+      "ask": 401,
       "bid": 50,
       "vendor": 8
     },
@@ -531,7 +531,7 @@
       "vendor": 144
     },
     "Cheese Chisel": {
-      "ask": 3500,
+      "ask": 4999,
       "bid": -1,
       "vendor": 84
     },
@@ -566,7 +566,7 @@
       "vendor": 108
     },
     "Cheese Needle": {
-      "ask": 20000,
+      "ask": -1,
       "bid": -1,
       "vendor": 84
     },
@@ -642,7 +642,7 @@
     },
     "Cotton Fabric": {
       "ask": 790,
-      "bid": 500,
+      "bid": 420,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -671,7 +671,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": -1,
+      "ask": 100000,
       "bid": 40015,
       "vendor": 1500
     },
@@ -701,7 +701,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 645,
+      "ask": 500,
       "bid": 182,
       "vendor": 54
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 89749,
+      "ask": 85262,
       "bid": 10000,
       "vendor": 1000
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 2000,
+      "ask": 1899,
       "bid": 600,
       "vendor": 18
     },
@@ -962,7 +962,7 @@
     },
     "Gobo Boomstick": {
       "ask": 2842875,
-      "bid": 333336,
+      "bid": 333337,
       "vendor": 20000
     },
     "Gobo Boots": {
@@ -982,7 +982,7 @@
     },
     "Gobo Essence": {
       "ask": 248,
-      "bid": 128,
+      "bid": 126,
       "vendor": 24
     },
     "Gobo Hide": {
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 8549998,
+      "ask": 8122498,
       "bid": 1000020,
       "vendor": 1000
     },
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 322,
+      "ask": 321,
       "bid": 150,
       "vendor": 12
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 664,
+      "ask": 499,
       "bid": 200,
       "vendor": 6
     },
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 665,
+      "ask": 664,
       "bid": 430,
       "vendor": 2
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 37903,
+      "ask": 34208,
       "bid": 600,
       "vendor": 73
     },
@@ -1812,7 +1812,7 @@
     },
     "Sorcerer Essence": {
       "ask": 799,
-      "bid": 315,
+      "bid": 316,
       "vendor": 36
     },
     "Sorcerer's Sole": {
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 800,
+      "ask": 870,
       "bid": 766,
       "vendor": 75
     },
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 1250,
+      "ask": 1397,
       "bid": 555,
       "vendor": 40
     },
@@ -2017,11 +2017,11 @@
     },
     "Toxic Pollen": {
       "ask": 4000000,
-      "bid": 1333337,
+      "bid": 1333338,
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 49975,
+      "ask": 49974,
       "bid": 2007,
       "vendor": 1500
     },
@@ -2116,7 +2116,7 @@
       "vendor": 12
     },
     "Verdant Chisel": {
-      "ask": 75000,
+      "ask": 80000,
       "bid": -1,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667894402.5748541
+  "time": 1667895303.9667363
 }
