@@ -266,7 +266,7 @@
       "vendor": 720
     },
     "Birch Crossbow": {
-      "ask": 180499,
+      "ask": 180000,
       "bid": -1,
       "vendor": 540
     },
@@ -726,8 +726,8 @@
       "vendor": 9072
     },
     "Crimson Hatchet": {
-      "ask": 95000,
-      "bid": -1,
+      "ask": 90000,
+      "bid": 23000,
       "vendor": 9072
     },
     "Crimson Helmet": {
@@ -1116,8 +1116,8 @@
       "vendor": 62370
     },
     "Holy Hatchet": {
-      "ask": 200000,
-      "bid": 140000,
+      "ask": -1,
+      "bid": 145002,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1361,7 +1361,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 68587,
+      "ask": 107000,
       "bid": 31558,
       "vendor": 3000
     },
@@ -1436,7 +1436,7 @@
       "vendor": 1000
     },
     "Purpleheart Bow": {
-      "ask": 929924,
+      "ask": 929923,
       "bid": -1,
       "vendor": 6480
     },
@@ -1562,7 +1562,7 @@
     },
     "Rainbow Hatchet": {
       "ask": 99998,
-      "bid": 50000,
+      "bid": 45000,
       "vendor": 20979
     },
     "Rainbow Helmet": {
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 99750,
+      "ask": 99749,
       "bid": 1001,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667886304.598846
+  "time": 1667887203.246182
 }
