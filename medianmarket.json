@@ -1,5 +1,5 @@
 {
-  "time": 1667823753.0,
+  "time": 1667824653.0,
   "market": {
     "Apple": {
       "ask": 75.0,
@@ -71,7 +71,7 @@
     },
     "Azure Milk": {
       "ask": 97.0,
-      "bid": 58.0
+      "bid": 58.5
     },
     "Azure Plate Body": {
       "ask": -1.0,
@@ -231,7 +231,7 @@
     },
     "Cheese": {
       "ask": 389.0,
-      "bid": 88.5
+      "bid": 91.0
     },
     "Cheese Boots": {
       "ask": -1.0,
@@ -434,7 +434,7 @@
       "bid": 53.0
     },
     "Eyessence": {
-      "ask": 77.0,
+      "ask": 76.5,
       "bid": 44.0
     },
     "Fermenting Tea": {
@@ -466,7 +466,7 @@
       "bid": 7000000.0
     },
     "Gobo Essence": {
-      "ask": 291.5,
+      "ask": 290.5,
       "bid": 74.0
     },
     "Gobo Slasher": {
@@ -491,7 +491,7 @@
     },
     "Green Tea Leaf": {
       "ask": 318.0,
-      "bid": 229.0
+      "bid": 229.5
     },
     "Grizzly Bear Fluff": {
       "ask": 87255.0,
@@ -587,7 +587,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 418.0,
-      "bid": 195.5
+      "bid": 200.0
     },
     "Lucky Coffee": {
       "ask": 400.0,
@@ -630,7 +630,7 @@
       "bid": 13.0
     },
     "Mooberry Cake": {
-      "ask": 374.5,
+      "ask": 374.0,
       "bid": 163.0
     },
     "Mooberry Donut": {
@@ -638,11 +638,11 @@
       "bid": 174.0
     },
     "Moolong Tea Leaf": {
-      "ask": 37.5,
+      "ask": 37.0,
       "bid": 29.0
     },
     "Orange": {
-      "ask": 44.0,
+      "ask": 43.5,
       "bid": 16.0
     },
     "Orange Gummy": {
@@ -710,7 +710,7 @@
       "bid": 425.0
     },
     "Precision": {
-      "ask": 91999.5,
+      "ask": 90999.5,
       "bid": 20018.0
     },
     "Rainbow Boots": {
@@ -754,7 +754,7 @@
       "bid": -1.0
     },
     "Rainbow Milk": {
-      "ask": 33.5,
+      "ask": 33.0,
       "bid": 28.0
     },
     "Rainbow Plate Body": {
@@ -999,7 +999,7 @@
     },
     "Verdant Milk": {
       "ask": 68.0,
-      "bid": 51.0
+      "bid": 51.5
     },
     "Verdant Plate Body": {
       "ask": -1.0,
@@ -1150,7 +1150,7 @@
       "bid": -1.0
     },
     "Bamboo Branch": {
-      "ask": 2494.0,
+      "ask": 2493.0,
       "bid": 500.0
     },
     "Bamboo Fabric": {
@@ -1250,7 +1250,7 @@
       "bid": -1.0
     },
     "Cedar Fire Staff": {
-      "ask": 439999.5,
+      "ask": 439999.0,
       "bid": -1.0
     },
     "Cedar Log": {
@@ -1310,7 +1310,7 @@
       "bid": -1.0
     },
     "Cotton Hat": {
-      "ask": 68079.0,
+      "ask": 66158.0,
       "bid": -1.0
     },
     "Cotton Robe Bottoms": {
@@ -1342,11 +1342,11 @@
       "bid": 1500002.0
     },
     "Entangle": {
-      "ask": 199994.0,
+      "ask": 199992.0,
       "bid": 26000.0
     },
     "Fireball": {
-      "ask": 243750.0,
+      "ask": 237500.0,
       "bid": 75002.0
     },
     "Flame Arrow": {
@@ -1358,7 +1358,7 @@
       "bid": 500000.0
     },
     "Flaming Cloth": {
-      "ask": 1199999.0,
+      "ask": 1199998.0,
       "bid": 500000.0
     },
     "Flaming Robe Bottoms": {
@@ -1414,15 +1414,15 @@
       "bid": -1.0
     },
     "Gobo Chaps": {
-      "ask": 249999.5,
+      "ask": 500000.0,
       "bid": 200000.0
     },
     "Gobo Hide": {
       "ask": 599.0,
-      "bid": 250.5
+      "bid": 250.0
     },
     "Gobo Hood": {
-      "ask": 249999.5,
+      "ask": 500000.0,
       "bid": 200000.0
     },
     "Gobo Leather": {
@@ -1439,14 +1439,14 @@
     },
     "Heal": {
       "ask": 8549997.0,
-      "bid": 1750010.0
+      "bid": 500020.0
     },
     "Holy Chisel": {
       "ask": -1.0,
       "bid": -1.0
     },
     "Holy Hatchet": {
-      "ask": 115000.0,
+      "ask": 130000.0,
       "bid": -1.0
     },
     "Holy Needle": {
@@ -1474,7 +1474,7 @@
       "bid": 35.0
     },
     "Linen Boots": {
-      "ask": 149999.5,
+      "ask": 149999.0,
       "bid": -1.0
     },
     "Linen Fabric": {
@@ -1486,7 +1486,7 @@
       "bid": -1.0
     },
     "Linen Hat": {
-      "ask": 131989.5,
+      "ask": 128605.0,
       "bid": -1.0
     },
     "Linen Robe Bottoms": {
@@ -1498,7 +1498,7 @@
       "bid": -1.0
     },
     "Log": {
-      "ask": 281.0,
+      "ask": 274.0,
       "bid": 5.0
     },
     "Lumber": {
@@ -1575,7 +1575,7 @@
     },
     "Rain Of Arrows": {
       "ask": 5000000.0,
-      "bid": 2000001.5
+      "bid": 2000002.0
     },
     "Rainbow Chisel": {
       "ask": -1.0,
@@ -1638,7 +1638,7 @@
       "bid": 531.0
     },
     "Reptile Hood": {
-      "ask": 341249.0,
+      "ask": 332499.0,
       "bid": -1.0
     },
     "Reptile Leather": {
@@ -1670,7 +1670,7 @@
       "bid": -1.0
     },
     "Rough Leather": {
-      "ask": 11498.5,
+      "ask": 3000.0,
       "bid": 500.0
     },
     "Rough Tunic": {
@@ -1718,20 +1718,20 @@
       "bid": 1500.0
     },
     "Super Magic Coffee": {
-      "ask": 4989.5,
+      "ask": 4989.0,
       "bid": 1500.0
     },
     "Super Ranged Coffee": {
-      "ask": 14488.5,
+      "ask": 14488.0,
       "bid": 600.0
     },
     "Super Tailoring Tea": {
-      "ask": 1997.0,
+      "ask": 1999.0,
       "bid": 700.0
     },
     "Super Woodcutting Tea": {
-      "ask": 2449.5,
-      "bid": 450.0
+      "ask": 2400.0,
+      "bid": 500.0
     },
     "Tailoring Tea": {
       "ask": 7998.0,
