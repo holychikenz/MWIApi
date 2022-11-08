@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 72,
+      "ask": 71,
       "bid": 16,
       "vendor": 2
     },
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 888,
-      "bid": 350,
+      "bid": 375,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -266,7 +266,7 @@
       "vendor": 720
     },
     "Birch Crossbow": {
-      "ask": 180497,
+      "ask": 180499,
       "bid": -1,
       "vendor": 540
     },
@@ -281,12 +281,12 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 2498,
+      "ask": 2497,
       "bid": -1,
       "vendor": 12
     },
     "Birch Nature Staff": {
-      "ask": 10000,
+      "ask": -1,
       "bid": -1,
       "vendor": 540
     },
@@ -461,12 +461,12 @@
       "vendor": 12
     },
     "Cedar Bow": {
-      "ask": 422000,
+      "ask": 400898,
       "bid": -1,
       "vendor": 2592
     },
     "Cedar Crossbow": {
-      "ask": 541498,
+      "ask": 500000,
       "bid": -1,
       "vendor": 1944
     },
@@ -476,7 +476,7 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 299,
+      "ask": 290,
       "bid": -1,
       "vendor": 8
     },
@@ -486,7 +486,7 @@
       "vendor": 24
     },
     "Cedar Nature Staff": {
-      "ask": -1,
+      "ask": 500000,
       "bid": -1,
       "vendor": 1944
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": -1,
-      "bid": 20000000,
+      "bid": 15000000,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 5000000,
+      "ask": 4550000,
       "bid": 1500000,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1417,
+      "ask": 1416,
       "bid": 537,
       "vendor": 10
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 349,
+      "ask": 390,
       "bid": 200,
       "vendor": 12
     },
@@ -997,12 +997,12 @@
     },
     "Gobo Leather": {
       "ask": 4000,
-      "bid": 1505,
+      "bid": -1,
       "vendor": 36
     },
     "Gobo Shooter": {
       "ask": 4501218,
-      "bid": 1500001,
+      "bid": 1000000,
       "vendor": 20000
     },
     "Gobo Slasher": {
@@ -1216,7 +1216,7 @@
       "vendor": 12
     },
     "Linen Boots": {
-      "ask": 74813,
+      "ask": 74999,
       "bid": -1,
       "vendor": 432
     },
@@ -1226,12 +1226,12 @@
       "vendor": 18
     },
     "Linen Gloves": {
-      "ask": 74999,
+      "ask": 74998,
       "bid": -1,
       "vendor": 432
     },
     "Linen Hat": {
-      "ask": 74999,
+      "ask": 74998,
       "bid": -1,
       "vendor": 540
     },
@@ -1241,7 +1241,7 @@
       "vendor": 756
     },
     "Linen Robe Top": {
-      "ask": 99750,
+      "ask": 100000,
       "bid": -1,
       "vendor": 864
     },
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 74,
+      "ask": 80,
       "bid": 5,
       "vendor": 2
     },
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 1246,
+      "ask": 1200,
       "bid": 250,
       "vendor": 6
     },
@@ -1371,7 +1371,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 14,
+      "ask": 15,
       "bid": 11,
       "vendor": 9
     },
@@ -1436,7 +1436,7 @@
       "vendor": 1000
     },
     "Purpleheart Bow": {
-      "ask": 999998,
+      "ask": 949999,
       "bid": -1,
       "vendor": 6480
     },
@@ -1446,7 +1446,7 @@
       "vendor": 4860
     },
     "Purpleheart Fire Staff": {
-      "ask": 1333335,
+      "ask": 1200000,
       "bid": -1,
       "vendor": 4860
     },
@@ -1916,7 +1916,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 889,
+      "ask": 888,
       "bid": 301,
       "vendor": 50
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 7489,
+      "ask": 7488,
       "bid": 1500,
       "vendor": 75
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1217,
+      "ask": 1218,
       "bid": 737,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667870104.2647529
+  "time": 1667871004.1281474
 }
