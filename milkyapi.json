@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": -1,
-      "bid": 1,
+      "bid": 750,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -66,7 +66,7 @@
       "vendor": 80190
     },
     "Artisan Tea": {
-      "ask": 1864,
+      "ask": 5000,
       "bid": 1000,
       "vendor": 75
     },
@@ -191,7 +191,7 @@
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 8400,
+      "ask": 8399,
       "bid": 1001,
       "vendor": 36
     },
@@ -611,7 +611,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 235700,
+      "ask": 235699,
       "bid": 50008,
       "vendor": 1000
     },
@@ -826,8 +826,8 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": -1,
-      "bid": 1500002,
+      "ask": 35000000,
+      "bid": 1500003,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 85259,
+      "ask": 85258,
       "bid": 10000,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 180494,
+      "ask": 180493,
       "bid": 102000,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 4239373,
+      "ask": 4249999,
       "bid": 700002,
       "vendor": 1000
     },
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 963,
+      "ask": 962,
       "bid": 315,
       "vendor": 6
     },
@@ -1067,7 +1067,7 @@
     },
     "Heal": {
       "ask": 8122497,
-      "bid": 1000020,
+      "bid": 1000021,
       "vendor": 1000
     },
     "Holy Boots": {
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 397,
-      "bid": 303,
+      "bid": 318,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1266,7 +1266,7 @@
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 749,
+      "ask": 700,
       "bid": -1,
       "vendor": 30
     },
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 134344,
+      "ask": 127627,
       "bid": 50019,
       "vendor": 1000
     },
@@ -1431,7 +1431,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 74998,
+      "ask": 71248,
       "bid": 20017,
       "vendor": 1000
     },
@@ -1812,11 +1812,11 @@
     },
     "Sorcerer Essence": {
       "ask": 799,
-      "bid": 320,
+      "bid": 321,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 1994994,
+      "ask": 1994993,
       "bid": 1000000,
       "vendor": 3000
     },
@@ -2227,7 +2227,7 @@
     },
     "Wisdom Coffee": {
       "ask": 1200,
-      "bid": 742,
+      "bid": 743,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667898002.8373353
+  "time": 1667898902.772556
 }
