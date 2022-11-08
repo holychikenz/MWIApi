@@ -206,12 +206,12 @@
       "vendor": 2340
     },
     "Bamboo Robe Bottoms": {
-      "ask": 400000,
+      "ask": 380000,
       "bid": -1,
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 400000,
+      "ask": 380000,
       "bid": -1,
       "vendor": 3744
     },
@@ -221,13 +221,13 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 2000000,
+      "ask": 1400000,
       "bid": -1,
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 2000000,
-      "bid": 1000000,
+      "ask": 1400000,
+      "bid": -1,
       "vendor": 7200
     },
     "Beast Chaps": {
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 76,
+      "ask": 75,
       "bid": 41,
       "vendor": 12
     },
@@ -477,7 +477,7 @@
     },
     "Cedar Log": {
       "ask": 350,
-      "bid": 55,
+      "bid": 250,
       "vendor": 8
     },
     "Cedar Lumber": {
@@ -501,7 +501,7 @@
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 2407910,
+      "ask": 2407909,
       "bid": 500000,
       "vendor": 3000
     },
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 599,
+      "ask": 600,
       "bid": 420,
       "vendor": 6
     },
@@ -832,7 +832,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 759,
-      "bid": 303,
+      "bid": 276,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 120000,
+      "ask": 110000,
       "bid": 75002,
       "vendor": 1000
     },
@@ -876,13 +876,13 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 2500000,
+      "ask": 2000000,
       "bid": 710000,
       "vendor": 1000
     },
     "Flaming Cloth": {
       "ask": 3000000,
-      "bid": 1500000,
+      "bid": 1000000,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -966,17 +966,17 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 500000,
+      "ask": 400000,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 500000,
+      "ask": 400000,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 500000,
+      "ask": 400000,
       "bid": -1,
       "vendor": 3276
     },
@@ -987,17 +987,17 @@
     },
     "Gobo Hide": {
       "ask": 295,
-      "bid": 125,
+      "bid": 126,
       "vendor": 12
     },
     "Gobo Hood": {
-      "ask": 500000,
+      "ask": 400000,
       "bid": -1,
       "vendor": 2340
     },
     "Gobo Leather": {
       "ask": 4000,
-      "bid": 1501,
+      "bid": 1502,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 500000,
+      "ask": 400000,
       "bid": -1,
       "vendor": 3744
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 8122497,
+      "ask": 8122498,
       "bid": 1000021,
       "vendor": 1000
     },
@@ -1182,7 +1182,7 @@
     },
     "Icy Cloth": {
       "ask": 3333332,
-      "bid": 1500000,
+      "bid": 1000000,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 302,
+      "ask": 301,
       "bid": 150,
       "vendor": 12
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 199999,
+      "ask": 199998,
       "bid": 100000,
       "vendor": 1000
     },
@@ -1746,7 +1746,7 @@
       "vendor": 1000
     },
     "Silk Boots": {
-      "ask": 2000000,
+      "ask": 1500000,
       "bid": -1,
       "vendor": 7200
     },
@@ -1756,7 +1756,7 @@
       "vendor": 73
     },
     "Silk Gloves": {
-      "ask": 2000000,
+      "ask": 1500000,
       "bid": -1,
       "vendor": 7200
     },
@@ -1806,8 +1806,8 @@
       "vendor": 2000
     },
     "Sorcerer Boots": {
-      "ask": -1,
-      "bid": -1,
+      "ask": 20000000,
+      "bid": 7500000,
       "vendor": 50000
     },
     "Sorcerer Essence": {
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 1989998,
+      "ask": 1989997,
       "bid": 1000000,
       "vendor": 3000
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 870,
+      "ask": 827,
       "bid": 766,
       "vendor": 75
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667914203.255584
+  "time": 1667915103.5036318
 }
