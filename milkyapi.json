@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 8550,
-      "bid": 900,
+      "bid": 901,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 754,
+      "ask": 716,
       "bid": 24,
       "vendor": 24
     },
@@ -416,7 +416,7 @@
       "vendor": 12
     },
     "Burble Needle": {
-      "ask": 50000,
+      "ask": -1,
       "bid": -1,
       "vendor": 3780
     },
@@ -727,7 +727,7 @@
     },
     "Crimson Hatchet": {
       "ask": 95000,
-      "bid": 35000,
+      "bid": -1,
       "vendor": 9072
     },
     "Crimson Helmet": {
@@ -802,7 +802,7 @@
     },
     "Dragon Fruit": {
       "ask": 100,
-      "bid": 91,
+      "bid": 92,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": -1,
-      "bid": 1500001,
+      "bid": 1500002,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 94711,
+      "ask": 94474,
       "bid": 10000,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 4228774,
+      "ask": 4239373,
       "bid": 1500000,
       "vendor": 1000
     },
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 967,
+      "ask": 966,
       "bid": 277,
       "vendor": 6
     },
@@ -962,7 +962,7 @@
     },
     "Gobo Boomstick": {
       "ask": 2850000,
-      "bid": 1500008,
+      "bid": 1751337,
       "vendor": 20000
     },
     "Gobo Boots": {
@@ -997,11 +997,11 @@
     },
     "Gobo Leather": {
       "ask": 4000,
-      "bid": 1500,
+      "bid": 1501,
       "vendor": 36
     },
     "Gobo Shooter": {
-      "ask": 4501218,
+      "ask": 2000000,
       "bid": -1,
       "vendor": 20000
     },
@@ -1117,7 +1117,7 @@
     },
     "Holy Hatchet": {
       "ask": 200000,
-      "bid": 130000,
+      "bid": 140000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1182,7 +1182,7 @@
     },
     "Icy Cloth": {
       "ask": 3333333,
-      "bid": 797500,
+      "bid": 855555,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 1192,
-      "bid": 150,
+      "bid": 151,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 499995,
+      "ask": 420666,
       "bid": 50000,
       "vendor": 1000
     },
@@ -1436,12 +1436,12 @@
       "vendor": 1000
     },
     "Purpleheart Bow": {
-      "ask": 929927,
+      "ask": 929924,
       "bid": -1,
       "vendor": 6480
     },
     "Purpleheart Crossbow": {
-      "ask": 999998,
+      "ask": 999997,
       "bid": -1,
       "vendor": 4860
     },
@@ -1726,7 +1726,7 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 109995,
+      "ask": 109000,
       "bid": -1,
       "vendor": 60
     },
@@ -1891,7 +1891,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 308746,
+      "ask": 308700,
       "bid": 151000,
       "vendor": 1000
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 100000,
+      "ask": 99750,
       "bid": 1001,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667885403.7743025
+  "time": 1667886304.598846
 }
