@@ -141,7 +141,7 @@
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": -1,
+      "ask": 128000,
       "bid": -1,
       "vendor": 1512
     },
@@ -462,7 +462,7 @@
     },
     "Cedar Bow": {
       "ask": 338438,
-      "bid": -1,
+      "bid": 200000,
       "vendor": 2592
     },
     "Cedar Crossbow": {
@@ -477,11 +477,11 @@
     },
     "Cedar Log": {
       "ask": 190,
-      "bid": 150,
+      "bid": 61,
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 3134,
+      "ask": 2977,
       "bid": 800,
       "vendor": 24
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 69989,
+      "ask": 69988,
       "bid": 10001,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 74995,
+      "ask": 74993,
       "bid": 40000,
       "vendor": 1000
     },
@@ -876,8 +876,8 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 1099998,
-      "bid": 1000,
+      "ask": 1097248,
+      "bid": 350000,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -966,17 +966,17 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 271244,
+      "ask": 232558,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 227509,
+      "ask": 195061,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": -1,
+      "ask": 500000,
       "bid": -1,
       "vendor": 3276
     },
@@ -991,7 +991,7 @@
       "vendor": 12
     },
     "Gobo Hood": {
-      "ask": 399053,
+      "ask": 342138,
       "bid": -1,
       "vendor": 2340
     },
@@ -1001,7 +1001,7 @@
       "vendor": 36
     },
     "Gobo Shooter": {
-      "ask": 1699999,
+      "ask": 1000000,
       "bid": 200000,
       "vendor": 20000
     },
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 500000,
+      "ask": 451250,
       "bid": -1,
       "vendor": 3744
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 500000,
+      "ask": 499998,
       "bid": 300000,
       "vendor": 1000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 2992499,
+      "ask": 2490000,
       "bid": 1003,
       "vendor": 1000
     },
@@ -1216,32 +1216,32 @@
       "vendor": 12
     },
     "Linen Boots": {
-      "ask": 49723,
+      "ask": 47237,
       "bid": -1,
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 1418,
+      "ask": 1417,
       "bid": 601,
       "vendor": 18
     },
     "Linen Gloves": {
-      "ask": 52297,
+      "ask": 49682,
       "bid": -1,
       "vendor": 432
     },
     "Linen Hat": {
-      "ask": 54999,
+      "ask": 52249,
       "bid": -1,
       "vendor": 540
     },
     "Linen Robe Bottoms": {
-      "ask": 49680,
+      "ask": 47196,
       "bid": -1,
       "vendor": 756
     },
     "Linen Robe Top": {
-      "ask": 66335,
+      "ask": 63018,
       "bid": -1,
       "vendor": 864
     },
@@ -1266,7 +1266,7 @@
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 497,
+      "ask": 10000,
       "bid": -1,
       "vendor": 30
     },
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 139662,
-      "bid": 65000,
+      "bid": 60001,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1666,27 +1666,27 @@
       "vendor": 26973
     },
     "Reptile Boots": {
-      "ask": 49998,
+      "ask": 45123,
       "bid": -1,
       "vendor": 432
     },
     "Reptile Bracers": {
-      "ask": 179652,
+      "ask": 162136,
       "bid": -1,
       "vendor": 432
     },
     "Reptile Chaps": {
-      "ask": 146314,
+      "ask": 125446,
       "bid": -1,
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 309,
+      "ask": 307,
       "bid": 176,
       "vendor": 6
     },
     "Reptile Hood": {
-      "ask": 142745,
+      "ask": 122386,
       "bid": -1,
       "vendor": 540
     },
@@ -1696,7 +1696,7 @@
       "vendor": 18
     },
     "Reptile Tunic": {
-      "ask": 89989,
+      "ask": 81216,
       "bid": -1,
       "vendor": 864
     },
@@ -1746,17 +1746,17 @@
       "vendor": 1000
     },
     "Silk Boots": {
-      "ask": 1190000,
+      "ask": 990000,
       "bid": -1,
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 14963,
+      "ask": 14962,
       "bid": 1000,
       "vendor": 73
     },
     "Silk Gloves": {
-      "ask": 790000,
+      "ask": 1290000,
       "bid": -1,
       "vendor": 7200
     },
@@ -1811,12 +1811,12 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 570,
+      "ask": 568,
       "bid": 354,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 1751077,
+      "ask": 1751075,
       "bid": 935000,
       "vendor": 3000
     },
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 249366,
+      "ask": 249365,
       "bid": -1,
       "vendor": 10000
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 80000,
+      "ask": 79999,
       "bid": 2500,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667968202.381846
+  "time": 1667969102.537649
 }
