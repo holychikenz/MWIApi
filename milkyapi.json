@@ -121,7 +121,7 @@
       "vendor": 1512
     },
     "Azure Hatchet": {
-      "ask": -1,
+      "ask": 148000,
       "bid": -1,
       "vendor": 1512
     },
@@ -181,12 +181,12 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 226388,
+      "ask": 226387,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 729,
+      "ask": 728,
       "bid": 435,
       "vendor": 12
     },
@@ -221,7 +221,7 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 1310000,
+      "ask": 1300000,
       "bid": -1,
       "vendor": 7200
     },
@@ -251,7 +251,7 @@
       "vendor": 72
     },
     "Beast Tunic": {
-      "ask": -1,
+      "ask": 1400000,
       "bid": -1,
       "vendor": 14400
     },
@@ -486,7 +486,7 @@
       "vendor": 24
     },
     "Cedar Nature Staff": {
-      "ask": 149998,
+      "ask": 150000,
       "bid": -1,
       "vendor": 1944
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 233,
+      "ask": 232,
       "bid": 40,
       "vendor": 2
     },
@@ -727,7 +727,7 @@
     },
     "Crimson Hatchet": {
       "ask": 69999,
-      "bid": 23500,
+      "bid": 25000,
       "vendor": 9072
     },
     "Crimson Helmet": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 69991,
+      "ask": 69988,
       "bid": 10001,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 104462,
+      "ask": 104455,
       "bid": 40000,
       "vendor": 1000
     },
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 371,
+      "ask": 369,
       "bid": 50,
       "vendor": 6
     },
@@ -981,7 +981,7 @@
       "vendor": 3276
     },
     "Gobo Essence": {
-      "ask": 199,
+      "ask": 189,
       "bid": 75,
       "vendor": 24
     },
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 127603,
+      "ask": 127600,
       "bid": 50019,
       "vendor": 1000
     },
@@ -1716,7 +1716,7 @@
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 135015,
+      "ask": 135014,
       "bid": -1,
       "vendor": 84
     },
@@ -1742,11 +1742,11 @@
     },
     "Scratch": {
       "ask": 49988,
-      "bid": 10002,
+      "bid": 10003,
       "vendor": 1000
     },
     "Silk Boots": {
-      "ask": 1268420,
+      "ask": 1250000,
       "bid": -1,
       "vendor": 7200
     },
@@ -1756,12 +1756,12 @@
       "vendor": 73
     },
     "Silk Gloves": {
-      "ask": 1370000,
+      "ask": 1340000,
       "bid": -1,
       "vendor": 7200
     },
     "Silk Hat": {
-      "ask": 1390000,
+      "ask": 1370000,
       "bid": -1,
       "vendor": 9000
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 9496,
+      "ask": 9493,
       "bid": 5001,
       "vendor": 1000
     },
@@ -1812,11 +1812,11 @@
     },
     "Sorcerer Essence": {
       "ask": 998,
-      "bid": 351,
+      "bid": 352,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 1852498,
+      "ask": 1847867,
       "bid": 935000,
       "vendor": 3000
     },
@@ -1832,12 +1832,12 @@
     },
     "Spaceberry Donut": {
       "ask": 823,
-      "bid": 652,
+      "bid": 651,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
       "ask": 452,
-      "bid": 361,
+      "bid": 360,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1902,7 +1902,7 @@
     },
     "Super Attack Coffee": {
       "ask": 913,
-      "bid": 601,
+      "bid": 201,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -2196,7 +2196,7 @@
       "vendor": 540
     },
     "Vision Helmet": {
-      "ask": 399994,
+      "ask": 379994,
       "bid": 4,
       "vendor": 20000
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 93497,
+      "ask": 93496,
       "bid": 2500,
       "vendor": 1000
     },
@@ -2247,7 +2247,7 @@
     },
     "Wooden Crossbow": {
       "ask": 19119,
-      "bid": -1,
+      "bid": 10000,
       "vendor": 108
     },
     "Wooden Fire Staff": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667962802.7815058
+  "time": 1667963703.6730125
 }
