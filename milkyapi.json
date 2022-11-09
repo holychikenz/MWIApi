@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 76000,
+      "ask": 75999,
       "bid": -1,
       "vendor": 1512
     },
@@ -181,7 +181,7 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 226388,
+      "ask": 125000,
       "bid": -1,
       "vendor": 1872
     },
@@ -196,12 +196,12 @@
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 208477,
+      "ask": 125000,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Hat": {
-      "ask": 225625,
+      "ask": 125000,
       "bid": -1,
       "vendor": 2340
     },
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 225,
-      "bid": 101,
+      "bid": 100,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 118,
+      "ask": 117,
       "bid": 81,
       "vendor": 8
     },
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 209,
+      "ask": 215,
       "bid": 206,
       "vendor": 12
     },
@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 149,
-      "bid": 114,
+      "bid": 115,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -831,8 +831,8 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 757,
-      "bid": 371,
+      "ask": 756,
+      "bid": 400,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 69994,
+      "ask": 69992,
       "bid": 10001,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1190,
+      "ask": 1189,
       "bid": 537,
       "vendor": 10
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 539,
+      "ask": 538,
       "bid": 201,
       "vendor": 18
     },
@@ -966,7 +966,7 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 204817,
+      "ask": 226946,
       "bid": -1,
       "vendor": 1872
     },
@@ -1031,7 +1031,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 365,
+      "ask": 364,
       "bid": 126,
       "vendor": 108
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 292,
+      "ask": 291,
       "bid": 239,
       "vendor": 4
     },
@@ -1246,7 +1246,7 @@
       "vendor": 864
     },
     "Living Granite": {
-      "ask": 818948,
+      "ask": 818947,
       "bid": 418000,
       "vendor": 10000
     },
@@ -1302,7 +1302,7 @@
     },
     "Marsberry Donut": {
       "ask": 428,
-      "bid": 265,
+      "bid": 251,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": -1,
+      "ask": 3600,
       "bid": 1500,
       "vendor": 36
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 215,
+      "ask": 214,
       "bid": 205,
       "vendor": 27
     },
@@ -1647,7 +1647,7 @@
     },
     "Redwood Log": {
       "ask": 1538,
-      "bid": 120,
+      "bid": 240,
       "vendor": 27
     },
     "Redwood Lumber": {
@@ -1796,7 +1796,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 474,
+      "ask": 450,
       "bid": 200,
       "vendor": 100
     },
@@ -1832,7 +1832,7 @@
     },
     "Spaceberry Donut": {
       "ask": 825,
-      "bid": 651,
+      "bid": 652,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1846,7 +1846,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 1299945,
+      "ask": 1299944,
       "bid": 400001,
       "vendor": 10000
     },
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 26,
+      "ask": 27,
       "bid": 22,
       "vendor": 6
     },
@@ -1956,17 +1956,17 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1009,
+      "ask": 1000,
       "bid": 811,
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 6499,
+      "ask": 6498,
       "bid": 3001,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 10000,
+      "ask": 3000,
       "bid": 454,
       "vendor": 40
     },
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 654,
-      "bid": 257,
+      "bid": 258,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667954703.7192252
+  "time": 1667955602.532796
 }
