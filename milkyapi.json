@@ -267,7 +267,7 @@
     },
     "Birch Crossbow": {
       "ask": 114000,
-      "bid": 30000,
+      "bid": -1,
       "vendor": 540
     },
     "Birch Fire Staff": {
@@ -706,7 +706,7 @@
       "vendor": 54
     },
     "Crimson Chisel": {
-      "ask": 99993,
+      "ask": 99992,
       "bid": -1,
       "vendor": 9072
     },
@@ -891,7 +891,7 @@
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 13000000,
+      "ask": 15000000,
       "bid": -1,
       "vendor": 60000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 2477561,
+      "ask": 2471366,
       "bid": 15044,
       "vendor": 1000
     },
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 946,
-      "bid": 500,
+      "bid": 502,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 139661,
-      "bid": 60001,
+      "bid": 60002,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1512,7 +1512,7 @@
     },
     "Rain Of Arrows": {
       "ask": 2612500,
-      "bid": 1551328,
+      "bid": 1551329,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1846,7 +1846,7 @@
       "vendor": 1000
     },
     "Stalactite Shard": {
-      "ask": 1299944,
+      "ask": 1299943,
       "bid": 400001,
       "vendor": 10000
     },
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 5697,
+      "ask": 5696,
       "bid": 675,
       "vendor": 40
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667979903.2941904
+  "time": 1667980802.5221553
 }
