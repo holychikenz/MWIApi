@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 46,
+      "ask": 45,
       "bid": 9,
       "vendor": 2
     },
@@ -331,7 +331,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 19,
+      "ask": 18,
       "bid": 8,
       "vendor": 2
     },
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 516,
-      "bid": 397,
+      "bid": 400,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 3304,
+      "ask": 3301,
       "bid": 800,
       "vendor": 24
     },
@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 149,
-      "bid": 110,
+      "bid": 112,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 109990,
+      "ask": 109967,
       "bid": 40000,
       "vendor": 1000
     },
@@ -1216,7 +1216,7 @@
       "vendor": 12
     },
     "Linen Boots": {
-      "ask": 49724,
+      "ask": 49725,
       "bid": -1,
       "vendor": 432
     },
@@ -1226,22 +1226,22 @@
       "vendor": 18
     },
     "Linen Gloves": {
-      "ask": 52297,
+      "ask": 52298,
       "bid": -1,
       "vendor": 432
     },
     "Linen Hat": {
-      "ask": 29999,
+      "ask": 28500,
       "bid": -1,
       "vendor": 540
     },
     "Linen Robe Bottoms": {
-      "ask": 24999,
+      "ask": 49683,
       "bid": -1,
       "vendor": 756
     },
     "Linen Robe Top": {
-      "ask": 29999,
+      "ask": 66337,
       "bid": -1,
       "vendor": 864
     },
@@ -1471,8 +1471,8 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 154753,
-      "bid": 75000,
+      "ask": 154752,
+      "bid": 60000,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1512,7 +1512,7 @@
     },
     "Rain Of Arrows": {
       "ask": -1,
-      "bid": 600000,
+      "bid": 2000000,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 365,
-      "bid": 292,
+      "bid": 293,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1676,13 +1676,13 @@
       "vendor": 432
     },
     "Reptile Chaps": {
-      "ask": 146317,
+      "ask": 146318,
       "bid": -1,
       "vendor": 756
     },
     "Reptile Hide": {
       "ask": 308,
-      "bid": 185,
+      "bid": 165,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1696,7 +1696,7 @@
       "vendor": 18
     },
     "Reptile Tunic": {
-      "ask": 99995,
+      "ask": 99996,
       "bid": -1,
       "vendor": 864
     },
@@ -1716,7 +1716,7 @@
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 149601,
+      "ask": 135015,
       "bid": -1,
       "vendor": 84
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 49993,
+      "ask": 49992,
       "bid": 10002,
       "vendor": 1000
     },
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 9500,
-      "bid": 2001,
+      "bid": 1000,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1821,7 +1821,7 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 124,
+      "ask": 123,
       "bid": 103,
       "vendor": 27
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 743,
+      "ask": 742,
       "bid": 620,
       "vendor": 75
     },
@@ -1962,7 +1962,7 @@
     },
     "Super Ranged Coffee": {
       "ask": 6498,
-      "bid": 2000,
+      "bid": 2001,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 50525,
+      "ask": 50524,
       "bid": 17022,
       "vendor": 1000
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 3999999,
+      "ask": 4000000,
       "bid": 2000001,
       "vendor": 1000
     },
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 654,
-      "bid": 255,
+      "bid": 256,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2216,7 +2216,7 @@
       "vendor": 10000
     },
     "Werewolf Slasher": {
-      "ask": 25000000,
+      "ask": 13000000,
       "bid": 2100009,
       "vendor": 400000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667952003.0353947
+  "time": 1667952903.1657465
 }
