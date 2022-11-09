@@ -216,7 +216,7 @@
       "vendor": 3744
     },
     "Bear Essence": {
-      "ask": 99,
+      "ask": 94,
       "bid": 55,
       "vendor": 54
     },
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 201,
-      "bid": 100,
+      "bid": -1,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -296,7 +296,7 @@
       "vendor": 540
     },
     "Black Bear Fluff": {
-      "ask": 75000,
+      "ask": 74813,
       "bid": 1002,
       "vendor": 3000
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 9400000,
+      "ask": 9300000,
       "bid": 1000007,
       "vendor": 1000
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1999999,
+      "ask": 1999998,
       "bid": 1000000,
       "vendor": 4000
     },
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 61199,
+      "ask": 58139,
       "bid": 26012,
       "vendor": 5000
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 1999999,
+      "ask": 1500000,
       "bid": 400002,
       "vendor": 20000
     },
@@ -986,8 +986,8 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 230,
-      "bid": 190,
+      "ask": 242,
+      "bid": 200,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1051,7 +1051,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 87246,
+      "ask": 87028,
       "bid": 60038,
       "vendor": 3000
     },
@@ -1091,12 +1091,12 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 795,
+      "ask": 796,
       "bid": 742,
       "vendor": 162
     },
     "Holy Chisel": {
-      "ask": -1,
+      "ask": 165000,
       "bid": 120000,
       "vendor": 62370
     },
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 946,
-      "bid": 502,
+      "bid": 503,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1361,7 +1361,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 75000,
+      "ask": 74813,
       "bid": 31558,
       "vendor": 3000
     },
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 127593,
+      "ask": 127594,
       "bid": 50019,
       "vendor": 1000
     },
@@ -1402,7 +1402,7 @@
     },
     "Plum Gummy": {
       "ask": 379,
-      "bid": 79,
+      "bid": 65,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -1416,7 +1416,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 99997,
+      "ask": 99747,
       "bid": 50019,
       "vendor": 3000
     },
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 140,
+      "ask": 139,
       "bid": 51,
       "vendor": 12
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 139661,
+      "ask": 132678,
       "bid": 60002,
       "vendor": 1000
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 213,
+      "ask": 215,
       "bid": 205,
       "vendor": 27
     },
@@ -1716,7 +1716,7 @@
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 128260,
+      "ask": 128259,
       "bid": -1,
       "vendor": 84
     },
@@ -1726,7 +1726,7 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 94990,
+      "ask": 94989,
       "bid": -1,
       "vendor": 60
     },
@@ -1736,7 +1736,7 @@
       "vendor": 6
     },
     "Rough Tunic": {
-      "ask": 180484,
+      "ask": 180483,
       "bid": -1,
       "vendor": 96
     },
@@ -1812,11 +1812,11 @@
     },
     "Sorcerer Essence": {
       "ask": 537,
-      "bid": 356,
+      "bid": 358,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 1746696,
+      "ask": 1746695,
       "bid": 935000,
       "vendor": 3000
     },
@@ -1902,7 +1902,7 @@
     },
     "Super Attack Coffee": {
       "ask": 911,
-      "bid": 201,
+      "bid": 200,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1934,
+      "ask": 1500,
       "bid": 1069,
       "vendor": 75
     },
@@ -2136,7 +2136,7 @@
       "vendor": 420
     },
     "Verdant Hatchet": {
-      "ask": 52640,
+      "ask": 52000,
       "bid": -1,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1667980802.5221553
+  "time": 1667981703.8206143
 }
