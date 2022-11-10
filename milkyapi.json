@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 24,
+      "ask": 23,
       "bid": 9,
       "vendor": 2
     },
@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 76000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -191,7 +191,7 @@
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 1842,
+      "ask": 1500,
       "bid": 852,
       "vendor": 36
     },
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 73,
+      "ask": 69,
       "bid": 66,
       "vendor": 8
     },
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 1150,
-      "bid": 860,
+      "bid": 861,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -962,7 +962,7 @@
     },
     "Gobo Boomstick": {
       "ask": 599998,
-      "bid": 333334,
+      "bid": -1,
       "vendor": 20000
     },
     "Gobo Boots": {
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 275,
+      "ask": 261,
       "bid": 188,
       "vendor": 12
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 220,
+      "ask": 209,
       "bid": 100,
       "vendor": 4
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 111147,
+      "ask": 111144,
       "bid": 1068,
       "vendor": 1000
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 248,
+      "ask": 236,
       "bid": 188,
       "vendor": 6
     },
@@ -1701,7 +1701,7 @@
       "vendor": 864
     },
     "Robusta Coffee Bean": {
-      "ask": 253,
+      "ask": 252,
       "bid": 95,
       "vendor": 8
     },
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 397,
+      "ask": 377,
       "bid": 136,
       "vendor": 2
     },
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 895,
-      "bid": 760,
+      "bid": 761,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1872,7 +1872,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 1584,
-      "bid": 1583,
+      "bid": 725,
       "vendor": 75
     },
     "Strawberry": {
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 1892,
+      "ask": 1893,
       "bid": 700,
       "vendor": 75
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 4246,
+      "ask": 4245,
       "bid": 2007,
       "vendor": 75
     },
@@ -2116,7 +2116,7 @@
       "vendor": 12
     },
     "Verdant Chisel": {
-      "ask": 19798,
+      "ask": 79798,
       "bid": -1,
       "vendor": 420
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 69696,
+      "ask": 69693,
       "bid": 2500,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668065402.5318863
+  "time": 1668066302.9125338
 }
