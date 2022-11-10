@@ -81,7 +81,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 50000,
+      "ask": 55000,
       "bid": 3300,
       "vendor": 1512
     },
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 1150,
-      "bid": 861,
+      "bid": 850,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -521,7 +521,7 @@
       "vendor": 84
     },
     "Cheese Buckler": {
-      "ask": 220,
+      "ask": -1,
       "bid": 216,
       "vendor": 72
     },
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 13,
+      "ask": 25,
       "bid": 3,
       "vendor": 1
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 845,
-      "bid": 736,
+      "bid": 745,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1377,12 +1377,12 @@
     },
     "Peach Gummy": {
       "ask": 281,
-      "bid": 155,
+      "bid": 109,
       "vendor": 40
     },
     "Peach Yogurt": {
       "ask": 420,
-      "bid": 202,
+      "bid": 201,
       "vendor": 40
     },
     "Pierce": {
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 966,
+      "ask": 965,
       "bid": 143,
       "vendor": 48
     },
@@ -1942,7 +1942,7 @@
     },
     "Super Intelligence Coffee": {
       "ask": 1989,
-      "bid": 1176,
+      "bid": 508,
       "vendor": 40
     },
     "Super Magic Coffee": {
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 564,
-      "bid": 301,
+      "bid": 300,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668067202.5301864
+  "time": 1668068104.279298
 }
