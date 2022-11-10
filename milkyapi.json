@@ -187,11 +187,11 @@
     },
     "Bamboo Branch": {
       "ask": 473,
-      "bid": 81,
+      "bid": 100,
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 1450,
+      "ask": 1449,
       "bid": 856,
       "vendor": 36
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 1147,
+      "ask": 1100,
       "bid": 404,
       "vendor": 24
     },
@@ -651,7 +651,7 @@
       "vendor": 48
     },
     "Cotton Hat": {
-      "ask": 40278,
+      "ask": 6000,
       "bid": -1,
       "vendor": 60
     },
@@ -821,12 +821,12 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 25,
-      "bid": 3,
+      "ask": 24,
+      "bid": 4,
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 3420908,
+      "ask": 3420907,
       "bid": 1500002,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 1400000,
+      "ask": 1399999,
       "bid": 650000,
       "vendor": 1000
     },
@@ -976,8 +976,8 @@
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 187745,
-      "bid": 130000,
+      "ask": 282000,
+      "bid": -1,
       "vendor": 3276
     },
     "Gobo Essence": {
@@ -1022,7 +1022,7 @@
     },
     "Gobo Tunic": {
       "ask": 267850,
-      "bid": 200000,
+      "bid": -1,
       "vendor": 3744
     },
     "Goggles": {
@@ -1291,7 +1291,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 19,
+      "ask": 18,
       "bid": 15,
       "vendor": 14
     },
@@ -1327,7 +1327,7 @@
     },
     "Mooberry": {
       "ask": 11,
-      "bid": 3,
+      "bid": 5,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -1376,8 +1376,8 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 281,
-      "bid": 109,
+      "ask": 280,
+      "bid": 110,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -1452,7 +1452,7 @@
     },
     "Purpleheart Log": {
       "ask": 47,
-      "bid": 3,
+      "bid": 25,
       "vendor": 12
     },
     "Purpleheart Lumber": {
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 960,
+      "ask": 959,
       "bid": 145,
       "vendor": 48
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 210,
+      "ask": 209,
       "bid": 189,
       "vendor": 6
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 1582,
+      "ask": 1581,
       "bid": 732,
       "vendor": 75
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668083402.6337652
+  "time": 1668084303.3710334
 }
