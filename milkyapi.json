@@ -196,7 +196,7 @@
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 66280,
+      "ask": 66279,
       "bid": -1,
       "vendor": 1872
     },
@@ -206,7 +206,7 @@
       "vendor": 2340
     },
     "Bamboo Robe Bottoms": {
-      "ask": 103577,
+      "ask": 103576,
       "bid": 4500,
       "vendor": 3276
     },
@@ -636,7 +636,7 @@
       "vendor": 2
     },
     "Cotton Boots": {
-      "ask": 25718,
+      "ask": 25717,
       "bid": -1,
       "vendor": 48
     },
@@ -646,7 +646,7 @@
       "vendor": 6
     },
     "Cotton Gloves": {
-      "ask": 4332,
+      "ask": 4331,
       "bid": -1,
       "vendor": 48
     },
@@ -766,7 +766,7 @@
       "vendor": 9072
     },
     "Crimson Shears": {
-      "ask": 23456,
+      "ask": -1,
       "bid": 6810,
       "vendor": 9072
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 3420900,
-      "bid": 1001,
+      "bid": 50000,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1275000,
+      "ask": 1274999,
       "bid": 855555,
       "vendor": 4000
     },
@@ -942,12 +942,12 @@
     },
     "Ginkgo Log": {
       "ask": 96,
-      "bid": 43,
+      "bid": 44,
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": -1,
-      "bid": 1051,
+      "ask": 1200,
+      "bid": 800,
       "vendor": 54
     },
     "Ginkgo Nature Staff": {
@@ -956,7 +956,7 @@
       "vendor": 11664
     },
     "Ginkgo Water Staff": {
-      "ask": 299999,
+      "ask": 300000,
       "bid": -1,
       "vendor": 11664
     },
@@ -966,12 +966,12 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 153621,
+      "ask": 153620,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 110941,
+      "ask": 110940,
       "bid": -1,
       "vendor": 1872
     },
@@ -991,7 +991,7 @@
       "vendor": 12
     },
     "Gobo Hood": {
-      "ask": 132033,
+      "ask": 132032,
       "bid": -1,
       "vendor": 2340
     },
@@ -1456,8 +1456,8 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 1275,
-      "bid": 700,
+      "ask": 1274,
+      "bid": 200,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 2469999,
+      "ask": 2470000,
       "bid": 1050001,
       "vendor": 1000
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 28913,
+      "ask": 27466,
       "bid": 10002,
       "vendor": 1000
     },
@@ -1756,7 +1756,7 @@
       "vendor": 73
     },
     "Silk Gloves": {
-      "ask": -1,
+      "ask": 2100000,
       "bid": 150000,
       "vendor": 7200
     },
@@ -1806,17 +1806,17 @@
       "vendor": 2000
     },
     "Sorcerer Boots": {
-      "ask": 7999999,
+      "ask": 7000000,
       "bid": -1,
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 775,
+      "ask": 774,
       "bid": 203,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 418865,
+      "ask": 418863,
       "bid": 250000,
       "vendor": 3000
     },
@@ -1941,7 +1941,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1985,
+      "ask": 1984,
       "bid": 508,
       "vendor": 40
     },
@@ -1956,7 +1956,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1245,
+      "ask": 1244,
       "bid": 516,
       "vendor": 75
     },
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 2996,
+      "ask": 2995,
       "bid": 454,
       "vendor": 40
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 7524270,
+      "ask": 7524269,
       "bid": 2000025,
       "vendor": 1000
     },
@@ -2046,7 +2046,7 @@
       "vendor": 24768
     },
     "Umbral Bracers": {
-      "ask": -1,
+      "ask": 2100000,
       "bid": 1000000,
       "vendor": 24768
     },
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 399,
-      "bid": 300,
+      "bid": 224,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668092403.0871322
+  "time": 1668093303.9212506
 }
