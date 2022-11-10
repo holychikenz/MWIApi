@@ -221,27 +221,27 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 300000,
+      "ask": 1000000,
       "bid": -1,
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 360607,
+      "ask": 1000000,
       "bid": -1,
       "vendor": 7200
     },
     "Beast Chaps": {
-      "ask": 244350,
+      "ask": 257210,
       "bid": -1,
       "vendor": 12600
     },
     "Beast Hide": {
       "ask": 399,
-      "bid": 210,
+      "bid": 211,
       "vendor": 24
     },
     "Beast Hood": {
-      "ask": 475000,
+      "ask": 500000,
       "bid": -1,
       "vendor": 9000
     },
@@ -251,7 +251,7 @@
       "vendor": 72
     },
     "Beast Tunic": {
-      "ask": 244350,
+      "ask": 257210,
       "bid": -1,
       "vendor": 14400
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 1146,
+      "ask": 1145,
       "bid": 407,
       "vendor": 24
     },
@@ -632,7 +632,7 @@
     },
     "Cotton": {
       "ask": 62,
-      "bid": 51,
+      "bid": 55,
       "vendor": 2
     },
     "Cotton Boots": {
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 749,
+      "ask": 748,
       "bid": 530,
       "vendor": 6
     },
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1043,
-      "bid": 641,
+      "bid": 750,
       "vendor": 50
     },
     "Egg": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 24995,
+      "ask": 24996,
       "bid": 10002,
       "vendor": 1000
     },
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 200,
-      "bid": 141,
+      "bid": 142,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -931,7 +931,7 @@
       "vendor": 15552
     },
     "Ginkgo Crossbow": {
-      "ask": 300000,
+      "ask": 899998,
       "bid": -1,
       "vendor": 11664
     },
@@ -987,7 +987,7 @@
     },
     "Gobo Hide": {
       "ask": 547,
-      "bid": 230,
+      "bid": 231,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 1396,
+      "ask": 1394,
       "bid": 832,
       "vendor": 18
     },
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 544,
+      "ask": 543,
       "bid": 178,
       "vendor": 6
     },
@@ -1361,7 +1361,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 67512,
+      "ask": 67511,
       "bid": 31558,
       "vendor": 3000
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 8518,
+      "ask": 8517,
       "bid": 5518,
       "vendor": 1000
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 199,
+      "ask": 197,
       "bid": 94,
       "vendor": 6
     },
@@ -1706,7 +1706,7 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 45122,
+      "ask": 45121,
       "bid": -1,
       "vendor": 48
     },
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 200,
+      "ask": 199,
       "bid": 144,
       "vendor": 2
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 24996,
+      "ask": 24995,
       "bid": 10476,
       "vendor": 1000
     },
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 709,
+      "ask": 708,
       "bid": 204,
       "vendor": 36
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 1099,
+      "ask": 1098,
       "bid": 734,
       "vendor": 75
     },
@@ -1901,7 +1901,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 820,
+      "ask": 819,
       "bid": 217,
       "vendor": 50
     },
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 45549,
+      "ask": 45548,
       "bid": 17507,
       "vendor": 1000
     },
@@ -2111,7 +2111,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 301,
+      "ask": 299,
       "bid": 226,
       "vendor": 12
     },
@@ -2232,7 +2232,7 @@
     },
     "Wisdom Tea": {
       "ask": 919,
-      "bid": 700,
+      "bid": 750,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668105904.498283
+  "time": 1668106802.7871983
 }
