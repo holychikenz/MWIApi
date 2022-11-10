@@ -96,7 +96,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 496,
+      "ask": 495,
       "bid": 306,
       "vendor": 24
     },
@@ -137,7 +137,7 @@
     },
     "Azure Milk": {
       "ask": 97,
-      "bid": 41,
+      "bid": 42,
       "vendor": 8
     },
     "Azure Needle": {
@@ -257,7 +257,7 @@
     },
     "Berserk": {
       "ask": 349099,
-      "bid": 170020,
+      "bid": 170170,
       "vendor": 1000
     },
     "Birch Bow": {
@@ -516,7 +516,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 360,
+      "ask": 7600,
       "bid": 310,
       "vendor": 84
     },
@@ -607,12 +607,12 @@
     },
     "Cheesesmithing Tea": {
       "ask": 746,
-      "bid": 129,
+      "bid": 135,
       "vendor": 30
     },
     "Cleave": {
-      "ask": 235101,
-      "bid": 111119,
+      "ask": 235095,
+      "bid": 149999,
       "vendor": 1000
     },
     "Cocoon": {
@@ -876,8 +876,8 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 1400000,
-      "bid": 650004,
+      "ask": 1468917,
+      "bid": 650005,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 391,
+      "ask": 547,
       "bid": 192,
       "vendor": 12
     },
@@ -1027,7 +1027,7 @@
     },
     "Goggles": {
       "ask": 203626,
-      "bid": 181005,
+      "bid": 180005,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -1041,7 +1041,7 @@
       "vendor": 20
     },
     "Granite Bludgeon": {
-      "ask": 22999999,
+      "ask": 22000000,
       "bid": 4000000,
       "vendor": 400000
     },
@@ -1051,7 +1051,7 @@
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
-      "ask": 133998,
+      "ask": 125000,
       "bid": 65001,
       "vendor": 3000
     },
@@ -1127,7 +1127,7 @@
     },
     "Holy Mace": {
       "ask": 92996,
-      "bid": 82000,
+      "bid": 70000,
       "vendor": 80190
     },
     "Holy Milk": {
@@ -1282,12 +1282,12 @@
     },
     "Magnifying Glass": {
       "ask": 130837,
-      "bid": 100006,
+      "bid": 100005,
       "vendor": 10000
     },
     "Maim": {
-      "ask": 215000,
-      "bid": 111122,
+      "ask": 335500,
+      "bid": 111121,
       "vendor": 1000
     },
     "Marsberry": {
@@ -1416,7 +1416,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 94752,
+      "ask": 94751,
       "bid": 50019,
       "vendor": 3000
     },
@@ -1747,7 +1747,7 @@
     },
     "Silk Boots": {
       "ask": 485503,
-      "bid": 250000,
+      "bid": -1,
       "vendor": 7200
     },
     "Silk Fabric": {
@@ -1756,17 +1756,17 @@
       "vendor": 73
     },
     "Silk Gloves": {
-      "ask": 500000,
+      "ask": -1,
       "bid": 150000,
       "vendor": 7200
     },
     "Silk Hat": {
-      "ask": 773781,
-      "bid": 150000,
+      "ask": 630249,
+      "bid": -1,
       "vendor": 9000
     },
     "Silk Robe Bottoms": {
-      "ask": 857375,
+      "ask": 950000,
       "bid": 150000,
       "vendor": 12600
     },
@@ -1892,7 +1892,7 @@
     },
     "Stunning Blow": {
       "ask": 300000,
-      "bid": 151000,
+      "bid": 158550,
       "vendor": 1000
     },
     "Sugar": {
@@ -1987,7 +1987,7 @@
     },
     "Sweep": {
       "ask": 45554,
-      "bid": 16670,
+      "bid": 17504,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 7148059,
+      "ask": 7524270,
       "bid": 2000025,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668091502.6458957
+  "time": 1668092403.0871322
 }
