@@ -31,7 +31,7 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": -1,
+      "ask": 15000000,
       "bid": 5000000,
       "vendor": 106920
     },
@@ -51,7 +51,7 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": -1,
+      "ask": 50000,
       "bid": 2,
       "vendor": 162
     },
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 1441,
-      "bid": 854,
+      "bid": 853,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -241,7 +241,7 @@
       "vendor": 24
     },
     "Beast Hood": {
-      "ask": 300000,
+      "ask": 285000,
       "bid": -1,
       "vendor": 9000
     },
@@ -261,7 +261,7 @@
       "vendor": 1000
     },
     "Birch Bow": {
-      "ask": 19000,
+      "ask": 23000,
       "bid": -1,
       "vendor": 720
     },
@@ -531,7 +531,7 @@
       "vendor": 144
     },
     "Cheese Chisel": {
-      "ask": 3999,
+      "ask": 4000,
       "bid": -1,
       "vendor": 84
     },
@@ -566,7 +566,7 @@
       "vendor": 108
     },
     "Cheese Needle": {
-      "ask": 9999,
+      "ask": 10000,
       "bid": -1,
       "vendor": 84
     },
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 76787,
+      "ask": 70000,
       "bid": 26020,
       "vendor": 5000
     },
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 70,
-      "bid": 55,
+      "bid": 51,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 837,
+      "ask": 834,
       "bid": 756,
       "vendor": 162
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 79999,
+      "ask": 79996,
       "bid": 1070,
       "vendor": 1000
     },
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 126000,
+      "ask": 125997,
       "bid": 50019,
       "vendor": 1000
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 350,
+      "ask": 349,
       "bid": 218,
       "vendor": 48
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 10000,
+      "ask": 9997,
       "bid": 4037,
       "vendor": 1000
     },
@@ -1771,12 +1771,12 @@
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 415777,
+      "ask": 394988,
       "bid": -1,
       "vendor": 14400
     },
     "Smack": {
-      "ask": 7067,
+      "ask": 7064,
       "bid": 5001,
       "vendor": 1000
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 1090,
+      "ask": 1086,
       "bid": 743,
       "vendor": 75
     },
@@ -1891,7 +1891,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 299996,
+      "ask": 295000,
       "bid": 158552,
       "vendor": 1000
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 6418876,
+      "ask": 6418874,
       "bid": 500006,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668140102.9822617
+  "time": 1668141002.3861706
 }
