@@ -137,7 +137,7 @@
     },
     "Azure Milk": {
       "ask": 97,
-      "bid": 66,
+      "bid": 71,
       "vendor": 8
     },
     "Azure Needle": {
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 300,
+      "ask": 290,
       "bid": 230,
       "vendor": 12
     },
@@ -276,8 +276,8 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 75,
-      "bid": 61,
+      "ask": 119,
+      "bid": 62,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 54,
+      "ask": 50,
       "bid": 44,
       "vendor": 8
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 766,
+      "ask": 986,
       "bid": 651,
       "vendor": 24
     },
@@ -801,7 +801,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 42,
+      "ask": 35,
       "bid": 25,
       "vendor": 14
     },
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 595,
+      "ask": 580,
       "bid": 317,
       "vendor": 54
     },
@@ -881,17 +881,17 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1049998,
+      "ask": 1049997,
       "bid": 265006,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
-      "ask": 7500000,
+      "ask": -1,
       "bid": -1,
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 9000000,
+      "ask": -1,
       "bid": -1,
       "vendor": 60000
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 125,
+      "ask": 124,
       "bid": 98,
       "vendor": 4
     },
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 999,
+      "ask": 985,
       "bid": 850,
       "vendor": 18
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 71000,
+      "ask": 50000,
       "bid": 1070,
       "vendor": 1000
     },
@@ -1332,7 +1332,7 @@
     },
     "Mooberry Cake": {
       "ask": 284,
-      "bid": 163,
+      "bid": 170,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -1341,12 +1341,12 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 50,
+      "ask": 49,
       "bid": 27,
       "vendor": 18
     },
     "Orange": {
-      "ask": 20,
+      "ask": 19,
       "bid": 11,
       "vendor": 4
     },
@@ -1371,7 +1371,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 9,
+      "ask": 8,
       "bid": -1,
       "vendor": 9
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 20,
+      "ask": 19,
       "bid": 17,
       "vendor": 6
     },
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 85,
+      "ask": 86,
       "bid": 62,
       "vendor": 12
     },
@@ -1647,7 +1647,7 @@
     },
     "Redwood Log": {
       "ask": 220,
-      "bid": 100,
+      "bid": 101,
       "vendor": 27
     },
     "Redwood Lumber": {
@@ -1806,7 +1806,7 @@
       "vendor": 2000
     },
     "Sorcerer Boots": {
-      "ask": 3999999,
+      "ask": -1,
       "bid": 800000,
       "vendor": 50000
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 200000,
+      "ask": 218579,
       "bid": 50000,
       "vendor": 3000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668165303.8211725
+  "time": 1668166203.516206
 }
