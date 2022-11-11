@@ -97,7 +97,7 @@
     },
     "Azure Cheese": {
       "ask": 494,
-      "bid": 327,
+      "bid": 333,
       "vendor": 24
     },
     "Azure Chisel": {
@@ -187,11 +187,11 @@
     },
     "Bamboo Branch": {
       "ask": 341,
-      "bid": 221,
+      "bid": 222,
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 1348,
+      "ask": 1347,
       "bid": 854,
       "vendor": 36
     },
@@ -326,7 +326,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1149,
+      "ask": 1200,
       "bid": 622,
       "vendor": 75
     },
@@ -357,7 +357,7 @@
     },
     "Burble Brush": {
       "ask": 1000000000000,
-      "bid": 4000,
+      "bid": 50000,
       "vendor": 3780
     },
     "Burble Buckler": {
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 2469987,
-      "bid": 50005,
+      "bid": 50006,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 75,
-      "bid": 50,
+      "bid": 51,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -981,12 +981,12 @@
       "vendor": 3276
     },
     "Gobo Essence": {
-      "ask": 154,
+      "ask": 155,
       "bid": 66,
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 520,
+      "ask": 519,
       "bid": 261,
       "vendor": 12
     },
@@ -1011,7 +1011,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 19950,
+      "ask": 21000,
       "bid": 10000,
       "vendor": 20000
     },
@@ -1026,7 +1026,7 @@
       "vendor": 3744
     },
     "Goggles": {
-      "ask": 203626,
+      "ask": 214343,
       "bid": 180005,
       "vendor": 10000
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 170,
+      "ask": 169,
       "bid": 120,
       "vendor": 6
     },
@@ -1867,11 +1867,11 @@
     },
     "Star Fruit Gummy": {
       "ask": 1199,
-      "bid": 428,
+      "bid": 430,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 1095,
+      "ask": 1090,
       "bid": 743,
       "vendor": 75
     },
@@ -1902,7 +1902,7 @@
     },
     "Super Attack Coffee": {
       "ask": 812,
-      "bid": 221,
+      "bid": 222,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 4202,
+      "ask": 4201,
       "bid": 2009,
       "vendor": 75
     },
@@ -1982,7 +1982,7 @@
     },
     "Swamp Essence": {
       "ask": 49,
-      "bid": 44,
+      "bid": 34,
       "vendor": 8
     },
     "Sweep": {
@@ -2007,7 +2007,7 @@
     },
     "Tome Of The Elements": {
       "ask": 19999997,
-      "bid": 314999,
+      "bid": 500000,
       "vendor": 100000
     },
     "Toughness": {
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 6418887,
+      "ask": 6418886,
       "bid": 500006,
       "vendor": 1000
     },
@@ -2176,7 +2176,7 @@
       "vendor": 420
     },
     "Verdant Shears": {
-      "ask": 750,
+      "ask": -1,
       "bid": 435,
       "vendor": 420
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 59999,
+      "ask": 59998,
       "bid": 2500,
       "vendor": 1000
     },
@@ -2231,8 +2231,8 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 918,
-      "bid": 530,
+      "ask": 850,
+      "bid": 550,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668131103.6548913
+  "time": 1668132002.9800754
 }
