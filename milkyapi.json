@@ -46,7 +46,7 @@
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 12499,
+      "ask": 12500,
       "bid": 502,
       "vendor": 54
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 488,
+      "ask": 487,
       "bid": 245,
       "vendor": 24
     },
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 62,
-      "bid": 48,
+      "bid": 50,
       "vendor": 12
     },
     "Burble Needle": {
@@ -741,8 +741,8 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 25,
-      "bid": 24,
+      "ask": 24,
+      "bid": 23,
       "vendor": 18
     },
     "Crimson Needle": {
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 580,
+      "ask": 578,
       "bid": 317,
       "vendor": 54
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 1945123,
+      "ask": 1900000,
       "bid": 1000005,
       "vendor": 1000
     },
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 65,
-      "bid": 42,
+      "bid": 43,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 543,
+      "ask": 894,
       "bid": 351,
       "vendor": 6
     },
@@ -1281,13 +1281,13 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 124295,
+      "ask": 124069,
       "bid": 100005,
       "vendor": 10000
     },
     "Maim": {
       "ask": 286214,
-      "bid": 111142,
+      "bid": 111143,
       "vendor": 1000
     },
     "Marsberry": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 50000,
+      "ask": 71000,
       "bid": 1070,
       "vendor": 1000
     },
@@ -1636,7 +1636,7 @@
       "vendor": 35964
     },
     "Redwood Crossbow": {
-      "ask": 325000,
+      "ask": 324999,
       "bid": -1,
       "vendor": 26973
     },
@@ -1661,7 +1661,7 @@
       "vendor": 26973
     },
     "Redwood Water Staff": {
-      "ask": -1,
+      "ask": 900000,
       "bid": -1,
       "vendor": 26973
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 2494,
+      "ask": 2369,
       "bid": 1071,
       "vendor": 73
     },
@@ -1822,7 +1822,7 @@
     },
     "Spaceberry": {
       "ask": 83,
-      "bid": 64,
+      "bid": 65,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1867,12 +1867,12 @@
     },
     "Star Fruit Gummy": {
       "ask": 921,
-      "bid": 442,
+      "bid": 444,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 1082,
-      "bid": 745,
+      "ask": 1081,
+      "bid": 746,
       "vendor": 75
     },
     "Strawberry": {
@@ -1902,7 +1902,7 @@
     },
     "Super Attack Coffee": {
       "ask": 794,
-      "bid": 226,
+      "bid": 228,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1957,7 +1957,7 @@
     },
     "Super Power Coffee": {
       "ask": 1169,
-      "bid": 527,
+      "bid": 528,
       "vendor": 75
     },
     "Super Ranged Coffee": {
@@ -1992,7 +1992,7 @@
     },
     "Swiftness Coffee": {
       "ask": 1045,
-      "bid": 746,
+      "bid": 747,
       "vendor": 50
     },
     "Tailoring Tea": {
@@ -2056,8 +2056,8 @@
       "vendor": 43344
     },
     "Umbral Hide": {
-      "ask": 5999,
-      "bid": 3001,
+      "ask": 5998,
+      "bid": 49,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2097,7 +2097,7 @@
     },
     "Verdant Brush": {
       "ask": -1,
-      "bid": 3000,
+      "bid": 34000,
       "vendor": 420
     },
     "Verdant Buckler": {
@@ -2111,7 +2111,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 535,
+      "ask": 534,
       "bid": 231,
       "vendor": 12
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668172504.5265307
+  "time": 1668173403.0395381
 }
