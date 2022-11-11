@@ -26,8 +26,8 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 143,
-      "bid": 43,
+      "ask": 142,
+      "bid": 44,
       "vendor": 4
     },
     "Arcane Bow": {
@@ -41,7 +41,7 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": -1,
+      "ask": 15000000,
       "bid": 10000000,
       "vendor": 80190
     },
@@ -256,7 +256,7 @@
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 282882,
+      "ask": 282881,
       "bid": 180001,
       "vendor": 1000
     },
@@ -311,7 +311,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 23,
+      "ask": 22,
       "bid": 15,
       "vendor": 4
     },
@@ -612,7 +612,7 @@
     },
     "Cleave": {
       "ask": 234502,
-      "bid": 150052,
+      "bid": 150053,
       "vendor": 1000
     },
     "Cocoon": {
@@ -636,7 +636,7 @@
       "vendor": 2
     },
     "Cotton Boots": {
-      "ask": 4750,
+      "ask": 4749,
       "bid": 1000,
       "vendor": 48
     },
@@ -646,22 +646,22 @@
       "vendor": 6
     },
     "Cotton Gloves": {
-      "ask": 9500,
+      "ask": 7500,
       "bid": 1000,
       "vendor": 48
     },
     "Cotton Hat": {
-      "ask": 42398,
+      "ask": 25000,
       "bid": 1000,
       "vendor": 60
     },
     "Cotton Robe Bottoms": {
-      "ask": 17147,
+      "ask": 9999,
       "bid": 1603,
       "vendor": 84
     },
     "Cotton Robe Top": {
-      "ask": 12633,
+      "ask": 9999,
       "bid": 1603,
       "vendor": 96
     },
@@ -811,8 +811,8 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 568,
-      "bid": 327,
+      "ask": 567,
+      "bid": 328,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 2229158,
-      "bid": 50020,
+      "bid": 50021,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 85506,
+      "ask": 85507,
       "bid": 26023,
       "vendor": 5000
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 514999,
+      "ask": 515000,
       "bid": 306265,
       "vendor": 20000
     },
@@ -1291,7 +1291,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 77,
+      "ask": 75,
       "bid": 16,
       "vendor": 14
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 70997,
+      "ask": 71000,
       "bid": 1071,
       "vendor": 1000
     },
@@ -1342,7 +1342,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 49,
-      "bid": 27,
+      "bid": 36,
       "vendor": 18
     },
     "Orange": {
@@ -1536,7 +1536,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 544,
+      "ask": 545,
       "bid": 371,
       "vendor": 81
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 165,
+      "ask": 166,
       "bid": 87,
       "vendor": 6
     },
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 377,
-      "bid": 188,
+      "bid": 190,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1766,12 +1766,12 @@
       "vendor": 9000
     },
     "Silk Robe Bottoms": {
-      "ask": 201575,
+      "ask": 191496,
       "bid": 18000,
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 349000,
+      "ask": 331550,
       "bid": 18000,
       "vendor": 14400
     },
@@ -1901,8 +1901,8 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 743,
-      "bid": 238,
+      "ask": 742,
+      "bid": 239,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 44990,
+      "ask": 44987,
       "bid": 2500,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668190503.1029587
+  "time": 1668191403.2745132
 }
