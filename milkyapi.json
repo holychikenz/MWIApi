@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 75000,
+      "ask": 74500,
       "bid": -1,
       "vendor": 1512
     },
@@ -121,7 +121,7 @@
       "vendor": 1512
     },
     "Azure Hatchet": {
-      "ask": 67685,
+      "ask": 59999,
       "bid": -1,
       "vendor": 1512
     },
@@ -141,7 +141,7 @@
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 74999,
+      "ask": 72500,
       "bid": -1,
       "vendor": 1512
     },
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 342,
-      "bid": 232,
+      "bid": 233,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -237,7 +237,7 @@
     },
     "Beast Hide": {
       "ask": 463,
-      "bid": 247,
+      "bid": 248,
       "vendor": 24
     },
     "Beast Hood": {
@@ -271,7 +271,7 @@
       "vendor": 540
     },
     "Birch Fire Staff": {
-      "ask": 47499,
+      "ask": 45000,
       "bid": -1,
       "vendor": 540
     },
@@ -286,12 +286,12 @@
       "vendor": 12
     },
     "Birch Nature Staff": {
-      "ask": 49999,
+      "ask": 45000,
       "bid": -1,
       "vendor": 540
     },
     "Birch Water Staff": {
-      "ask": 47498,
+      "ask": 45000,
       "bid": -1,
       "vendor": 540
     },
@@ -356,8 +356,8 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 1000000000000,
-      "bid": 50000,
+      "ask": 125000,
+      "bid": 4000,
       "vendor": 3780
     },
     "Burble Buckler": {
@@ -436,8 +436,8 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": -1,
-      "bid": 50000,
+      "ask": 125000,
+      "bid": 3360,
       "vendor": 3780
     },
     "Burble Spatula": {
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 241,
+      "ask": 229,
       "bid": 62,
       "vendor": 24
     },
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 577,
+      "ask": 576,
       "bid": 317,
       "vendor": 54
     },
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 248,
+      "ask": 350,
       "bid": 151,
       "vendor": 6
     },
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 99981,
+      "ask": 85721,
       "bid": 26020,
       "vendor": 5000
     },
@@ -947,16 +947,16 @@
     },
     "Ginkgo Lumber": {
       "ask": -1,
-      "bid": 650,
+      "bid": 600,
       "vendor": 54
     },
     "Ginkgo Nature Staff": {
-      "ask": 280000,
+      "ask": 250000,
       "bid": -1,
       "vendor": 11664
     },
     "Ginkgo Water Staff": {
-      "ask": 266000,
+      "ask": 250000,
       "bid": -1,
       "vendor": 11664
     },
@@ -982,12 +982,12 @@
     },
     "Gobo Essence": {
       "ask": 133,
-      "bid": 36,
+      "bid": 37,
       "vendor": 24
     },
     "Gobo Hide": {
       "ask": 516,
-      "bid": 300,
+      "bid": 306,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -996,8 +996,8 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": -1,
-      "bid": 865,
+      "ask": 3000,
+      "bid": 866,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 123,
+      "ask": 122,
       "bid": 98,
       "vendor": 4
     },
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 262,
-      "bid": 233,
+      "bid": 231,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1236,7 +1236,7 @@
       "vendor": 540
     },
     "Linen Robe Bottoms": {
-      "ask": 61083,
+      "ask": 61082,
       "bid": 2000,
       "vendor": 756
     },
@@ -1256,7 +1256,7 @@
       "vendor": 2
     },
     "Lucky Coffee": {
-      "ask": 354,
+      "ask": 355,
       "bid": 230,
       "vendor": 40
     },
@@ -1487,7 +1487,7 @@
     },
     "Radiant Fiber": {
       "ask": 348,
-      "bid": 221,
+      "bid": 223,
       "vendor": 48
     },
     "Radiant Gloves": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 247,
-      "bid": 172,
+      "bid": 174,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1957,7 +1957,7 @@
     },
     "Super Power Coffee": {
       "ask": 1167,
-      "bid": 536,
+      "bid": 537,
       "vendor": 75
     },
     "Super Ranged Coffee": {
@@ -1992,7 +1992,7 @@
     },
     "Swiftness Coffee": {
       "ask": 1045,
-      "bid": 755,
+      "bid": 756,
       "vendor": 50
     },
     "Tailoring Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668177004.0872707
+  "time": 1668177903.377766
 }
