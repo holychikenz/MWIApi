@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": -1,
+      "ask": 99000,
       "bid": -1,
       "vendor": 1512
     },
@@ -137,7 +137,7 @@
     },
     "Azure Milk": {
       "ask": 97,
-      "bid": 74,
+      "bid": 73,
       "vendor": 8
     },
     "Azure Needle": {
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 548,
+      "ask": 547,
       "bid": 278,
       "vendor": 12
     },
@@ -196,7 +196,7 @@
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 13263,
+      "ask": 13960,
       "bid": -1,
       "vendor": 1872
     },
@@ -296,7 +296,7 @@
       "vendor": 540
     },
     "Black Bear Fluff": {
-      "ask": 32000,
+      "ask": 31999,
       "bid": 5003,
       "vendor": 3000
     },
@@ -566,7 +566,7 @@
       "vendor": 108
     },
     "Cheese Needle": {
-      "ask": 9999,
+      "ask": 10000,
       "bid": -1,
       "vendor": 84
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 2223580,
+      "ask": 2223583,
       "bid": 103997,
       "vendor": 1000
     },
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 292,
+      "ask": 278,
       "bid": 161,
       "vendor": 6
     },
@@ -966,17 +966,17 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 78850,
+      "ask": 74908,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 62899,
+      "ask": 59754,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 168835,
+      "ask": 160393,
       "bid": 4600,
       "vendor": 3276
     },
@@ -986,12 +986,12 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 469,
+      "ask": 468,
       "bid": 350,
       "vendor": 12
     },
     "Gobo Hood": {
-      "ask": 87584,
+      "ask": 83205,
       "bid": -1,
       "vendor": 2340
     },
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 196397,
+      "ask": 186577,
       "bid": 4800,
       "vendor": 3744
     },
@@ -1461,7 +1461,7 @@
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
-      "ask": 232130,
+      "ask": 232129,
       "bid": -1,
       "vendor": 4860
     },
@@ -1621,7 +1621,7 @@
       "vendor": 26973
     },
     "Ranged Coffee": {
-      "ask": 1270,
+      "ask": 1269,
       "bid": 302,
       "vendor": 30
     },
@@ -1666,17 +1666,17 @@
       "vendor": 26973
     },
     "Reptile Boots": {
-      "ask": 18902,
+      "ask": 18901,
       "bid": -1,
       "vendor": 432
     },
     "Reptile Bracers": {
-      "ask": 64824,
+      "ask": 64823,
       "bid": -1,
       "vendor": 432
     },
     "Reptile Chaps": {
-      "ask": 102145,
+      "ask": 102144,
       "bid": 1600,
       "vendor": 756
     },
@@ -1686,7 +1686,7 @@
       "vendor": 6
     },
     "Reptile Hood": {
-      "ask": 73483,
+      "ask": 69808,
       "bid": -1,
       "vendor": 540
     },
@@ -1716,7 +1716,7 @@
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 62529,
+      "ask": 62528,
       "bid": 200,
       "vendor": 84
     },
@@ -1736,7 +1736,7 @@
       "vendor": 6
     },
     "Rough Tunic": {
-      "ask": 46213,
+      "ask": 46212,
       "bid": 500,
       "vendor": 96
     },
@@ -1901,7 +1901,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 735,
+      "ask": 734,
       "bid": 240,
       "vendor": 50
     },
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 2979,
+      "ask": 2978,
       "bid": 454,
       "vendor": 40
     },
@@ -2011,7 +2011,7 @@
       "vendor": 100000
     },
     "Toughness": {
-      "ask": 94763,
+      "ask": 94762,
       "bid": 16051,
       "vendor": 1000
     },
@@ -2116,7 +2116,7 @@
       "vendor": 12
     },
     "Verdant Chisel": {
-      "ask": 28500,
+      "ask": 30000,
       "bid": -1,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668238203.1255035
+  "time": 1668239103.4341528
 }
