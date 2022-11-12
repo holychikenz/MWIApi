@@ -196,7 +196,7 @@
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 13961,
+      "ask": 13263,
       "bid": -1,
       "vendor": 1872
     },
@@ -221,8 +221,8 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 193220,
-      "bid": 130000,
+      "ask": 183559,
+      "bid": -1,
       "vendor": 7200
     },
     "Beast Bracers": {
@@ -241,8 +241,8 @@
       "vendor": 24
     },
     "Beast Hood": {
-      "ask": 179620,
-      "bid": 150000,
+      "ask": 189074,
+      "bid": -1,
       "vendor": 9000
     },
     "Beast Leather": {
@@ -251,8 +251,8 @@
       "vendor": 72
     },
     "Beast Tunic": {
-      "ask": 189074,
-      "bid": 150000,
+      "ask": 189000,
+      "bid": 18000,
       "vendor": 14400
     },
     "Berserk": {
@@ -331,7 +331,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 21,
+      "ask": 24,
       "bid": 8,
       "vendor": 2
     },
@@ -812,12 +812,12 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 564,
-      "bid": 351,
+      "bid": 352,
       "vendor": 50
     },
     "Efficiency Tea": {
       "ask": 1098,
-      "bid": 810,
+      "bid": 811,
       "vendor": 50
     },
     "Egg": {
@@ -862,7 +862,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 82,
-      "bid": 76,
+      "bid": 77,
       "vendor": 27
     },
     "Fireball": {
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 31,
+      "ask": 36,
       "bid": 2,
       "vendor": 18
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 489248,
+      "ask": 470000,
       "bid": 200000,
       "vendor": 20000
     },
@@ -981,7 +981,7 @@
       "vendor": 3276
     },
     "Gobo Essence": {
-      "ask": 79,
+      "ask": 108,
       "bid": 38,
       "vendor": 24
     },
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 304,
-      "bid": 187,
+      "bid": 102,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1292,7 +1292,7 @@
     },
     "Marsberry": {
       "ask": 59,
-      "bid": 18,
+      "bid": 19,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1326,7 +1326,7 @@
       "vendor": 1000
     },
     "Mooberry": {
-      "ask": 24,
+      "ask": 34,
       "bid": 10,
       "vendor": 9
     },
@@ -1481,7 +1481,7 @@
       "vendor": 24768
     },
     "Radiant Fabric": {
-      "ask": 4000,
+      "ask": 3999,
       "bid": 800,
       "vendor": 144
     },
@@ -1512,7 +1512,7 @@
     },
     "Rain Of Arrows": {
       "ask": 4499999,
-      "bid": 900000,
+      "bid": 900001,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 164,
-      "bid": 95,
+      "bid": 125,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1691,7 +1691,7 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 1594,
+      "ask": 1000,
       "bid": 600,
       "vendor": 18
     },
@@ -1832,12 +1832,12 @@
     },
     "Spaceberry Donut": {
       "ask": 800,
-      "bid": 619,
+      "bid": 620,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
       "ask": 445,
-      "bid": 300,
+      "bid": 206,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 147,
-      "bid": 100,
+      "bid": 79,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1877,7 +1877,7 @@
     },
     "Strawberry": {
       "ask": 25,
-      "bid": 20,
+      "bid": 21,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1957,12 +1957,12 @@
     },
     "Super Power Coffee": {
       "ask": 1110,
-      "bid": 779,
+      "bid": 780,
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 4166,
-      "bid": 2501,
+      "ask": 4165,
+      "bid": 500,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -2227,7 +2227,7 @@
     },
     "Wisdom Coffee": {
       "ask": 1208,
-      "bid": 908,
+      "bid": 909,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668235503.1634955
+  "time": 1668236403.1904752
 }
