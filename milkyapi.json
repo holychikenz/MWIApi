@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 99000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 543,
+      "ask": 542,
       "bid": 279,
       "vendor": 12
     },
@@ -211,7 +211,7 @@
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 80503,
+      "ask": 76478,
       "bid": 4800,
       "vendor": 3744
     },
@@ -221,7 +221,7 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 193220,
+      "ask": 183559,
       "bid": -1,
       "vendor": 7200
     },
@@ -231,8 +231,8 @@
       "vendor": 7200
     },
     "Beast Chaps": {
-      "ask": 162104,
-      "bid": 140000,
+      "ask": 170636,
+      "bid": 16000,
       "vendor": 12600
     },
     "Beast Hide": {
@@ -296,7 +296,7 @@
       "vendor": 540
     },
     "Black Bear Fluff": {
-      "ask": 31998,
+      "ask": 31997,
       "bid": 5003,
       "vendor": 3000
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 2499,
+      "ask": 1862,
       "bid": 214,
       "vendor": 24
     },
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 600,
+      "ask": 508,
       "bid": 501,
       "vendor": 6
     },
@@ -661,7 +661,7 @@
       "vendor": 84
     },
     "Cotton Robe Top": {
-      "ask": 6983,
+      "ask": 6634,
       "bid": 1604,
       "vendor": 96
     },
@@ -812,7 +812,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 558,
-      "bid": 366,
+      "bid": 368,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -946,7 +946,7 @@
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": 1492,
+      "ask": 999,
       "bid": 300,
       "vendor": 54
     },
@@ -966,12 +966,12 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 71163,
+      "ask": 67605,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 53928,
+      "ask": 51232,
       "bid": -1,
       "vendor": 1872
     },
@@ -1052,7 +1052,7 @@
     },
     "Grizzly Bear Fluff": {
       "ask": 94999,
-      "bid": 65001,
+      "bid": 65000,
       "vendor": 3000
     },
     "Grizzly Bear Shoes": {
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 721,
+      "ask": 700,
       "bid": 411,
       "vendor": 6
     },
@@ -1281,7 +1281,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 124069,
+      "ask": 117866,
       "bid": 100005,
       "vendor": 10000
     },
@@ -1362,7 +1362,7 @@
     },
     "Panda Fluff": {
       "ask": 40000,
-      "bid": 31560,
+      "bid": 31559,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -1417,7 +1417,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 64999,
-      "bid": 50019,
+      "bid": 50018,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 499,
+      "ask": 498,
       "bid": 326,
       "vendor": 2
     },
@@ -1796,7 +1796,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 380,
+      "ask": 400,
       "bid": 200,
       "vendor": 100
     },
@@ -1867,12 +1867,12 @@
     },
     "Star Fruit Gummy": {
       "ask": 914,
-      "bid": 143,
+      "bid": 145,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 1056,
-      "bid": 747,
+      "bid": 748,
       "vendor": 75
     },
     "Strawberry": {
@@ -1961,8 +1961,8 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 4149,
-      "bid": 1657,
+      "ask": 4148,
+      "bid": 1658,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 32576,
+      "ask": 36096,
       "bid": 16669,
       "vendor": 1000
     },
@@ -2011,7 +2011,7 @@
       "vendor": 100000
     },
     "Toughness": {
-      "ask": 94758,
+      "ask": 94757,
       "bid": 16051,
       "vendor": 1000
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 3998,
-      "bid": 2222,
+      "bid": 2224,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2211,7 +2211,7 @@
       "vendor": 1000
     },
     "Werewolf Claw": {
-      "ask": 484608,
+      "ask": 535999,
       "bid": 400000,
       "vendor": 10000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668261602.3515842
+  "time": 1668262503.3222857
 }
