@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": -1,
+      "ask": 99000,
       "bid": -1,
       "vendor": 1512
     },
@@ -141,7 +141,7 @@
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 74999,
+      "ask": 71249,
       "bid": -1,
       "vendor": 1512
     },
@@ -237,7 +237,7 @@
     },
     "Beast Hide": {
       "ask": 527,
-      "bid": 281,
+      "bid": 282,
       "vendor": 24
     },
     "Beast Hood": {
@@ -246,7 +246,7 @@
       "vendor": 9000
     },
     "Beast Leather": {
-      "ask": 3500,
+      "ask": 3491,
       "bid": 1500,
       "vendor": 72
     },
@@ -801,7 +801,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 41,
+      "ask": 40,
       "bid": 28,
       "vendor": 14
     },
@@ -811,7 +811,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 564,
+      "ask": 560,
       "bid": 353,
       "vendor": 50
     },
@@ -841,8 +841,8 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 18044,
-      "bid": 10001,
+      "ask": 15000,
+      "bid": 2500,
       "vendor": 1000
     },
     "Excelsa Coffee Bean": {
@@ -1067,7 +1067,7 @@
     },
     "Heal": {
       "ask": 1500000,
-      "bid": 450010,
+      "bid": 450009,
       "vendor": 1000
     },
     "Holy Boots": {
@@ -1431,7 +1431,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 48866,
+      "ask": 45000,
       "bid": 20002,
       "vendor": 1000
     },
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 1397,
-      "bid": 1077,
+      "bid": 1080,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1891,7 +1891,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 284996,
+      "ask": 225000,
       "bid": 150001,
       "vendor": 1000
     },
@@ -2036,7 +2036,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 331,
+      "ask": 333,
       "bid": 252,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668246303.3921409
+  "time": 1668247202.6754851
 }
