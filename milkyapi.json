@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 74500,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -181,7 +181,7 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 31999,
+      "ask": 31998,
       "bid": -1,
       "vendor": 1872
     },
@@ -196,12 +196,12 @@
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 13962,
+      "ask": 13961,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Hat": {
-      "ask": 37997,
+      "ask": 37996,
       "bid": -1,
       "vendor": 2340
     },
@@ -657,12 +657,12 @@
     },
     "Cotton Robe Bottoms": {
       "ask": 9999,
-      "bid": 1603,
+      "bid": 1604,
       "vendor": 84
     },
     "Cotton Robe Top": {
       "ask": 9499,
-      "bid": 1603,
+      "bid": 1604,
       "vendor": 96
     },
     "Cowbell": {
@@ -922,7 +922,7 @@
     },
     "Giant Pouch": {
       "ask": 30000000,
-      "bid": 6200000,
+      "bid": 6510000,
       "vendor": 2000000
     },
     "Ginkgo Bow": {
@@ -966,7 +966,7 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 78851,
+      "ask": 78850,
       "bid": -1,
       "vendor": 1872
     },
@@ -976,7 +976,7 @@
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 168836,
+      "ask": 168835,
       "bid": 4600,
       "vendor": 3276
     },
@@ -991,7 +991,7 @@
       "vendor": 12
     },
     "Gobo Hood": {
-      "ask": 87585,
+      "ask": 87584,
       "bid": -1,
       "vendor": 2340
     },
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 459,
+      "ask": 458,
       "bid": 221,
       "vendor": 40
     },
@@ -1646,7 +1646,7 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 131,
+      "ask": 123,
       "bid": 50,
       "vendor": 27
     },
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 164,
-      "bid": 87,
+      "bid": 95,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1692,7 +1692,7 @@
     },
     "Reptile Leather": {
       "ask": 1594,
-      "bid": 503,
+      "bid": 600,
       "vendor": 18
     },
     "Reptile Tunic": {
@@ -1816,8 +1816,8 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 124998,
-      "bid": 3000,
+      "ask": 124997,
+      "bid": 3001,
       "vendor": 3000
     },
     "Spaceberry": {
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1209,
+      "ask": 1208,
       "bid": 908,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668231002.306548
+  "time": 1668231902.333681
 }
