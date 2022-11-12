@@ -41,7 +41,7 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 15000000,
+      "ask": -1,
       "bid": 10000000,
       "vendor": 80190
     },
@@ -181,13 +181,13 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 31997,
+      "ask": 30397,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Branch": {
       "ask": 545,
-      "bid": 300,
+      "bid": 278,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -196,7 +196,7 @@
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 13959,
+      "ask": 13261,
       "bid": -1,
       "vendor": 1872
     },
@@ -217,7 +217,7 @@
     },
     "Bear Essence": {
       "ask": 59,
-      "bid": 57,
+      "bid": 56,
       "vendor": 54
     },
     "Beast Boots": {
@@ -502,7 +502,7 @@
     },
     "Centaur Hoof": {
       "ask": 365607,
-      "bid": 100000,
+      "bid": 150000,
       "vendor": 3000
     },
     "Cheese": {
@@ -617,7 +617,7 @@
     },
     "Cocoon": {
       "ask": 4999,
-      "bid": 225,
+      "bid": 209,
       "vendor": 24
     },
     "Coin": {
@@ -796,7 +796,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 93,
+      "ask": 45,
       "bid": 6,
       "vendor": 5
     },
@@ -876,22 +876,22 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 650000,
+      "ask": 649999,
       "bid": 120010,
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1999998,
+      "ask": 1999997,
       "bid": 821126,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
-      "ask": 4499997,
+      "ask": 4499996,
       "bid": -1,
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 6499997,
+      "ask": 6499996,
       "bid": -1,
       "vendor": 60000
     },
@@ -901,7 +901,7 @@
       "vendor": 6
     },
     "Foraging Tea": {
-      "ask": 699,
+      "ask": 631,
       "bid": 211,
       "vendor": 10
     },
@@ -946,8 +946,8 @@
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": 1493,
-      "bid": 800,
+      "ask": 1492,
+      "bid": 300,
       "vendor": 54
     },
     "Ginkgo Nature Staff": {
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 469999,
+      "ask": 468824,
       "bid": 200000,
       "vendor": 20000
     },
@@ -981,13 +981,13 @@
       "vendor": 3276
     },
     "Gobo Essence": {
-      "ask": 107,
+      "ask": 99,
       "bid": 40,
       "vendor": 24
     },
     "Gobo Hide": {
       "ask": 486,
-      "bid": 361,
+      "bid": 365,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1001,7 +1001,7 @@
       "vendor": 36
     },
     "Gobo Shooter": {
-      "ask": 567121,
+      "ask": 538765,
       "bid": -1,
       "vendor": 20000
     },
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 234,
+      "ask": 233,
       "bid": 218,
       "vendor": 54
     },
@@ -1181,7 +1181,7 @@
       "vendor": 1000
     },
     "Icy Cloth": {
-      "ask": 1736652,
+      "ask": 1649819,
       "bid": 700001,
       "vendor": 4000
     },
@@ -1301,7 +1301,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 425,
+      "ask": 428,
       "bid": 326,
       "vendor": 50
     },
@@ -1331,8 +1331,8 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 350,
-      "bid": 171,
+      "ask": 380,
+      "bid": 175,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -1382,7 +1382,7 @@
     },
     "Peach Yogurt": {
       "ask": 458,
-      "bid": 225,
+      "bid": 221,
       "vendor": 40
     },
     "Pierce": {
@@ -1417,7 +1417,7 @@
     },
     "Polar Bear Fluff": {
       "ask": 64999,
-      "bid": 50019,
+      "bid": 50018,
       "vendor": 3000
     },
     "Polar Bear Shoes": {
@@ -1496,7 +1496,7 @@
       "vendor": 24768
     },
     "Radiant Hat": {
-      "ask": 1950000,
+      "ask": 1800000,
       "bid": -1,
       "vendor": 30960
     },
@@ -1641,7 +1641,7 @@
       "vendor": 26973
     },
     "Redwood Fire Staff": {
-      "ask": 1745000,
+      "ask": 1500000,
       "bid": -1,
       "vendor": 26973
     },
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 154,
-      "bid": 125,
+      "bid": 95,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 376,
-      "bid": 205,
+      "bid": 225,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1771,13 +1771,13 @@
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 299221,
+      "ask": 284260,
       "bid": 18000,
       "vendor": 14400
     },
     "Smack": {
       "ask": 7696,
-      "bid": 6000,
+      "bid": 5001,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 644,
+      "ask": 643,
       "bid": 210,
       "vendor": 36
     },
@@ -1837,7 +1837,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 445,
-      "bid": 207,
+      "bid": 250,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1936,7 +1936,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 1010,
+      "ask": 912,
       "bid": 201,
       "vendor": 40
     },
@@ -1961,8 +1961,8 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 4163,
-      "bid": 501,
+      "ask": 4162,
+      "bid": 1001,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1987,7 +1987,7 @@
     },
     "Sweep": {
       "ask": 36097,
-      "bid": 20000,
+      "bid": 16668,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 4987496,
+      "ask": 4987495,
       "bid": 2000000,
       "vendor": 1000
     },
@@ -2226,13 +2226,13 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1209,
+      "ask": 1210,
       "bid": 909,
       "vendor": 30
     },
     "Wisdom Tea": {
       "ask": 919,
-      "bid": 640,
+      "bid": 700,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668252603.0431209
+  "time": 1668253503.0844646
 }
