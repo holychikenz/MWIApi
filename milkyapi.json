@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 99000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -121,7 +121,7 @@
       "vendor": 1512
     },
     "Azure Hatchet": {
-      "ask": 67685,
+      "ask": 58032,
       "bid": -1,
       "vendor": 1512
     },
@@ -141,7 +141,7 @@
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 71249,
+      "ask": 74999,
       "bid": -1,
       "vendor": 1512
     },
@@ -276,7 +276,7 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 150,
+      "ask": 356,
       "bid": 74,
       "vendor": 4
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 966,
+      "ask": 965,
       "bid": 650,
       "vendor": 24
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 15000,
+      "ask": 18044,
       "bid": 10001,
       "vendor": 1000
     },
@@ -866,17 +866,17 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 34997,
+      "ask": 34999,
       "bid": 30000,
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 1800000,
+      "ask": 1780000,
       "bid": 400000,
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 549999,
+      "ask": 712498,
       "bid": 120009,
       "vendor": 1000
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 470000,
+      "ask": 469999,
       "bid": 200000,
       "vendor": 20000
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 468,
+      "ask": 469,
       "bid": 350,
       "vendor": 12
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 113,
+      "ask": 114,
       "bid": 98,
       "vendor": 4
     },
@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 1385,
-      "bid": 401,
+      "bid": 350,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 6496,
+      "ask": 6171,
       "bid": 5515,
       "vendor": 1000
     },
@@ -1441,7 +1441,7 @@
       "vendor": 6480
     },
     "Purpleheart Crossbow": {
-      "ask": 56997,
+      "ask": 54147,
       "bid": -1,
       "vendor": 4860
     },
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 749,
+      "ask": 599,
       "bid": 350,
       "vendor": 36
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 52249,
+      "ask": 54999,
       "bid": 25001,
       "vendor": 1000
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 7599,
+      "ask": 7219,
       "bid": 4037,
       "vendor": 1000
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 6496,
+      "ask": 6171,
       "bid": 5001,
       "vendor": 1000
     },
@@ -1986,13 +1986,13 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 37998,
+      "ask": 36098,
       "bid": 16668,
       "vendor": 1000
     },
     "Swiftness Coffee": {
       "ask": 1031,
-      "bid": 759,
+      "bid": 760,
       "vendor": 50
     },
     "Tailoring Tea": {
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 44987,
+      "ask": 44988,
       "bid": 10005,
       "vendor": 10000
     },
@@ -2116,7 +2116,7 @@
       "vendor": 12
     },
     "Verdant Chisel": {
-      "ask": 30000,
+      "ask": 28500,
       "bid": -1,
       "vendor": 420
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 43990,
+      "ask": 43991,
       "bid": 2500,
       "vendor": 1000
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1208,
+      "ask": 1209,
       "bid": 909,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668240902.8059566
+  "time": 1668241802.3027105
 }
