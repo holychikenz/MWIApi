@@ -221,7 +221,7 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 203901,
+      "ask": 203900,
       "bid": -1,
       "vendor": 7200
     },
@@ -246,7 +246,7 @@
       "vendor": 9000
     },
     "Beast Leather": {
-      "ask": 1500,
+      "ask": 2500,
       "bid": 511,
       "vendor": 72
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 18047,
+      "ask": 15000,
       "bid": 10001,
       "vendor": 1000
     },
@@ -931,7 +931,7 @@
       "vendor": 15552
     },
     "Ginkgo Crossbow": {
-      "ask": 85500,
+      "ask": 60000,
       "bid": -1,
       "vendor": 11664
     },
@@ -941,8 +941,8 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 40,
-      "bid": 39,
+      "ask": 39,
+      "bid": 26,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 255,
+      "ask": 235,
       "bid": 217,
       "vendor": 54
     },
@@ -1181,7 +1181,7 @@
       "vendor": 1000
     },
     "Icy Cloth": {
-      "ask": 1828056,
+      "ask": 1736653,
       "bid": 510009,
       "vendor": 4000
     },
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 893,
-      "bid": 450,
+      "bid": 403,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1291,7 +1291,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 60,
+      "ask": 59,
       "bid": 18,
       "vendor": 14
     },
@@ -1371,8 +1371,8 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 8,
-      "bid": 7,
+      "ask": 20,
+      "bid": 8,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 786,
+      "ask": 775,
       "bid": 350,
       "vendor": 36
     },
@@ -1621,8 +1621,8 @@
       "vendor": 26973
     },
     "Ranged Coffee": {
-      "ask": 1276,
-      "bid": 300,
+      "ask": 1275,
+      "bid": 301,
       "vendor": 30
     },
     "Red Tea Leaf": {
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 25000,
+      "ask": 2500,
       "bid": 800,
       "vendor": 81
     },
@@ -1821,13 +1821,13 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 91,
+      "ask": 90,
       "bid": 67,
       "vendor": 27
     },
     "Spaceberry Cake": {
       "ask": 910,
-      "bid": 687,
+      "bid": 688,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1856,7 +1856,7 @@
       "vendor": 400000
     },
     "Stamina Coffee": {
-      "ask": 458,
+      "ask": 435,
       "bid": 147,
       "vendor": 10
     },
@@ -1941,7 +1941,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1488,
+      "ask": 1487,
       "bid": 520,
       "vendor": 40
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 4180,
+      "ask": 4179,
       "bid": 2502,
       "vendor": 75
     },
@@ -2232,11 +2232,11 @@
     },
     "Wisdom Tea": {
       "ask": 918,
-      "bid": 621,
+      "bid": 625,
       "vendor": 30
     },
     "Woodcutting Tea": {
-      "ask": 8999,
+      "ask": 1800,
       "bid": -1,
       "vendor": 10
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668212103.6790974
+  "time": 1668213002.7350264
 }
