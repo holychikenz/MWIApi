@@ -42,7 +42,7 @@
     },
     "Arcane Fire Staff": {
       "ask": 15000000,
-      "bid": 12500069,
+      "bid": 10000000,
       "vendor": 80190
     },
     "Arcane Log": {
@@ -436,7 +436,7 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": 125000,
+      "ask": -1,
       "bid": 3360,
       "vendor": 3780
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 2223579,
+      "ask": 2223580,
       "bid": 103996,
       "vendor": 1000
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": -1,
+      "ask": 2000000,
       "bid": 821124,
       "vendor": 4000
     },
@@ -906,7 +906,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 280000,
+      "ask": 279997,
       "bid": 200020,
       "vendor": 1000
     },
@@ -1321,8 +1321,8 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 70998,
-      "bid": 1075,
+      "ask": 70995,
+      "bid": 1076,
       "vendor": 1000
     },
     "Mooberry": {
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 104495,
+      "ask": 100000,
       "bid": 50017,
       "vendor": 1000
     },
@@ -1431,7 +1431,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 48868,
+      "ask": 35000,
       "bid": 20002,
       "vendor": 1000
     },
@@ -1647,7 +1647,7 @@
     },
     "Redwood Log": {
       "ask": 132,
-      "bid": 71,
+      "bid": 72,
       "vendor": 27
     },
     "Redwood Lumber": {
@@ -1661,7 +1661,7 @@
       "vendor": 26973
     },
     "Redwood Water Staff": {
-      "ask": 900000,
+      "ask": -1,
       "bid": -1,
       "vendor": 26973
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 8495,
+      "ask": 8492,
       "bid": 4037,
       "vendor": 1000
     },
@@ -1867,7 +1867,7 @@
     },
     "Star Fruit Gummy": {
       "ask": 916,
-      "bid": 624,
+      "bid": 623,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
@@ -1901,7 +1901,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 737,
+      "ask": 735,
       "bid": 240,
       "vendor": 50
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1033,
+      "ask": 1031,
       "bid": 759,
       "vendor": 50
     },
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 44988,
+      "ask": 44987,
       "bid": 10005,
       "vendor": 10000
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 4999999,
-      "bid": 1500002,
+      "bid": 1500000,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2087,7 +2087,7 @@
     },
     "Vampirism": {
       "ask": 750000,
-      "bid": 250003,
+      "bid": 250004,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 43997,
+      "ask": 43994,
       "bid": 2500,
       "vendor": 1000
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1211,
+      "ask": 1209,
       "bid": 908,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668227403.4707108
+  "time": 1668228303.4343576
 }
