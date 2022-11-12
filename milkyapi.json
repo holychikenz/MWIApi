@@ -26,8 +26,8 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 136,
-      "bid": 50,
+      "ask": 100,
+      "bid": 51,
       "vendor": 4
     },
     "Arcane Bow": {
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 539,
-      "bid": 297,
+      "bid": 298,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -617,7 +617,7 @@
     },
     "Cocoon": {
       "ask": 1605,
-      "bid": 232,
+      "bid": 234,
       "vendor": 24
     },
     "Coin": {
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 354,
-      "bid": 256,
+      "bid": 251,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -882,7 +882,7 @@
     },
     "Flaming Cloth": {
       "ask": 1899993,
-      "bid": 821135,
+      "bid": 821136,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 293,
-      "bid": 178,
+      "bid": 180,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -936,7 +936,7 @@
       "vendor": 11664
     },
     "Ginkgo Fire Staff": {
-      "ask": 85000,
+      "ask": 80750,
       "bid": -1,
       "vendor": 11664
     },
@@ -956,7 +956,7 @@
       "vendor": 11664
     },
     "Ginkgo Water Staff": {
-      "ask": 200000,
+      "ask": 190000,
       "bid": -1,
       "vendor": 11664
     },
@@ -987,7 +987,7 @@
     },
     "Gobo Hide": {
       "ask": 483,
-      "bid": 367,
+      "bid": 400,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1001,7 +1001,7 @@
       "vendor": 36
     },
     "Gobo Shooter": {
-      "ask": 511825,
+      "ask": 538761,
       "bid": -1,
       "vendor": 20000
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 107,
+      "ask": 106,
       "bid": 98,
       "vendor": 4
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 1499999,
+      "ask": 1499998,
       "bid": 450011,
       "vendor": 1000
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 59999,
+      "ask": 59500,
       "bid": 1078,
       "vendor": 1000
     },
@@ -1452,11 +1452,11 @@
     },
     "Purpleheart Log": {
       "ask": 98,
-      "bid": 26,
+      "bid": 27,
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 567,
+      "ask": 539,
       "bid": 300,
       "vendor": 36
     },
@@ -1487,7 +1487,7 @@
     },
     "Radiant Fiber": {
       "ask": 415,
-      "bid": 316,
+      "bid": 319,
       "vendor": 48
     },
     "Radiant Gloves": {
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 1949995,
+      "ask": 1949994,
       "bid": 765002,
       "vendor": 1000
     },
@@ -1621,7 +1621,7 @@
       "vendor": 26973
     },
     "Ranged Coffee": {
-      "ask": 1263,
+      "ask": 1262,
       "bid": 303,
       "vendor": 30
     },
@@ -1681,8 +1681,8 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 153,
-      "bid": 95,
+      "ask": 152,
+      "bid": 87,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1691,7 +1691,7 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 649,
+      "ask": 897,
       "bid": 511,
       "vendor": 18
     },
@@ -1857,7 +1857,7 @@
     },
     "Stamina Coffee": {
       "ask": 250,
-      "bid": 149,
+      "bid": 150,
       "vendor": 10
     },
     "Star Fruit": {
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1709,
+      "ask": 1499,
       "bid": 1294,
       "vendor": 75
     },
@@ -1977,11 +1977,11 @@
     },
     "Super Woodcutting Tea": {
       "ask": 800,
-      "bid": 650,
+      "bid": 651,
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 40,
+      "ask": 35,
       "bid": 34,
       "vendor": 8
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1027,
+      "ask": 1026,
       "bid": 791,
       "vendor": 50
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1205,
+      "ask": 1203,
       "bid": 944,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668285002.521225
+  "time": 1668285903.367401
 }
