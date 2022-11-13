@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 30000,
-      "bid": 2009,
+      "bid": 3000,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 542,
+      "ask": 500,
       "bid": 289,
       "vendor": 12
     },
@@ -376,7 +376,7 @@
       "vendor": 36
     },
     "Burble Chisel": {
-      "ask": -1,
+      "ask": 145000,
       "bid": -1,
       "vendor": 3780
     },
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 460,
+      "ask": 458,
       "bid": 214,
       "vendor": 54
     },
@@ -866,12 +866,12 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 44986,
+      "ask": 44984,
       "bid": 30000,
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 1750000,
+      "ask": 1749999,
       "bid": 420008,
       "vendor": 1000
     },
@@ -1342,7 +1342,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 41,
-      "bid": 25,
+      "bid": 26,
       "vendor": 18
     },
     "Orange": {
@@ -1361,7 +1361,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 39999,
+      "ask": 40000,
       "bid": 31560,
       "vendor": 3000
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 445,
+      "ask": 321,
       "bid": 312,
       "vendor": 48
     },
@@ -1871,8 +1871,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 1048,
-      "bid": 739,
+      "ask": 1046,
+      "bid": 740,
       "vendor": 75
     },
     "Strawberry": {
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 799,
+      "ask": 800,
       "bid": 651,
       "vendor": 40
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668298503.1888468
+  "time": 1668299403.06698
 }
