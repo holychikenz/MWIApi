@@ -346,7 +346,7 @@
       "vendor": 10
     },
     "Brewing Tea": {
-      "ask": 181,
+      "ask": 180,
       "bid": 36,
       "vendor": 20
     },
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 355,
-      "bid": 257,
+      "bid": 271,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 81021,
+      "ask": 79999,
       "bid": 35000,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 649989,
+      "ask": 624999,
       "bid": 210000,
       "vendor": 1000
     },
@@ -937,11 +937,11 @@
     },
     "Ginkgo Fire Staff": {
       "ask": 80747,
-      "bid": -1,
+      "bid": 45000,
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 19,
+      "ask": 14,
       "bid": 13,
       "vendor": 18
     },
@@ -951,8 +951,8 @@
       "vendor": 54
     },
     "Ginkgo Nature Staff": {
-      "ask": 200000,
-      "bid": -1,
+      "ask": 199999,
+      "bid": 45000,
       "vendor": 11664
     },
     "Ginkgo Water Staff": {
@@ -1487,7 +1487,7 @@
     },
     "Radiant Fiber": {
       "ask": 350,
-      "bid": 313,
+      "bid": 312,
       "vendor": 48
     },
     "Radiant Gloves": {
@@ -1771,7 +1771,7 @@
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 131692,
+      "ask": 131691,
       "bid": 18000,
       "vendor": 14400
     },
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 637,
+      "ask": 636,
       "bid": 250,
       "vendor": 36
     },
@@ -1831,7 +1831,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 825,
+      "ask": 824,
       "bid": 681,
       "vendor": 75
     },
@@ -1866,12 +1866,12 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 914,
+      "ask": 913,
       "bid": 261,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 999,
+      "ask": 998,
       "bid": 800,
       "vendor": 75
     },
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1300,
+      "ask": 1328,
       "bid": 1100,
       "vendor": 75
     },
@@ -1956,12 +1956,12 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1101,
+      "ask": 1100,
       "bid": 902,
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1898,
+      "ask": 1897,
       "bid": 1010,
       "vendor": 75
     },
@@ -1982,7 +1982,7 @@
     },
     "Swamp Essence": {
       "ask": 39,
-      "bid": 34,
+      "bid": 33,
       "vendor": 8
     },
     "Sweep": {
@@ -2226,8 +2226,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1212,
-      "bid": 1111,
+      "ask": 1213,
+      "bid": 1212,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668345303.4306886
+  "time": 1668346203.6956916
 }
