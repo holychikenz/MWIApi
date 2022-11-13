@@ -42,17 +42,17 @@
     },
     "Arcane Fire Staff": {
       "ask": 12000000,
-      "bid": 10000000,
+      "bid": 6943,
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 767,
+      "ask": 764,
       "bid": 476,
       "vendor": 54
     },
     "Arcane Lumber": {
       "ask": 5000,
-      "bid": 2503,
+      "bid": 2504,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -181,7 +181,7 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 28875,
+      "ask": 30396,
       "bid": -1,
       "vendor": 1872
     },
@@ -211,7 +211,7 @@
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 69017,
+      "ask": 69018,
       "bid": 4800,
       "vendor": 3744
     },
@@ -236,8 +236,8 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 403,
-      "bid": 297,
+      "ask": 402,
+      "bid": 298,
       "vendor": 24
     },
     "Beast Hood": {
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1318,
+      "ask": 1316,
       "bid": 601,
       "vendor": 10
     },
@@ -987,7 +987,7 @@
     },
     "Gobo Hide": {
       "ask": 397,
-      "bid": 161,
+      "bid": 162,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1031,12 +1031,12 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 353,
+      "ask": 352,
       "bid": 250,
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 649,
+      "ask": 648,
       "bid": 536,
       "vendor": 20
     },
@@ -1211,7 +1211,7 @@
       "vendor": 200000
     },
     "Liberica Coffee Bean": {
-      "ask": 438,
+      "ask": 300,
       "bid": 207,
       "vendor": 12
     },
@@ -1246,7 +1246,7 @@
       "vendor": 864
     },
     "Living Granite": {
-      "ask": 1898886,
+      "ask": 1898885,
       "bid": 439001,
       "vendor": 10000
     },
@@ -1266,7 +1266,7 @@
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 1231,
+      "ask": 1230,
       "bid": 300,
       "vendor": 30
     },
@@ -1291,7 +1291,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 42,
+      "ask": 41,
       "bid": 33,
       "vendor": 14
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 62,
+      "ask": 63,
       "bid": 12,
       "vendor": 6
     },
@@ -1481,7 +1481,7 @@
       "vendor": 24768
     },
     "Radiant Fabric": {
-      "ask": 7950,
+      "ask": 7900,
       "bid": 1400,
       "vendor": 144
     },
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 120,
-      "bid": 89,
+      "bid": 90,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1701,7 +1701,7 @@
       "vendor": 864
     },
     "Robusta Coffee Bean": {
-      "ask": 150,
+      "ask": 212,
       "bid": 117,
       "vendor": 8
     },
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 1949,
-      "bid": 196,
+      "bid": 197,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1902,7 +1902,7 @@
     },
     "Super Attack Coffee": {
       "ask": 543,
-      "bid": 215,
+      "bid": 216,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1911,22 +1911,22 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1389,
+      "ask": 1388,
       "bid": 851,
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 856,
+      "ask": 855,
       "bid": 301,
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 1876,
+      "ask": 1875,
       "bid": 800,
       "vendor": 75
     },
     "Super Defense Coffee": {
-      "ask": 931,
+      "ask": 929,
       "bid": 656,
       "vendor": 50
     },
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1321,
+      "ask": 1320,
       "bid": 1100,
       "vendor": 75
     },
@@ -1956,7 +1956,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1099,
+      "ask": 1100,
       "bid": 909,
       "vendor": 75
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1024,
+      "ask": 1025,
       "bid": 955,
       "vendor": 50
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 498,
-      "bid": 49,
+      "bid": 100,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1211,
+      "ask": 1213,
       "bid": 1111,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668360602.842141
+  "time": 1668361503.2530117
 }
