@@ -116,7 +116,7 @@
       "vendor": 864
     },
     "Azure Hammer": {
-      "ask": 17743,
+      "ask": 16856,
       "bid": 1435,
       "vendor": 1512
     },
@@ -211,7 +211,7 @@
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 72651,
+      "ask": 69018,
       "bid": 4800,
       "vendor": 3744
     },
@@ -256,7 +256,7 @@
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 268600,
+      "ask": 268599,
       "bid": 180187,
       "vendor": 1000
     },
@@ -357,7 +357,7 @@
     },
     "Burble Brush": {
       "ask": 145000,
-      "bid": 4000,
+      "bid": 10000,
       "vendor": 3780
     },
     "Burble Buckler": {
@@ -437,7 +437,7 @@
     },
     "Burble Shears": {
       "ask": -1,
-      "bid": 3360,
+      "bid": 10000,
       "vendor": 3780
     },
     "Burble Spatula": {
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 24,
+      "ask": 23,
       "bid": 22,
       "vendor": 18
     },
@@ -837,7 +837,7 @@
     },
     "Enhancing Tea": {
       "ask": 313,
-      "bid": 217,
+      "bid": 250,
       "vendor": 20
     },
     "Entangle": {
@@ -856,7 +856,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 625,
+      "ask": 593,
       "bid": 201,
       "vendor": 40
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 1744000,
+      "ask": 1743999,
       "bid": 420016,
       "vendor": 1000
     },
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 24,
-      "bid": 12,
+      "bid": 13,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -1092,12 +1092,12 @@
     },
     "Holy Cheese": {
       "ask": 833,
-      "bid": 741,
+      "bid": 750,
       "vendor": 162
     },
     "Holy Chisel": {
-      "ask": 200000,
-      "bid": 160000,
+      "ask": 180000,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Enhancer": {
@@ -1342,7 +1342,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 38,
-      "bid": 26,
+      "bid": 30,
       "vendor": 18
     },
     "Orange": {
@@ -1646,7 +1646,7 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 99,
+      "ask": 80,
       "bid": 46,
       "vendor": 27
     },
@@ -1721,8 +1721,8 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 473,
-      "bid": 192,
+      "ask": 1994,
+      "bid": 500,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1947,7 +1947,7 @@
     },
     "Super Magic Coffee": {
       "ask": 1300,
-      "bid": 1001,
+      "bid": 1100,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 395,
-      "bid": 233,
+      "bid": 226,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668342603.8817236
+  "time": 1668343503.621821
 }
