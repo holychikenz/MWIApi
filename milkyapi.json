@@ -51,8 +51,8 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 30000,
-      "bid": 2011,
+      "ask": 10000,
+      "bid": 5000,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -221,12 +221,12 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 149508,
+      "ask": 149507,
       "bid": -1,
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 174380,
+      "ask": 174379,
       "bid": -1,
       "vendor": 7200
     },
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 349,
-      "bid": 101,
+      "bid": 335,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -477,7 +477,7 @@
     },
     "Cedar Log": {
       "ask": 312,
-      "bid": 118,
+      "bid": 295,
       "vendor": 8
     },
     "Cedar Lumber": {
@@ -491,7 +491,7 @@
       "vendor": 1944
     },
     "Cedar Water Staff": {
-      "ask": 199999,
+      "ask": 199993,
       "bid": -1,
       "vendor": 1944
     },
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1099,
-      "bid": 751,
+      "bid": 752,
       "vendor": 50
     },
     "Egg": {
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 43119,
+      "ask": 40963,
       "bid": 26026,
       "vendor": 5000
     },
@@ -931,18 +931,18 @@
       "vendor": 15552
     },
     "Ginkgo Crossbow": {
-      "ask": 60000,
+      "ask": 59999,
       "bid": -1,
       "vendor": 11664
     },
     "Ginkgo Fire Staff": {
-      "ask": 80748,
+      "ask": 80747,
       "bid": -1,
       "vendor": 11664
     },
     "Ginkgo Log": {
       "ask": 29,
-      "bid": 3,
+      "bid": 26,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -966,17 +966,17 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 40477,
+      "ask": 42607,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 29142,
+      "ask": 30676,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 72200,
+      "ask": 76000,
       "bid": 4600,
       "vendor": 3276
     },
@@ -991,7 +991,7 @@
       "vendor": 12
     },
     "Gobo Hood": {
-      "ask": 36100,
+      "ask": 38000,
       "bid": -1,
       "vendor": 2340
     },
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 137151,
+      "ask": 130293,
       "bid": 4800,
       "vendor": 3744
     },
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 105,
-      "bid": 65,
+      "bid": 66,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1252,7 +1252,7 @@
     },
     "Log": {
       "ask": 90,
-      "bid": 50,
+      "bid": 80,
       "vendor": 2
     },
     "Lucky Coffee": {
@@ -1372,7 +1372,7 @@
     },
     "Peach": {
       "ask": 19,
-      "bid": 11,
+      "bid": 12,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -1441,7 +1441,7 @@
       "vendor": 6480
     },
     "Purpleheart Crossbow": {
-      "ask": 39803,
+      "ask": 39802,
       "bid": -1,
       "vendor": 4860
     },
@@ -1452,7 +1452,7 @@
     },
     "Purpleheart Log": {
       "ask": 85,
-      "bid": 30,
+      "bid": 75,
       "vendor": 12
     },
     "Purpleheart Lumber": {
@@ -1461,7 +1461,7 @@
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
-      "ask": 209496,
+      "ask": 199021,
       "bid": -1,
       "vendor": 4860
     },
@@ -1621,8 +1621,8 @@
       "vendor": 26973
     },
     "Ranged Coffee": {
-      "ask": 1258,
-      "bid": 304,
+      "ask": 1257,
+      "bid": 305,
       "vendor": 30
     },
     "Red Tea Leaf": {
@@ -1671,7 +1671,7 @@
       "vendor": 432
     },
     "Reptile Bracers": {
-      "ask": 45268,
+      "ask": 45267,
       "bid": -1,
       "vendor": 432
     },
@@ -1696,7 +1696,7 @@
       "vendor": 18
     },
     "Reptile Tunic": {
-      "ask": 41723,
+      "ask": 41722,
       "bid": 1600,
       "vendor": 864
     },
@@ -1756,7 +1756,7 @@
       "vendor": 73
     },
     "Silk Gloves": {
-      "ask": 380000,
+      "ask": 379999,
       "bid": -1,
       "vendor": 7200
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 1045,
+      "ask": 1047,
       "bid": 743,
       "vendor": 75
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1212,
+      "ask": 1211,
       "bid": 1050,
       "vendor": 30
     },
@@ -2236,7 +2236,7 @@
       "vendor": 30
     },
     "Woodcutting Tea": {
-      "ask": 1795,
+      "ask": 1794,
       "bid": -1,
       "vendor": 10
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668315602.6488252
+  "time": 1668316503.2459986
 }
