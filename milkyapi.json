@@ -71,7 +71,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 587,
+      "ask": 558,
       "bid": 281,
       "vendor": 20
     },
@@ -162,7 +162,7 @@
     },
     "Azure Shears": {
       "ask": -1,
-      "bid": -1,
+      "bid": 65000,
       "vendor": 1512
     },
     "Azure Spatula": {
@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 895,
-      "bid": 507,
+      "bid": 508,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1857,7 +1857,7 @@
     },
     "Stamina Coffee": {
       "ask": 250,
-      "bid": 152,
+      "bid": 153,
       "vendor": 10
     },
     "Star Fruit": {
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 1047,
+      "ask": 1046,
       "bid": 742,
       "vendor": 75
     },
@@ -1961,12 +1961,12 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 2840,
+      "ask": 2800,
       "bid": 1003,
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 2971,
+      "ask": 2970,
       "bid": 454,
       "vendor": 40
     },
@@ -1987,7 +1987,7 @@
     },
     "Sweep": {
       "ask": 36093,
-      "bid": 16677,
+      "bid": 16678,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668309303.7345822
+  "time": 1668310202.525623
 }
