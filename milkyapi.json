@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 30000,
-      "bid": 10000,
+      "bid": 3001,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -66,7 +66,7 @@
       "vendor": 80190
     },
     "Artisan Tea": {
-      "ask": 1492,
+      "ask": 1491,
       "bid": 889,
       "vendor": 75
     },
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 352,
-      "bid": 81,
+      "bid": 100,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -502,7 +502,7 @@
     },
     "Centaur Hoof": {
       "ask": 365606,
-      "bid": 10002,
+      "bid": 15002,
       "vendor": 3000
     },
     "Cheese": {
@@ -882,7 +882,7 @@
     },
     "Flaming Cloth": {
       "ask": 1899992,
-      "bid": 821138,
+      "bid": 821139,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 484,
+      "ask": 460,
       "bid": 367,
       "vendor": 12
     },
@@ -1067,7 +1067,7 @@
     },
     "Heal": {
       "ask": 1399999,
-      "bid": 10007,
+      "bid": 25000,
       "vendor": 1000
     },
     "Holy Boots": {
@@ -1252,7 +1252,7 @@
     },
     "Log": {
       "ask": 90,
-      "bid": 49,
+      "bid": 50,
       "vendor": 2
     },
     "Lucky Coffee": {
@@ -1332,7 +1332,7 @@
     },
     "Mooberry Cake": {
       "ask": 379,
-      "bid": 183,
+      "bid": 190,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -1631,7 +1631,7 @@
       "vendor": 27
     },
     "Redwood Bow": {
-      "ask": 477809,
+      "ask": 477808,
       "bid": -1,
       "vendor": 35964
     },
@@ -1692,7 +1692,7 @@
     },
     "Reptile Leather": {
       "ask": 894,
-      "bid": 513,
+      "bid": 514,
       "vendor": 18
     },
     "Reptile Tunic": {
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 600,
+      "ask": 640,
       "bid": 250,
       "vendor": 36
     },
@@ -1956,12 +1956,12 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1108,
+      "ask": 1106,
       "bid": 823,
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 2886,
+      "ask": 2884,
       "bid": 1003,
       "vendor": 75
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 998,
-      "bid": 406,
+      "bid": 408,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668304801.8064902
+  "time": 1668305703.7822242
 }
