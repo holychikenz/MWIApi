@@ -436,7 +436,7 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": 125000,
+      "ask": -1,
       "bid": 3360,
       "vendor": 3780
     },
@@ -566,7 +566,7 @@
       "vendor": 108
     },
     "Cheese Needle": {
-      "ask": 53999,
+      "ask": 39594,
       "bid": -1,
       "vendor": 84
     },
@@ -642,7 +642,7 @@
     },
     "Cotton Fabric": {
       "ask": 809,
-      "bid": 3,
+      "bid": 50,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 81020,
+      "ask": 81021,
       "bid": 35000,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 649990,
+      "ask": 649989,
       "bid": 200002,
       "vendor": 1000
     },
@@ -1001,7 +1001,7 @@
       "vendor": 36
     },
     "Gobo Shooter": {
-      "ask": 350000,
+      "ask": 511812,
       "bid": -1,
       "vendor": 20000
     },
@@ -1137,7 +1137,7 @@
     },
     "Holy Needle": {
       "ask": 199999,
-      "bid": 120006,
+      "bid": 120007,
       "vendor": 62370
     },
     "Holy Plate Body": {
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 1543741,
+      "ask": 1543000,
       "bid": 765008,
       "vendor": 1000
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 2304240,
+      "ask": 2300420,
       "bid": 814969,
       "vendor": 1000
     },
@@ -2056,7 +2056,7 @@
       "vendor": 43344
     },
     "Umbral Hide": {
-      "ask": 995,
+      "ask": 994,
       "bid": 410,
       "vendor": 48
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668336302.9653852
+  "time": 1668337202.653255
 }
