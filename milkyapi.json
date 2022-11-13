@@ -276,7 +276,7 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 348,
+      "ask": 650,
       "bid": 103,
       "vendor": 4
     },
@@ -371,7 +371,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 483,
+      "ask": 485,
       "bid": 283,
       "vendor": 36
     },
@@ -476,12 +476,12 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 309,
+      "ask": 311,
       "bid": 120,
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 959,
+      "ask": 957,
       "bid": 659,
       "vendor": 24
     },
@@ -612,7 +612,7 @@
     },
     "Cleave": {
       "ask": 218490,
-      "bid": 150151,
+      "bid": 150150,
       "vendor": 1000
     },
     "Cocoon": {
@@ -706,7 +706,7 @@
       "vendor": 54
     },
     "Crimson Chisel": {
-      "ask": 99986,
+      "ask": -1,
       "bid": -1,
       "vendor": 9072
     },
@@ -982,11 +982,11 @@
     },
     "Gobo Essence": {
       "ask": 80,
-      "bid": 43,
+      "bid": 41,
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 423,
+      "ask": 400,
       "bid": 161,
       "vendor": 12
     },
@@ -996,12 +996,12 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 1992,
+      "ask": 1990,
       "bid": 914,
       "vendor": 36
     },
     "Gobo Shooter": {
-      "ask": 511811,
+      "ask": 511810,
       "bid": -1,
       "vendor": 20000
     },
@@ -1066,8 +1066,8 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 1400000,
-      "bid": 25005,
+      "ask": 1399999,
+      "bid": 250005,
       "vendor": 1000
     },
     "Holy Boots": {
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 255,
+      "ask": 254,
       "bid": 218,
       "vendor": 54
     },
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 845,
+      "ask": 850,
       "bid": 509,
       "vendor": 18
     },
@@ -1261,8 +1261,8 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 882,
-      "bid": 417,
+      "ask": 880,
+      "bid": 419,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 457,
+      "ask": 460,
       "bid": 226,
       "vendor": 40
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 47031,
+      "ask": 47030,
       "bid": 26252,
       "vendor": 1000
     },
@@ -1642,7 +1642,7 @@
     },
     "Redwood Fire Staff": {
       "ask": 777777,
-      "bid": -1,
+      "bid": 500000,
       "vendor": 26973
     },
     "Redwood Log": {
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 127,
+      "ask": 126,
       "bid": 89,
       "vendor": 6
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 889,
+      "ask": 887,
       "bid": 546,
       "vendor": 6
     },
@@ -1831,7 +1831,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 824,
+      "ask": 823,
       "bid": 681,
       "vendor": 75
     },
@@ -2007,7 +2007,7 @@
     },
     "Tome Of The Elements": {
       "ask": 9999988,
-      "bid": 525002,
+      "bid": 1500002,
       "vendor": 100000
     },
     "Toughness": {
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 2300000,
+      "ask": 2299999,
       "bid": 814969,
       "vendor": 1000
     },
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 395,
-      "bid": 227,
+      "bid": 228,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2227,7 +2227,7 @@
     },
     "Wisdom Coffee": {
       "ask": 1213,
-      "bid": 1212,
+      "bid": 1111,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668348002.2252874
+  "time": 1668348904.218232
 }
