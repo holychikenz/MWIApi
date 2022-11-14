@@ -161,7 +161,7 @@
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": 2000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 1800,
-      "bid": 370,
+      "bid": 353,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -221,12 +221,12 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 166074,
+      "ask": 166073,
       "bid": -1,
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 99157,
+      "ask": 94198,
       "bid": -1,
       "vendor": 7200
     },
@@ -251,12 +251,12 @@
       "vendor": 72
     },
     "Beast Tunic": {
-      "ask": 487478,
+      "ask": 463104,
       "bid": 18000,
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 268576,
+      "ask": 268575,
       "bid": 180193,
       "vendor": 1000
     },
@@ -371,7 +371,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 459,
+      "ask": 460,
       "bid": 361,
       "vendor": 36
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 1500000,
+      "ask": 1250000,
       "bid": 200001,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 63140,
+      "ask": 55000,
       "bid": 25003,
       "vendor": 1000
     },
@@ -876,12 +876,12 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 403741,
+      "ask": 375000,
       "bid": 250000,
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1714705,
+      "ask": 1500000,
       "bid": 950005,
       "vendor": 4000
     },
@@ -917,7 +917,7 @@
     },
     "Gator Vest": {
       "ask": 47500,
-      "bid": 26025,
+      "bid": 26026,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -971,12 +971,12 @@
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 17447,
+      "ask": 16575,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 37059,
+      "ask": 35206,
       "bid": 4600,
       "vendor": 3276
     },
@@ -991,7 +991,7 @@
       "vendor": 12
     },
     "Gobo Hood": {
-      "ask": 26534,
+      "ask": 25207,
       "bid": -1,
       "vendor": 2340
     },
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 44371,
+      "ask": 42151,
       "bid": 4800,
       "vendor": 3744
     },
@@ -1036,7 +1036,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 667,
+      "ask": 669,
       "bid": 481,
       "vendor": 20
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 249999,
+      "ask": 199991,
       "bid": 152503,
       "vendor": 1000
     },
@@ -1287,7 +1287,7 @@
     },
     "Maim": {
       "ask": 286214,
-      "bid": 200043,
+      "bid": 200044,
       "vendor": 1000
     },
     "Marsberry": {
@@ -1372,7 +1372,7 @@
     },
     "Peach": {
       "ask": 36,
-      "bid": 27,
+      "bid": 11,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 599,
+      "ask": 2499,
       "bid": 300,
       "vendor": 36
     },
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 118,
-      "bid": 22,
+      "bid": 24,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 1942,
+      "ask": 1940,
       "bid": 138,
       "vendor": 2
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 5499,
+      "ask": 5500,
       "bid": 4037,
       "vendor": 1000
     },
@@ -1811,12 +1811,12 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 585,
+      "ask": 524,
       "bid": 253,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 218025,
+      "ask": 218024,
       "bid": 100004,
       "vendor": 3000
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 940,
+      "ask": 939,
       "bid": 766,
       "vendor": 75
     },
@@ -1902,7 +1902,7 @@
     },
     "Super Attack Coffee": {
       "ask": 503,
-      "bid": 275,
+      "bid": 277,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 733049,
+      "ask": 624997,
       "bid": 270003,
       "vendor": 1000
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 498,
-      "bid": 134,
+      "bid": 135,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2216,7 +2216,7 @@
       "vendor": 10000
     },
     "Werewolf Slasher": {
-      "ask": 12000000,
+      "ask": 10000000,
       "bid": 2100009,
       "vendor": 400000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668458703.2947016
+  "time": 1668459602.5125713
 }
