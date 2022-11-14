@@ -31,7 +31,7 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": 6000000,
+      "ask": 5999999,
       "bid": 2000000,
       "vendor": 106920
     },
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 190,
+      "ask": 197,
       "bid": 103,
       "vendor": 12
     },
@@ -276,7 +276,7 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 549,
+      "ask": 522,
       "bid": 21,
       "vendor": 4
     },
@@ -511,7 +511,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 90,
+      "ask": 86,
       "bid": -1,
       "vendor": 48
     },
@@ -521,7 +521,7 @@
       "vendor": 84
     },
     "Cheese Buckler": {
-      "ask": -1,
+      "ask": 2000,
       "bid": 216,
       "vendor": 72
     },
@@ -541,7 +541,7 @@
       "vendor": 84
     },
     "Cheese Gauntlets": {
-      "ask": 1500,
+      "ask": 1000,
       "bid": 174,
       "vendor": 48
     },
@@ -556,12 +556,12 @@
       "vendor": 84
     },
     "Cheese Helmet": {
-      "ask": -1,
+      "ask": 2000,
       "bid": 270,
       "vendor": 60
     },
     "Cheese Mace": {
-      "ask": 3000,
+      "ask": 2000,
       "bid": 180,
       "vendor": 108
     },
@@ -596,7 +596,7 @@
       "vendor": 84
     },
     "Cheese Spear": {
-      "ask": 3000,
+      "ask": 2000,
       "bid": 251,
       "vendor": 108
     },
@@ -807,7 +807,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 694,
-      "bid": 496,
+      "bid": 506,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 59,
+      "ask": 57,
       "bid": 14,
       "vendor": 18
     },
@@ -971,7 +971,7 @@
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 16575,
+      "ask": 15746,
       "bid": -1,
       "vendor": 1872
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 327,
+      "ask": 325,
       "bid": 171,
       "vendor": 12
     },
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 42151,
+      "ask": 38041,
       "bid": 4800,
       "vendor": 3744
     },
@@ -1181,7 +1181,7 @@
       "vendor": 1000
     },
     "Icy Cloth": {
-      "ask": 1421436,
+      "ask": 1499999,
       "bid": 700007,
       "vendor": 4000
     },
@@ -1211,7 +1211,7 @@
       "vendor": 200000
     },
     "Liberica Coffee Bean": {
-      "ask": 398,
+      "ask": 396,
       "bid": 208,
       "vendor": 12
     },
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 1932,
+      "ask": 1931,
       "bid": 138,
       "vendor": 2
     },
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1099,
+      "ask": 1098,
       "bid": 801,
       "vendor": 75
     },
@@ -2011,8 +2011,8 @@
       "vendor": 100000
     },
     "Toughness": {
-      "ask": 74999,
-      "bid": 16059,
+      "ask": 74998,
+      "bid": 16062,
       "vendor": 1000
     },
     "Toxic Pollen": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668463202.9468932
+  "time": 1668464104.0411794
 }
