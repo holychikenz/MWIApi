@@ -416,7 +416,7 @@
       "vendor": 12
     },
     "Burble Needle": {
-      "ask": 99000,
+      "ask": -1,
       "bid": -1,
       "vendor": 3780
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 58000,
+      "ask": 55100,
       "bid": 2504,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 69977,
+      "ask": 69975,
       "bid": 25000,
       "vendor": 1000
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1714724,
+      "ask": 1714719,
       "bid": 950003,
       "vendor": 4000
     },
@@ -966,17 +966,17 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 34704,
+      "ask": 32969,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 23736,
+      "ask": 22549,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 53074,
+      "ask": 50419,
       "bid": 4600,
       "vendor": 3276
     },
@@ -991,7 +991,7 @@
       "vendor": 12
     },
     "Gobo Hood": {
-      "ask": 30951,
+      "ask": 29403,
       "bid": -1,
       "vendor": 2340
     },
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 86439,
+      "ask": 82116,
       "bid": 4800,
       "vendor": 3744
     },
@@ -1036,7 +1036,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 643,
+      "ask": 644,
       "bid": 536,
       "vendor": 20
     },
@@ -1287,7 +1287,7 @@
     },
     "Maim": {
       "ask": 286214,
-      "bid": 200019,
+      "bid": 200020,
       "vendor": 1000
     },
     "Marsberry": {
@@ -1476,7 +1476,7 @@
       "vendor": 1000
     },
     "Radiant Boots": {
-      "ask": 1500000,
+      "ask": -1,
       "bid": 50000,
       "vendor": 24768
     },
@@ -1496,18 +1496,18 @@
       "vendor": 24768
     },
     "Radiant Hat": {
-      "ask": 1499998,
+      "ask": 1499999,
       "bid": 60000,
       "vendor": 30960
     },
     "Radiant Robe Bottoms": {
-      "ask": 1999999,
-      "bid": -1,
+      "ask": -1,
+      "bid": 1300000,
       "vendor": 43344
     },
     "Radiant Robe Top": {
       "ask": -1,
-      "bid": -1,
+      "bid": 1600000,
       "vendor": 49536
     },
     "Rain Of Arrows": {
@@ -1647,7 +1647,7 @@
     },
     "Redwood Log": {
       "ask": 43,
-      "bid": 21,
+      "bid": 22,
       "vendor": 27
     },
     "Redwood Lumber": {
@@ -1666,12 +1666,12 @@
       "vendor": 26973
     },
     "Reptile Boots": {
-      "ask": 8960,
+      "ask": 8512,
       "bid": -1,
       "vendor": 432
     },
     "Reptile Bracers": {
-      "ask": 23619,
+      "ask": 22438,
       "bid": -1,
       "vendor": 432
     },
@@ -1696,7 +1696,7 @@
       "vendor": 18
     },
     "Reptile Tunic": {
-      "ask": 19327,
+      "ask": 18361,
       "bid": 1600,
       "vendor": 864
     },
@@ -1747,11 +1747,11 @@
     },
     "Silk Boots": {
       "ask": 116849,
-      "bid": 17200,
+      "bid": -1,
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 1381,
+      "ask": 1380,
       "bid": 1081,
       "vendor": 73
     },
@@ -1872,7 +1872,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 991,
-      "bid": 760,
+      "bid": 761,
       "vendor": 75
     },
     "Strawberry": {
@@ -1902,7 +1902,7 @@
     },
     "Super Attack Coffee": {
       "ask": 510,
-      "bid": 253,
+      "bid": 254,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 799,
+      "ask": 800,
       "bid": 651,
       "vendor": 40
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 1602148,
+      "ask": 1602147,
       "bid": 814969,
       "vendor": 1000
     },
@@ -2207,7 +2207,7 @@
     },
     "Water Strike": {
       "ask": 35996,
-      "bid": 2501,
+      "bid": 2502,
       "vendor": 1000
     },
     "Werewolf Claw": {
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1240,
+      "ask": 1249,
       "bid": 857,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668393003.3898892
+  "time": 1668393903.202468
 }
