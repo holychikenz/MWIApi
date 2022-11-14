@@ -51,8 +51,8 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 5000,
-      "bid": 2508,
+      "ask": -1,
+      "bid": 1500,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -97,7 +97,7 @@
     },
     "Azure Cheese": {
       "ask": 384,
-      "bid": 125,
+      "bid": 126,
       "vendor": 24
     },
     "Azure Chisel": {
@@ -181,7 +181,7 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 29000,
+      "ask": 27550,
       "bid": -1,
       "vendor": 1872
     },
@@ -917,7 +917,7 @@
     },
     "Gator Vest": {
       "ask": 80000,
-      "bid": 26028,
+      "bid": 26029,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 820,
-      "bid": 757,
+      "bid": 758,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1261,12 +1261,12 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 875,
+      "ask": 874,
       "bid": 426,
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 1225,
+      "ask": 1000,
       "bid": 300,
       "vendor": 30
     },
@@ -1436,7 +1436,7 @@
       "vendor": 1000
     },
     "Purpleheart Bow": {
-      "ask": 166249,
+      "ask": 150000,
       "bid": -1,
       "vendor": 6480
     },
@@ -1512,7 +1512,7 @@
     },
     "Rain Of Arrows": {
       "ask": 1149995,
-      "bid": 803261,
+      "bid": 765007,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1536,8 +1536,8 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 349,
-      "bid": 296,
+      "ask": 348,
+      "bid": 297,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1636,7 +1636,7 @@
       "vendor": 35964
     },
     "Redwood Crossbow": {
-      "ask": 142500,
+      "ask": 125000,
       "bid": -1,
       "vendor": 26973
     },
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 1750,
+      "ask": 1869,
       "bid": 840,
       "vendor": 75
     },
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 800,
+      "ask": 799,
       "bid": 651,
       "vendor": 40
     },
@@ -1996,7 +1996,7 @@
       "vendor": 50
     },
     "Tailoring Tea": {
-      "ask": 1979,
+      "ask": 1978,
       "bid": 300,
       "vendor": 30
     },
@@ -2056,8 +2056,8 @@
       "vendor": 43344
     },
     "Umbral Hide": {
-      "ask": 299,
-      "bid": 107,
+      "ask": 498,
+      "bid": 110,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668389403.0350702
+  "time": 1668390303.1086786
 }
