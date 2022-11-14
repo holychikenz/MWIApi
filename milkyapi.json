@@ -32,7 +32,7 @@
     },
     "Arcane Bow": {
       "ask": 6000000,
-      "bid": -1,
+      "bid": 2000000,
       "vendor": 106920
     },
     "Arcane Crossbow": {
@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 5000,
-      "bid": 1201,
+      "bid": 1205,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 74500,
+      "ask": 75000,
       "bid": -1,
       "vendor": 1512
     },
@@ -181,12 +181,12 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 30396,
+      "ask": 28876,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 245,
+      "ask": 240,
       "bid": 78,
       "vendor": 12
     },
@@ -226,7 +226,7 @@
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 104377,
+      "ask": 99158,
       "bid": -1,
       "vendor": 7200
     },
@@ -281,7 +281,7 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 916,
+      "ask": 917,
       "bid": 584,
       "vendor": 12
     },
@@ -326,7 +326,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1199,
+      "ask": 1200,
       "bid": 632,
       "vendor": 75
     },
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 459,
-      "bid": 330,
+      "bid": 331,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 765,
+      "ask": 764,
       "bid": 453,
       "vendor": 24
     },
@@ -497,7 +497,7 @@
     },
     "Centaur Boots": {
       "ask": 3987279,
-      "bid": 2500000,
+      "bid": -1,
       "vendor": 50000
     },
     "Centaur Hoof": {
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 400,
+      "ask": 399,
       "bid": 276,
       "vendor": 24
     },
@@ -802,7 +802,7 @@
     },
     "Dragon Fruit": {
       "ask": 39,
-      "bid": 23,
+      "bid": 25,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1999,
+      "ask": 1998,
       "bid": 1106,
       "vendor": 50
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 1749999,
-      "bid": 200000,
+      "bid": 200001,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -861,8 +861,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 233,
-      "bid": 78,
+      "ask": 232,
+      "bid": 79,
       "vendor": 27
     },
     "Fireball": {
@@ -971,12 +971,12 @@
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 21421,
+      "ask": 20350,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 41064,
+      "ask": 39011,
       "bid": 4600,
       "vendor": 3276
     },
@@ -1036,8 +1036,8 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 668,
-      "bid": 451,
+      "ask": 669,
+      "bid": 668,
       "vendor": 20
     },
     "Granite Bludgeon": {
@@ -1211,8 +1211,8 @@
       "vendor": 200000
     },
     "Liberica Coffee Bean": {
-      "ask": 384,
-      "bid": 266,
+      "ask": 406,
+      "bid": 208,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 400,
-      "bid": 7,
+      "bid": 8,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1287,7 +1287,7 @@
     },
     "Maim": {
       "ask": 286214,
-      "bid": 200035,
+      "bid": 200037,
       "vendor": 1000
     },
     "Marsberry": {
@@ -1311,7 +1311,7 @@
       "vendor": 20000
     },
     "Milk": {
-      "ask": 46,
+      "ask": 42,
       "bid": 20,
       "vendor": 2
     },
@@ -1337,7 +1337,7 @@
     },
     "Mooberry Donut": {
       "ask": 1000000000000,
-      "bid": 310,
+      "bid": 311,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 81999,
+      "ask": 81995,
       "bid": 50017,
       "vendor": 1000
     },
@@ -1441,7 +1441,7 @@
       "vendor": 6480
     },
     "Purpleheart Crossbow": {
-      "ask": 25000,
+      "ask": 23750,
       "bid": -1,
       "vendor": 4860
     },
@@ -1577,7 +1577,7 @@
     },
     "Rainbow Milk": {
       "ask": 33,
-      "bid": 30,
+      "bid": 31,
       "vendor": 27
     },
     "Rainbow Needle": {
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 618,
-      "bid": 310,
+      "bid": 311,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1661,7 +1661,7 @@
       "vendor": 26973
     },
     "Redwood Water Staff": {
-      "ask": 475000,
+      "ask": 474999,
       "bid": -1,
       "vendor": 26973
     },
@@ -1691,7 +1691,7 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 549,
+      "ask": 548,
       "bid": 537,
       "vendor": 18
     },
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 453,
+      "ask": 452,
       "bid": 231,
       "vendor": 2
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 5900,
+      "ask": 5500,
       "bid": 4037,
       "vendor": 1000
     },
@@ -1781,7 +1781,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 29923,
+      "ask": 29924,
       "bid": 15000,
       "vendor": 2000
     },
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 253,
-      "bid": 40,
+      "bid": 42,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1872,7 +1872,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 945,
-      "bid": 801,
+      "bid": 763,
       "vendor": 75
     },
     "Strawberry": {
@@ -1902,7 +1902,7 @@
     },
     "Super Attack Coffee": {
       "ask": 503,
-      "bid": 270,
+      "bid": 271,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1912,7 +1912,7 @@
     },
     "Super Cheesesmithing Tea": {
       "ask": 1377,
-      "bid": 957,
+      "bid": 958,
       "vendor": 75
     },
     "Super Cooking Tea": {
@@ -1931,7 +1931,7 @@
       "vendor": 50
     },
     "Super Enhancing Tea": {
-      "ask": 703,
+      "ask": 704,
       "bid": 302,
       "vendor": 50
     },
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1162,
+      "ask": 1159,
       "bid": 753,
       "vendor": 75
     },
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 799,
+      "ask": 800,
       "bid": 651,
       "vendor": 40
     },
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 63,
+      "ask": 50,
       "bid": 31,
       "vendor": 4
     },
@@ -2176,7 +2176,7 @@
       "vendor": 420
     },
     "Verdant Shears": {
-      "ask": 2500,
+      "ask": -1,
       "bid": 435,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668447002.8704596
+  "time": 1668447903.720469
 }
