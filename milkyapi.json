@@ -36,7 +36,7 @@
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 7000000,
+      "ask": 5000000,
       "bid": -1,
       "vendor": 80190
     },
@@ -66,7 +66,7 @@
       "vendor": 80190
     },
     "Artisan Tea": {
-      "ask": 1800,
+      "ask": 1799,
       "bid": 935,
       "vendor": 75
     },
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 254,
+      "ask": 152,
       "bid": 80,
       "vendor": 12
     },
@@ -226,7 +226,7 @@
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 115658,
+      "ask": 121745,
       "bid": -1,
       "vendor": 7200
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 421,
+      "ask": 420,
       "bid": 303,
       "vendor": 24
     },
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 648,
-      "bid": 111,
+      "bid": 150,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -541,7 +541,7 @@
       "vendor": 84
     },
     "Cheese Gauntlets": {
-      "ask": 500,
+      "ask": -1,
       "bid": 174,
       "vendor": 48
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 587,
+      "ask": 450,
       "bid": 267,
       "vendor": 24
     },
@@ -807,7 +807,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 679,
-      "bid": 493,
+      "bid": 495,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 119,
+      "ask": 110,
       "bid": 100,
       "vendor": 27
     },
@@ -891,7 +891,7 @@
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 6300000,
+      "ask": 6250000,
       "bid": 160000,
       "vendor": 60000
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1304,
+      "ask": 1303,
       "bid": 501,
       "vendor": 10
     },
@@ -1032,11 +1032,11 @@
     },
     "Golem Essence": {
       "ask": 352,
-      "bid": 276,
+      "bid": 275,
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 644,
+      "ask": 643,
       "bid": 536,
       "vendor": 20
     },
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 825,
+      "ask": 824,
       "bid": 755,
       "vendor": 162
     },
@@ -1182,7 +1182,7 @@
     },
     "Icy Cloth": {
       "ask": 1499999,
-      "bid": 700002,
+      "bid": 700003,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 1149997,
+      "ask": 1149996,
       "bid": 803261,
       "vendor": 1000
     },
@@ -1681,8 +1681,8 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 109,
-      "bid": 94,
+      "ask": 110,
+      "bid": 93,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 1382,
+      "ask": 1383,
       "bid": 1081,
       "vendor": 73
     },
@@ -1781,7 +1781,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 20000,
+      "ask": 29924,
       "bid": 15000,
       "vendor": 2000
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 164995,
+      "ask": 169999,
       "bid": 50001,
       "vendor": 3000
     },
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 799,
+      "ask": 800,
       "bid": 651,
       "vendor": 40
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668383103.2424028
+  "time": 1668384002.65547
 }
