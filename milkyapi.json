@@ -141,7 +141,7 @@
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 71249,
+      "ask": 50000,
       "bid": -1,
       "vendor": 1512
     },
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 608,
-      "bid": 115,
+      "bid": 112,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -477,7 +477,7 @@
     },
     "Cedar Log": {
       "ask": 295,
-      "bid": 135,
+      "bid": 129,
       "vendor": 8
     },
     "Cedar Lumber": {
@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 392,
-      "bid": 156,
+      "bid": 155,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -516,7 +516,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 9000,
+      "ask": 2500,
       "bid": 310,
       "vendor": 84
     },
@@ -526,17 +526,17 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 3000,
+      "ask": 2500,
       "bid": 1,
       "vendor": 144
     },
     "Cheese Chisel": {
-      "ask": 5000,
+      "ask": 2500,
       "bid": -1,
       "vendor": 84
     },
     "Cheese Enhancer": {
-      "ask": 1900,
+      "ask": 1500,
       "bid": 301,
       "vendor": 84
     },
@@ -546,7 +546,7 @@
       "vendor": 48
     },
     "Cheese Hammer": {
-      "ask": 1800,
+      "ask": 1600,
       "bid": 301,
       "vendor": 84
     },
@@ -581,17 +581,17 @@
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 28499,
+      "ask": 2500,
       "bid": 160,
       "vendor": 84
     },
     "Cheese Shears": {
-      "ask": 1799,
+      "ask": 1000,
       "bid": 85,
       "vendor": 84
     },
     "Cheese Spatula": {
-      "ask": 37968,
+      "ask": 2500,
       "bid": 160,
       "vendor": 84
     },
@@ -742,7 +742,7 @@
     },
     "Crimson Milk": {
       "ask": 24,
-      "bid": 22,
+      "bid": 21,
       "vendor": 18
     },
     "Crimson Needle": {
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 1999995,
+      "ask": 1999996,
       "bid": 120411,
       "vendor": 1000
     },
@@ -946,7 +946,7 @@
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": 849,
+      "ask": 767,
       "bid": 400,
       "vendor": 54
     },
@@ -1312,7 +1312,7 @@
     },
     "Milk": {
       "ask": 28,
-      "bid": 21,
+      "bid": 20,
       "vendor": 2
     },
     "Milking Tea": {
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 1300,
+      "ask": 1114,
       "bid": 500,
       "vendor": 81
     },
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 478,
-      "bid": 225,
+      "bid": 215,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1742,7 +1742,7 @@
     },
     "Scratch": {
       "ask": 8000,
-      "bid": 4037,
+      "bid": 4036,
       "vendor": 1000
     },
     "Silk Boots": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 919,
+      "ask": 920,
       "bid": 756,
       "vendor": 75
     },
@@ -1837,7 +1837,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 424,
-      "bid": 340,
+      "bid": 341,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1922,7 +1922,7 @@
     },
     "Super Crafting Tea": {
       "ask": 1870,
-      "bid": 840,
+      "bid": 800,
       "vendor": 75
     },
     "Super Defense Coffee": {
@@ -2152,11 +2152,11 @@
     },
     "Verdant Milk": {
       "ask": 64,
-      "bid": 50,
+      "bid": 33,
       "vendor": 4
     },
     "Verdant Needle": {
-      "ask": 42749,
+      "ask": 25000,
       "bid": -1,
       "vendor": 420
     },
@@ -2181,7 +2181,7 @@
       "vendor": 420
     },
     "Verdant Spatula": {
-      "ask": 4500,
+      "ask": 4000,
       "bid": 3000,
       "vendor": 420
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 35993,
+      "ask": 35992,
       "bid": 2502,
       "vendor": 1000
     },
@@ -2256,7 +2256,7 @@
       "vendor": 108
     },
     "Wooden Nature Staff": {
-      "ask": 33250,
+      "ask": 2500,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668411003.1005886
+  "time": 1668411903.284072
 }
