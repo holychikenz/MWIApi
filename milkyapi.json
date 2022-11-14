@@ -47,12 +47,12 @@
     },
     "Arcane Log": {
       "ask": 850,
-      "bid": 531,
+      "bid": 600,
       "vendor": 54
     },
     "Arcane Lumber": {
       "ask": 5000,
-      "bid": 1500,
+      "bid": 1000,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -97,7 +97,7 @@
     },
     "Azure Cheese": {
       "ask": 384,
-      "bid": 141,
+      "bid": 140,
       "vendor": 24
     },
     "Azure Chisel": {
@@ -281,7 +281,7 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 1625,
+      "ask": 1800,
       "bid": 581,
       "vendor": 12
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 855,
+      "ask": 947,
       "bid": 450,
       "vendor": 24
     },
@@ -837,7 +837,7 @@
     },
     "Enhancing Tea": {
       "ask": 313,
-      "bid": 217,
+      "bid": 216,
       "vendor": 20
     },
     "Entangle": {
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 68,
-      "bid": 36,
+      "bid": 37,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 823,
-      "bid": 685,
+      "bid": 710,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1112,7 +1112,7 @@
     },
     "Holy Hammer": {
       "ask": 149999,
-      "bid": 95000,
+      "bid": 51,
       "vendor": 62370
     },
     "Holy Hatchet": {
@@ -1147,7 +1147,7 @@
     },
     "Holy Plate Legs": {
       "ask": 135000,
-      "bid": 95000,
+      "bid": 73050,
       "vendor": 62370
     },
     "Holy Pot": {
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 874,
+      "ask": 830,
       "bid": 418,
       "vendor": 6
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 44677,
+      "ask": 42443,
       "bid": 26254,
       "vendor": 1000
     },
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 1300,
-      "bid": 250,
+      "bid": 500,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -2156,7 +2156,7 @@
       "vendor": 4
     },
     "Verdant Needle": {
-      "ask": 42749,
+      "ask": 44999,
       "bid": -1,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668404702.7698588
+  "time": 1668405602.283058
 }
