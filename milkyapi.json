@@ -36,7 +36,7 @@
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 7000000,
+      "ask": 5000000,
       "bid": -1,
       "vendor": 80190
     },
@@ -812,7 +812,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 554,
-      "bid": 500,
+      "bid": 441,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -876,12 +876,12 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 518929,
+      "ask": 518928,
       "bid": 210002,
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1714719,
+      "ask": 1714718,
       "bid": 950003,
       "vendor": 4000
     },
@@ -891,12 +891,12 @@
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 6150000,
+      "ask": 6200000,
       "bid": 2000000,
       "vendor": 60000
     },
     "Flax": {
-      "ask": 290,
+      "ask": 291,
       "bid": 165,
       "vendor": 6
     },
@@ -976,7 +976,7 @@
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 50419,
+      "ask": 47898,
       "bid": 4600,
       "vendor": 3276
     },
@@ -991,7 +991,7 @@
       "vendor": 12
     },
     "Gobo Hood": {
-      "ask": 29403,
+      "ask": 27933,
       "bid": -1,
       "vendor": 2340
     },
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 78010,
+      "ask": 74110,
       "bid": 4800,
       "vendor": 3744
     },
@@ -1446,7 +1446,7 @@
       "vendor": 4860
     },
     "Purpleheart Fire Staff": {
-      "ask": 56994,
+      "ask": 56995,
       "bid": -1,
       "vendor": 4860
     },
@@ -1496,7 +1496,7 @@
       "vendor": 24768
     },
     "Radiant Hat": {
-      "ask": 1499999,
+      "ask": 1499998,
       "bid": 60000,
       "vendor": 30960
     },
@@ -1636,7 +1636,7 @@
       "vendor": 35964
     },
     "Redwood Crossbow": {
-      "ask": 142500,
+      "ask": 100000,
       "bid": -1,
       "vendor": 26973
     },
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 1000,
+      "ask": -1,
       "bid": 650,
       "vendor": 81
     },
@@ -1666,12 +1666,12 @@
       "vendor": 26973
     },
     "Reptile Boots": {
-      "ask": 8512,
+      "ask": 8086,
       "bid": -1,
       "vendor": 432
     },
     "Reptile Bracers": {
-      "ask": 22438,
+      "ask": 21316,
       "bid": -1,
       "vendor": 432
     },
@@ -1686,7 +1686,7 @@
       "vendor": 6
     },
     "Reptile Hood": {
-      "ask": 35197,
+      "ask": 33437,
       "bid": -1,
       "vendor": 540
     },
@@ -1696,7 +1696,7 @@
       "vendor": 18
     },
     "Reptile Tunic": {
-      "ask": 18361,
+      "ask": 17443,
       "bid": 1600,
       "vendor": 864
     },
@@ -1726,7 +1726,7 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 29329,
+      "ask": 27863,
       "bid": 60,
       "vendor": 60
     },
@@ -1761,17 +1761,17 @@
       "vendor": 7200
     },
     "Silk Hat": {
-      "ask": 50278,
+      "ask": 47764,
       "bid": 15000,
       "vendor": 9000
     },
     "Silk Robe Bottoms": {
-      "ask": 155972,
+      "ask": 148173,
       "bid": 25000,
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 118848,
+      "ask": 112906,
       "bid": 30000,
       "vendor": 14400
     },
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 598,
+      "ask": 599,
       "bid": 253,
       "vendor": 36
     },
@@ -1827,12 +1827,12 @@
     },
     "Spaceberry Cake": {
       "ask": 920,
-      "bid": 752,
+      "bid": 753,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 824,
-      "bid": 681,
+      "bid": 682,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1872,7 +1872,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 991,
-      "bid": 761,
+      "bid": 762,
       "vendor": 75
     },
     "Strawberry": {
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 799,
+      "ask": 800,
       "bid": 651,
       "vendor": 40
     },
@@ -2241,7 +2241,7 @@
       "vendor": 10
     },
     "Wooden Bow": {
-      "ask": 10000,
+      "ask": 3000,
       "bid": -1,
       "vendor": 144
     },
@@ -2256,7 +2256,7 @@
       "vendor": 108
     },
     "Wooden Nature Staff": {
-      "ask": 10000,
+      "ask": 3000,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668394801.7468133
+  "time": 1668395703.5146596
 }
