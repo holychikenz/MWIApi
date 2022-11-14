@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 13,
-      "bid": 10,
+      "bid": 9,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 361,
+      "ask": 360,
       "bid": 304,
       "vendor": 24
     },
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 237,
-      "bid": 146,
+      "bid": 180,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -656,7 +656,7 @@
       "vendor": 60
     },
     "Cotton Robe Bottoms": {
-      "ask": 2500,
+      "ask": 3000,
       "bid": 1605,
       "vendor": 84
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 304672,
+      "ask": 304671,
       "bid": 100000,
       "vendor": 20000
     },
@@ -1001,7 +1001,7 @@
       "vendor": 36
     },
     "Gobo Shooter": {
-      "ask": 284999,
+      "ask": 284286,
       "bid": -1,
       "vendor": 20000
     },
@@ -1276,7 +1276,7 @@
       "vendor": 10000
     },
     "Magnetic Gloves": {
-      "ask": 33333333,
+      "ask": 25000000,
       "bid": 2000000,
       "vendor": 300000
     },
@@ -1296,8 +1296,8 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 447,
-      "bid": 369,
+      "ask": 446,
+      "bid": 286,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 52345,
+      "ask": 52214,
       "bid": 1530,
       "vendor": 1000
     },
@@ -1342,11 +1342,11 @@
     },
     "Moolong Tea Leaf": {
       "ask": 29,
-      "bid": 26,
+      "bid": 25,
       "vendor": 18
     },
     "Orange": {
-      "ask": 26,
+      "ask": 25,
       "bid": 12,
       "vendor": 4
     },
@@ -1701,8 +1701,8 @@
       "vendor": 864
     },
     "Robusta Coffee Bean": {
-      "ask": 150,
-      "bid": 118,
+      "ask": 195,
+      "bid": 150,
       "vendor": 8
     },
     "Rough Boots": {
@@ -1746,7 +1746,7 @@
       "vendor": 1000
     },
     "Silk Boots": {
-      "ask": 116847,
+      "ask": 116555,
       "bid": -1,
       "vendor": 7200
     },
@@ -1756,7 +1756,7 @@
       "vendor": 73
     },
     "Silk Gloves": {
-      "ask": 294032,
+      "ask": 293297,
       "bid": 14200,
       "vendor": 7200
     },
@@ -1771,7 +1771,7 @@
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 112905,
+      "ask": 112623,
       "bid": 30000,
       "vendor": 14400
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1519,
+      "ask": 1518,
       "bid": 1092,
       "vendor": 75
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 2900,
+      "ask": 2899,
       "bid": 1003,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668418202.7107596
+  "time": 1668419103.0653803
 }
