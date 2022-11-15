@@ -26,8 +26,8 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 125,
-      "bid": 119,
+      "ask": 124,
+      "bid": 60,
       "vendor": 4
     },
     "Arcane Bow": {
@@ -502,7 +502,7 @@
     },
     "Centaur Hoof": {
       "ask": 199999,
-      "bid": 100000,
+      "bid": 100001,
       "vendor": 3000
     },
     "Cheese": {
@@ -551,12 +551,12 @@
       "vendor": 84
     },
     "Cheese Hatchet": {
-      "ask": 2034,
+      "ask": 1656,
       "bid": -1,
       "vendor": 84
     },
     "Cheese Helmet": {
-      "ask": 2000,
+      "ask": 1500,
       "bid": 270,
       "vendor": 60
     },
@@ -611,7 +611,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 177776,
+      "ask": 177775,
       "bid": 57892,
       "vendor": 1000
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 100,
+      "ask": 99,
       "bid": 20,
       "vendor": 2
     },
@@ -807,12 +807,12 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 695,
-      "bid": 506,
+      "bid": 520,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
       "ask": 550,
-      "bid": 505,
+      "bid": 510,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 320,
+      "ask": 321,
       "bid": 263,
       "vendor": 54
     },
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 47500,
+      "ask": 55000,
       "bid": 26026,
       "vendor": 5000
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 316,
+      "ask": 315,
       "bid": 170,
       "vendor": 12
     },
@@ -1037,7 +1037,7 @@
     },
     "Gourmet Tea": {
       "ask": 667,
-      "bid": 481,
+      "bid": 480,
       "vendor": 20
     },
     "Granite Bludgeon": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 299,
-      "bid": 12,
+      "bid": 100,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1297,7 +1297,7 @@
     },
     "Marsberry Cake": {
       "ask": 446,
-      "bid": 301,
+      "bid": 320,
       "vendor": 50
     },
     "Marsberry Donut": {
@@ -1357,7 +1357,7 @@
     },
     "Orange Yogurt": {
       "ask": 1000000000000,
-      "bid": 75,
+      "bid": 21,
       "vendor": 20
     },
     "Panda Fluff": {
@@ -1406,7 +1406,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 1000000000000,
+      "ask": 600,
       "bid": 300,
       "vendor": 30
     },
@@ -1692,7 +1692,7 @@
     },
     "Reptile Leather": {
       "ask": 480,
-      "bid": 3,
+      "bid": 4,
       "vendor": 18
     },
     "Reptile Tunic": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 298,
-      "bid": 138,
+      "bid": 139,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1098,
+      "ask": 1000,
       "bid": 801,
       "vendor": 75
     },
@@ -1967,7 +1967,7 @@
     },
     "Super Stamina Coffee": {
       "ask": 2374,
-      "bid": 455,
+      "bid": 550,
       "vendor": 40
     },
     "Super Tailoring Tea": {
@@ -1997,7 +1997,7 @@
     },
     "Tailoring Tea": {
       "ask": 1973,
-      "bid": 303,
+      "bid": 302,
       "vendor": 30
     },
     "Tome Of Healing": {
@@ -2231,8 +2231,8 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1499,
-      "bid": 899,
+      "ask": 1300,
+      "bid": 700,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668478503.8661098
+  "time": 1668479403.6601465
 }
