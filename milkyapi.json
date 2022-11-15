@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 12,
-      "bid": 8,
+      "bid": 9,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -96,7 +96,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 300,
+      "ask": 320,
       "bid": 141,
       "vendor": 24
     },
@@ -137,7 +137,7 @@
     },
     "Azure Milk": {
       "ask": 69,
-      "bid": 68,
+      "bid": 40,
       "vendor": 8
     },
     "Azure Needle": {
@@ -257,7 +257,7 @@
     },
     "Berserk": {
       "ask": 268580,
-      "bid": 198675,
+      "bid": 198676,
       "vendor": 1000
     },
     "Birch Bow": {
@@ -276,7 +276,7 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 311,
+      "ask": 285,
       "bid": 23,
       "vendor": 4
     },
@@ -501,7 +501,7 @@
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 200000,
+      "ask": 199999,
       "bid": 100000,
       "vendor": 3000
     },
@@ -586,7 +586,7 @@
       "vendor": 84
     },
     "Cheese Shears": {
-      "ask": 1000,
+      "ask": 901,
       "bid": 85,
       "vendor": 84
     },
@@ -611,7 +611,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 177777,
+      "ask": 177776,
       "bid": 57892,
       "vendor": 1000
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 110,
+      "ask": 100,
       "bid": 20,
       "vendor": 2
     },
@@ -687,7 +687,7 @@
     },
     "Crimson Brush": {
       "ask": 55100,
-      "bid": 10100,
+      "bid": 10605,
       "vendor": 9072
     },
     "Crimson Buckler": {
@@ -722,7 +722,7 @@
     },
     "Crimson Hammer": {
       "ask": -1,
-      "bid": 6810,
+      "bid": 10062,
       "vendor": 9072
     },
     "Crimson Hatchet": {
@@ -791,7 +791,7 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 249,
+      "ask": 248,
       "bid": 183,
       "vendor": 20
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 40000,
+      "ask": 39999,
       "bid": 3004,
       "vendor": 1000
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1499989,
+      "ask": 1424990,
       "bid": 950006,
       "vendor": 4000
     },
@@ -907,11 +907,11 @@
     },
     "Frenzy": {
       "ask": 252641,
-      "bid": 150014,
+      "bid": 150015,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 999,
+      "ask": 1290,
       "bid": 501,
       "vendor": 10
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 318,
+      "ask": 317,
       "bid": 171,
       "vendor": 12
     },
@@ -1301,7 +1301,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 427,
+      "ask": 428,
       "bid": 336,
       "vendor": 50
     },
@@ -1631,7 +1631,7 @@
       "vendor": 27
     },
     "Redwood Bow": {
-      "ask": 199999,
+      "ask": 345000,
       "bid": -1,
       "vendor": 35964
     },
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 450,
+      "ask": 953,
       "bid": 400,
       "vendor": 81
     },
@@ -1786,7 +1786,7 @@
       "vendor": 2000
     },
     "Snail Shell": {
-      "ask": 1999,
+      "ask": -1,
       "bid": -1,
       "vendor": 1500
     },
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 524,
+      "ask": 498,
       "bid": 253,
       "vendor": 36
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 915,
+      "ask": 920,
       "bid": 761,
       "vendor": 75
     },
@@ -2006,7 +2006,7 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 9999988,
+      "ask": 9499989,
       "bid": 3500000,
       "vendor": 100000
     },
@@ -2101,7 +2101,7 @@
       "vendor": 420
     },
     "Verdant Buckler": {
-      "ask": -1,
+      "ask": 7500,
       "bid": 420,
       "vendor": 360
     },
@@ -2141,7 +2141,7 @@
       "vendor": 420
     },
     "Verdant Helmet": {
-      "ask": 1000,
+      "ask": 5000,
       "bid": 803,
       "vendor": 300
     },
@@ -2246,7 +2246,7 @@
       "vendor": 144
     },
     "Wooden Crossbow": {
-      "ask": 19997,
+      "ask": 19500,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668474002.6843681
+  "time": 1668474903.454791
 }
