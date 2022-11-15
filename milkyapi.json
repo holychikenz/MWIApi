@@ -257,7 +257,7 @@
     },
     "Berserk": {
       "ask": 268579,
-      "bid": 210000,
+      "bid": 210001,
       "vendor": 1000
     },
     "Birch Bow": {
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 234,
-      "bid": 164,
+      "bid": 165,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -791,7 +791,7 @@
       "vendor": 5
     },
     "Defense Coffee": {
-      "ask": 248,
+      "ask": 249,
       "bid": 183,
       "vendor": 20
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2214,
+      "ask": 2212,
       "bid": 1290,
       "vendor": 50
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 39996,
+      "ask": 37996,
       "bid": 3005,
       "vendor": 1000
     },
@@ -907,11 +907,11 @@
     },
     "Frenzy": {
       "ask": 240000,
-      "bid": 170000,
+      "bid": 170001,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 750,
+      "ask": 747,
       "bid": 501,
       "vendor": 10
     },
@@ -921,7 +921,7 @@
       "vendor": 5000
     },
     "Giant Pouch": {
-      "ask": 12660000,
+      "ask": 12500000,
       "bid": 5000001,
       "vendor": 5000000
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 313,
+      "ask": 312,
       "bid": 167,
       "vendor": 12
     },
@@ -1036,7 +1036,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 663,
+      "ask": 548,
       "bid": 481,
       "vendor": 20
     },
@@ -1211,8 +1211,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 388,
-      "bid": 210,
+      "ask": 387,
+      "bid": 211,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1266,8 +1266,8 @@
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 995,
-      "bid": 300,
+      "ask": 994,
+      "bid": 301,
       "vendor": 30
     },
     "Magnet": {
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 34,
+      "ask": 33,
       "bid": 13,
       "vendor": 2
     },
@@ -1481,7 +1481,7 @@
       "vendor": 24768
     },
     "Radiant Fabric": {
-      "ask": 2099,
+      "ask": 1750,
       "bid": 1000,
       "vendor": 144
     },
@@ -1492,22 +1492,22 @@
     },
     "Radiant Gloves": {
       "ask": 1900000,
-      "bid": 700000,
+      "bid": -1,
       "vendor": 24768
     },
     "Radiant Hat": {
-      "ask": 1499996,
-      "bid": 700000,
+      "ask": 1499995,
+      "bid": 60000,
       "vendor": 30960
     },
     "Radiant Robe Bottoms": {
       "ask": 3000000,
-      "bid": 1000000,
+      "bid": -1,
       "vendor": 43344
     },
     "Radiant Robe Top": {
       "ask": 3000000,
-      "bid": 1000000,
+      "bid": -1,
       "vendor": 49536
     },
     "Rain Of Arrows": {
@@ -1621,13 +1621,13 @@
       "vendor": 26973
     },
     "Ranged Coffee": {
-      "ask": 991,
-      "bid": 317,
+      "ask": 990,
+      "bid": 318,
       "vendor": 30
     },
     "Red Tea Leaf": {
       "ask": 305,
-      "bid": 252,
+      "bid": 253,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 1599,
+      "ask": 1596,
       "bid": 139,
       "vendor": 2
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 5000,
+      "ask": 5224,
       "bid": 4037,
       "vendor": 1000
     },
@@ -1826,8 +1826,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 916,
-      "bid": 704,
+      "ask": 915,
+      "bid": 705,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 222,
-      "bid": 101,
+      "bid": 120,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1871,8 +1871,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 887,
-      "bid": 800,
+      "ask": 841,
+      "bid": 769,
       "vendor": 75
     },
     "Strawberry": {
@@ -1946,8 +1946,8 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1097,
-      "bid": 1096,
+      "ask": 1096,
+      "bid": 801,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1124,
+      "ask": 1122,
       "bid": 502,
       "vendor": 75
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1091,
+      "ask": 1090,
       "bid": 915,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668518103.0869198
+  "time": 1668519002.442098
 }
