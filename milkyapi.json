@@ -137,11 +137,11 @@
     },
     "Azure Milk": {
       "ask": 55,
-      "bid": 40,
+      "bid": 41,
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 47499,
+      "ask": 35000,
       "bid": -1,
       "vendor": 1512
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 333,
+      "ask": 366,
       "bid": 304,
       "vendor": 24
     },
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 58,
-      "bid": 47,
+      "bid": 48,
       "vendor": 12
     },
     "Burble Needle": {
@@ -526,7 +526,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 300,
+      "ask": 250,
       "bid": 1,
       "vendor": 144
     },
@@ -536,7 +536,7 @@
       "vendor": 84
     },
     "Cheese Enhancer": {
-      "ask": 1300,
+      "ask": 750,
       "bid": 301,
       "vendor": 84
     },
@@ -581,17 +581,17 @@
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 2500,
+      "ask": 1500,
       "bid": 160,
       "vendor": 84
     },
     "Cheese Shears": {
-      "ask": 901,
+      "ask": 750,
       "bid": 85,
       "vendor": 84
     },
     "Cheese Spatula": {
-      "ask": 2500,
+      "ask": 1500,
       "bid": 160,
       "vendor": 84
     },
@@ -812,7 +812,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 550,
-      "bid": 510,
+      "bid": 511,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 274,
-      "bid": 184,
+      "bid": 183,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -922,7 +922,7 @@
     },
     "Giant Pouch": {
       "ask": -1,
-      "bid": 10000001,
+      "bid": 620000,
       "vendor": 5000000
     },
     "Ginkgo Bow": {
@@ -987,7 +987,7 @@
     },
     "Gobo Hide": {
       "ask": 315,
-      "bid": 170,
+      "bid": 180,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1101,7 +1101,7 @@
       "vendor": 62370
     },
     "Holy Enhancer": {
-      "ask": 133882,
+      "ask": 133881,
       "bid": 85001,
       "vendor": 62370
     },
@@ -1186,7 +1186,7 @@
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
-      "ask": 8000000,
+      "ask": -1,
       "bid": -1,
       "vendor": 40000
     },
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 40,
+      "ask": 47,
       "bid": 19,
       "vendor": 2
     },
@@ -1436,7 +1436,7 @@
       "vendor": 1000
     },
     "Purpleheart Bow": {
-      "ask": 112812,
+      "ask": 118749,
       "bid": -1,
       "vendor": 6480
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 379,
+      "ask": 380,
       "bid": 338,
       "vendor": 48
     },
@@ -1577,7 +1577,7 @@
     },
     "Rainbow Milk": {
       "ask": 34,
-      "bid": 31,
+      "bid": 32,
       "vendor": 27
     },
     "Rainbow Needle": {
@@ -1691,8 +1691,8 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 480,
-      "bid": 4,
+      "ask": 479,
+      "bid": 50,
       "vendor": 18
     },
     "Reptile Tunic": {
@@ -1982,7 +1982,7 @@
     },
     "Swamp Essence": {
       "ask": 40,
-      "bid": 25,
+      "bid": 23,
       "vendor": 8
     },
     "Sweep": {
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 498,
-      "bid": 146,
+      "bid": 201,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2156,7 +2156,7 @@
       "vendor": 4
     },
     "Verdant Needle": {
-      "ask": 23747,
+      "ask": 15000,
       "bid": -1,
       "vendor": 420
     },
@@ -2181,7 +2181,7 @@
       "vendor": 420
     },
     "Verdant Spatula": {
-      "ask": 4000,
+      "ask": 4500,
       "bid": 3000,
       "vendor": 420
     },
@@ -2231,8 +2231,8 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1300,
-      "bid": 700,
+      "ask": 1499,
+      "bid": 800,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2246,7 +2246,7 @@
       "vendor": 144
     },
     "Wooden Crossbow": {
-      "ask": 19500,
+      "ask": 19499,
       "bid": -1,
       "vendor": 108
     },
@@ -2256,7 +2256,7 @@
       "vendor": 108
     },
     "Wooden Nature Staff": {
-      "ask": 2500,
+      "ask": 2000,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668483004.0284917
+  "time": 1668483903.8398142
 }
