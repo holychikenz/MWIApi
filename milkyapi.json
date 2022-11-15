@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 75000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 297,
+      "ask": 199,
       "bid": 151,
       "vendor": 6
     },
@@ -636,7 +636,7 @@
       "vendor": 2
     },
     "Cotton Boots": {
-      "ask": 2600,
+      "ask": 2842,
       "bid": 1000,
       "vendor": 48
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1424988,
+      "ask": 1420000,
       "bid": 950008,
       "vendor": 4000
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 1099,
+      "ask": 1100,
       "bid": 424,
       "vendor": 36
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 799,
-      "bid": 731,
+      "bid": 732,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 249,
-      "bid": 212,
+      "bid": 213,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 21,
+      "ask": 45,
       "bid": 19,
       "vendor": 2
     },
@@ -1481,7 +1481,7 @@
       "vendor": 24768
     },
     "Radiant Fabric": {
-      "ask": 2100,
+      "ask": 2099,
       "bid": 1000,
       "vendor": 144
     },
@@ -1706,7 +1706,7 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 17145,
+      "ask": 8000,
       "bid": 1000,
       "vendor": 48
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 936,
+      "ask": 935,
       "bid": 766,
       "vendor": 75
     },
@@ -2002,7 +2002,7 @@
     },
     "Tome Of Healing": {
       "ask": 29998,
-      "bid": 10014,
+      "bid": 10015,
       "vendor": 10000
     },
     "Tome Of The Elements": {
@@ -2207,7 +2207,7 @@
     },
     "Water Strike": {
       "ask": 34000,
-      "bid": 2509,
+      "bid": 2510,
       "vendor": 1000
     },
     "Werewolf Claw": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668489302.8028214
+  "time": 1668490203.1766982
 }
