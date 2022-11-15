@@ -17,11 +17,11 @@
     },
     "Aqua Arrow": {
       "ask": 502955,
-      "bid": 205045,
+      "bid": 205046,
       "vendor": 1000
     },
     "Aqua Essence": {
-      "ask": 45,
+      "ask": 44,
       "bid": 20,
       "vendor": 16
     },
@@ -42,7 +42,7 @@
     },
     "Arcane Fire Staff": {
       "ask": 6950000,
-      "bid": 1250000,
+      "bid": 1500000,
       "vendor": 80190
     },
     "Arcane Log": {
@@ -51,7 +51,7 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 4000,
+      "ask": 3500,
       "bid": 1500,
       "vendor": 162
     },
@@ -251,7 +251,7 @@
       "vendor": 72
     },
     "Beast Tunic": {
-      "ask": 417952,
+      "ask": 397054,
       "bid": 18000,
       "vendor": 14400
     },
@@ -341,7 +341,7 @@
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 87,
+      "ask": 60,
       "bid": 11,
       "vendor": 10
     },
@@ -436,7 +436,7 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": 145000,
+      "ask": 139893,
       "bid": 3360,
       "vendor": 3780
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2600,
+      "ask": 2599,
       "bid": 1109,
       "vendor": 50
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 1499998,
+      "ask": 1499997,
       "bid": 310002,
       "vendor": 1000
     },
@@ -876,12 +876,12 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 374998,
+      "ask": 374997,
       "bid": 255557,
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1424989,
+      "ask": 1424988,
       "bid": 950007,
       "vendor": 4000
     },
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 274,
+      "ask": 269,
       "bid": 183,
       "vendor": 6
     },
@@ -921,7 +921,7 @@
       "vendor": 5000
     },
     "Giant Pouch": {
-      "ask": 17500000,
+      "ask": 16800000,
       "bid": 620001,
       "vendor": 5000000
     },
@@ -962,7 +962,7 @@
     },
     "Gobo Boomstick": {
       "ask": 203623,
-      "bid": 40000,
+      "bid": 60000,
       "vendor": 20000
     },
     "Gobo Boots": {
@@ -1177,12 +1177,12 @@
     },
     "Ice Spear": {
       "ask": 174999,
-      "bid": 152506,
+      "bid": 152504,
       "vendor": 1000
     },
     "Icy Cloth": {
       "ask": 1499999,
-      "bid": 700009,
+      "bid": 700010,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 299,
-      "bid": 100,
+      "bid": 12,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1307,7 +1307,7 @@
     },
     "Medium Pouch": {
       "ask": 480000,
-      "bid": 121553,
+      "bid": 121552,
       "vendor": 50000
     },
     "Milk": {
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 1500,
+      "ask": 2498,
       "bid": 350,
       "vendor": 36
     },
@@ -1922,7 +1922,7 @@
     },
     "Super Crafting Tea": {
       "ask": 1864,
-      "bid": 1021,
+      "bid": 800,
       "vendor": 75
     },
     "Super Defense Coffee": {
@@ -1997,12 +1997,12 @@
     },
     "Tailoring Tea": {
       "ask": 500,
-      "bid": 302,
+      "bid": -1,
       "vendor": 30
     },
     "Tome Of Healing": {
       "ask": 29998,
-      "bid": 10013,
+      "bid": 10014,
       "vendor": 10000
     },
     "Tome Of The Elements": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668486603.4256282
+  "time": 1668487503.0263133
 }
