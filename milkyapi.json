@@ -31,7 +31,7 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": 5999998,
+      "ask": 5999997,
       "bid": 2000000,
       "vendor": 106920
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 366,
+      "ask": 333,
       "bid": 304,
       "vendor": 24
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 99,
+      "ask": 100,
       "bid": 20,
       "vendor": 2
     },
@@ -796,7 +796,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 39,
+      "ask": 16,
       "bid": 6,
       "vendor": 5
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 1500000,
+      "ask": 1499999,
       "bid": 310002,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 375000,
+      "ask": 374998,
       "bid": 255557,
       "vendor": 1000
     },
@@ -923,7 +923,7 @@
     "Giant Pouch": {
       "ask": -1,
       "bid": 10000001,
-      "vendor": 2000000
+      "vendor": 5000000
     },
     "Ginkgo Bow": {
       "ask": 140000,
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 199991,
+      "ask": 199990,
       "bid": 152506,
       "vendor": 1000
     },
@@ -1208,7 +1208,7 @@
     "Large Pouch": {
       "ask": 1970000,
       "bid": 601014,
-      "vendor": 200000
+      "vendor": 500000
     },
     "Liberica Coffee Bean": {
       "ask": 387,
@@ -1306,9 +1306,9 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 855225,
+      "ask": 480000,
       "bid": 121553,
-      "vendor": 20000
+      "vendor": 50000
     },
     "Milk": {
       "ask": 42,
@@ -1381,8 +1381,8 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 460,
-      "bid": 275,
+      "ask": 489,
+      "bid": 276,
       "vendor": 40
     },
     "Pierce": {
@@ -1783,10 +1783,10 @@
     "Small Pouch": {
       "ask": 29924,
       "bid": 15000,
-      "vendor": 2000
+      "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 142500,
+      "ask": 135375,
       "bid": -1,
       "vendor": 1500
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 217475,
+      "ask": 217474,
       "bid": 100005,
       "vendor": 3000
     },
@@ -1866,7 +1866,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 910,
+      "ask": 909,
       "bid": 488,
       "vendor": 75
     },
@@ -1996,7 +1996,7 @@
       "vendor": 50
     },
     "Tailoring Tea": {
-      "ask": 1973,
+      "ask": 500,
       "bid": 302,
       "vendor": 30
     },
@@ -2006,12 +2006,12 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 9499989,
+      "ask": 9499988,
       "bid": 3500000,
       "vendor": 100000
     },
     "Toughness": {
-      "ask": 74998,
+      "ask": 74999,
       "bid": 16064,
       "vendor": 1000
     },
@@ -2241,8 +2241,8 @@
       "vendor": 10
     },
     "Wooden Bow": {
-      "ask": 25000,
-      "bid": -1,
+      "ask": 27012,
+      "bid": 175,
       "vendor": 144
     },
     "Wooden Crossbow": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668480304.8371716
+  "time": 1668481203.4581544
 }
