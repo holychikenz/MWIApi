@@ -96,7 +96,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 320,
+      "ask": 304,
       "bid": 141,
       "vendor": 24
     },
@@ -136,7 +136,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 69,
+      "ask": 55,
       "bid": 40,
       "vendor": 8
     },
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 459,
-      "bid": 380,
+      "bid": 282,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -526,7 +526,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 2500,
+      "ask": 1800,
       "bid": 1,
       "vendor": 144
     },
@@ -686,8 +686,8 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 55100,
-      "bid": 10605,
+      "ask": 58000,
+      "bid": 10100,
       "vendor": 9072
     },
     "Crimson Buckler": {
@@ -1041,7 +1041,7 @@
       "vendor": 20
     },
     "Granite Bludgeon": {
-      "ask": 18000001,
+      "ask": -1,
       "bid": 15000000,
       "vendor": 400000
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 68415,
+      "ask": 68244,
       "bid": 26252,
       "vendor": 1000
     },
@@ -1641,7 +1641,7 @@
       "vendor": 26973
     },
     "Redwood Fire Staff": {
-      "ask": 300000,
+      "ask": 349999,
       "bid": -1,
       "vendor": 26973
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 5224,
+      "ask": 5225,
       "bid": 4037,
       "vendor": 1000
     },
@@ -1786,12 +1786,12 @@
       "vendor": 2000
     },
     "Snail Shell": {
-      "ask": -1,
+      "ask": 142500,
       "bid": -1,
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 1333337,
+      "ask": 380000,
       "bid": 3000,
       "vendor": 6000
     },
@@ -2232,7 +2232,7 @@
     },
     "Wisdom Tea": {
       "ask": 1499,
-      "bid": 856,
+      "bid": 899,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668474903.454791
+  "time": 1668475803.0761564
 }
