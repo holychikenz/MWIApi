@@ -521,7 +521,7 @@
       "vendor": 84
     },
     "Cheese Buckler": {
-      "ask": 2000,
+      "ask": -1,
       "bid": 216,
       "vendor": 72
     },
@@ -601,7 +601,7 @@
       "vendor": 108
     },
     "Cheese Sword": {
-      "ask": 1500,
+      "ask": 3000,
       "bid": 166,
       "vendor": 108
     },
@@ -646,22 +646,22 @@
       "vendor": 6
     },
     "Cotton Gloves": {
-      "ask": 7000,
+      "ask": 7497,
       "bid": 1000,
       "vendor": 48
     },
     "Cotton Hat": {
-      "ask": 2000,
+      "ask": 2375,
       "bid": 1000,
       "vendor": 60
     },
     "Cotton Robe Bottoms": {
-      "ask": 4499,
+      "ask": 4600,
       "bid": 1606,
       "vendor": 84
     },
     "Cotton Robe Top": {
-      "ask": 5500,
+      "ask": 5968,
       "bid": 1606,
       "vendor": 96
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2225,
+      "ask": 2222,
       "bid": 1290,
       "vendor": 50
     },
@@ -867,7 +867,7 @@
     },
     "Fireball": {
       "ask": 47151,
-      "bid": 25555,
+      "bid": 25556,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -1322,7 +1322,7 @@
     },
     "Minor Heal": {
       "ask": 44499,
-      "bid": 30027,
+      "bid": 1540,
       "vendor": 1000
     },
     "Mooberry": {
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 953,
-      "bid": 411,
+      "bid": 412,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 98,
+      "ask": 97,
       "bid": 27,
       "vendor": 6
     },
@@ -2252,7 +2252,7 @@
     },
     "Wooden Fire Staff": {
       "ask": 38587,
-      "bid": 10555,
+      "bid": -1,
       "vendor": 108
     },
     "Wooden Nature Staff": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668512703.469864
+  "time": 1668513604.2428372
 }
