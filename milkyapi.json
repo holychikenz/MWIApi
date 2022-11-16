@@ -31,7 +31,7 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": 2500000,
+      "ask": 2499999,
       "bid": -1,
       "vendor": 106920
     },
@@ -41,7 +41,7 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 5279625,
+      "ask": 5279624,
       "bid": 1500001,
       "vendor": 80190
     },
@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 2840,
-      "bid": 1501,
+      "bid": 1550,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -237,7 +237,7 @@
     },
     "Beast Hide": {
       "ask": 322,
-      "bid": 150,
+      "bid": 155,
       "vendor": 24
     },
     "Beast Hood": {
@@ -496,7 +496,7 @@
       "vendor": 1944
     },
     "Centaur Boots": {
-      "ask": 1999999,
+      "ask": 1994999,
       "bid": -1,
       "vendor": 50000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 42537,
+      "ask": 42536,
       "bid": 25558,
       "vendor": 1000
     },
@@ -1001,7 +1001,7 @@
       "vendor": 36
     },
     "Gobo Shooter": {
-      "ask": 187755,
+      "ask": 187754,
       "bid": -1,
       "vendor": 20000
     },
@@ -1146,7 +1146,7 @@
       "vendor": 71280
     },
     "Holy Plate Legs": {
-      "ask": 135000,
+      "ask": -1,
       "bid": 73050,
       "vendor": 62370
     },
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 298,
-      "bid": 141,
+      "bid": 142,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1461,7 +1461,7 @@
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
-      "ask": 138970,
+      "ask": 146284,
       "bid": -1,
       "vendor": 4860
     },
@@ -1497,17 +1497,17 @@
     },
     "Radiant Hat": {
       "ask": 1450000,
-      "bid": 60000,
+      "bid": 190960,
       "vendor": 30960
     },
     "Radiant Robe Bottoms": {
       "ask": 2900000,
-      "bid": 65000,
+      "bid": 235000,
       "vendor": 43344
     },
     "Radiant Robe Top": {
       "ask": 2500000,
-      "bid": 65000,
+      "bid": 265000,
       "vendor": 49536
     },
     "Rain Of Arrows": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 917,
+      "ask": 916,
       "bid": 800,
       "vendor": 75
     },
@@ -1866,7 +1866,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 906,
+      "ask": 905,
       "bid": 470,
       "vendor": 75
     },
@@ -1992,7 +1992,7 @@
     },
     "Swiftness Coffee": {
       "ask": 1018,
-      "bid": 900,
+      "bid": 910,
       "vendor": 50
     },
     "Tailoring Tea": {
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1049,
+      "ask": 1149,
       "bid": 754,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668582903.8810802
+  "time": 1668583804.58696
 }
