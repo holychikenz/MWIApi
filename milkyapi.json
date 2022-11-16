@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 2563,
-      "bid": 1501,
+      "bid": 1300,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -136,8 +136,8 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 59,
-      "bid": 35,
+      "ask": 35,
+      "bid": 34,
       "vendor": 8
     },
     "Azure Needle": {
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 613,
-      "bid": 415,
+      "bid": 417,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -516,7 +516,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 2800,
+      "ask": 3600,
       "bid": 310,
       "vendor": 84
     },
@@ -581,7 +581,7 @@
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 3000,
+      "ask": 2999,
       "bid": 160,
       "vendor": 84
     },
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 298,
+      "ask": 343,
       "bid": 195,
       "vendor": 6
     },
@@ -786,7 +786,7 @@
       "vendor": 11664
     },
     "Cupcake": {
-      "ask": 43,
+      "ask": 45,
       "bid": 5,
       "vendor": 5
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1494,
+      "ask": 1497,
       "bid": 1107,
       "vendor": 50
     },
@@ -867,7 +867,7 @@
     },
     "Fireball": {
       "ask": 41998,
-      "bid": 25558,
+      "bid": 10000,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -941,8 +941,8 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 94,
-      "bid": 14,
+      "ask": 93,
+      "bid": 20,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -1031,7 +1031,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 428,
+      "ask": 427,
       "bid": 251,
       "vendor": 108
     },
@@ -1067,7 +1067,7 @@
     },
     "Heal": {
       "ask": 999999,
-      "bid": 260025,
+      "bid": 260026,
       "vendor": 1000
     },
     "Holy Boots": {
@@ -1182,7 +1182,7 @@
     },
     "Icy Cloth": {
       "ask": 1499999,
-      "bid": 700017,
+      "bid": 700018,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1316,7 +1316,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 553,
+      "ask": 549,
       "bid": 171,
       "vendor": 10
     },
@@ -1371,7 +1371,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 37,
+      "ask": 36,
       "bid": 21,
       "vendor": 9
     },
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 749,
+      "ask": 699,
       "bid": 410,
       "vendor": 36
     },
@@ -1647,11 +1647,11 @@
     },
     "Redwood Log": {
       "ask": 118,
-      "bid": 50,
+      "bid": 51,
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 899,
+      "ask": 849,
       "bid": 311,
       "vendor": 81
     },
@@ -1781,7 +1781,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 27006,
+      "ask": 22000,
       "bid": 15000,
       "vendor": 5000
     },
@@ -1801,7 +1801,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 14847,
+      "ask": 13000,
       "bid": 3003,
       "vendor": 2000
     },
@@ -1826,8 +1826,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 916,
-      "bid": 754,
+      "ask": 900,
+      "bid": 755,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 993,
+      "ask": 994,
       "bid": 701,
       "vendor": 40
     },
@@ -1977,7 +1977,7 @@
     },
     "Super Woodcutting Tea": {
       "ask": 1590,
-      "bid": 675,
+      "bid": 676,
       "vendor": 40
     },
     "Swamp Essence": {
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 624967,
-      "bid": 320023,
+      "bid": 320024,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 64,
+      "ask": 63,
       "bid": 31,
       "vendor": 4
     },
@@ -2226,12 +2226,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1098,
+      "ask": 1000,
       "bid": 759,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 998,
+      "ask": 999,
       "bid": 709,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668609003.2160587
+  "time": 1668609904.4266763
 }
