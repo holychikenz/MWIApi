@@ -32,11 +32,11 @@
     },
     "Arcane Bow": {
       "ask": 5969000,
-      "bid": 2000000,
+      "bid": -1,
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 2750000,
+      "ask": 2743125,
       "bid": -1,
       "vendor": 80190
     },
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 1334,
-      "bid": 381,
+      "bid": 382,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 440,
-      "bid": 306,
+      "bid": 307,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 1393003,
+      "ask": 1393002,
       "bid": 950013,
       "vendor": 4000
     },
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 232,
-      "bid": 67,
+      "bid": 68,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -976,7 +976,7 @@
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 24588,
+      "ask": 24589,
       "bid": 4601,
       "vendor": 3276
     },
@@ -987,7 +987,7 @@
     },
     "Gobo Hide": {
       "ask": 271,
-      "bid": 171,
+      "bid": 172,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1032,7 +1032,7 @@
     },
     "Golem Essence": {
       "ask": 428,
-      "bid": 206,
+      "bid": 207,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -1182,7 +1182,7 @@
     },
     "Icy Cloth": {
       "ask": 1499998,
-      "bid": 700016,
+      "bid": 700017,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 283,
-      "bid": 142,
+      "bid": 143,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 1861,
+      "ask": 1860,
       "bid": 800,
       "vendor": 75
     },
@@ -2046,22 +2046,22 @@
       "vendor": 24768
     },
     "Umbral Bracers": {
-      "ask": 1790000,
+      "ask": 1780000,
       "bid": -1,
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": 1990000,
+      "ask": 1980000,
       "bid": -1,
       "vendor": 43344
     },
     "Umbral Hide": {
       "ask": 992,
-      "bid": 222,
+      "bid": 223,
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": 1790000,
+      "ask": 1780000,
       "bid": -1,
       "vendor": 30960
     },
@@ -2116,7 +2116,7 @@
       "vendor": 12
     },
     "Verdant Chisel": {
-      "ask": 28499,
+      "ask": 30000,
       "bid": -1,
       "vendor": 420
     },
@@ -2156,7 +2156,7 @@
       "vendor": 4
     },
     "Verdant Needle": {
-      "ask": 10000,
+      "ask": 23747,
       "bid": -1,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668568503.936451
+  "time": 1668569403.216758
 }
