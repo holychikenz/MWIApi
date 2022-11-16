@@ -36,7 +36,7 @@
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 3241875,
+      "ask": 3000000,
       "bid": -1,
       "vendor": 80190
     },
@@ -282,7 +282,7 @@
     },
     "Birch Lumber": {
       "ask": 747,
-      "bid": 319,
+      "bid": 320,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 440,
-      "bid": 303,
+      "bid": 304,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 23,
+      "ask": 24,
       "bid": 20,
       "vendor": 18
     },
@@ -806,13 +806,13 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 677,
+      "ask": 676,
       "bid": 524,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 547,
-      "bid": 361,
+      "ask": 546,
+      "bid": 362,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 232,
-      "bid": 62,
+      "bid": 63,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -906,12 +906,12 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 229990,
-      "bid": 170036,
+      "ask": 229989,
+      "bid": 170037,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 685,
+      "ask": 689,
       "bid": 501,
       "vendor": 10
     },
@@ -987,7 +987,7 @@
     },
     "Gobo Hide": {
       "ask": 303,
-      "bid": 168,
+      "bid": 169,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 274,
+      "ask": 273,
       "bid": 217,
       "vendor": 54
     },
@@ -1312,7 +1312,7 @@
     },
     "Milk": {
       "ask": 34,
-      "bid": 14,
+      "bid": 25,
       "vendor": 2
     },
     "Milking Tea": {
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 44644,
+      "ask": 44647,
       "bid": 25000,
       "vendor": 1000
     },
@@ -1691,7 +1691,7 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 345,
+      "ask": 349,
       "bid": 150,
       "vendor": 18
     },
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 283,
-      "bid": 139,
+      "bid": 140,
       "vendor": 2
     },
     "Rough Hood": {
@@ -2046,7 +2046,7 @@
       "vendor": 24768
     },
     "Umbral Bracers": {
-      "ask": 1900000,
+      "ask": 1800000,
       "bid": -1,
       "vendor": 24768
     },
@@ -2057,11 +2057,11 @@
     },
     "Umbral Hide": {
       "ask": 992,
-      "bid": 219,
+      "bid": 220,
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": 1900000,
+      "ask": 1800000,
       "bid": -1,
       "vendor": 30960
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1148,
+      "ask": 1099,
       "bid": 706,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668563103.7641842
+  "time": 1668564003.2470822
 }
