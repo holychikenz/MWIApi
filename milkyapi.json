@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 718,
-      "bid": 429,
+      "bid": 430,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -431,7 +431,7 @@
       "vendor": 3780
     },
     "Burble Pot": {
-      "ask": -1,
+      "ask": 49999,
       "bid": 7500,
       "vendor": 3780
     },
@@ -491,7 +491,7 @@
       "vendor": 1944
     },
     "Cedar Water Staff": {
-      "ask": 170999,
+      "ask": 162449,
       "bid": -1,
       "vendor": 1944
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 208,
+      "ask": 199,
       "bid": 103,
       "vendor": 24
     },
@@ -706,7 +706,7 @@
       "vendor": 54
     },
     "Crimson Chisel": {
-      "ask": 139988,
+      "ask": 139987,
       "bid": -1,
       "vendor": 9072
     },
@@ -806,13 +806,13 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 665,
+      "ask": 664,
       "bid": 526,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
       "ask": 535,
-      "bid": 372,
+      "bid": 373,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -911,12 +911,12 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 682,
+      "ask": 648,
       "bid": 501,
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 39710,
+      "ask": 39611,
       "bid": 30002,
       "vendor": 5000
     },
@@ -931,7 +931,7 @@
       "vendor": 15552
     },
     "Ginkgo Crossbow": {
-      "ask": 265988,
+      "ask": 252689,
       "bid": -1,
       "vendor": 11664
     },
@@ -941,8 +941,8 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 96,
-      "bid": 10,
+      "ask": 95,
+      "bid": 11,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -956,7 +956,7 @@
       "vendor": 11664
     },
     "Ginkgo Water Staff": {
-      "ask": 180488,
+      "ask": 171464,
       "bid": -1,
       "vendor": 11664
     },
@@ -1036,7 +1036,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 396,
+      "ask": 375,
       "bid": 302,
       "vendor": 20
     },
@@ -1372,7 +1372,7 @@
     },
     "Peach": {
       "ask": 37,
-      "bid": 19,
+      "bid": 20,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -1466,7 +1466,7 @@
       "vendor": 4860
     },
     "Purpleheart Water Staff": {
-      "ask": 270808,
+      "ask": 270806,
       "bid": -1,
       "vendor": 4860
     },
@@ -1631,7 +1631,7 @@
       "vendor": 27
     },
     "Redwood Bow": {
-      "ask": 224999,
+      "ask": 203062,
       "bid": -1,
       "vendor": 35964
     },
@@ -1641,27 +1641,27 @@
       "vendor": 26973
     },
     "Redwood Fire Staff": {
-      "ask": 285073,
+      "ask": 285070,
       "bid": -1,
       "vendor": 26973
     },
     "Redwood Log": {
       "ask": 118,
-      "bid": 35,
+      "bid": 36,
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 942,
+      "ask": 940,
       "bid": 311,
       "vendor": 81
     },
     "Redwood Nature Staff": {
-      "ask": 451242,
+      "ask": 428680,
       "bid": -1,
       "vendor": 26973
     },
     "Redwood Water Staff": {
-      "ask": 428683,
+      "ask": 407249,
       "bid": -1,
       "vendor": 26973
     },
@@ -2011,7 +2011,7 @@
       "vendor": 100000
     },
     "Toughness": {
-      "ask": 74995,
+      "ask": 74994,
       "bid": 16107,
       "vendor": 1000
     },
@@ -2021,7 +2021,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 25998,
+      "ask": 25000,
       "bid": 3112,
       "vendor": 1500
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668603602.5886567
+  "time": 1668604504.1497402
 }
