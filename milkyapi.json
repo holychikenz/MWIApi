@@ -46,12 +46,12 @@
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 699,
-      "bid": 450,
+      "ask": 664,
+      "bid": 451,
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": -1,
+      "ask": 3000,
       "bid": 2300,
       "vendor": 162
     },
@@ -96,7 +96,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 245,
+      "ask": 259,
       "bid": 143,
       "vendor": 24
     },
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 288,
-      "bid": 207,
+      "bid": 208,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -282,7 +282,7 @@
     },
     "Birch Lumber": {
       "ask": 647,
-      "bid": 420,
+      "bid": 421,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -381,7 +381,7 @@
       "vendor": 3780
     },
     "Burble Enhancer": {
-      "ask": 5432,
+      "ask": 25000,
       "bid": 3008,
       "vendor": 3780
     },
@@ -391,7 +391,7 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": -1,
+      "ask": 25000,
       "bid": 105,
       "vendor": 3780
     },
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 49,
+      "ask": 50,
       "bid": 27,
       "vendor": 12
     },
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 438,
-      "bid": 340,
+      "bid": 341,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 290,
+      "ask": 296,
       "bid": 151,
       "vendor": 6
     },
@@ -527,7 +527,7 @@
     },
     "Cheese Bulwark": {
       "ask": 150,
-      "bid": 1,
+      "bid": -1,
       "vendor": 144
     },
     "Cheese Chisel": {
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 895,
+      "ask": 889,
       "bid": 439,
       "vendor": 36
     },
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 255,
-      "bid": 213,
+      "bid": 214,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 278,
-      "bid": 201,
+      "bid": 203,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1322,7 +1322,7 @@
     },
     "Minor Heal": {
       "ask": 43999,
-      "bid": 3510,
+      "bid": 3511,
       "vendor": 1000
     },
     "Mooberry": {
@@ -1742,7 +1742,7 @@
     },
     "Scratch": {
       "ask": 3794,
-      "bid": 2000,
+      "bid": 1003,
       "vendor": 1000
     },
     "Silk Boots": {
@@ -2002,7 +2002,7 @@
     },
     "Tome Of Healing": {
       "ask": 59986,
-      "bid": 10027,
+      "bid": 10028,
       "vendor": 10000
     },
     "Tome Of The Elements": {
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 624966,
-      "bid": 341259,
+      "bid": 341260,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 988,
-      "bid": 409,
+      "bid": 411,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2207,7 +2207,7 @@
     },
     "Water Strike": {
       "ask": 25000,
-      "bid": 2707,
+      "bid": 2708,
       "vendor": 1000
     },
     "Werewolf Claw": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668719703.5162158
+  "time": 1668720602.33255
 }
