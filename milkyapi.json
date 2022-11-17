@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 74,
-      "bid": 8,
+      "bid": 24,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 664,
-      "bid": 451,
+      "bid": 455,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -211,7 +211,7 @@
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 24998,
+      "ask": 24997,
       "bid": 10011,
       "vendor": 3744
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 489,
+      "ask": 488,
       "bid": 280,
       "vendor": 24
     },
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 1565,
-      "bid": 1005,
+      "bid": 1004,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -526,7 +526,7 @@
       "vendor": 72
     },
     "Cheese Bulwark": {
-      "ask": 150,
+      "ask": 3150,
       "bid": -1,
       "vendor": 144
     },
@@ -701,7 +701,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 346,
+      "ask": 345,
       "bid": 180,
       "vendor": 54
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 29797,
+      "ask": 29796,
       "bid": 15100,
       "vendor": 1000
     },
@@ -901,7 +901,7 @@
       "vendor": 6
     },
     "Foraging Tea": {
-      "ask": 604,
+      "ask": 603,
       "bid": 211,
       "vendor": 10
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 889,
+      "ask": 888,
       "bid": 439,
       "vendor": 36
     },
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 76,
-      "bid": 62,
+      "bid": 72,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 278,
-      "bid": 203,
+      "bid": 204,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1646,7 +1646,7 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 79,
+      "ask": 75,
       "bid": 35,
       "vendor": 27
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 897,
+      "ask": 890,
       "bid": 321,
       "vendor": 73
     },
@@ -2006,7 +2006,7 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 7750000,
+      "ask": 7749999,
       "bid": 3500000,
       "vendor": 100000
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 988,
-      "bid": 411,
+      "bid": 412,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668721503.2790203
+  "time": 1668722402.7598615
 }
