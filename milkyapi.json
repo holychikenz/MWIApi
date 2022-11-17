@@ -36,7 +36,7 @@
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 749999,
+      "ask": 250000,
       "bid": 95000,
       "vendor": 80190
     },
@@ -47,11 +47,11 @@
     },
     "Arcane Log": {
       "ask": 664,
-      "bid": 455,
+      "bid": 475,
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 2500,
+      "ask": 3000,
       "bid": 2300,
       "vendor": 162
     },
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 288,
-      "bid": 209,
+      "bid": 211,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 488,
+      "ask": 486,
       "bid": 280,
       "vendor": 24
     },
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 1565,
-      "bid": 1004,
+      "bid": 1005,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -282,7 +282,7 @@
     },
     "Birch Lumber": {
       "ask": 647,
-      "bid": 422,
+      "bid": 424,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -371,7 +371,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 375,
+      "ask": 457,
       "bid": 335,
       "vendor": 36
     },
@@ -481,8 +481,8 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 438,
-      "bid": 342,
+      "ask": 437,
+      "bid": 344,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 79,
+      "ask": 88,
       "bid": 28,
       "vendor": 18
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 888,
+      "ask": 887,
       "bid": 439,
       "vendor": 36
     },
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 278,
-      "bid": 204,
+      "bid": 205,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1456,8 +1456,8 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 459,
-      "bid": 401,
+      "ask": 400,
+      "bid": 2,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 50000,
+      "ask": 49999,
       "bid": 25003,
       "vendor": 1000
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 1100000,
+      "ask": 1099999,
       "bid": 550003,
       "vendor": 1000
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 890,
+      "ask": 889,
       "bid": 321,
       "vendor": 73
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 885,
+      "ask": 932,
       "bid": 763,
       "vendor": 75
     },
@@ -1942,12 +1942,12 @@
     },
     "Super Intelligence Coffee": {
       "ask": 1200,
-      "bid": 899,
+      "bid": 950,
       "vendor": 40
     },
     "Super Magic Coffee": {
       "ask": 1162,
-      "bid": 930,
+      "bid": 950,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -2056,8 +2056,8 @@
       "vendor": 43344
     },
     "Umbral Hide": {
-      "ask": 988,
-      "bid": 412,
+      "ask": 987,
+      "bid": 413,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 338,
-      "bid": 233,
+      "bid": 231,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2227,7 +2227,7 @@
     },
     "Wisdom Coffee": {
       "ask": 1000,
-      "bid": 808,
+      "bid": 850,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668722402.7598615
+  "time": 1668723303.8197594
 }
