@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 74,
-      "bid": 24,
+      "ask": 69,
+      "bid": 8,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -51,7 +51,7 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 2500,
+      "ask": 3000,
       "bid": 2011,
       "vendor": 162
     },
@@ -61,7 +61,7 @@
       "vendor": 80190
     },
     "Arcane Water Staff": {
-      "ask": 4483996,
+      "ask": 3844466,
       "bid": -1,
       "vendor": 80190
     },
@@ -187,11 +187,11 @@
     },
     "Bamboo Branch": {
       "ask": 288,
-      "bid": 213,
+      "bid": 214,
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 999,
+      "ask": 998,
       "bid": 592,
       "vendor": 36
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 414,
+      "ask": 415,
       "bid": 280,
       "vendor": 24
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 53,
+      "ask": 52,
       "bid": 6,
       "vendor": 2
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 699,
+      "ask": 631,
       "bid": 501,
       "vendor": 10
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 168999,
+      "ask": 168998,
       "bid": 60000,
       "vendor": 20000
     },
@@ -1036,7 +1036,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 550,
+      "ask": 497,
       "bid": 302,
       "vendor": 20
     },
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 400,
+      "ask": 459,
       "bid": 300,
       "vendor": 36
     },
@@ -1641,7 +1641,7 @@
       "vendor": 26973
     },
     "Redwood Fire Staff": {
-      "ask": 257266,
+      "ask": 232183,
       "bid": 100000,
       "vendor": 26973
     },
@@ -1656,7 +1656,7 @@
       "vendor": 81
     },
     "Redwood Nature Staff": {
-      "ask": 386870,
+      "ask": 367527,
       "bid": -1,
       "vendor": 26973
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 889,
+      "ask": 888,
       "bid": 360,
       "vendor": 73
     },
@@ -1906,7 +1906,7 @@
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 789,
+      "ask": 750,
       "bid": 103,
       "vendor": 50
     },
@@ -1996,7 +1996,7 @@
       "vendor": 50
     },
     "Tailoring Tea": {
-      "ask": 997,
+      "ask": 947,
       "bid": 350,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668726903.8171422
+  "time": 1668727803.0449495
 }
