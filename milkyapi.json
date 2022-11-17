@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 10,
+      "ask": 9,
       "bid": 8,
       "vendor": 2
     },
@@ -307,11 +307,11 @@
     },
     "Black Tea Leaf": {
       "ask": 119,
-      "bid": 41,
+      "bid": 43,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 12,
+      "ask": 11,
       "bid": 7,
       "vendor": 4
     },
@@ -331,7 +331,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 18,
+      "ask": 17,
       "bid": 16,
       "vendor": 2
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 209,
+      "ask": 199,
       "bid": 70,
       "vendor": 24
     },
@@ -807,7 +807,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 758,
-      "bid": 531,
+      "bid": 521,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -816,13 +816,13 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1798,
+      "ask": 1799,
       "bid": 1176,
       "vendor": 50
     },
     "Egg": {
-      "ask": 24,
-      "bid": 7,
+      "ask": 22,
+      "bid": 8,
       "vendor": 1
     },
     "Elemental Affinity": {
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 218,
+      "ask": 217,
       "bid": 143,
       "vendor": 27
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 338419,
+      "ask": 338418,
       "bid": 260000,
       "vendor": 1000
     },
@@ -906,7 +906,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 207559,
+      "ask": 207558,
       "bid": 170000,
       "vendor": 1000
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 169,
+      "ask": 168,
       "bid": 91,
       "vendor": 12
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 85,
+      "ask": 81,
       "bid": 75,
       "vendor": 4
     },
@@ -1257,7 +1257,7 @@
     },
     "Lucky Coffee": {
       "ask": 375,
-      "bid": 254,
+      "bid": 255,
       "vendor": 40
     },
     "Lumber": {
@@ -1332,7 +1332,7 @@
     },
     "Mooberry Cake": {
       "ask": 348,
-      "bid": 200,
+      "bid": 201,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -1397,7 +1397,7 @@
     },
     "Plum": {
       "ask": 45,
-      "bid": 33,
+      "bid": 34,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 7996,
+      "ask": 7595,
       "bid": 5520,
       "vendor": 1000
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 47,
+      "ask": 45,
       "bid": 27,
       "vendor": 6
     },
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 229,
-      "bid": 56,
+      "bid": 55,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 3999,
+      "ask": 3798,
       "bid": 1003,
       "vendor": 1000
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 6646,
+      "ask": 6313,
       "bid": 5018,
       "vendor": 1000
     },
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 44443,
+      "ask": 44442,
       "bid": 25003,
       "vendor": 1000
     },
@@ -2011,8 +2011,8 @@
       "vendor": 100000
     },
     "Toughness": {
-      "ask": 74985,
-      "bid": 17782,
+      "ask": 74798,
+      "bid": 17783,
       "vendor": 1000
     },
     "Toxic Pollen": {
@@ -2037,7 +2037,7 @@
     },
     "Twilight Essence": {
       "ask": 368,
-      "bid": 233,
+      "bid": 234,
       "vendor": 108
     },
     "Umbral Boots": {
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 990,
-      "bid": 337,
+      "bid": 338,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2201,7 +2201,7 @@
       "vendor": 20000
     },
     "Vision Shield": {
-      "ask": 252698,
+      "ask": 252066,
       "bid": 40004,
       "vendor": 20000
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1148,
+      "ask": 1100,
       "bid": 827,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668684602.8895006
+  "time": 1668685502.8754652
 }
