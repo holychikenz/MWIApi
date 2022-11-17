@@ -36,7 +36,7 @@
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 1499999,
+      "ask": 1499998,
       "bid": 95000,
       "vendor": 80190
     },
@@ -56,12 +56,12 @@
       "vendor": 162
     },
     "Arcane Nature Staff": {
-      "ask": 3800000,
+      "ask": 3610000,
       "bid": -1,
       "vendor": 80190
     },
     "Arcane Water Staff": {
-      "ask": 4719999,
+      "ask": 4719998,
       "bid": -1,
       "vendor": 80190
     },
@@ -137,7 +137,7 @@
     },
     "Azure Milk": {
       "ask": 59,
-      "bid": 32,
+      "bid": 27,
       "vendor": 8
     },
     "Azure Needle": {
@@ -161,7 +161,7 @@
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": 15000,
+      "ask": -1,
       "bid": 2500,
       "vendor": 1512
     },
@@ -177,7 +177,7 @@
     },
     "Azure Sword": {
       "ask": -1,
-      "bid": 1874,
+      "bid": 1944,
       "vendor": 1944
     },
     "Bamboo Boots": {
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 299,
-      "bid": 159,
+      "bid": 160,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 449,
+      "ask": 502,
       "bid": 302,
       "vendor": 24
     },
@@ -501,7 +501,7 @@
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 189990,
+      "ask": 189988,
       "bid": 110259,
       "vendor": 3000
     },
@@ -601,7 +601,7 @@
       "vendor": 108
     },
     "Cheese Sword": {
-      "ask": 2969,
+      "ask": 3000,
       "bid": 166,
       "vendor": 108
     },
@@ -801,7 +801,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 98,
+      "ask": 97,
       "bid": 63,
       "vendor": 14
     },
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1798,
-      "bid": 1178,
+      "bid": 1179,
       "vendor": 50
     },
     "Egg": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 27998,
+      "ask": 27997,
       "bid": 4003,
       "vendor": 1000
     },
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 505000,
+      "ask": 500000,
       "bid": 200028,
       "vendor": 1000
     },
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 154,
-      "bid": 92,
+      "bid": 93,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -1007,12 +1007,12 @@
     },
     "Gobo Slasher": {
       "ask": 23748,
-      "bid": 12000,
+      "bid": 10000,
       "vendor": 20000
     },
     "Gobo Smasher": {
       "ask": 20001,
-      "bid": 12000,
+      "bid": 10000,
       "vendor": 20000
     },
     "Gobo Stabber": {
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 7595,
+      "ask": 7500,
       "bid": 5520,
       "vendor": 1000
     },
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 250,
+      "ask": 238,
       "bid": 38,
       "vendor": 12
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 899,
+      "ask": 660,
       "bid": 311,
       "vendor": 73
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 935,
+      "ask": 888,
       "bid": 761,
       "vendor": 75
     },
@@ -1881,7 +1881,7 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 448,
+      "ask": 250,
       "bid": 117,
       "vendor": 30
     },
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 1590,
+      "ask": 1587,
       "bid": 701,
       "vendor": 40
     },
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 56987,
+      "ask": 56986,
       "bid": 10027,
       "vendor": 10000
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 990,
-      "bid": 340,
+      "bid": 342,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668693602.1509693
+  "time": 1668694503.10825
 }
