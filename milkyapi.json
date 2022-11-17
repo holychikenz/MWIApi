@@ -36,7 +36,7 @@
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 1000000,
+      "ask": 999999,
       "bid": 95000,
       "vendor": 80190
     },
@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 757,
-      "bid": 412,
+      "bid": 413,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -61,7 +61,7 @@
       "vendor": 80190
     },
     "Arcane Water Staff": {
-      "ask": 4483998,
+      "ask": 4483997,
       "bid": -1,
       "vendor": 80190
     },
@@ -676,7 +676,7 @@
       "vendor": 1500
     },
     "Crafting Tea": {
-      "ask": 500,
+      "ask": 10000,
       "bid": 350,
       "vendor": 30
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 756,
+      "ask": 755,
       "bid": 521,
       "vendor": 50
     },
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 207558,
-      "bid": 109,
+      "bid": 50001,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -1177,7 +1177,7 @@
     },
     "Ice Spear": {
       "ask": 199996,
-      "bid": 46894,
+      "bid": 50000,
       "vendor": 1000
     },
     "Icy Cloth": {
@@ -1216,13 +1216,13 @@
       "vendor": 12
     },
     "Linen Boots": {
-      "ask": 34740,
+      "ask": 34739,
       "bid": 3000,
       "vendor": 432
     },
     "Linen Fabric": {
       "ask": 693,
-      "bid": 462,
+      "bid": 463,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 234,
+      "ask": 233,
       "bid": 38,
       "vendor": 12
     },
@@ -1482,7 +1482,7 @@
     },
     "Radiant Fabric": {
       "ask": 1999,
-      "bid": 950,
+      "bid": 1000,
       "vendor": 144
     },
     "Radiant Fiber": {
@@ -1492,7 +1492,7 @@
     },
     "Radiant Gloves": {
       "ask": 850247,
-      "bid": -1,
+      "bid": 250000,
       "vendor": 24768
     },
     "Radiant Hat": {
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 684,
+      "ask": 683,
       "bid": 322,
       "vendor": 81
     },
@@ -1702,7 +1702,7 @@
     },
     "Robusta Coffee Bean": {
       "ask": 188,
-      "bid": 81,
+      "bid": 80,
       "vendor": 8
     },
     "Rough Boots": {
@@ -1731,8 +1731,8 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 748,
-      "bid": 314,
+      "ask": 747,
+      "bid": 315,
       "vendor": 6
     },
     "Rough Tunic": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 932,
+      "ask": 885,
       "bid": 762,
       "vendor": 75
     },
@@ -1882,7 +1882,7 @@
     },
     "Strawberry Cake": {
       "ask": 250,
-      "bid": 112,
+      "bid": 113,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 4999,
+      "ask": 4998,
       "bid": 2001,
       "vendor": 75
     },
@@ -2037,7 +2037,7 @@
     },
     "Twilight Essence": {
       "ask": 368,
-      "bid": 247,
+      "bid": 260,
       "vendor": 108
     },
     "Umbral Boots": {
@@ -2052,12 +2052,12 @@
     },
     "Umbral Chaps": {
       "ask": 1750000,
-      "bid": -1,
+      "bid": 60000,
       "vendor": 43344
     },
     "Umbral Hide": {
       "ask": 987,
-      "bid": 359,
+      "bid": 360,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1100,
+      "ask": 1090,
       "bid": 711,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668708002.618883
+  "time": 1668708903.1527338
 }
