@@ -31,13 +31,13 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": 1714744,
+      "ask": 1000000,
       "bid": 115000,
       "vendor": 106920
     },
     "Arcane Crossbow": {
       "ask": 1500000,
-      "bid": -1,
+      "bid": 95000,
       "vendor": 80190
     },
     "Arcane Fire Staff": {
@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 798,
-      "bid": 426,
+      "bid": 427,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -222,17 +222,17 @@
     },
     "Beast Boots": {
       "ask": 84996,
-      "bid": 25000,
+      "bid": 50000,
       "vendor": 7200
     },
     "Beast Bracers": {
       "ask": 76721,
-      "bid": -1,
+      "bid": 50000,
       "vendor": 7200
     },
     "Beast Chaps": {
       "ask": 344008,
-      "bid": 16000,
+      "bid": 100000,
       "vendor": 12600
     },
     "Beast Hide": {
@@ -252,7 +252,7 @@
     },
     "Beast Tunic": {
       "ask": 190000,
-      "bid": 18000,
+      "bid": 100000,
       "vendor": 14400
     },
     "Berserk": {
@@ -261,13 +261,13 @@
       "vendor": 1000
     },
     "Birch Bow": {
-      "ask": 4500,
+      "ask": 4275,
       "bid": 1200,
       "vendor": 720
     },
     "Birch Crossbow": {
       "ask": 29997,
-      "bid": -1,
+      "bid": 680,
       "vendor": 540
     },
     "Birch Fire Staff": {
@@ -307,7 +307,7 @@
     },
     "Black Tea Leaf": {
       "ask": 159,
-      "bid": 40,
+      "bid": 41,
       "vendor": 8
     },
     "Blackberry": {
@@ -467,7 +467,7 @@
     },
     "Cedar Crossbow": {
       "ask": 25000,
-      "bid": -1,
+      "bid": 2400,
       "vendor": 1944
     },
     "Cedar Fire Staff": {
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 1199999,
-      "bid": 325526,
+      "bid": 325527,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -866,13 +866,13 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 28404,
+      "ask": 29900,
       "bid": 11001,
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 506710,
-      "bid": 200020,
+      "ask": 506709,
+      "bid": 200021,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 897,
+      "ask": 896,
       "bid": 501,
       "vendor": 10
     },
@@ -932,7 +932,7 @@
     },
     "Ginkgo Crossbow": {
       "ask": 252689,
-      "bid": -1,
+      "bid": 13000,
       "vendor": 11664
     },
     "Ginkgo Fire Staff": {
@@ -1067,7 +1067,7 @@
     },
     "Heal": {
       "ask": 999998,
-      "bid": 260033,
+      "bid": 260034,
       "vendor": 1000
     },
     "Holy Boots": {
@@ -1116,7 +1116,7 @@
       "vendor": 62370
     },
     "Holy Hatchet": {
-      "ask": 174990,
+      "ask": 174989,
       "bid": -1,
       "vendor": 62370
     },
@@ -1246,7 +1246,7 @@
       "vendor": 864
     },
     "Living Granite": {
-      "ask": 1886650,
+      "ask": 1886649,
       "bid": 439002,
       "vendor": 10000
     },
@@ -1287,7 +1287,7 @@
     },
     "Maim": {
       "ask": 286214,
-      "bid": 100040,
+      "bid": 150040,
       "vendor": 1000
     },
     "Marsberry": {
@@ -1442,7 +1442,7 @@
     },
     "Purpleheart Crossbow": {
       "ask": 11400,
-      "bid": -1,
+      "bid": 5400,
       "vendor": 4860
     },
     "Purpleheart Fire Staff": {
@@ -1637,7 +1637,7 @@
     },
     "Redwood Crossbow": {
       "ask": 85000,
-      "bid": -1,
+      "bid": 29000,
       "vendor": 26973
     },
     "Redwood Fire Staff": {
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 801,
+      "ask": 761,
       "bid": 321,
       "vendor": 81
     },
@@ -1826,8 +1826,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 926,
-      "bid": 757,
+      "ask": 935,
+      "bid": 758,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1872,7 +1872,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 850,
-      "bid": 780,
+      "bid": 781,
       "vendor": 75
     },
     "Strawberry": {
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1098,
+      "ask": 1097,
       "bid": 931,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668654002.8630488
+  "time": 1668654903.6288188
 }
