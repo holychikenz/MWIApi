@@ -51,7 +51,7 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 2500,
+      "ask": -1,
       "bid": 2300,
       "vendor": 162
     },
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 288,
-      "bid": 204,
+      "bid": 205,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -207,12 +207,12 @@
     },
     "Bamboo Robe Bottoms": {
       "ask": 50488,
-      "bid": 8006,
+      "bid": 8007,
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 24999,
-      "bid": 10010,
+      "ask": 24998,
+      "bid": 10011,
       "vendor": 3744
     },
     "Bear Essence": {
@@ -226,7 +226,7 @@
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 69239,
+      "ask": 65777,
       "bid": -1,
       "vendor": 7200
     },
@@ -281,8 +281,8 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 693,
-      "bid": 419,
+      "ask": 649,
+      "bid": 420,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -376,7 +376,7 @@
       "vendor": 36
     },
     "Burble Chisel": {
-      "ask": 137750,
+      "ask": 145000,
       "bid": -1,
       "vendor": 3780
     },
@@ -481,8 +481,8 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 446,
-      "bid": 339,
+      "ask": 439,
+      "bid": 340,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -511,7 +511,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 50,
+      "ask": 49,
       "bid": -1,
       "vendor": 48
     },
@@ -861,13 +861,13 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 210,
+      "ask": 200,
       "bid": 143,
       "vendor": 27
     },
     "Fireball": {
       "ask": 29797,
-      "bid": 15000,
+      "bid": 15100,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -922,7 +922,7 @@
     },
     "Giant Pouch": {
       "ask": 8000000,
-      "bid": 6000001,
+      "bid": 6000000,
       "vendor": 5000000
     },
     "Ginkgo Bow": {
@@ -1137,7 +1137,7 @@
     },
     "Holy Needle": {
       "ask": 149999,
-      "bid": -1,
+      "bid": 105000,
       "vendor": 62370
     },
     "Holy Plate Body": {
@@ -1177,7 +1177,7 @@
     },
     "Ice Spear": {
       "ask": 199996,
-      "bid": 50004,
+      "bid": 50005,
       "vendor": 1000
     },
     "Icy Cloth": {
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 693,
+      "ask": 691,
       "bid": 466,
       "vendor": 18
     },
@@ -1261,8 +1261,8 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 296,
-      "bid": 200,
+      "ask": 279,
+      "bid": 201,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 200000,
+      "ask": 190000,
       "bid": 78000,
       "vendor": 50000
     },
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 468,
+      "ask": 459,
       "bid": 401,
       "vendor": 36
     },
@@ -1641,7 +1641,7 @@
       "vendor": 26973
     },
     "Redwood Fire Staff": {
-      "ask": 249000,
+      "ask": 257266,
       "bid": 100000,
       "vendor": 26973
     },
@@ -2006,7 +2006,7 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 7999995,
+      "ask": 7750000,
       "bid": 3500000,
       "vendor": 100000
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 624967,
+      "ask": 624966,
       "bid": 341259,
       "vendor": 1000
     },
@@ -2041,38 +2041,38 @@
       "vendor": 108
     },
     "Umbral Boots": {
-      "ask": 1500000,
-      "bid": 500000,
+      "ask": -1,
+      "bid": -1,
       "vendor": 24768
     },
     "Umbral Bracers": {
-      "ask": 1730000,
-      "bid": 500000,
+      "ask": -1,
+      "bid": -1,
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": 1750000,
-      "bid": 500000,
+      "ask": 1730000,
+      "bid": 60000,
       "vendor": 43344
     },
     "Umbral Hide": {
-      "ask": 987,
-      "bid": 404,
+      "ask": 988,
+      "bid": 408,
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": 1010000,
-      "bid": 500000,
+      "ask": 990000,
+      "bid": -1,
       "vendor": 30960
     },
     "Umbral Leather": {
       "ask": 2500,
-      "bid": 1500,
+      "bid": 2000,
       "vendor": 144
     },
     "Umbral Tunic": {
       "ask": 2300000,
-      "bid": 500000,
+      "bid": 60000,
       "vendor": 49536
     },
     "Vampire Fang": {
@@ -2232,7 +2232,7 @@
     },
     "Wisdom Tea": {
       "ask": 950,
-      "bid": 710,
+      "bid": 711,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668717903.8949602
+  "time": 1668718802.4123843
 }
