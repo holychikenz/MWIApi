@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 3000,
-      "bid": 2300,
+      "bid": 2011,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 486,
+      "ask": 438,
       "bid": 280,
       "vendor": 24
     },
@@ -282,7 +282,7 @@
     },
     "Birch Lumber": {
       "ask": 647,
-      "bid": 424,
+      "bid": 416,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -306,8 +306,8 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 89,
-      "bid": 45,
+      "ask": 85,
+      "bid": 44,
       "vendor": 8
     },
     "Blackberry": {
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 457,
-      "bid": 335,
+      "bid": 336,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -476,13 +476,13 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 200,
-      "bid": 25,
+      "ask": 199,
+      "bid": 24,
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 437,
-      "bid": 344,
+      "ask": 436,
+      "bid": 336,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 999998,
+      "ask": 699999,
       "bid": 325530,
       "vendor": 1000
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 26594,
+      "ask": 25999,
       "bid": 5003,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 29796,
+      "ask": 29795,
       "bid": 15100,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 1173245,
+      "ask": 799999,
       "bid": 260001,
       "vendor": 1000
     },
@@ -971,7 +971,7 @@
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 16573,
+      "ask": 16572,
       "bid": -1,
       "vendor": 1872
     },
@@ -1026,7 +1026,7 @@
       "vendor": 3744
     },
     "Goggles": {
-      "ask": 199500,
+      "ask": 199499,
       "bid": 10001,
       "vendor": 10000
     },
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 278,
-      "bid": 205,
+      "bid": 193,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1311,12 +1311,12 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 27,
+      "ask": 26,
       "bid": 13,
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 299,
+      "ask": 298,
       "bid": 171,
       "vendor": 10
     },
@@ -1457,7 +1457,7 @@
     },
     "Purpleheart Lumber": {
       "ask": 400,
-      "bid": 2,
+      "bid": 300,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 44,
-      "bid": 9,
+      "bid": 12,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1942,7 +1942,7 @@
     },
     "Super Intelligence Coffee": {
       "ask": 1200,
-      "bid": 950,
+      "bid": 951,
       "vendor": 40
     },
     "Super Magic Coffee": {
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 1446,
+      "ask": 1447,
       "bid": 455,
       "vendor": 40
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1011,
+      "ask": 1014,
       "bid": 804,
       "vendor": 50
     },
@@ -2011,7 +2011,7 @@
       "vendor": 100000
     },
     "Toughness": {
-      "ask": 74983,
+      "ask": 74981,
       "bid": 17785,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668723303.8197594
+  "time": 1668724202.7913992
 }
