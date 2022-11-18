@@ -87,7 +87,7 @@
     },
     "Azure Buckler": {
       "ask": -1,
-      "bid": 1489,
+      "bid": 1350,
       "vendor": 1296
     },
     "Azure Bulwark": {
@@ -127,7 +127,7 @@
     },
     "Azure Helmet": {
       "ask": -1,
-      "bid": 3973,
+      "bid": 3604,
       "vendor": 1080
     },
     "Azure Mace": {
@@ -147,12 +147,12 @@
     },
     "Azure Plate Body": {
       "ask": -1,
-      "bid": 6615,
+      "bid": 6000,
       "vendor": 1728
     },
     "Azure Plate Legs": {
       "ask": -1,
-      "bid": 1667,
+      "bid": -1,
       "vendor": 1512
     },
     "Azure Pot": {
@@ -256,7 +256,7 @@
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 268565,
+      "ask": 268563,
       "bid": 170016,
       "vendor": 1000
     },
@@ -556,7 +556,7 @@
       "vendor": 84
     },
     "Cheese Helmet": {
-      "ask": -1,
+      "ask": 3000,
       "bid": 270,
       "vendor": 60
     },
@@ -576,7 +576,7 @@
       "vendor": 96
     },
     "Cheese Plate Legs": {
-      "ask": 4500000,
+      "ask": 3500,
       "bid": 279,
       "vendor": 84
     },
@@ -872,7 +872,7 @@
     },
     "Flame Arrow": {
       "ask": 481373,
-      "bid": 200049,
+      "bid": 200052,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 887,
-      "bid": 438,
+      "bid": 439,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 265,
-      "bid": 216,
+      "bid": 217,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1267,7 +1267,7 @@
     },
     "Magic Coffee": {
       "ask": 976,
-      "bid": 503,
+      "bid": 601,
       "vendor": 30
     },
     "Magnet": {
@@ -1287,7 +1287,7 @@
     },
     "Maim": {
       "ask": 286214,
-      "bid": 150057,
+      "bid": 150061,
       "vendor": 1000
     },
     "Marsberry": {
@@ -1452,7 +1452,7 @@
     },
     "Purpleheart Log": {
       "ask": 119,
-      "bid": 39,
+      "bid": 40,
       "vendor": 12
     },
     "Purpleheart Lumber": {
@@ -1496,7 +1496,7 @@
       "vendor": 24768
     },
     "Radiant Hat": {
-      "ask": 590000,
+      "ask": 580000,
       "bid": -1,
       "vendor": 30960
     },
@@ -1506,7 +1506,7 @@
       "vendor": 43344
     },
     "Radiant Robe Top": {
-      "ask": 999996,
+      "ask": 999995,
       "bid": 65000,
       "vendor": 49536
     },
@@ -1621,7 +1621,7 @@
       "vendor": 26973
     },
     "Ranged Coffee": {
-      "ask": 676,
+      "ask": 673,
       "bid": 319,
       "vendor": 30
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 798,
+      "ask": 797,
       "bid": 371,
       "vendor": 73
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 935,
+      "ask": 932,
       "bid": 765,
       "vendor": 75
     },
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 206,
-      "bid": 97,
+      "bid": 112,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 933,
+      "ask": 930,
       "bid": 787,
       "vendor": 75
     },
@@ -1947,7 +1947,7 @@
     },
     "Super Magic Coffee": {
       "ask": 1799,
-      "bid": 1202,
+      "bid": 1337,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -1961,8 +1961,8 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1111,
-      "bid": 680,
+      "ask": 1108,
+      "bid": 683,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -2051,17 +2051,17 @@
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": 955584,
+      "ask": 907805,
       "bid": 60000,
       "vendor": 43344
     },
     "Umbral Hide": {
       "ask": 984,
-      "bid": 421,
+      "bid": 422,
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": 949000,
+      "ask": 901550,
       "bid": -1,
       "vendor": 30960
     },
@@ -2087,7 +2087,7 @@
     },
     "Vampirism": {
       "ask": 749999,
-      "bid": 250201,
+      "bid": 250205,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2227,11 +2227,11 @@
     },
     "Wisdom Coffee": {
       "ask": 1218,
-      "bid": 811,
+      "bid": 813,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1146,
+      "ask": 1400,
       "bid": 711,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668771003.42424
+  "time": 1668771902.976899
 }
