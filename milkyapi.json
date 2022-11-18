@@ -36,7 +36,7 @@
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 237500,
+      "ask": 200000,
       "bid": 95000,
       "vendor": 80190
     },
@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 591,
-      "bid": 302,
+      "bid": 380,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 438,
-      "bid": 360,
+      "bid": 338,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 357,
+      "ask": 359,
       "bid": 213,
       "vendor": 6
     },
@@ -816,8 +816,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1798,
-      "bid": 1267,
+      "ask": 1799,
+      "bid": 1330,
       "vendor": 50
     },
     "Egg": {
@@ -946,7 +946,7 @@
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": 624,
+      "ask": 599,
       "bid": 412,
       "vendor": 54
     },
@@ -1177,7 +1177,7 @@
     },
     "Ice Spear": {
       "ask": 149998,
-      "bid": 55142,
+      "bid": 55143,
       "vendor": 1000
     },
     "Icy Cloth": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 278,
-      "bid": 208,
+      "bid": 207,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 148913,
+      "ask": 135000,
       "bid": 78000,
       "vendor": 50000
     },
@@ -1456,8 +1456,8 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 427,
-      "bid": 300,
+      "ask": 406,
+      "bid": 2,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1631,7 +1631,7 @@
       "vendor": 27
     },
     "Redwood Bow": {
-      "ask": 121867,
+      "ask": 115774,
       "bid": 47405,
       "vendor": 35964
     },
@@ -1646,12 +1646,12 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 67,
+      "ask": 70,
       "bid": 40,
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 678,
+      "ask": 644,
       "bid": 332,
       "vendor": 81
     },
@@ -1837,7 +1837,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 421,
-      "bid": 366,
+      "bid": 370,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 4996,
+      "ask": 4990,
       "bid": 1061,
       "vendor": 75
     },
@@ -1941,7 +1941,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1200,
+      "ask": 1199,
       "bid": 960,
       "vendor": 40
     },
@@ -2241,7 +2241,7 @@
       "vendor": 10
     },
     "Wooden Bow": {
-      "ask": 5500,
+      "ask": 3500,
       "bid": -1,
       "vendor": 144
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668783603.119657
+  "time": 1668784502.894552
 }
