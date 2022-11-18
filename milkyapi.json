@@ -86,7 +86,7 @@
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": 5000,
+      "ask": -1,
       "bid": 1350,
       "vendor": 1296
     },
@@ -371,7 +371,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 420,
+      "ask": 419,
       "bid": 344,
       "vendor": 36
     },
@@ -521,7 +521,7 @@
       "vendor": 84
     },
     "Cheese Buckler": {
-      "ask": 2256,
+      "ask": 2143,
       "bid": 216,
       "vendor": 72
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 147,
+      "ask": 129,
       "bid": 72,
       "vendor": 24
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 34,
+      "ask": 35,
       "bid": 8,
       "vendor": 2
     },
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 35,
+      "ask": 34,
       "bid": 24,
       "vendor": 18
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 733,
+      "ask": 732,
       "bid": 523,
       "vendor": 50
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 48997,
+      "ask": 48996,
       "bid": 16501,
       "vendor": 1000
     },
@@ -882,7 +882,7 @@
     },
     "Flaming Cloth": {
       "ask": 773766,
-      "bid": 265026,
+      "bid": 265028,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -917,7 +917,7 @@
     },
     "Gator Vest": {
       "ask": 26000,
-      "bid": 10000,
+      "bid": 10500,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 169,
+      "ask": 183,
       "bid": 32,
       "vendor": 18
     },
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 30,
+      "ask": 29,
       "bid": 13,
       "vendor": 2
     },
@@ -1296,7 +1296,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 427,
+      "ask": 406,
       "bid": 373,
       "vendor": 50
     },
@@ -1311,8 +1311,8 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 14,
-      "bid": 12,
+      "ask": 34,
+      "bid": 13,
       "vendor": 2
     },
     "Milking Tea": {
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 5699,
+      "ask": 5554,
       "bid": 5515,
       "vendor": 1000
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 67661,
+      "ask": 50000,
       "bid": 25007,
       "vendor": 1000
     },
@@ -1706,7 +1706,7 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 5000,
+      "ask": 4999,
       "bid": 1001,
       "vendor": 48
     },
@@ -1726,12 +1726,12 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 13503,
+      "ask": 7000,
       "bid": 60,
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 438,
+      "ask": 436,
       "bid": 323,
       "vendor": 6
     },
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 657,
-      "bid": 470,
+      "bid": 471,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1781,8 +1781,8 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 50000,
-      "bid": 17000,
+      "ask": 47500,
+      "bid": 25000,
       "vendor": 5000
     },
     "Snail Shell": {
@@ -1802,7 +1802,7 @@
     },
     "Snake Fang Dirk": {
       "ask": 9899,
-      "bid": 3003,
+      "bid": 3311,
       "vendor": 2000
     },
     "Sorcerer Boots": {
@@ -1857,7 +1857,7 @@
     },
     "Stamina Coffee": {
       "ask": 294,
-      "bid": 146,
+      "bid": 138,
       "vendor": 10
     },
     "Star Fruit": {
@@ -1911,7 +1911,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1268,
+      "ask": 1266,
       "bid": 531,
       "vendor": 75
     },
@@ -2066,12 +2066,12 @@
       "vendor": 30960
     },
     "Umbral Leather": {
-      "ask": 2000,
+      "ask": -1,
       "bid": 1103,
       "vendor": 144
     },
     "Umbral Tunic": {
-      "ask": 1000000,
+      "ask": 600000,
       "bid": 60000,
       "vendor": 49536
     },
@@ -2196,7 +2196,7 @@
       "vendor": 540
     },
     "Vision Helmet": {
-      "ask": 239484,
+      "ask": 195062,
       "bid": 4,
       "vendor": 20000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668811503.165351
+  "time": 1668812402.2775254
 }
