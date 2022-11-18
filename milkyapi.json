@@ -31,7 +31,7 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": 999998,
+      "ask": 999999,
       "bid": 115000,
       "vendor": 106920
     },
@@ -41,13 +41,13 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 1980038,
+      "ask": 1980000,
       "bid": 700017,
       "vendor": 80190
     },
     "Arcane Log": {
       "ask": 660,
-      "bid": 2,
+      "bid": 90,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -226,12 +226,12 @@
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 62487,
+      "ask": 65776,
       "bid": -1,
       "vendor": 7200
     },
     "Beast Chaps": {
-      "ask": 326808,
+      "ask": 344008,
       "bid": 16000,
       "vendor": 12600
     },
@@ -241,7 +241,7 @@
       "vendor": 24
     },
     "Beast Hood": {
-      "ask": 169023,
+      "ask": 177919,
       "bid": -1,
       "vendor": 9000
     },
@@ -251,7 +251,7 @@
       "vendor": 72
     },
     "Beast Tunic": {
-      "ask": 321788,
+      "ask": 338724,
       "bid": 50147,
       "vendor": 14400
     },
@@ -632,7 +632,7 @@
     },
     "Cotton": {
       "ask": 51,
-      "bid": 7,
+      "bid": 8,
       "vendor": 2
     },
     "Cotton Boots": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 25994,
+      "ask": 24999,
       "bid": 5003,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 660248,
+      "ask": 599999,
       "bid": 260001,
       "vendor": 1000
     },
@@ -931,7 +931,7 @@
       "vendor": 15552
     },
     "Ginkgo Crossbow": {
-      "ask": 252688,
+      "ask": 252689,
       "bid": 13000,
       "vendor": 11664
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 174999,
+      "ask": 149999,
       "bid": 50008,
       "vendor": 1000
     },
@@ -1206,7 +1206,7 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 1604575,
+      "ask": 1604574,
       "bid": 500001,
       "vendor": 500000
     },
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 688,
+      "ask": 687,
       "bid": 481,
       "vendor": 18
     },
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 46,
+      "ask": 54,
       "bid": 7,
       "vendor": 2
     },
@@ -1812,7 +1812,7 @@
     },
     "Sorcerer Essence": {
       "ask": 436,
-      "bid": 252,
+      "bid": 251,
       "vendor": 36
     },
     "Sorcerer's Sole": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668750303.0347738
+  "time": 1668751202.6662614
 }
