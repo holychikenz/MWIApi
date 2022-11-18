@@ -86,7 +86,7 @@
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": -1,
+      "ask": 5000,
       "bid": 1350,
       "vendor": 1296
     },
@@ -126,7 +126,7 @@
       "vendor": 1512
     },
     "Azure Helmet": {
-      "ask": -1,
+      "ask": 5000,
       "bid": 3604,
       "vendor": 1080
     },
@@ -151,7 +151,7 @@
       "vendor": 1728
     },
     "Azure Plate Legs": {
-      "ask": -1,
+      "ask": 5000,
       "bid": -1,
       "vendor": 1512
     },
@@ -176,7 +176,7 @@
       "vendor": 1944
     },
     "Azure Sword": {
-      "ask": -1,
+      "ask": 5000,
       "bid": 1874,
       "vendor": 1944
     },
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 230,
-      "bid": 174,
+      "bid": 175,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -571,7 +571,7 @@
       "vendor": 84
     },
     "Cheese Plate Body": {
-      "ask": 2500,
+      "ask": 3609,
       "bid": 321,
       "vendor": 96
     },
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 325,
-      "bid": 253,
+      "bid": 251,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 99,
+      "ask": 169,
       "bid": 40,
       "vendor": 12
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 439,
+      "ask": 438,
       "bid": 323,
       "vendor": 6
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 70000,
+      "ask": 69999,
       "bid": 41002,
       "vendor": 3000
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 26999,
+      "ask": 22000,
       "bid": 2715,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668807002.9934356
+  "time": 1668807903.2164412
 }
