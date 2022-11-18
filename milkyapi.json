@@ -41,7 +41,7 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 2000000,
+      "ask": 1995000,
       "bid": 700017,
       "vendor": 80190
     },
@@ -82,7 +82,7 @@
     },
     "Azure Brush": {
       "ask": 30000,
-      "bid": 2500,
+      "bid": 1160,
       "vendor": 1512
     },
     "Azure Buckler": {
@@ -101,13 +101,13 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 15000,
-      "bid": 2500,
+      "ask": 45000,
+      "bid": -1,
       "vendor": 1512
     },
     "Azure Enhancer": {
-      "ask": 15000,
-      "bid": 2500,
+      "ask": 16599,
+      "bid": 1800,
       "vendor": 1512
     },
     "Azure Gauntlets": {
@@ -116,13 +116,13 @@
       "vendor": 864
     },
     "Azure Hammer": {
-      "ask": 15000,
-      "bid": 2500,
+      "ask": 17743,
+      "bid": 1435,
       "vendor": 1512
     },
     "Azure Hatchet": {
       "ask": 10000,
-      "bid": 2500,
+      "bid": -1,
       "vendor": 1512
     },
     "Azure Helmet": {
@@ -136,13 +136,13 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 41,
+      "ask": 59,
       "bid": 27,
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 15000,
-      "bid": 2500,
+      "ask": 45000,
+      "bid": -1,
       "vendor": 1512
     },
     "Azure Plate Body": {
@@ -157,16 +157,16 @@
     },
     "Azure Pot": {
       "ask": 11000,
-      "bid": 2500,
+      "bid": 1155,
       "vendor": 1512
     },
     "Azure Shears": {
       "ask": -1,
-      "bid": 2500,
+      "bid": -1,
       "vendor": 1512
     },
     "Azure Spatula": {
-      "ask": 14000,
+      "ask": 45000,
       "bid": 3000,
       "vendor": 1512
     },
@@ -256,7 +256,7 @@
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 240000,
+      "ask": 239999,
       "bid": 170016,
       "vendor": 1000
     },
@@ -356,7 +356,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 75000,
+      "ask": 60000,
       "bid": 4000,
       "vendor": 3780
     },
@@ -381,7 +381,7 @@
       "vendor": 3780
     },
     "Burble Enhancer": {
-      "ask": 25000,
+      "ask": 60000,
       "bid": 3008,
       "vendor": 3780
     },
@@ -391,7 +391,7 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": 25000,
+      "ask": 60000,
       "bid": 105,
       "vendor": 3780
     },
@@ -502,7 +502,7 @@
     },
     "Centaur Hoof": {
       "ask": 184000,
-      "bid": 110260,
+      "bid": 110261,
       "vendor": 3000
     },
     "Cheese": {
@@ -802,7 +802,7 @@
     },
     "Dragon Fruit": {
       "ask": 98,
-      "bid": 52,
+      "bid": 55,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -811,8 +811,8 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 543,
-      "bid": 415,
+      "ask": 545,
+      "bid": 440,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 88,
+      "ask": 89,
       "bid": 28,
       "vendor": 18
     },
@@ -981,7 +981,7 @@
       "vendor": 3276
     },
     "Gobo Essence": {
-      "ask": 37,
+      "ask": 36,
       "bid": 10,
       "vendor": 24
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 500,
+      "ask": 499,
       "bid": 439,
       "vendor": 36
     },
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 431,
+      "ask": 429,
       "bid": 228,
       "vendor": 12
     },
@@ -1287,7 +1287,7 @@
     },
     "Maim": {
       "ask": 286214,
-      "bid": 150041,
+      "bid": 150044,
       "vendor": 1000
     },
     "Marsberry": {
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 190000,
+      "ask": 180000,
       "bid": 78000,
       "vendor": 50000
     },
@@ -1632,7 +1632,7 @@
     },
     "Redwood Bow": {
       "ask": 135374,
-      "bid": 39000,
+      "bid": 45148,
       "vendor": 35964
     },
     "Redwood Crossbow": {
@@ -1647,7 +1647,7 @@
     },
     "Redwood Log": {
       "ask": 75,
-      "bid": 35,
+      "bid": 40,
       "vendor": 27
     },
     "Redwood Lumber": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 209,
-      "bid": 55,
+      "bid": 3,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 935,
+      "ask": 934,
       "bid": 763,
       "vendor": 75
     },
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 206,
-      "bid": 46,
+      "bid": 49,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1871,8 +1871,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 939,
-      "bid": 791,
+      "ask": 936,
+      "bid": 792,
       "vendor": 75
     },
     "Strawberry": {
@@ -1901,8 +1901,8 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 659,
-      "bid": 536,
+      "ask": 656,
+      "bid": 535,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1961,8 +1961,8 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1121,
-      "bid": 674,
+      "ask": 1119,
+      "bid": 675,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 995,
+      "ask": 991,
       "bid": 805,
       "vendor": 50
     },
@@ -2006,7 +2006,7 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 7250000,
+      "ask": 7249999,
       "bid": 3500000,
       "vendor": 100000
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 624966,
+      "ask": 624963,
       "bid": 350003,
       "vendor": 1000
     },
@@ -2156,7 +2156,7 @@
       "vendor": 4
     },
     "Verdant Needle": {
-      "ask": 24998,
+      "ask": 24995,
       "bid": -1,
       "vendor": 420
     },
@@ -2181,7 +2181,7 @@
       "vendor": 420
     },
     "Verdant Spatula": {
-      "ask": 4500,
+      "ask": 25000,
       "bid": 3000,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668730502.6141012
+  "time": 1668731403.7185526
 }
