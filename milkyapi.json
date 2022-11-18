@@ -21,7 +21,7 @@
       "vendor": 1000
     },
     "Aqua Essence": {
-      "ask": 19,
+      "ask": 18,
       "bid": 17,
       "vendor": 16
     },
@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 2999,
-      "bid": 2101,
+      "bid": 2100,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -237,7 +237,7 @@
     },
     "Beast Hide": {
       "ask": 397,
-      "bid": 280,
+      "bid": 281,
       "vendor": 24
     },
     "Beast Hood": {
@@ -812,11 +812,11 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 545,
-      "bid": 434,
+      "bid": 440,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1799,
+      "ask": 1798,
       "bid": 1257,
       "vendor": 50
     },
@@ -1182,7 +1182,7 @@
     },
     "Icy Cloth": {
       "ask": 1499999,
-      "bid": 700019,
+      "bid": 700020,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1411,8 +1411,8 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 7500,
-      "bid": 5516,
+      "ask": 7595,
+      "bid": 7500,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -1492,7 +1492,7 @@
     },
     "Radiant Gloves": {
       "ask": 850247,
-      "bid": 250000,
+      "bid": -1,
       "vendor": 24768
     },
     "Radiant Hat": {
@@ -1502,12 +1502,12 @@
     },
     "Radiant Robe Bottoms": {
       "ask": 1488691,
-      "bid": 235000,
+      "bid": 65000,
       "vendor": 43344
     },
     "Radiant Robe Top": {
       "ask": 999997,
-      "bid": 500000,
+      "bid": 65000,
       "vendor": 49536
     },
     "Rain Of Arrows": {
@@ -1536,7 +1536,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 540,
+      "ask": 535,
       "bid": 282,
       "vendor": 81
     },
@@ -1632,7 +1632,7 @@
     },
     "Redwood Bow": {
       "ask": 135374,
-      "bid": 45148,
+      "bid": 47405,
       "vendor": 35964
     },
     "Redwood Crossbow": {
@@ -1641,7 +1641,7 @@
       "vendor": 26973
     },
     "Redwood Fire Staff": {
-      "ask": 232183,
+      "ask": 200000,
       "bid": 100000,
       "vendor": 26973
     },
@@ -1656,7 +1656,7 @@
       "vendor": 81
     },
     "Redwood Nature Staff": {
-      "ask": 367527,
+      "ask": 200000,
       "bid": -1,
       "vendor": 26973
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 3794,
+      "ask": 3798,
       "bid": 1003,
       "vendor": 1000
     },
@@ -1786,7 +1786,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 117166,
+      "ask": 95433,
       "bid": 5251,
       "vendor": 1500
     },
@@ -1806,7 +1806,7 @@
       "vendor": 2000
     },
     "Sorcerer Boots": {
-      "ask": 1499994,
+      "ask": 1499993,
       "bid": 200000,
       "vendor": 50000
     },
@@ -1872,11 +1872,11 @@
     },
     "Star Fruit Yogurt": {
       "ask": 935,
-      "bid": 795,
+      "bid": 802,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 25,
+      "ask": 24,
       "bid": 21,
       "vendor": 6
     },
@@ -1892,7 +1892,7 @@
     },
     "Stunning Blow": {
       "ask": 307990,
-      "bid": 200008,
+      "bid": 200009,
       "vendor": 1000
     },
     "Sugar": {
@@ -1992,7 +1992,7 @@
     },
     "Swiftness Coffee": {
       "ask": 985,
-      "bid": 805,
+      "bid": 804,
       "vendor": 50
     },
     "Tailoring Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668745803.5856302
+  "time": 1668746704.0415163
 }
