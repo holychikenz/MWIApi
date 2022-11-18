@@ -347,7 +347,7 @@
     },
     "Brewing Tea": {
       "ask": 180,
-      "bid": 36,
+      "bid": 30,
       "vendor": 20
     },
     "Burble Boots": {
@@ -476,12 +476,12 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 169,
+      "ask": 168,
       "bid": 24,
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 433,
+      "ask": 432,
       "bid": 310,
       "vendor": 24
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 732,
+      "ask": 731,
       "bid": 523,
       "vendor": 50
     },
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 14,
+      "ask": 22,
       "bid": 8,
       "vendor": 1
     },
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 198,
+      "ask": 199,
       "bid": 144,
       "vendor": 27
     },
@@ -882,7 +882,7 @@
     },
     "Flaming Cloth": {
       "ask": 773766,
-      "bid": 265028,
+      "bid": 265029,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 276,
+      "ask": 275,
       "bid": 207,
       "vendor": 6
     },
@@ -1326,7 +1326,7 @@
       "vendor": 1000
     },
     "Mooberry": {
-      "ask": 27,
+      "ask": 28,
       "bid": 23,
       "vendor": 9
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 48,
+      "ask": 49,
       "bid": 15,
       "vendor": 6
     },
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 399,
+      "ask": 398,
       "bid": 200,
       "vendor": 36
     },
@@ -1782,7 +1782,7 @@
     },
     "Small Pouch": {
       "ask": 47500,
-      "bid": 25000,
+      "bid": 30000,
       "vendor": 5000
     },
     "Snail Shell": {
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 966,
+      "ask": 964,
       "bid": 803,
       "vendor": 50
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 624966,
-      "bid": 356007,
+      "bid": 360000,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 321,
-      "bid": 235,
+      "bid": 236,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 13,
+      "ask": 15,
       "bid": 10,
       "vendor": 1
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668812402.2775254
+  "time": 1668813302.6347544
 }
