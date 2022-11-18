@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 38,
+      "ask": 25,
       "bid": 8,
       "vendor": 2
     },
@@ -27,7 +27,7 @@
     },
     "Arabica Coffee Bean": {
       "ask": 121,
-      "bid": 61,
+      "bid": 64,
       "vendor": 4
     },
     "Arcane Bow": {
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 989,
-      "bid": 215,
+      "bid": 216,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -276,7 +276,7 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 134,
+      "ask": 100,
       "bid": 27,
       "vendor": 4
     },
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 295,
+      "ask": 200,
       "bid": 155,
       "vendor": 6
     },
@@ -566,17 +566,17 @@
       "vendor": 108
     },
     "Cheese Needle": {
-      "ask": 3399,
+      "ask": 2999,
       "bid": -1,
       "vendor": 84
     },
     "Cheese Plate Body": {
-      "ask": 3609,
+      "ask": 2500,
       "bid": 321,
       "vendor": 96
     },
     "Cheese Plate Legs": {
-      "ask": 3500,
+      "ask": 1200,
       "bid": 279,
       "vendor": 84
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 149,
+      "ask": 124,
       "bid": 72,
       "vendor": 24
     },
@@ -636,7 +636,7 @@
       "vendor": 2
     },
     "Cotton Boots": {
-      "ask": 2375,
+      "ask": 2000,
       "bid": 1000,
       "vendor": 48
     },
@@ -821,12 +821,12 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 15,
+      "ask": 13,
       "bid": 8,
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 999995,
+      "ask": 999994,
       "bid": 341810,
       "vendor": 1000
     },
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 199,
+      "ask": 198,
       "bid": 144,
       "vendor": 27
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 541496,
+      "ask": 541495,
       "bid": 278250,
       "vendor": 1000
     },
@@ -901,7 +901,7 @@
       "vendor": 6
     },
     "Foraging Tea": {
-      "ask": 602,
+      "ask": 601,
       "bid": 211,
       "vendor": 10
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 71,
+      "ask": 67,
       "bid": 62,
       "vendor": 4
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 135373,
+      "ask": 135372,
       "bid": 55146,
       "vendor": 1000
     },
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 684,
+      "ask": 600,
       "bid": 501,
       "vendor": 18
     },
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 55542,
+      "ask": 55543,
       "bid": 50016,
       "vendor": 1000
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 7213,
+      "ask": 6852,
       "bid": 5515,
       "vendor": 1000
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 94998,
+      "ask": 94997,
       "bid": 41000,
       "vendor": 3000
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 624966,
-      "bid": 355003,
+      "bid": 356000,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 980,
-      "bid": 703,
+      "bid": 705,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2207,7 +2207,7 @@
     },
     "Water Strike": {
       "ask": 27002,
-      "bid": 2711,
+      "bid": 2712,
       "vendor": 1000
     },
     "Werewolf Claw": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668789003.143797
+  "time": 1668789903.6424465
 }
