@@ -41,13 +41,13 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 1985000,
+      "ask": 1980038,
       "bid": 700017,
       "vendor": 80190
     },
     "Arcane Log": {
       "ask": 660,
-      "bid": 409,
+      "bid": 2,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 45000,
+      "ask": 99000,
       "bid": -1,
       "vendor": 1512
     },
@@ -141,7 +141,7 @@
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 45000,
+      "ask": 147999,
       "bid": -1,
       "vendor": 1512
     },
@@ -166,7 +166,7 @@
       "vendor": 1512
     },
     "Azure Spatula": {
-      "ask": 45000,
+      "ask": -1,
       "bid": 3000,
       "vendor": 1512
     },
@@ -356,7 +356,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 60000,
+      "ask": 145000,
       "bid": 4000,
       "vendor": 3780
     },
@@ -381,7 +381,7 @@
       "vendor": 3780
     },
     "Burble Enhancer": {
-      "ask": 60000,
+      "ask": -1,
       "bid": 3008,
       "vendor": 3780
     },
@@ -391,7 +391,7 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": 60000,
+      "ask": -1,
       "bid": 105,
       "vendor": 3780
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 435,
+      "ask": 436,
       "bid": 360,
       "vendor": 24
     },
@@ -516,7 +516,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 3600,
+      "ask": 3500,
       "bid": 310,
       "vendor": 84
     },
@@ -676,7 +676,7 @@
       "vendor": 1500
     },
     "Crafting Tea": {
-      "ask": 2999,
+      "ask": 2998,
       "bid": 350,
       "vendor": 30
     },
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 217,
+      "ask": 200,
       "bid": 151,
       "vendor": 27
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 814502,
+      "ask": 814501,
       "bid": 265015,
       "vendor": 4000
     },
@@ -1302,7 +1302,7 @@
     },
     "Marsberry Donut": {
       "ask": 428,
-      "bid": 331,
+      "bid": 330,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -1621,8 +1621,8 @@
       "vendor": 26973
     },
     "Ranged Coffee": {
-      "ask": 680,
-      "bid": 319,
+      "ask": 681,
+      "bid": 680,
       "vendor": 30
     },
     "Red Tea Leaf": {
@@ -1832,7 +1832,7 @@
     },
     "Spaceberry Donut": {
       "ask": 750,
-      "bid": 688,
+      "bid": 687,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1872,7 +1872,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 935,
-      "bid": 802,
+      "bid": 801,
       "vendor": 75
     },
     "Strawberry": {
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 4997,
+      "ask": 4996,
       "bid": 1061,
       "vendor": 75
     },
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 59,
+      "ask": 60,
       "bid": 34,
       "vendor": 4
     },
@@ -2226,8 +2226,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1000,
-      "bid": 808,
+      "ask": 1216,
+      "bid": 1000,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668749403.7179646
+  "time": 1668750303.0347738
 }
