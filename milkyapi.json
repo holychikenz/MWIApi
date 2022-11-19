@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 270,
-      "bid": 155,
+      "bid": 85,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 33250,
+      "ask": 30000,
       "bid": 25008,
       "vendor": 1000
     },
@@ -2136,7 +2136,7 @@
       "vendor": 420
     },
     "Verdant Hatchet": {
-      "ask": 52641,
+      "ask": 40000,
       "bid": -1,
       "vendor": 420
     },
@@ -2176,7 +2176,7 @@
       "vendor": 420
     },
     "Verdant Shears": {
-      "ask": -1,
+      "ask": 35000,
       "bid": 430,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668832203.0558934
+  "time": 1668833102.8479857
 }
