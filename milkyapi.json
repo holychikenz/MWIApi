@@ -6,7 +6,7 @@
       "vendor": 2
     },
     "Apple Gummy": {
-      "ask": 11,
+      "ask": 12,
       "bid": 9,
       "vendor": 10
     },
@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 431,
-      "bid": 90,
+      "bid": 140,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -126,7 +126,7 @@
       "vendor": 1512
     },
     "Azure Helmet": {
-      "ask": 5000,
+      "ask": -1,
       "bid": 3604,
       "vendor": 1080
     },
@@ -241,7 +241,7 @@
       "vendor": 24
     },
     "Beast Hood": {
-      "ask": 129999,
+      "ask": 129674,
       "bid": -1,
       "vendor": 9000
     },
@@ -496,7 +496,7 @@
       "vendor": 1944
     },
     "Centaur Boots": {
-      "ask": 1990007,
+      "ask": 1985032,
       "bid": -1,
       "vendor": 50000
     },
@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 270,
-      "bid": 85,
+      "bid": 90,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -881,17 +881,17 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 663406,
+      "ask": 661748,
       "bid": 265031,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
-      "ask": 2769320,
+      "ask": 2762397,
       "bid": 140000,
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 1111111,
+      "ask": 2222221,
       "bid": 160000,
       "vendor": 60000
     },
@@ -1292,7 +1292,7 @@
     },
     "Marsberry": {
       "ask": 68,
-      "bid": 56,
+      "bid": 55,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 932,
+      "ask": 935,
       "bid": 772,
       "vendor": 75
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668833102.8479857
+  "time": 1668834002.279691
 }
