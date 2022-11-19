@@ -51,7 +51,7 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 2838,
+      "ask": 2561,
       "bid": 1300,
       "vendor": 162
     },
@@ -61,7 +61,7 @@
       "vendor": 80190
     },
     "Arcane Water Staff": {
-      "ask": 2422969,
+      "ask": 1607448,
       "bid": 95000,
       "vendor": 80190
     },
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 71,
+      "ask": 72,
       "bid": 28,
       "vendor": 8
     },
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 419,
-      "bid": 344,
+      "bid": 345,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 325,
-      "bid": 252,
+      "bid": 253,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -711,7 +711,7 @@
       "vendor": 9072
     },
     "Crimson Enhancer": {
-      "ask": -1,
+      "ask": 200000,
       "bid": 10002,
       "vendor": 9072
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 168,
+      "ask": 249,
       "bid": 32,
       "vendor": 18
     },
@@ -1001,7 +1001,7 @@
       "vendor": 36
     },
     "Gobo Shooter": {
-      "ask": 51773,
+      "ask": 51500,
       "bid": -1,
       "vendor": 20000
     },
@@ -1117,7 +1117,7 @@
     },
     "Holy Hatchet": {
       "ask": 174988,
-      "bid": 120000,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 35104,
+      "ask": 35000,
       "bid": 3514,
       "vendor": 1000
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 300,
+      "ask": 350,
       "bid": 254,
       "vendor": 48
     },
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 3999,
+      "ask": 4498,
       "bid": 1071,
       "vendor": 75
     },
@@ -1987,7 +1987,7 @@
     },
     "Sweep": {
       "ask": 44439,
-      "bid": 10003,
+      "bid": 10002,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668828602.9064267
+  "time": 1668829502.8662505
 }
