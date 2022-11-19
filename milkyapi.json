@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 14,
-      "bid": 8,
+      "bid": 7,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -47,11 +47,11 @@
     },
     "Arcane Log": {
       "ask": 350,
-      "bid": 213,
+      "bid": 214,
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 2190,
+      "ask": 2189,
       "bid": 1503,
       "vendor": 162
     },
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 899,
-      "bid": 300,
+      "bid": 301,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -211,7 +211,7 @@
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 24998,
+      "ask": 24997,
       "bid": 10012,
       "vendor": 3744
     },
@@ -246,7 +246,7 @@
       "vendor": 9000
     },
     "Beast Leather": {
-      "ask": 1481,
+      "ask": 1480,
       "bid": 851,
       "vendor": 72
     },
@@ -282,7 +282,7 @@
     },
     "Birch Lumber": {
       "ask": 543,
-      "bid": 430,
+      "bid": 431,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -576,7 +576,7 @@
       "vendor": 96
     },
     "Cheese Plate Legs": {
-      "ask": 3500,
+      "ask": 4000,
       "bid": 279,
       "vendor": 84
     },
@@ -802,7 +802,7 @@
     },
     "Dragon Fruit": {
       "ask": 100,
-      "bid": 84,
+      "bid": 79,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -1206,13 +1206,13 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 1524339,
+      "ask": 1448122,
       "bid": 500001,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
       "ask": 431,
-      "bid": 237,
+      "bid": 301,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1326,7 +1326,7 @@
       "vendor": 1000
     },
     "Mooberry": {
-      "ask": 28,
+      "ask": 25,
       "bid": 24,
       "vendor": 9
     },
@@ -1397,7 +1397,7 @@
     },
     "Plum": {
       "ask": 48,
-      "bid": 35,
+      "bid": 39,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 579,
+      "ask": 578,
       "bid": 345,
       "vendor": 81
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 349,
+      "ask": 330,
       "bid": 313,
       "vendor": 6
     },
@@ -1831,12 +1831,12 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 745,
+      "ask": 746,
       "bid": 689,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 420,
+      "ask": 421,
       "bid": 340,
       "vendor": 54
     },
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 207,
-      "bid": 137,
+      "bid": 136,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1699,
+      "ask": 1500,
       "bid": 1341,
       "vendor": 75
     },
@@ -1956,7 +1956,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1099,
+      "ask": 1096,
       "bid": 963,
       "vendor": 75
     },
@@ -2011,13 +2011,13 @@
       "vendor": 100000
     },
     "Toughness": {
-      "ask": 61987,
+      "ask": 52000,
       "bid": 17805,
       "vendor": 1000
     },
     "Toxic Pollen": {
       "ask": 729000,
-      "bid": 415000,
+      "bid": 415003,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 974,
-      "bid": 350,
+      "bid": 351,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668891602.957969
+  "time": 1668892503.7785017
 }
