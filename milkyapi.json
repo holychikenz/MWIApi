@@ -427,7 +427,7 @@
     },
     "Burble Plate Legs": {
       "ask": -1,
-      "bid": 1500,
+      "bid": 10000,
       "vendor": 3780
     },
     "Burble Pot": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 46500,
+      "ask": 46499,
       "bid": 21000,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 449997,
+      "ask": 449996,
       "bid": 282500,
       "vendor": 1000
     },
@@ -907,16 +907,16 @@
     },
     "Frenzy": {
       "ask": 229988,
-      "bid": 100008,
+      "bid": 100007,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 520,
+      "ask": 521,
       "bid": 328,
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 26000,
+      "ask": 28880,
       "bid": 11000,
       "vendor": 5000
     },
@@ -1032,7 +1032,7 @@
     },
     "Golem Essence": {
       "ask": 593,
-      "bid": 347,
+      "bid": 312,
       "vendor": 108
     },
     "Gourmet Tea": {
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 247,
+      "ask": 235,
       "bid": 219,
       "vendor": 54
     },
@@ -1246,7 +1246,7 @@
       "vendor": 864
     },
     "Living Granite": {
-      "ask": 1886646,
+      "ask": 1792314,
       "bid": 484000,
       "vendor": 10000
     },
@@ -1281,7 +1281,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 124069,
+      "ask": 117866,
       "bid": 100005,
       "vendor": 10000
     },
@@ -1416,7 +1416,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 55555,
+      "ask": 52777,
       "bid": 50018,
       "vendor": 3000
     },
@@ -1796,7 +1796,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 640,
+      "ask": 608,
       "bid": 110,
       "vendor": 100
     },
@@ -1826,12 +1826,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 979,
-      "bid": 776,
+      "ask": 994,
+      "bid": 777,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 746,
+      "ask": 745,
       "bid": 689,
       "vendor": 75
     },
@@ -1866,7 +1866,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 904,
+      "ask": 905,
       "bid": 545,
       "vendor": 75
     },
@@ -1911,7 +1911,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1266,
+      "ask": 1265,
       "bid": 531,
       "vendor": 75
     },
@@ -2006,7 +2006,7 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 5000000,
+      "ask": 4999999,
       "bid": 2800002,
       "vendor": 100000
     },
@@ -2087,7 +2087,7 @@
     },
     "Vampirism": {
       "ask": 749999,
-      "bid": 250242,
+      "bid": 250243,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2211,7 +2211,7 @@
       "vendor": 1000
     },
     "Werewolf Claw": {
-      "ask": 534694,
+      "ask": 507959,
       "bid": 350000,
       "vendor": 10000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668849304.1593757
+  "time": 1668850202.8931704
 }
