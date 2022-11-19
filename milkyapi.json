@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 2557,
-      "bid": 1500,
+      "bid": 1501,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -236,8 +236,8 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 392,
-      "bid": 281,
+      "ask": 391,
+      "bid": 282,
       "vendor": 24
     },
     "Beast Hood": {
@@ -511,7 +511,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 1950,
+      "ask": -1,
       "bid": -1,
       "vendor": 48
     },
@@ -617,7 +617,7 @@
     },
     "Cocoon": {
       "ask": 205,
-      "bid": 79,
+      "bid": 80,
       "vendor": 24
     },
     "Coin": {
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 349,
+      "ask": 300,
       "bid": 114,
       "vendor": 6
     },
@@ -851,7 +851,7 @@
       "vendor": 18
     },
     "Eyessence": {
-      "ask": 53,
+      "ask": 52,
       "bid": 31,
       "vendor": 36
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 46400,
+      "ask": 46399,
       "bid": 21000,
       "vendor": 1000
     },
@@ -876,17 +876,17 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 541493,
+      "ask": 541492,
       "bid": 296625,
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 597225,
+      "ask": 567364,
       "bid": 265032,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
-      "ask": 2393061,
+      "ask": 2051751,
       "bid": 140000,
       "vendor": 40000
     },
@@ -1202,7 +1202,7 @@
     },
     "Jungle Essence": {
       "ask": 175,
-      "bid": 45,
+      "bid": 100,
       "vendor": 24
     },
     "Large Pouch": {
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 50000,
+      "ask": 47500,
       "bid": 25009,
       "vendor": 1000
     },
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 468,
-      "bid": 400,
+      "bid": 401,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1947,7 +1947,7 @@
     },
     "Super Magic Coffee": {
       "ask": 2000,
-      "bid": 1074,
+      "bid": 1100,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -2232,7 +2232,7 @@
     },
     "Wisdom Tea": {
       "ask": 1144,
-      "bid": 852,
+      "bid": 715,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668863703.5190704
+  "time": 1668864603.0603821
 }
