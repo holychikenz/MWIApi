@@ -81,7 +81,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 30000,
+      "ask": 9500,
       "bid": 1160,
       "vendor": 1512
     },
@@ -181,7 +181,7 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 28972,
+      "ask": 28975,
       "bid": 2500,
       "vendor": 1872
     },
@@ -201,7 +201,7 @@
       "vendor": 1872
     },
     "Bamboo Hat": {
-      "ask": 77000,
+      "ask": 78288,
       "bid": -1,
       "vendor": 2340
     },
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 76,
+      "ask": 74,
       "bid": 28,
       "vendor": 8
     },
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 230,
+      "ask": 224,
       "bid": 171,
       "vendor": 12
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 225,
+      "ask": 240,
       "bid": 72,
       "vendor": 24
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 35,
+      "ask": 34,
       "bid": 8,
       "vendor": 2
     },
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 34,
+      "ask": 33,
       "bid": 24,
       "vendor": 18
     },
@@ -802,17 +802,17 @@
     },
     "Dragon Fruit": {
       "ask": 107,
-      "bid": 73,
+      "bid": 74,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 731,
-      "bid": 523,
+      "ask": 730,
+      "bid": 531,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
       "ask": 543,
-      "bid": 445,
+      "bid": 460,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 488,
+      "ask": 487,
       "bid": 251,
       "vendor": 54
     },
@@ -871,12 +871,12 @@
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 481370,
+      "ask": 481369,
       "bid": 200061,
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 500000,
+      "ask": 541495,
       "bid": 282500,
       "vendor": 1000
     },
@@ -936,7 +936,7 @@
       "vendor": 11664
     },
     "Ginkgo Fire Staff": {
-      "ask": 64998,
+      "ask": 64835,
       "bid": 15000,
       "vendor": 11664
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 241,
+      "ask": 240,
       "bid": 122,
       "vendor": 12
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 67,
+      "ask": 66,
       "bid": 62,
       "vendor": 4
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 1499999,
+      "ask": 1499998,
       "bid": 100003,
       "vendor": 1000
     },
@@ -1201,7 +1201,7 @@
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 197,
+      "ask": 195,
       "bid": 45,
       "vendor": 24
     },
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 420,
+      "ask": 433,
       "bid": 214,
       "vendor": 12
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 38900,
+      "ask": 38897,
       "bid": 3514,
       "vendor": 1000
     },
@@ -1631,7 +1631,7 @@
       "vendor": 27
     },
     "Redwood Bow": {
-      "ask": 109984,
+      "ask": 104485,
       "bid": 47405,
       "vendor": 35964
     },
@@ -1862,12 +1862,12 @@
     },
     "Star Fruit": {
       "ask": 206,
-      "bid": 101,
+      "bid": 110,
       "vendor": 27
     },
     "Star Fruit Gummy": {
       "ask": 904,
-      "bid": 526,
+      "bid": 527,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
@@ -1941,13 +1941,13 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1199,
+      "ask": 1200,
       "bid": 960,
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 4734,
-      "bid": 1017,
+      "ask": 4733,
+      "bid": 1018,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -1991,8 +1991,8 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 964,
-      "bid": 803,
+      "ask": 963,
+      "bid": 804,
       "vendor": 50
     },
     "Tailoring Tea": {
@@ -2226,8 +2226,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1211,
-      "bid": 833,
+      "ask": 1210,
+      "bid": 834,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668816902.920223
+  "time": 1668817802.2516356
 }
