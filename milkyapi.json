@@ -36,7 +36,7 @@
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 200000,
+      "ask": 199999,
       "bid": 95000,
       "vendor": 80190
     },
@@ -46,12 +46,12 @@
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 454,
-      "bid": 351,
+      "ask": 431,
+      "bid": 90,
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 2561,
+      "ask": 2560,
       "bid": 1300,
       "vendor": 162
     },
@@ -61,7 +61,7 @@
       "vendor": 80190
     },
     "Arcane Water Staff": {
-      "ask": 1607448,
+      "ask": 1607444,
       "bid": 95000,
       "vendor": 80190
     },
@@ -121,7 +121,7 @@
       "vendor": 1512
     },
     "Azure Hatchet": {
-      "ask": 9998,
+      "ask": 30000,
       "bid": -1,
       "vendor": 1512
     },
@@ -706,7 +706,7 @@
       "vendor": 54
     },
     "Crimson Chisel": {
-      "ask": 132974,
+      "ask": 132970,
       "bid": -1,
       "vendor": 9072
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 999991,
+      "ask": 999989,
       "bid": 358904,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 450000,
+      "ask": 449999,
       "bid": 282500,
       "vendor": 1000
     },
@@ -886,7 +886,7 @@
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
-      "ask": 2915074,
+      "ask": 2769320,
       "bid": 140000,
       "vendor": 40000
     },
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 249,
-      "bid": 33,
+      "bid": 34,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -1182,7 +1182,7 @@
     },
     "Icy Cloth": {
       "ask": 1999999,
-      "bid": 700020,
+      "bid": 260000,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 37,
-      "bid": 32,
+      "bid": 33,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 60,
-      "bid": 11,
+      "bid": 13,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 670,
+      "ask": 668,
       "bid": 471,
       "vendor": 73
     },
@@ -1771,12 +1771,12 @@
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 101639,
+      "ask": 101640,
       "bid": 18000,
       "vendor": 14400
     },
     "Smack": {
-      "ask": 5200,
+      "ask": 6313,
       "bid": 3816,
       "vendor": 1000
     },
@@ -1801,7 +1801,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 9928,
+      "ask": 9000,
       "bid": 3311,
       "vendor": 2000
     },
@@ -2096,7 +2096,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": -1,
+      "ask": 35000,
       "bid": 750,
       "vendor": 420
     },
@@ -2116,7 +2116,7 @@
       "vendor": 12
     },
     "Verdant Chisel": {
-      "ask": 140594,
+      "ask": 25000,
       "bid": -1,
       "vendor": 420
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1149,
+      "ask": 1150,
       "bid": 850,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668831302.8218355
+  "time": 1668832203.0558934
 }
