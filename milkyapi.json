@@ -151,7 +151,7 @@
       "vendor": 1728
     },
     "Azure Plate Legs": {
-      "ask": 5000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 48986,
+      "ask": 48985,
       "bid": 21000,
       "vendor": 1000
     },
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 60,
-      "bid": 14,
+      "bid": 15,
       "vendor": 2
     },
     "Rough Hood": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668843902.8860319
+  "time": 1668844803.6122417
 }
