@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 350,
-      "bid": 211,
+      "bid": 222,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -162,7 +162,7 @@
     },
     "Azure Shears": {
       "ask": -1,
-      "bid": -1,
+      "bid": 10000,
       "vendor": 1512
     },
     "Azure Spatula": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 99996,
+      "ask": 90000,
       "bid": 9009,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 32294,
+      "ask": 32293,
       "bid": 22100,
       "vendor": 1000
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 631748,
+      "ask": 500000,
       "bid": 260045,
       "vendor": 1000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 1199994,
+      "ask": 1100000,
       "bid": 100026,
       "vendor": 1000
     },
@@ -1377,7 +1377,7 @@
     },
     "Peach Gummy": {
       "ask": 236,
-      "bid": 185,
+      "bid": 186,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -1416,7 +1416,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 47631,
+      "ask": 47000,
       "bid": 2,
       "vendor": 3000
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 1199999,
+      "ask": 1199998,
       "bid": 550007,
       "vendor": 1000
     },
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 19994,
+      "ask": 15000,
       "bid": 10032,
       "vendor": 10000
     },
@@ -2136,7 +2136,7 @@
       "vendor": 420
     },
     "Verdant Hatchet": {
-      "ask": 1000,
+      "ask": 38000,
       "bid": -1,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668987003.0704682
+  "time": 1668987903.2343335
 }
