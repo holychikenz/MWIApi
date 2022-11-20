@@ -276,7 +276,7 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 57,
+      "ask": 55,
       "bid": 36,
       "vendor": 4
     },
@@ -331,7 +331,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 15,
+      "ask": 14,
       "bid": 13,
       "vendor": 2
     },
@@ -362,7 +362,7 @@
     },
     "Burble Buckler": {
       "ask": -1,
-      "bid": -1,
+      "bid": 30574,
       "vendor": 3240
     },
     "Burble Bulwark": {
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 50,
-      "bid": 43,
+      "bid": 44,
       "vendor": 12
     },
     "Burble Needle": {
@@ -476,7 +476,7 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 147,
+      "ask": 145,
       "bid": 30,
       "vendor": 8
     },
@@ -491,7 +491,7 @@
       "vendor": 1944
     },
     "Cedar Water Staff": {
-      "ask": 116022,
+      "ask": 110221,
       "bid": 2600,
       "vendor": 1944
     },
@@ -616,8 +616,8 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 179,
-      "bid": 98,
+      "ask": 159,
+      "bid": 100,
       "vendor": 24
     },
     "Coin": {
@@ -801,8 +801,8 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 114,
-      "bid": 82,
+      "ask": 111,
+      "bid": 80,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -962,7 +962,7 @@
     },
     "Gobo Boomstick": {
       "ask": 99555,
-      "bid": -1,
+      "bid": 1000,
       "vendor": 20000
     },
     "Gobo Boots": {
@@ -1002,7 +1002,7 @@
     },
     "Gobo Shooter": {
       "ask": 25718,
-      "bid": 10000,
+      "bid": 1000,
       "vendor": 20000
     },
     "Gobo Slasher": {
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 420,
+      "ask": 419,
       "bid": 309,
       "vendor": 12
     },
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 154756,
+      "ask": 140000,
       "bid": 20168,
       "vendor": 50000
     },
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 42648,
-      "bid": 25017,
+      "bid": 25018,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1487,7 +1487,7 @@
     },
     "Radiant Fiber": {
       "ask": 295,
-      "bid": 63,
+      "bid": 65,
       "vendor": 48
     },
     "Radiant Gloves": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 144,
-      "bid": 31,
+      "bid": 33,
       "vendor": 2
     },
     "Rough Hood": {
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 973,
-      "bid": 380,
+      "bid": 382,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668972603.6750312
+  "time": 1668973503.412085
 }
