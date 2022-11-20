@@ -166,7 +166,7 @@
       "vendor": 1512
     },
     "Azure Spatula": {
-      "ask": -1,
+      "ask": 30000,
       "bid": 3000,
       "vendor": 1512
     },
@@ -321,7 +321,7 @@
       "vendor": 20
     },
     "Blackberry Donut": {
-      "ask": 183,
+      "ask": 170,
       "bid": 56,
       "vendor": 20
     },
@@ -841,12 +841,12 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 180493,
+      "ask": 171468,
       "bid": 9005,
       "vendor": 1000
     },
     "Excelsa Coffee Bean": {
-      "ask": 110,
+      "ask": 115,
       "bid": 101,
       "vendor": 18
     },
@@ -857,7 +857,7 @@
     },
     "Fermenting Tea": {
       "ask": 800,
-      "bid": 400,
+      "bid": 201,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 216,
+      "ask": 215,
       "bid": 121,
       "vendor": 12
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 664998,
+      "ask": 631748,
       "bid": 260043,
       "vendor": 1000
     },
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 265,
+      "ask": 260,
       "bid": 223,
       "vendor": 54
     },
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 154756,
+      "ask": 150000,
       "bid": 20168,
       "vendor": 50000
     },
@@ -1402,7 +1402,7 @@
     },
     "Plum Gummy": {
       "ask": 196,
-      "bid": 90,
+      "bid": 91,
       "vendor": 30
     },
     "Plum Yogurt": {
@@ -1702,7 +1702,7 @@
     },
     "Robusta Coffee Bean": {
       "ask": 188,
-      "bid": 43,
+      "bid": 75,
       "vendor": 8
     },
     "Rough Boots": {
@@ -1781,7 +1781,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 20000,
+      "ask": 19000,
       "bid": 3,
       "vendor": 5000
     },
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 1588,
+      "ask": 1168,
       "bid": 701,
       "vendor": 40
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 729000,
+      "ask": 692550,
       "bid": 415007,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668944706.7345784
+  "time": 1668945605.0557752
 }
