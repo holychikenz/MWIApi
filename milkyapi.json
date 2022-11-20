@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 10,
+      "ask": 13,
       "bid": 7,
       "vendor": 2
     },
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 888,
-      "bid": 551,
+      "bid": 570,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -226,7 +226,7 @@
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 53572,
+      "ask": 56392,
       "bid": -1,
       "vendor": 7200
     },
@@ -291,7 +291,7 @@
       "vendor": 540
     },
     "Birch Water Staff": {
-      "ask": 7600,
+      "ask": 38577,
       "bid": 780,
       "vendor": 540
     },
@@ -801,7 +801,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 115,
+      "ask": 121,
       "bid": 71,
       "vendor": 14
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 36999,
+      "ask": 35000,
       "bid": 22053,
       "vendor": 1000
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 210,
+      "ask": 215,
       "bid": 125,
       "vendor": 12
     },
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 876,
-      "bid": 701,
+      "bid": 600,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 276,
-      "bid": 186,
+      "bid": 200,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1686,7 +1686,7 @@
       "vendor": 6
     },
     "Reptile Hood": {
-      "ask": 27550,
+      "ask": 29000,
       "bid": -1,
       "vendor": 540
     },
@@ -1711,7 +1711,7 @@
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 1900,
+      "ask": 2000,
       "bid": -1,
       "vendor": 48
     },
@@ -1821,7 +1821,7 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 66,
+      "ask": 65,
       "bid": 64,
       "vendor": 27
     },
@@ -2062,7 +2062,7 @@
     },
     "Umbral Hood": {
       "ask": 350000,
-      "bid": 125000,
+      "bid": -1,
       "vendor": 30960
     },
     "Umbral Leather": {
@@ -2072,7 +2072,7 @@
     },
     "Umbral Tunic": {
       "ask": 560000,
-      "bid": 150000,
+      "bid": 60000,
       "vendor": 49536
     },
     "Vampire Fang": {
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1399,
+      "ask": 1300,
       "bid": 1000,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668958203.2765567
+  "time": 1668959103.6342974
 }
