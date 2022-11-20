@@ -51,7 +51,7 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 1900,
+      "ask": 1850,
       "bid": 1578,
       "vendor": 162
     },
@@ -642,7 +642,7 @@
     },
     "Cotton Fabric": {
       "ask": 248,
-      "bid": 120,
+      "bid": 114,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -877,7 +877,7 @@
     },
     "Flame Blast": {
       "ask": 500000,
-      "bid": 200000,
+      "bid": 267349,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 784,
-      "bid": 748,
+      "bid": 744,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1206,7 +1206,7 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 1448122,
+      "ask": 1448121,
       "bid": 500001,
       "vendor": 500000
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 200,
+      "ask": 298,
       "bid": 53,
       "vendor": 48
     },
@@ -1886,7 +1886,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 236,
+      "ask": 248,
       "bid": 101,
       "vendor": 30
     },
@@ -2042,17 +2042,17 @@
     },
     "Umbral Boots": {
       "ask": -1,
-      "bid": -1,
+      "bid": 100000,
       "vendor": 24768
     },
     "Umbral Bracers": {
       "ask": -1,
-      "bid": -1,
+      "bid": 100000,
       "vendor": 24768
     },
     "Umbral Chaps": {
       "ask": 400000,
-      "bid": 60000,
+      "bid": 125000,
       "vendor": 43344
     },
     "Umbral Hide": {
@@ -2062,7 +2062,7 @@
     },
     "Umbral Hood": {
       "ask": 350000,
-      "bid": -1,
+      "bid": 125000,
       "vendor": 30960
     },
     "Umbral Leather": {
@@ -2072,7 +2072,7 @@
     },
     "Umbral Tunic": {
       "ask": 600000,
-      "bid": 60000,
+      "bid": 150000,
       "vendor": 49536
     },
     "Vampire Fang": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668922203.8440561
+  "time": 1668923103.2573695
 }
