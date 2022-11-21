@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 13,
+      "ask": 12,
       "bid": 7,
       "vendor": 2
     },
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 167,
+      "ask": 166,
       "bid": 128,
       "vendor": 12
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 306,
+      "ask": 305,
       "bid": 286,
       "vendor": 24
     },
@@ -257,7 +257,7 @@
     },
     "Berserk": {
       "ask": 322547,
-      "bid": 174999,
+      "bid": 175000,
       "vendor": 1000
     },
     "Birch Bow": {
@@ -351,7 +351,7 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": 14000,
+      "ask": 15000,
       "bid": -1,
       "vendor": 2160
     },
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 415,
-      "bid": 352,
+      "bid": 353,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -386,7 +386,7 @@
       "vendor": 3780
     },
     "Burble Gauntlets": {
-      "ask": 6935,
+      "ask": 25000,
       "bid": -1,
       "vendor": 2160
     },
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 44,
+      "ask": 45,
       "bid": 39,
       "vendor": 12
     },
@@ -612,7 +612,7 @@
     },
     "Cleave": {
       "ask": 176485,
-      "bid": 50008,
+      "bid": 100001,
       "vendor": 1000
     },
     "Cocoon": {
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 285,
-      "bid": 191,
+      "bid": 192,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 34,
+      "ask": 33,
       "bid": 26,
       "vendor": 18
     },
@@ -797,7 +797,7 @@
     },
     "Donut": {
       "ask": 10,
-      "bid": -1,
+      "bid": 7,
       "vendor": 5
     },
     "Dragon Fruit": {
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 669,
+      "ask": 666,
       "bid": 536,
       "vendor": 50
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 776,
-      "bid": 740,
+      "bid": 741,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 260,
+      "ask": 259,
       "bid": 224,
       "vendor": 54
     },
@@ -1351,7 +1351,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 37,
+      "ask": 36,
       "bid": 21,
       "vendor": 20
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 6398,
+      "ask": 6397,
       "bid": 4051,
       "vendor": 1000
     },
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 530,
-      "bid": 316,
+      "bid": 318,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1576,7 +1576,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 31,
+      "ask": 30,
       "bid": 27,
       "vendor": 27
     },
@@ -2002,7 +2002,7 @@
     },
     "Tome Of Healing": {
       "ask": 14997,
-      "bid": 10035,
+      "bid": 10033,
       "vendor": 10000
     },
     "Tome Of The Elements": {
@@ -2012,7 +2012,7 @@
     },
     "Toughness": {
       "ask": 54999,
-      "bid": 20001,
+      "bid": 20002,
       "vendor": 1000
     },
     "Toxic Pollen": {
@@ -2221,8 +2221,8 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 14,
-      "bid": 13,
+      "ask": 13,
+      "bid": 4,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669037403.9180777
+  "time": 1669038303.8812675
 }
