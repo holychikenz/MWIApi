@@ -326,7 +326,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1185,
+      "ask": 1150,
       "bid": 413,
       "vendor": 75
     },
@@ -476,7 +476,7 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 125,
+      "ask": 100,
       "bid": 30,
       "vendor": 8
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 33990,
+      "ask": 33989,
       "bid": 22100,
       "vendor": 1000
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 777,
-      "bid": 732,
+      "bid": 750,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1102,7 +1102,7 @@
     },
     "Holy Enhancer": {
       "ask": 132000,
-      "bid": 105000,
+      "bid": 85001,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -1117,7 +1117,7 @@
     },
     "Holy Hatchet": {
       "ask": 170000,
-      "bid": 100000,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 1199998,
+      "ask": 1199997,
       "bid": 550007,
       "vendor": 1000
     },
@@ -1826,12 +1826,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 924,
-      "bid": 812,
+      "ask": 990,
+      "bid": 813,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 743,
+      "ask": 742,
       "bid": 690,
       "vendor": 75
     },
@@ -1866,13 +1866,13 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 902,
+      "ask": 901,
       "bid": 559,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 918,
-      "bid": 819,
+      "ask": 917,
+      "bid": 820,
       "vendor": 75
     },
     "Strawberry": {
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 985,
+      "ask": 984,
       "bid": 813,
       "vendor": 75
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 970,
-      "bid": 512,
+      "bid": 513,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2227,7 +2227,7 @@
     },
     "Wisdom Coffee": {
       "ask": 1220,
-      "bid": 946,
+      "bid": 949,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669005904.1049552
+  "time": 1669006802.539143
 }
