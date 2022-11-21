@@ -41,8 +41,8 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 847179,
-      "bid": 425000,
+      "ask": 845061,
+      "bid": 6943,
       "vendor": 80190
     },
     "Arcane Log": {
@@ -51,7 +51,7 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": -1,
+      "ask": 2000,
       "bid": 855,
       "vendor": 162
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 302,
+      "ask": 301,
       "bid": 286,
       "vendor": 24
     },
@@ -246,7 +246,7 @@
       "vendor": 9000
     },
     "Beast Leather": {
-      "ask": 1555,
+      "ask": 1554,
       "bid": 505,
       "vendor": 72
     },
@@ -256,7 +256,7 @@
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 322547,
+      "ask": 322545,
       "bid": 175000,
       "vendor": 1000
     },
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 433,
-      "bid": 251,
+      "bid": 253,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -501,7 +501,7 @@
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 118000,
+      "ask": 112100,
       "bid": 36005,
       "vendor": 3000
     },
@@ -511,7 +511,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 100,
+      "ask": -1,
       "bid": -1,
       "vendor": 48
     },
@@ -616,8 +616,8 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 164,
-      "bid": 124,
+      "ask": 156,
+      "bid": 125,
       "vendor": 24
     },
     "Coin": {
@@ -862,7 +862,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 195,
-      "bid": 82,
+      "bid": 81,
       "vendor": 27
     },
     "Fireball": {
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 125,
-      "bid": 21,
+      "bid": 24,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -1011,7 +1011,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 20000,
+      "ask": 23738,
       "bid": 10000,
       "vendor": 20000
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 776,
-      "bid": 741,
+      "bid": 742,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 408,
-      "bid": 307,
+      "bid": 309,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1261,13 +1261,13 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 276,
+      "ask": 262,
       "bid": 141,
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 799,
-      "bid": 500,
+      "ask": 965,
+      "bid": 501,
       "vendor": 30
     },
     "Magnet": {
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 239999,
+      "ask": 399999,
       "bid": 22235,
       "vendor": 50000
     },
@@ -1381,13 +1381,13 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 249,
+      "ask": 250,
       "bid": 160,
       "vendor": 40
     },
     "Pierce": {
       "ask": 51881,
-      "bid": 50016,
+      "bid": 22001,
       "vendor": 1000
     },
     "Pincer Gloves": {
@@ -1486,8 +1486,8 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 250,
-      "bid": 102,
+      "ask": 225,
+      "bid": 103,
       "vendor": 48
     },
     "Radiant Gloves": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 135,
-      "bid": 54,
+      "bid": 55,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 624,
-      "bid": 351,
+      "bid": 350,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 40997,
+      "ask": 38946,
       "bid": 11030,
       "vendor": 1000
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 947,
-      "bid": 518,
+      "bid": 519,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669047304.5505576
+  "time": 1669048202.9810834
 }
