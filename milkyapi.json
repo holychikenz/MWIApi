@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 13,
+      "ask": 12,
       "bid": 7,
       "vendor": 2
     },
@@ -86,7 +86,7 @@
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": 6000,
+      "ask": -1,
       "bid": 1350,
       "vendor": 1296
     },
@@ -151,7 +151,7 @@
       "vendor": 1728
     },
     "Azure Plate Legs": {
-      "ask": 30000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -191,8 +191,8 @@
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 874,
-      "bid": 300,
+      "ask": 873,
+      "bid": 301,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -297,7 +297,7 @@
     },
     "Black Bear Fluff": {
       "ask": 12628,
-      "bid": 5116,
+      "bid": 5119,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -396,7 +396,7 @@
       "vendor": 3780
     },
     "Burble Hatchet": {
-      "ask": 74000,
+      "ask": 70000,
       "bid": 3780,
       "vendor": 3780
     },
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 45,
+      "ask": 44,
       "bid": 39,
       "vendor": 12
     },
@@ -642,7 +642,7 @@
     },
     "Cotton Fabric": {
       "ask": 199,
-      "bid": 130,
+      "bid": 131,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 285,
-      "bid": 200,
+      "bid": 201,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 72475,
+      "ask": 72472,
       "bid": 9009,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 32997,
+      "ask": 32996,
       "bid": 11501,
       "vendor": 1000
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 94571,
+      "ask": 75000,
       "bid": 1000,
       "vendor": 20000
     },
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 828,
-      "bid": 500,
+      "bid": 501,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1287,7 +1287,7 @@
     },
     "Maim": {
       "ask": 286214,
-      "bid": 150141,
+      "bid": 150145,
       "vendor": 1000
     },
     "Marsberry": {
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 197513,
+      "ask": 239999,
       "bid": 55000,
       "vendor": 50000
     },
@@ -1316,7 +1316,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 320,
+      "ask": 321,
       "bid": 171,
       "vendor": 10
     },
@@ -1342,7 +1342,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 44,
-      "bid": 35,
+      "bid": 36,
       "vendor": 18
     },
     "Orange": {
@@ -1377,16 +1377,16 @@
     },
     "Peach Gummy": {
       "ask": 236,
-      "bid": 203,
+      "bid": 201,
       "vendor": 40
     },
     "Peach Yogurt": {
       "ask": 249,
-      "bid": 154,
+      "bid": 155,
       "vendor": 40
     },
     "Pierce": {
-      "ask": 51886,
+      "ask": 51883,
       "bid": 50016,
       "vendor": 1000
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 1139993,
+      "ask": 1139992,
       "bid": 550007,
       "vendor": 1000
     },
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 530,
-      "bid": 319,
+      "bid": 320,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1626,8 +1626,8 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 465,
-      "bid": 309,
+      "ask": 464,
+      "bid": 311,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1751,8 +1751,8 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 629,
-      "bid": 300,
+      "ask": 628,
+      "bid": 301,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1826,8 +1826,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 987,
-      "bid": 810,
+      "ask": 989,
+      "bid": 813,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1867,11 +1867,11 @@
     },
     "Star Fruit Gummy": {
       "ask": 900,
-      "bid": 580,
+      "bid": 586,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 916,
+      "ask": 913,
       "bid": 846,
       "vendor": 75
     },
@@ -1941,12 +1941,12 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1046,
+      "ask": 1045,
       "bid": 960,
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1695,
+      "ask": 1696,
       "bid": 1301,
       "vendor": 75
     },
@@ -1957,7 +1957,7 @@
     },
     "Super Power Coffee": {
       "ask": 1099,
-      "bid": 969,
+      "bid": 970,
       "vendor": 75
     },
     "Super Ranged Coffee": {
@@ -2002,7 +2002,7 @@
     },
     "Tome Of Healing": {
       "ask": 14997,
-      "bid": 10033,
+      "bid": 10035,
       "vendor": 10000
     },
     "Tome Of The Elements": {
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 657922,
-      "bid": 368006,
+      "bid": 368009,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2086,8 +2086,8 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 749989,
-      "bid": 300008,
+      "ask": 749985,
+      "bid": 300012,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2227,7 +2227,7 @@
     },
     "Wisdom Coffee": {
       "ask": 1220,
-      "bid": 954,
+      "bid": 957,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669039203.2127478
+  "time": 1669040104.4987898
 }
