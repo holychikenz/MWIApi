@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 879,
-      "bid": 571,
+      "bid": 219,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -356,7 +356,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 59850,
+      "ask": 60000,
       "bid": 4200,
       "vendor": 3780
     },
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 50,
-      "bid": 46,
+      "bid": 45,
       "vendor": 12
     },
     "Burble Needle": {
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 433,
-      "bid": 350,
+      "bid": 3,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -641,8 +641,8 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 199,
-      "bid": 141,
+      "ask": 196,
+      "bid": 114,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 41,
+      "ask": 39,
       "bid": 8,
       "vendor": 1
     },
@@ -856,7 +856,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 800,
+      "ask": 825,
       "bid": 201,
       "vendor": 40
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 32293,
+      "ask": 33997,
       "bid": 22100,
       "vendor": 1000
     },
@@ -877,7 +877,7 @@
     },
     "Flame Blast": {
       "ask": 514403,
-      "bid": 200001,
+      "bid": 250001,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -1042,7 +1042,7 @@
     },
     "Granite Bludgeon": {
       "ask": -1,
-      "bid": 4000000,
+      "bid": 12000000,
       "vendor": 400000
     },
     "Green Tea Leaf": {
@@ -1077,7 +1077,7 @@
     },
     "Holy Brush": {
       "ask": -1,
-      "bid": 100,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -1097,12 +1097,12 @@
     },
     "Holy Chisel": {
       "ask": 200000,
-      "bid": -1,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Enhancer": {
       "ask": 132000,
-      "bid": 85001,
+      "bid": 105000,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -1112,12 +1112,12 @@
     },
     "Holy Hammer": {
       "ask": 149500,
-      "bid": 51,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Hatchet": {
       "ask": 170000,
-      "bid": -1,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1137,7 +1137,7 @@
     },
     "Holy Needle": {
       "ask": 148000,
-      "bid": -1,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Plate Body": {
@@ -1152,17 +1152,17 @@
     },
     "Holy Pot": {
       "ask": 150000,
-      "bid": 95000,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Shears": {
       "ask": -1,
-      "bid": 95001,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Spatula": {
       "ask": 129999,
-      "bid": 65555,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Spear": {
@@ -1177,7 +1177,7 @@
     },
     "Ice Spear": {
       "ask": 1100000,
-      "bid": 100027,
+      "bid": 150027,
       "vendor": 1000
     },
     "Icy Cloth": {
@@ -1322,7 +1322,7 @@
     },
     "Minor Heal": {
       "ask": 24896,
-      "bid": 3514,
+      "bid": 10000,
       "vendor": 1000
     },
     "Mooberry": {
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 637,
-      "bid": 263,
+      "bid": 264,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 1587,
+      "ask": 1588,
       "bid": 701,
       "vendor": 40
     },
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 500,
+      "ask": 499,
       "bid": 455,
       "vendor": 40
     },
@@ -2012,12 +2012,12 @@
     },
     "Toughness": {
       "ask": 58881,
-      "bid": 17805,
+      "bid": 20001,
       "vendor": 1000
     },
     "Toxic Pollen": {
       "ask": 729000,
-      "bid": 500000,
+      "bid": 680000,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 14,
+      "ask": 13,
       "bid": 3,
       "vendor": 1
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668995103.3777864
+  "time": 1668996003.199588
 }
