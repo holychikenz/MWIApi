@@ -136,7 +136,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 59,
+      "ask": 58,
       "bid": 50,
       "vendor": 8
     },
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 878,
-      "bid": 223,
+      "bid": 224,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -1077,7 +1077,7 @@
     },
     "Holy Brush": {
       "ask": -1,
-      "bid": 100000,
+      "bid": 100,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -1112,7 +1112,7 @@
     },
     "Holy Hammer": {
       "ask": 149500,
-      "bid": 100000,
+      "bid": 51,
       "vendor": 62370
     },
     "Holy Hatchet": {
@@ -1137,7 +1137,7 @@
     },
     "Holy Needle": {
       "ask": 148000,
-      "bid": 100000,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Plate Body": {
@@ -1152,17 +1152,17 @@
     },
     "Holy Pot": {
       "ask": 150000,
-      "bid": 100000,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Shears": {
       "ask": -1,
-      "bid": 100000,
+      "bid": 95001,
       "vendor": 62370
     },
     "Holy Spatula": {
       "ask": 129999,
-      "bid": 100000,
+      "bid": 65555,
       "vendor": 62370
     },
     "Holy Spear": {
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 32,
+      "ask": 31,
       "bid": 16,
       "vendor": 2
     },
@@ -1406,7 +1406,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 250,
+      "ask": 249,
       "bid": 100,
       "vendor": 30
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 1199997,
+      "ask": 1139997,
       "bid": 550007,
       "vendor": 1000
     },
@@ -1732,7 +1732,7 @@
     },
     "Rough Leather": {
       "ask": 457,
-      "bid": 141,
+      "bid": 142,
       "vendor": 6
     },
     "Rough Tunic": {
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 1994,
+      "ask": 1995,
       "bid": -1,
       "vendor": 40
     },
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 61,
+      "ask": 60,
       "bid": 39,
       "vendor": 4
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 999,
+      "ask": 1000,
       "bid": 720,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669017602.9219794
+  "time": 1669018503.784569
 }
