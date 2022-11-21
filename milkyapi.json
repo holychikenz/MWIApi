@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 12,
+      "ask": 13,
       "bid": 7,
       "vendor": 2
     },
@@ -796,7 +796,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 7,
+      "ask": 10,
       "bid": -1,
       "vendor": 5
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 184,
+      "ask": 160,
       "bid": 34,
       "vendor": 18
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 197,
+      "ask": 195,
       "bid": 123,
       "vendor": 12
     },
@@ -1791,7 +1791,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 69420,
+      "ask": 160000,
       "bid": 5250,
       "vendor": 6000
     },
@@ -1967,7 +1967,7 @@
     },
     "Super Stamina Coffee": {
       "ask": 499,
-      "bid": 455,
+      "bid": 454,
       "vendor": 40
     },
     "Super Tailoring Tea": {
@@ -2231,8 +2231,8 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 888,
-      "bid": 720,
+      "ask": 885,
+      "bid": 716,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669030202.928833
+  "time": 1669031103.860662
 }
