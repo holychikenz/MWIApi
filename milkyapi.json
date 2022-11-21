@@ -256,7 +256,7 @@
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 322545,
+      "ask": 300000,
       "bid": 175000,
       "vendor": 1000
     },
@@ -281,7 +281,7 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 532,
+      "ask": 530,
       "bid": 403,
       "vendor": 12
     },
@@ -476,13 +476,13 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 116,
+      "ask": 110,
       "bid": 35,
       "vendor": 8
     },
     "Cedar Lumber": {
       "ask": 433,
-      "bid": 254,
+      "bid": 256,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 154,
+      "ask": 153,
       "bid": 125,
       "vendor": 24
     },
@@ -792,7 +792,7 @@
     },
     "Defense Coffee": {
       "ask": 250,
-      "bid": 185,
+      "bid": 186,
       "vendor": 20
     },
     "Donut": {
@@ -997,12 +997,12 @@
     },
     "Gobo Leather": {
       "ask": 826,
-      "bid": 503,
+      "bid": 551,
       "vendor": 36
     },
     "Gobo Shooter": {
       "ask": 25717,
-      "bid": 1000,
+      "bid": 20000,
       "vendor": 20000
     },
     "Gobo Slasher": {
@@ -1141,7 +1141,7 @@
       "vendor": 62370
     },
     "Holy Plate Body": {
-      "ask": 115000,
+      "ask": 109250,
       "bid": 58111,
       "vendor": 71280
     },
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 408,
-      "bid": 309,
+      "bid": 311,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 93,
+      "ask": 92,
       "bid": 36,
       "vendor": 12
     },
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 42647,
-      "bid": 25021,
+      "bid": 25022,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 1139991,
+      "ask": 1100000,
       "bid": 550007,
       "vendor": 1000
     },
@@ -1631,8 +1631,8 @@
       "vendor": 27
     },
     "Redwood Bow": {
-      "ask": 102405,
-      "bid": 55000,
+      "ask": 102662,
+      "bid": 47405,
       "vendor": 35964
     },
     "Redwood Crossbow": {
@@ -1722,17 +1722,17 @@
     },
     "Rough Hide": {
       "ask": 135,
-      "bid": 57,
+      "bid": 58,
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 2000,
+      "ask": 3500,
       "bid": 60,
       "vendor": 60
     },
     "Rough Leather": {
       "ask": 456,
-      "bid": 201,
+      "bid": 251,
       "vendor": 6
     },
     "Rough Tunic": {
@@ -2042,7 +2042,7 @@
     },
     "Umbral Boots": {
       "ask": -1,
-      "bid": 150000,
+      "bid": -1,
       "vendor": 24768
     },
     "Umbral Bracers": {
@@ -2051,17 +2051,17 @@
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": 400000,
+      "ask": 955584,
       "bid": 170000,
       "vendor": 43344
     },
     "Umbral Hide": {
-      "ask": 947,
-      "bid": 521,
+      "ask": 948,
+      "bid": 522,
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": 350000,
+      "ask": 400000,
       "bid": -1,
       "vendor": 30960
     },
@@ -2246,7 +2246,7 @@
       "vendor": 144
     },
     "Wooden Crossbow": {
-      "ask": 2375,
+      "ask": 1500,
       "bid": 140,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669049104.606372
+  "time": 1669050002.814089
 }
