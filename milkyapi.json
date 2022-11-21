@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 1299,
-      "bid": 853,
+      "bid": 854,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -311,7 +311,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 52,
+      "ask": 53,
       "bid": 16,
       "vendor": 4
     },
@@ -336,7 +336,7 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 190,
+      "ask": 145,
       "bid": 22,
       "vendor": 10
     },
@@ -437,7 +437,7 @@
     },
     "Burble Shears": {
       "ask": 45000,
-      "bid": 38582,
+      "bid": 3528,
       "vendor": 3780
     },
     "Burble Spatula": {
@@ -452,7 +452,7 @@
     },
     "Burble Sword": {
       "ask": 25000,
-      "bid": 10103,
+      "bid": -1,
       "vendor": 4860
     },
     "Burble Tea Leaf": {
@@ -477,7 +477,7 @@
     },
     "Cedar Log": {
       "ask": 118,
-      "bid": 33,
+      "bid": 34,
       "vendor": 8
     },
     "Cedar Lumber": {
@@ -566,12 +566,12 @@
       "vendor": 108
     },
     "Cheese Needle": {
-      "ask": 3399,
+      "ask": 6000,
       "bid": -1,
       "vendor": 84
     },
     "Cheese Plate Body": {
-      "ask": 3609,
+      "ask": 3999,
       "bid": 321,
       "vendor": 96
     },
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 195,
+      "ask": 189,
       "bid": 162,
       "vendor": 27
     },
@@ -942,11 +942,11 @@
     },
     "Ginkgo Log": {
       "ask": 159,
-      "bid": 36,
+      "bid": 37,
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": 397,
+      "ask": 377,
       "bid": 180,
       "vendor": 54
     },
@@ -981,7 +981,7 @@
       "vendor": 3276
     },
     "Gobo Essence": {
-      "ask": 50,
+      "ask": 49,
       "bid": 22,
       "vendor": 24
     },
@@ -1011,7 +1011,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 23738,
+      "ask": 20000,
       "bid": 10000,
       "vendor": 20000
     },
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 45,
+      "ask": 33,
       "bid": 21,
       "vendor": 2
     },
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 328,
+      "ask": 345,
       "bid": 206,
       "vendor": 36
     },
@@ -1487,7 +1487,7 @@
     },
     "Radiant Fiber": {
       "ask": 250,
-      "bid": 100,
+      "bid": 101,
       "vendor": 48
     },
     "Radiant Gloves": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 135,
-      "bid": 52,
+      "bid": 53,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1781,7 +1781,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 75000,
+      "ask": -1,
       "bid": 5500,
       "vendor": 5000
     },
@@ -1821,8 +1821,8 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 71,
-      "bid": 50,
+      "ask": 70,
+      "bid": 51,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1886,7 +1886,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 245,
+      "ask": 244,
       "bid": 101,
       "vendor": 30
     },
@@ -1981,7 +1981,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 11,
+      "ask": 12,
       "bid": 8,
       "vendor": 8
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 949,
-      "bid": 516,
+      "bid": 517,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2121,7 +2121,7 @@
       "vendor": 420
     },
     "Verdant Enhancer": {
-      "ask": 15000,
+      "ask": -1,
       "bid": 1000,
       "vendor": 420
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 25000,
+      "ask": 24938,
       "bid": 2715,
       "vendor": 1000
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 946,
+      "ask": 947,
       "bid": 750,
       "vendor": 30
     },
@@ -2241,7 +2241,7 @@
       "vendor": 10
     },
     "Wooden Bow": {
-      "ask": 1500,
+      "ask": 1200,
       "bid": 300,
       "vendor": 144
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669041904.5313911
+  "time": 1669042804.200895
 }
