@@ -171,7 +171,7 @@
       "vendor": 1512
     },
     "Azure Spear": {
-      "ask": -1,
+      "ask": 15000,
       "bid": 3000,
       "vendor": 1944
     },
@@ -457,11 +457,11 @@
     },
     "Burble Tea Leaf": {
       "ask": 208,
-      "bid": 185,
+      "bid": 187,
       "vendor": 12
     },
     "Cedar Bow": {
-      "ask": 40000,
+      "ask": 27933,
       "bid": 3400,
       "vendor": 2592
     },
@@ -811,7 +811,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 541,
+      "ask": 540,
       "bid": 500,
       "vendor": 50
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 999975,
+      "ask": 999973,
       "bid": 109212,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 33996,
+      "ask": 33990,
       "bid": 22100,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 514403,
+      "ask": 514399,
       "bid": 250001,
       "vendor": 1000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 1100000,
+      "ask": 1099996,
       "bid": 150027,
       "vendor": 1000
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 295,
+      "ask": 294,
       "bid": 97,
       "vendor": 48
     },
@@ -2186,7 +2186,7 @@
       "vendor": 420
     },
     "Verdant Spear": {
-      "ask": 25400,
+      "ask": 12000,
       "bid": 250,
       "vendor": 540
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669002304.129076
+  "time": 1669003202.6773102
 }
