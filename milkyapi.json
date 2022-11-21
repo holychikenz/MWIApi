@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 13,
+      "ask": 12,
       "bid": 7,
       "vendor": 2
     },
@@ -26,7 +26,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 116,
+      "ask": 115,
       "bid": 61,
       "vendor": 4
     },
@@ -331,7 +331,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 15,
+      "ask": 14,
       "bid": 8,
       "vendor": 2
     },
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 207,
-      "bid": 187,
+      "bid": 188,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -801,7 +801,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 101,
+      "ask": 100,
       "bid": 85,
       "vendor": 14
     },
@@ -841,12 +841,12 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 80313,
+      "ask": 80310,
       "bid": 9009,
       "vendor": 1000
     },
     "Excelsa Coffee Bean": {
-      "ask": 114,
+      "ask": 113,
       "bid": 82,
       "vendor": 18
     },
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 198,
+      "ask": 197,
       "bid": 162,
       "vendor": 27
     },
@@ -871,8 +871,8 @@
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 480000,
-      "bid": 200105,
+      "ask": 479997,
+      "bid": 200106,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -1092,12 +1092,12 @@
     },
     "Holy Cheese": {
       "ask": 777,
-      "bid": 740,
+      "bid": 735,
       "vendor": 162
     },
     "Holy Chisel": {
       "ask": 200000,
-      "bid": 100000,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Enhancer": {
@@ -1457,7 +1457,7 @@
     },
     "Purpleheart Lumber": {
       "ask": 369,
-      "bid": 205,
+      "bid": 206,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 42648,
-      "bid": 25018,
+      "bid": 25019,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 568,
-      "bid": 359,
+      "bid": 360,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1867,7 +1867,7 @@
     },
     "Star Fruit Gummy": {
       "ask": 900,
-      "bid": 559,
+      "bid": 564,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
@@ -1947,7 +1947,7 @@
     },
     "Super Magic Coffee": {
       "ask": 1697,
-      "bid": 1074,
+      "bid": 1077,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1000,
+      "ask": 999,
       "bid": 720,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669014905.0386484
+  "time": 1669015803.4623406
 }
