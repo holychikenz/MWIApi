@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 11,
+      "ask": 13,
       "bid": 7,
       "vendor": 2
     },
@@ -96,7 +96,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 380,
+      "ask": 497,
       "bid": 145,
       "vendor": 24
     },
@@ -151,7 +151,7 @@
       "vendor": 1728
     },
     "Azure Plate Legs": {
-      "ask": -1,
+      "ask": 30000,
       "bid": -1,
       "vendor": 1512
     },
@@ -176,7 +176,7 @@
       "vendor": 1944
     },
     "Azure Sword": {
-      "ask": -1,
+      "ask": 25000,
       "bid": 1874,
       "vendor": 1944
     },
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 877,
-      "bid": 224,
+      "bid": 250,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 315,
+      "ask": 314,
       "bid": 286,
       "vendor": 24
     },
@@ -641,8 +641,8 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 189,
-      "bid": 117,
+      "ask": 199,
+      "bid": 120,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 457,
+      "ask": 456,
       "bid": 254,
       "vendor": 54
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 33000,
+      "ask": 32999,
       "bid": 22053,
       "vendor": 1000
     },
@@ -936,7 +936,7 @@
       "vendor": 11664
     },
     "Ginkgo Fire Staff": {
-      "ask": 59701,
+      "ask": 59552,
       "bid": 15000,
       "vendor": 11664
     },
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 828,
-      "bid": 432,
+      "bid": 440,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1011,7 +1011,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 16150,
+      "ask": 23738,
       "bid": 10000,
       "vendor": 20000
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 777,
-      "bid": 735,
+      "bid": 740,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 616,
+      "ask": 648,
       "bid": 507,
       "vendor": 18
     },
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 276,
-      "bid": 211,
+      "bid": 215,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1401,7 +1401,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 176,
+      "ask": 169,
       "bid": 100,
       "vendor": 30
     },
@@ -1631,7 +1631,7 @@
       "vendor": 27
     },
     "Redwood Bow": {
-      "ask": 102919,
+      "ask": 102662,
       "bid": 55000,
       "vendor": 35964
     },
@@ -1732,7 +1732,7 @@
     },
     "Rough Leather": {
       "ask": 457,
-      "bid": 142,
+      "bid": 150,
       "vendor": 6
     },
     "Rough Tunic": {
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 635,
-      "bid": 266,
+      "bid": 280,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1882,7 +1882,7 @@
     },
     "Strawberry Cake": {
       "ask": 247,
-      "bid": 140,
+      "bid": 118,
       "vendor": 30
     },
     "Strawberry Donut": {
@@ -1942,7 +1942,7 @@
     },
     "Super Intelligence Coffee": {
       "ask": 1050,
-      "bid": 969,
+      "bid": 960,
       "vendor": 40
     },
     "Super Magic Coffee": {
@@ -1981,12 +1981,12 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 12,
+      "ask": 11,
       "bid": 8,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 41500,
+      "ask": 41396,
       "bid": 10002,
       "vendor": 1000
     },
@@ -2067,7 +2067,7 @@
     },
     "Umbral Leather": {
       "ask": -1,
-      "bid": 150,
+      "bid": 400,
       "vendor": 144
     },
     "Umbral Tunic": {
@@ -2266,10 +2266,10 @@
       "vendor": 108
     },
     "Yogurt": {
-      "ask": 10000,
+      "ask": 140,
       "bid": 6,
       "vendor": 5
     }
   },
-  "time": 1669021203.2237408
+  "time": 1669022103.7368183
 }
