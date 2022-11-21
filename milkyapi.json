@@ -56,12 +56,12 @@
       "vendor": 162
     },
     "Arcane Nature Staff": {
-      "ask": 2786341,
+      "ask": 2786340,
       "bid": 210000,
       "vendor": 80190
     },
     "Arcane Water Staff": {
-      "ask": 418319,
+      "ask": 418318,
       "bid": 95000,
       "vendor": 80190
     },
@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 17000,
+      "ask": 30000,
       "bid": -1,
       "vendor": 1512
     },
@@ -116,12 +116,12 @@
       "vendor": 864
     },
     "Azure Hammer": {
-      "ask": 15000,
+      "ask": 14250,
       "bid": 1435,
       "vendor": 1512
     },
     "Azure Hatchet": {
-      "ask": 30000,
+      "ask": 28500,
       "bid": -1,
       "vendor": 1512
     },
@@ -331,7 +331,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 13,
+      "ask": 12,
       "bid": 9,
       "vendor": 2
     },
@@ -542,7 +542,7 @@
     },
     "Cheese Gauntlets": {
       "ask": 800,
-      "bid": 174,
+      "bid": -1,
       "vendor": 48
     },
     "Cheese Hammer": {
@@ -631,8 +631,8 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 116,
-      "bid": 11,
+      "ask": 98,
+      "bid": 14,
       "vendor": 2
     },
     "Cotton Boots": {
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 107,
-      "bid": 25,
+      "bid": 28,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 164,
-      "bid": 101,
+      "bid": 102,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -981,7 +981,7 @@
       "vendor": 3276
     },
     "Gobo Essence": {
-      "ask": 49,
+      "ask": 48,
       "bid": 22,
       "vendor": 24
     },
@@ -1327,7 +1327,7 @@
     },
     "Mooberry": {
       "ask": 28,
-      "bid": 25,
+      "bid": 23,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -1377,7 +1377,7 @@
     },
     "Peach Gummy": {
       "ask": 236,
-      "bid": 201,
+      "bid": 202,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 32,
+      "ask": 31,
       "bid": 19,
       "vendor": 6
     },
@@ -1867,7 +1867,7 @@
     },
     "Star Fruit Gummy": {
       "ask": 900,
-      "bid": 586,
+      "bid": 587,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 38942,
+      "ask": 22000,
       "bid": 11030,
       "vendor": 1000
     },
@@ -2007,7 +2007,7 @@
     },
     "Tome Of The Elements": {
       "ask": 3649991,
-      "bid": 2000001,
+      "bid": 2000000,
       "vendor": 100000
     },
     "Toughness": {
@@ -2161,7 +2161,7 @@
       "vendor": 420
     },
     "Verdant Plate Body": {
-      "ask": 18000,
+      "ask": 5000,
       "bid": 606,
       "vendor": 480
     },
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 43,
+      "ask": 42,
       "bid": 6,
       "vendor": 1
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669052704.3617215
+  "time": 1669053602.9075599
 }
