@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 12,
+      "ask": 13,
       "bid": 7,
       "vendor": 2
     },
@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 1374,
-      "bid": 852,
+      "bid": 853,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 206,
-      "bid": 190,
+      "bid": 191,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1945,
-      "bid": 1104,
+      "bid": 1111,
       "vendor": 50
     },
     "Egg": {
@@ -891,13 +891,13 @@
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 2111107,
+      "ask": 2111106,
       "bid": 175420,
       "vendor": 60000
     },
     "Flax": {
       "ask": 124,
-      "bid": 10,
+      "bid": 16,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 94572,
+      "ask": 94571,
       "bid": 1000,
       "vendor": 20000
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 195,
+      "ask": 193,
       "bid": 125,
       "vendor": 12
     },
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 154756,
+      "ask": 197513,
       "bid": 55000,
       "vendor": 50000
     },
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 465,
-      "bid": 304,
+      "bid": 307,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 568,
-      "bid": 360,
+      "bid": 361,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 29,
+      "ask": 30,
       "bid": 19,
       "vendor": 6
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 632,
+      "ask": 630,
       "bid": 281,
       "vendor": 73
     },
@@ -1781,7 +1781,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": -1,
+      "ask": 75000,
       "bid": 5500,
       "vendor": 5000
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 692550,
-      "bid": 368005,
+      "bid": 368006,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2266,10 +2266,10 @@
       "vendor": 108
     },
     "Yogurt": {
-      "ask": 140,
+      "ask": 10000,
       "bid": 6,
       "vendor": 5
     }
   },
-  "time": 1669034704.2548892
+  "time": 1669035603.7830324
 }
