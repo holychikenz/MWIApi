@@ -706,7 +706,7 @@
       "vendor": 54
     },
     "Crimson Chisel": {
-      "ask": 132637,
+      "ask": -1,
       "bid": -1,
       "vendor": 9072
     },
@@ -746,7 +746,7 @@
       "vendor": 18
     },
     "Crimson Needle": {
-      "ask": 85738,
+      "ask": 100000,
       "bid": -1,
       "vendor": 9072
     },
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1949,
-      "bid": 1100,
+      "bid": 1101,
       "vendor": 50
     },
     "Egg": {
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 94573,
+      "ask": 94572,
       "bid": 1000,
       "vendor": 20000
     },
@@ -981,12 +981,12 @@
       "vendor": 3276
     },
     "Gobo Essence": {
-      "ask": 50,
+      "ask": 48,
       "bid": 22,
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 208,
+      "ask": 198,
       "bid": 123,
       "vendor": 12
     },
@@ -1347,7 +1347,7 @@
     },
     "Orange": {
       "ask": 11,
-      "bid": 10,
+      "bid": 9,
       "vendor": 4
     },
     "Orange Gummy": {
@@ -1397,7 +1397,7 @@
     },
     "Plum": {
       "ask": 43,
-      "bid": 41,
+      "bid": 39,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669023003.3911808
+  "time": 1669023903.7330575
 }
