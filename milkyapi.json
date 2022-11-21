@@ -162,7 +162,7 @@
     },
     "Azure Shears": {
       "ask": -1,
-      "bid": 10000,
+      "bid": -1,
       "vendor": 1512
     },
     "Azure Spatula": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 90000,
+      "ask": 89000,
       "bid": 9009,
       "vendor": 1000
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 779,
-      "bid": 732,
+      "bid": 731,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1371,7 +1371,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 44,
+      "ask": 43,
       "bid": 11,
       "vendor": 9
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 6738,
+      "ask": 6737,
       "bid": 4051,
       "vendor": 1000
     },
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 531,
-      "bid": 316,
+      "bid": 317,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 29,
+      "ask": 30,
       "bid": 14,
       "vendor": 6
     },
@@ -1821,8 +1821,8 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 65,
-      "bid": 64,
+      "ask": 62,
+      "bid": 48,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -2056,7 +2056,7 @@
       "vendor": 43344
     },
     "Umbral Hide": {
-      "ask": 973,
+      "ask": 972,
       "bid": 393,
       "vendor": 48
     },
@@ -2076,7 +2076,7 @@
       "vendor": 49536
     },
     "Vampire Fang": {
-      "ask": 1249989,
+      "ask": 1249988,
       "bid": 639457,
       "vendor": 10000
     },
@@ -2227,7 +2227,7 @@
     },
     "Wisdom Coffee": {
       "ask": 1220,
-      "bid": 949,
+      "bid": 946,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1668988803.9256485
+  "time": 1668989703.5050278
 }
