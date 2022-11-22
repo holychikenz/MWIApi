@@ -47,11 +47,11 @@
     },
     "Arcane Log": {
       "ask": 325,
-      "bid": 126,
+      "bid": 219,
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 1794,
+      "ask": 1000,
       "bid": 862,
       "vendor": 162
     },
@@ -67,7 +67,7 @@
     },
     "Artisan Tea": {
       "ask": 1793,
-      "bid": 799,
+      "bid": 800,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -317,7 +317,7 @@
     },
     "Blackberry Cake": {
       "ask": 999,
-      "bid": 150,
+      "bid": 60,
       "vendor": 20
     },
     "Blackberry Donut": {
@@ -336,7 +336,7 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 150,
+      "ask": 145,
       "bid": 22,
       "vendor": 10
     },
@@ -356,7 +356,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 45000,
+      "ask": 44999,
       "bid": 4000,
       "vendor": 3780
     },
@@ -516,7 +516,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 3600,
+      "ask": 3599,
       "bid": 310,
       "vendor": 84
     },
@@ -612,7 +612,7 @@
     },
     "Cleave": {
       "ask": 168997,
-      "bid": 100009,
+      "bid": 100010,
       "vendor": 1000
     },
     "Cocoon": {
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 252,
-      "bid": 202,
+      "bid": 203,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -842,7 +842,7 @@
     },
     "Entangle": {
       "ask": 40418,
-      "bid": 5003,
+      "bid": 5004,
       "vendor": 1000
     },
     "Excelsa Coffee Bean": {
@@ -891,7 +891,7 @@
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 2111097,
+      "ask": 2111096,
       "bid": 175420,
       "vendor": 60000
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 820,
+      "ask": 819,
       "bid": 481,
       "vendor": 36
     },
@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 596,
-      "bid": 420,
+      "bid": 421,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 397,
+      "ask": 379,
       "bid": 325,
       "vendor": 6
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 72858,
+      "ask": 72857,
       "bid": 41003,
       "vendor": 3000
     },
@@ -1881,12 +1881,12 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 246,
+      "ask": 245,
       "bid": 118,
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 243,
+      "ask": 240,
       "bid": 101,
       "vendor": 30
     },
@@ -1911,7 +1911,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1250,
+      "ask": 1248,
       "bid": 533,
       "vendor": 75
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 969,
+      "ask": 967,
       "bid": 810,
       "vendor": 75
     },
@@ -1982,7 +1982,7 @@
     },
     "Swamp Essence": {
       "ask": 12,
-      "bid": 8,
+      "bid": 9,
       "vendor": 8
     },
     "Sweep": {
@@ -2047,12 +2047,12 @@
     },
     "Umbral Bracers": {
       "ask": 400000,
-      "bid": 176249,
+      "bid": 204030,
       "vendor": 24768
     },
     "Umbral Chaps": {
       "ask": 540000,
-      "bid": 216968,
+      "bid": 305295,
       "vendor": 43344
     },
     "Umbral Hide": {
@@ -2096,7 +2096,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": -1,
+      "ask": 25000,
       "bid": 750,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669149904.473967
+  "time": 1669150802.9083822
 }
