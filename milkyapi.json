@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 78,
+      "ask": 10000,
       "bid": 15,
       "vendor": 10
     },
@@ -237,7 +237,7 @@
     },
     "Beast Hide": {
       "ask": 198,
-      "bid": 74,
+      "bid": 101,
       "vendor": 24
     },
     "Beast Hood": {
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 122,
-      "bid": 50,
+      "bid": 51,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 181,
+      "ask": 180,
       "bid": 36,
       "vendor": 18
     },
@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 549,
-      "bid": 426,
+      "bid": 427,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 274,
+      "ask": 335,
       "bid": 180,
       "vendor": 36
     },
@@ -1487,7 +1487,7 @@
     },
     "Radiant Fiber": {
       "ask": 185,
-      "bid": 140,
+      "bid": 141,
       "vendor": 48
     },
     "Radiant Gloves": {
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 442,
-      "bid": 363,
+      "bid": 370,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 378,
+      "ask": 379,
       "bid": 330,
       "vendor": 6
     },
@@ -1826,8 +1826,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 981,
-      "bid": 751,
+      "ask": 980,
+      "bid": 564,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -2226,12 +2226,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1500,
+      "ask": 1499,
       "bid": 1009,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 899,
+      "ask": 898,
       "bid": 800,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669159803.7934062
+  "time": 1669160703.9412637
 }
