@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 276,
+      "ask": 275,
       "bid": 24,
       "vendor": 24
     },
@@ -276,7 +276,7 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 137,
+      "ask": 136,
       "bid": 44,
       "vendor": 4
     },
@@ -311,7 +311,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 45,
+      "ask": 44,
       "bid": 16,
       "vendor": 4
     },
@@ -436,7 +436,7 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": 42750,
+      "ask": 45000,
       "bid": 3528,
       "vendor": 3780
     },
@@ -476,7 +476,7 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 106,
+      "ask": 105,
       "bid": 44,
       "vendor": 8
     },
@@ -797,16 +797,16 @@
     },
     "Donut": {
       "ask": 14,
-      "bid": 7,
+      "bid": -1,
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 88,
-      "bid": 66,
+      "ask": 79,
+      "bid": 67,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 661,
+      "ask": 660,
       "bid": 335,
       "vendor": 50
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1843,
+      "ask": 1845,
       "bid": 1575,
       "vendor": 50
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 999969,
-      "bid": 300021,
+      "bid": 300022,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -876,12 +876,12 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 1286059,
+      "ask": 1286058,
       "bid": 250003,
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 385819,
+      "ask": 385818,
       "bid": 50003,
       "vendor": 4000
     },
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 161,
+      "ask": 159,
       "bid": 125,
       "vendor": 12
     },
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 150000,
+      "ask": 142500,
       "bid": 4800,
       "vendor": 3744
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 1049994,
+      "ask": 1049993,
       "bid": 150034,
       "vendor": 1000
     },
@@ -1206,7 +1206,7 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 1564346,
+      "ask": 1604575,
       "bid": 500001,
       "vendor": 500000
     },
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 45,
+      "ask": 44,
       "bid": 26,
       "vendor": 2
     },
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 231,
+      "ask": 230,
       "bid": 141,
       "vendor": 6
     },
@@ -1312,7 +1312,7 @@
     },
     "Milk": {
       "ask": 28,
-      "bid": 15,
+      "bid": 12,
       "vendor": 2
     },
     "Milking Tea": {
@@ -1371,7 +1371,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 37,
+      "ask": 43,
       "bid": 12,
       "vendor": 9
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 72859,
+      "ask": 72858,
       "bid": 41003,
       "vendor": 3000
     },
@@ -1941,13 +1941,13 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1050,
+      "ask": 1200,
       "bid": 960,
       "vendor": 40
     },
     "Super Magic Coffee": {
       "ask": 1688,
-      "bid": 1157,
+      "bid": 1159,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 842,
+      "ask": 841,
       "bid": 455,
       "vendor": 40
     },
@@ -2037,7 +2037,7 @@
     },
     "Twilight Essence": {
       "ask": 368,
-      "bid": 232,
+      "bid": 233,
       "vendor": 108
     },
     "Umbral Boots": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669124703.536893
+  "time": 1669125602.310673
 }
