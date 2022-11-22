@@ -237,7 +237,7 @@
     },
     "Beast Hide": {
       "ask": 198,
-      "bid": 69,
+      "bid": 70,
       "vendor": 24
     },
     "Beast Hood": {
@@ -671,7 +671,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 62273,
+      "ask": 60000,
       "bid": 40015,
       "vendor": 1500
     },
@@ -801,7 +801,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 88,
+      "ask": 100,
       "bid": 66,
       "vendor": 14
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 999967,
-      "bid": 300044,
+      "bid": 300045,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -866,8 +866,8 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 24000,
-      "bid": 15003,
+      "ask": 20000,
+      "bid": 15004,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -877,7 +877,7 @@
     },
     "Flame Blast": {
       "ask": 1286054,
-      "bid": 255557,
+      "bid": 500000,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 284980,
-      "bid": 100012,
+      "bid": 100014,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -971,7 +971,7 @@
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 16573,
+      "ask": 16574,
       "bid": -1,
       "vendor": 1872
     },
@@ -1316,8 +1316,8 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 321,
-      "bid": 171,
+      "ask": 320,
+      "bid": 173,
       "vendor": 10
     },
     "Minor Heal": {
@@ -1406,7 +1406,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 225,
+      "ask": 1000000000000,
       "bid": 151,
       "vendor": 30
     },
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 94,
-      "bid": 70,
+      "bid": 71,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1927,7 +1927,7 @@
     },
     "Super Defense Coffee": {
       "ask": 889,
-      "bid": 650,
+      "bid": 651,
       "vendor": 50
     },
     "Super Enhancing Tea": {
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 1549,
+      "ask": 1585,
       "bid": 1001,
       "vendor": 40
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 1099993,
-      "bid": 400008,
+      "bid": 400009,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2111,7 +2111,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 379,
+      "ask": 380,
       "bid": 245,
       "vendor": 12
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669157104.4875064
+  "time": 1669158003.344182
 }
