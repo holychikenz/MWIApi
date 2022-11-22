@@ -281,7 +281,7 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 507,
+      "ask": 506,
       "bid": 401,
       "vendor": 12
     },
@@ -711,7 +711,7 @@
       "vendor": 9072
     },
     "Crimson Enhancer": {
-      "ask": 200000,
+      "ask": 40000,
       "bid": 10002,
       "vendor": 9072
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 642,
+      "ask": 643,
       "bid": 328,
       "vendor": 50
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 42554,
+      "ask": 40426,
       "bid": 9009,
       "vendor": 1000
     },
@@ -867,7 +867,7 @@
     },
     "Fireball": {
       "ask": 25000,
-      "bid": 11504,
+      "bid": 11505,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -877,7 +877,7 @@
     },
     "Flame Blast": {
       "ask": 1286061,
-      "bid": 250001,
+      "bid": 250002,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -1501,17 +1501,17 @@
       "vendor": 30960
     },
     "Radiant Robe Bottoms": {
-      "ask": 1488691,
+      "ask": 1488690,
       "bid": 65000,
       "vendor": 43344
     },
     "Radiant Robe Top": {
-      "ask": 318472,
+      "ask": 318471,
       "bid": 65000,
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 1000000,
+      "ask": 999999,
       "bid": 550009,
       "vendor": 1000
     },
@@ -1761,7 +1761,7 @@
       "vendor": 7200
     },
     "Silk Hat": {
-      "ask": 48995,
+      "ask": 48994,
       "bid": -1,
       "vendor": 9000
     },
@@ -1771,7 +1771,7 @@
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 89000,
+      "ask": 88999,
       "bid": 18000,
       "vendor": 14400
     },
@@ -1827,11 +1827,11 @@
     },
     "Spaceberry Cake": {
       "ask": 987,
-      "bid": 812,
+      "bid": 811,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 799,
+      "ask": 800,
       "bid": 691,
       "vendor": 75
     },
@@ -1947,7 +1947,7 @@
     },
     "Super Magic Coffee": {
       "ask": 1691,
-      "bid": 1151,
+      "bid": 1152,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -2016,8 +2016,8 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 728999,
-      "bid": 375003,
+      "ask": 692548,
+      "bid": 375004,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2041,23 +2041,23 @@
       "vendor": 108
     },
     "Umbral Boots": {
-      "ask": 400000,
+      "ask": -1,
       "bid": -1,
       "vendor": 24768
     },
     "Umbral Bracers": {
       "ask": -1,
-      "bid": 176249,
+      "bid": 350000,
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": 955584,
+      "ask": -1,
       "bid": 216968,
       "vendor": 43344
     },
     "Umbral Hide": {
       "ask": 945,
-      "bid": 355,
+      "bid": 357,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669113903.883503
+  "time": 1669114803.1299515
 }
