@@ -8,7 +8,7 @@
   window.loadDB = load;
   window.onload = function() {
     async function startup() {
-      Promise.all([ window.loadDB("./market.db") ]).then(
+      Promise.all([ window.loadDB("https://holychikenz.github.io/MWIApi/market.db") ]).then(
         data => {
           let viewer = new mooket(data[0]);
         })
