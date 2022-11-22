@@ -41,18 +41,18 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 798799,
+      "ask": 798798,
       "bid": 225000,
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 326,
+      "ask": 325,
       "bid": 139,
       "vendor": 54
     },
     "Arcane Lumber": {
       "ask": 1794,
-      "bid": 861,
+      "bid": 862,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 623,
-      "bid": 424,
+      "bid": 440,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 795,
-      "bid": 515,
+      "bid": 540,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -362,7 +362,7 @@
     },
     "Burble Buckler": {
       "ask": -1,
-      "bid": 30574,
+      "bid": -1,
       "vendor": 3240
     },
     "Burble Bulwark": {
@@ -401,7 +401,7 @@
       "vendor": 3780
     },
     "Burble Helmet": {
-      "ask": -1,
+      "ask": 15000,
       "bid": 2805,
       "vendor": 2700
     },
@@ -421,12 +421,12 @@
       "vendor": 3780
     },
     "Burble Plate Body": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 5253,
       "vendor": 4320
     },
     "Burble Plate Legs": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 10000,
       "vendor": 3780
     },
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 218,
-      "bid": 172,
+      "bid": 173,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -471,7 +471,7 @@
       "vendor": 1944
     },
     "Cedar Fire Staff": {
-      "ask": 79531,
+      "ask": 83929,
       "bid": 2500,
       "vendor": 1944
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 749,
+      "ask": 748,
       "bid": 403,
       "vendor": 10
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 70000,
+      "ask": 63175,
       "bid": 1000,
       "vendor": 20000
     },
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 824,
-      "bid": 480,
+      "bid": 481,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 23272,
+      "ask": 21003,
       "bid": 10003,
       "vendor": 1000
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 6070,
+      "ask": 5479,
       "bid": 4051,
       "vendor": 1000
     },
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 100,
+      "ask": 94,
       "bid": 68,
       "vendor": 2
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 2588,
+      "ask": 2336,
       "bid": 1201,
       "vendor": 1000
     },
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 616,
-      "bid": 300,
+      "bid": 301,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1801,7 +1801,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 8888,
+      "ask": 8022,
       "bid": 3000,
       "vendor": 2000
     },
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 34287,
+      "ask": 30944,
       "bid": 11032,
       "vendor": 1000
     },
@@ -2152,7 +2152,7 @@
     },
     "Verdant Milk": {
       "ask": 59,
-      "bid": 47,
+      "bid": 41,
       "vendor": 4
     },
     "Verdant Needle": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669145402.8140173
+  "time": 1669146304.1997876
 }
