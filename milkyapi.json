@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 9,
+      "ask": 10,
       "bid": 7,
       "vendor": 2
     },
@@ -456,8 +456,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 215,
-      "bid": 180,
+      "ask": 236,
+      "bid": 181,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -611,7 +611,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 168997,
+      "ask": 168996,
       "bid": 100010,
       "vendor": 1000
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1840,
+      "ask": 1839,
       "bid": 1220,
       "vendor": 50
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 35189,
+      "ask": 37044,
       "bid": 5007,
       "vendor": 1000
     },
@@ -886,12 +886,12 @@
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
-      "ask": 1671154,
+      "ask": 1671156,
       "bid": -1,
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 2111093,
+      "ask": 2111094,
       "bid": 175420,
       "vendor": 60000
     },
@@ -906,7 +906,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 284979,
+      "ask": 284978,
       "bid": 100018,
       "vendor": 1000
     },
@@ -966,12 +966,12 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 25509,
+      "ask": 29753,
       "bid": 4500,
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 16573,
+      "ask": 16574,
       "bid": -1,
       "vendor": 1872
     },
@@ -1011,7 +1011,7 @@
       "vendor": 20000
     },
     "Gobo Smasher": {
-      "ask": 23738,
+      "ask": 23737,
       "bid": 10000,
       "vendor": 20000
     },
@@ -1152,7 +1152,7 @@
     },
     "Holy Pot": {
       "ask": 150000,
-      "bid": 95000,
+      "bid": 80002,
       "vendor": 62370
     },
     "Holy Shears": {
@@ -1371,8 +1371,8 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 59,
-      "bid": 17,
+      "ask": 66,
+      "bid": 59,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 34,
+      "ask": 33,
       "bid": 22,
       "vendor": 6
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 377,
+      "ask": 370,
       "bid": 330,
       "vendor": 6
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669201202.5334938
+  "time": 1669202103.9736993
 }
