@@ -51,7 +51,7 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 1787,
+      "ask": 1613,
       "bid": 865,
       "vendor": 162
     },
@@ -307,7 +307,7 @@
     },
     "Black Tea Leaf": {
       "ask": 39,
-      "bid": 31,
+      "bid": 32,
       "vendor": 8
     },
     "Blackberry": {
@@ -806,13 +806,13 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 619,
+      "ask": 618,
       "bid": 347,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
       "ask": 528,
-      "bid": 500,
+      "bid": 505,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -861,13 +861,13 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 185,
+      "ask": 180,
       "bid": 105,
       "vendor": 27
     },
     "Fireball": {
       "ask": 20000,
-      "bid": 15004,
+      "bid": 15005,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -1117,7 +1117,7 @@
     },
     "Holy Hatchet": {
       "ask": 169998,
-      "bid": 125000,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 44894,
-      "bid": 25037,
+      "bid": 25039,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669174203.8199172
+  "time": 1669175103.9506705
 }
