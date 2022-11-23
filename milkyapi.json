@@ -32,7 +32,7 @@
     },
     "Arcane Bow": {
       "ask": 857278,
-      "bid": 164961,
+      "bid": 378092,
       "vendor": 106920
     },
     "Arcane Crossbow": {
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 619,
-      "bid": 445,
+      "bid": 450,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -536,7 +536,7 @@
       "vendor": 84
     },
     "Cheese Enhancer": {
-      "ask": 2275,
+      "ask": -1,
       "bid": 301,
       "vendor": 84
     },
@@ -581,7 +581,7 @@
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 2000,
+      "ask": 29999,
       "bid": 160,
       "vendor": 84
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 161,
+      "ask": 160,
       "bid": 122,
       "vendor": 24
     },
@@ -806,8 +806,8 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 556,
-      "bid": 341,
+      "ask": 555,
+      "bid": 342,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 152,
+      "ask": 151,
       "bid": 125,
       "vendor": 12
     },
@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 549,
-      "bid": 427,
+      "bid": 428,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 27,
+      "ask": 28,
       "bid": 12,
       "vendor": 2
     },
@@ -1347,7 +1347,7 @@
     },
     "Orange": {
       "ask": 9,
-      "bid": 8,
+      "bid": 7,
       "vendor": 4
     },
     "Orange Gummy": {
@@ -1371,7 +1371,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 42,
+      "ask": 41,
       "bid": 14,
       "vendor": 9
     },
@@ -1451,12 +1451,12 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 80,
+      "ask": 76,
       "bid": 31,
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 335,
+      "ask": 354,
       "bid": 180,
       "vendor": 36
     },
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 442,
-      "bid": 370,
+      "bid": 371,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1707,7 +1707,7 @@
     },
     "Rough Boots": {
       "ask": 4285,
-      "bid": 1000,
+      "bid": 1100,
       "vendor": 48
     },
     "Rough Bracers": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 980,
+      "ask": 982,
       "bid": 564,
       "vendor": 75
     },
@@ -1866,13 +1866,13 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 799,
+      "ask": 798,
       "bid": 606,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 911,
-      "bid": 761,
+      "bid": 763,
       "vendor": 75
     },
     "Strawberry": {
@@ -2047,12 +2047,12 @@
     },
     "Umbral Bracers": {
       "ask": 400000,
-      "bid": 224944,
+      "bid": 248001,
       "vendor": 24768
     },
     "Umbral Chaps": {
       "ask": 540000,
-      "bid": 305295,
+      "bid": 336588,
       "vendor": 43344
     },
     "Umbral Hide": {
@@ -2086,7 +2086,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 749922,
+      "ask": 749920,
       "bid": 400010,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669160703.9412637
+  "time": 1669161602.918415
 }
