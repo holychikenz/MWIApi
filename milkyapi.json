@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 790,
-      "bid": 548,
+      "bid": 549,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -282,7 +282,7 @@
     },
     "Birch Lumber": {
       "ask": 337,
-      "bid": 189,
+      "bid": 190,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -767,7 +767,7 @@
     },
     "Crimson Shears": {
       "ask": 40000,
-      "bid": 20000,
+      "bid": -1,
       "vendor": 9072
     },
     "Crimson Spatula": {
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1599,
-      "bid": 752,
+      "bid": 753,
       "vendor": 50
     },
     "Egg": {
@@ -867,7 +867,7 @@
     },
     "Fireball": {
       "ask": 32000,
-      "bid": 15007,
+      "bid": 15008,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 799999,
+      "ask": 799996,
       "bid": 450000,
       "vendor": 1000
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 690,
+      "ask": 748,
       "bid": 405,
       "vendor": 10
     },
@@ -962,7 +962,7 @@
     },
     "Gobo Boomstick": {
       "ask": 29999,
-      "bid": 22647,
+      "bid": 1000,
       "vendor": 20000
     },
     "Gobo Boots": {
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 149,
+      "ask": 148,
       "bid": 125,
       "vendor": 12
     },
@@ -997,12 +997,12 @@
     },
     "Gobo Leather": {
       "ask": 813,
-      "bid": 488,
+      "bid": 489,
       "vendor": 36
     },
     "Gobo Shooter": {
       "ask": 24430,
-      "bid": 21994,
+      "bid": 1000,
       "vendor": 20000
     },
     "Gobo Slasher": {
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 486625,
+      "ask": 486623,
       "bid": 260045,
       "vendor": 1000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 1049964,
+      "ask": 1049960,
       "bid": 200003,
       "vendor": 1000
     },
@@ -1206,7 +1206,7 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 1499998,
+      "ask": 1499990,
       "bid": 3000,
       "vendor": 500000
     },
@@ -1316,7 +1316,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 340,
+      "ask": 341,
       "bid": 171,
       "vendor": 10
     },
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 44892,
-      "bid": 25041,
+      "bid": 25042,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 380,
-      "bid": 316,
+      "bid": 315,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1602,7 +1602,7 @@
     },
     "Rainbow Shears": {
       "ask": -1,
-      "bid": 30000,
+      "bid": 25000,
       "vendor": 20979
     },
     "Rainbow Spatula": {
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 329,
+      "ask": 320,
       "bid": 121,
       "vendor": 6
     },
@@ -1746,7 +1746,7 @@
       "vendor": 1000
     },
     "Silk Boots": {
-      "ask": 103778,
+      "ask": 103775,
       "bid": 35000,
       "vendor": 7200
     },
@@ -1761,7 +1761,7 @@
       "vendor": 7200
     },
     "Silk Hat": {
-      "ask": 44217,
+      "ask": 44213,
       "bid": -1,
       "vendor": 9000
     },
@@ -1952,7 +1952,7 @@
     },
     "Super Milking Tea": {
       "ask": 1579,
-      "bid": 1000,
+      "bid": 1001,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669226402.974502
+  "time": 1669227303.37337
 }
