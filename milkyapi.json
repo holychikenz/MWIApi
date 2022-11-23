@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 10,
-      "bid": 9,
+      "bid": 7,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -61,7 +61,7 @@
       "vendor": 80190
     },
     "Arcane Water Staff": {
-      "ask": 394424,
+      "ask": 394423,
       "bid": 95000,
       "vendor": 80190
     },
@@ -191,7 +191,7 @@
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 605,
+      "ask": 604,
       "bid": 471,
       "vendor": 36
     },
@@ -281,7 +281,7 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 335,
+      "ask": 299,
       "bid": 191,
       "vendor": 12
     },
@@ -296,7 +296,7 @@
       "vendor": 540
     },
     "Black Bear Fluff": {
-      "ask": 11393,
+      "ask": 11392,
       "bid": 5160,
       "vendor": 3000
     },
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 215,
+      "ask": 214,
       "bid": 114,
       "vendor": 6
     },
@@ -686,7 +686,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 59990,
+      "ask": 40000,
       "bid": 10003,
       "vendor": 9072
     },
@@ -842,7 +842,7 @@
     },
     "Entangle": {
       "ask": 35185,
-      "bid": 5007,
+      "bid": 5008,
       "vendor": 1000
     },
     "Excelsa Coffee Bean": {
@@ -866,8 +866,8 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 31920,
-      "bid": 15009,
+      "ask": 29000,
+      "bid": 15010,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -906,12 +906,12 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 284258,
+      "ask": 284250,
       "bid": 100029,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 748,
+      "ask": 745,
       "bid": 405,
       "vendor": 10
     },
@@ -1176,13 +1176,13 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 997461,
+      "ask": 997460,
       "bid": 200004,
       "vendor": 1000
     },
     "Icy Cloth": {
       "ask": 500000,
-      "bid": 350000,
+      "bid": 75000,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 46000,
+      "ask": 45000,
       "bid": 22001,
       "vendor": 1000
     },
@@ -1411,12 +1411,12 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 5766,
+      "ask": 5764,
       "bid": 4051,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 44459,
+      "ask": 44458,
       "bid": 5001,
       "vendor": 3000
     },
@@ -1482,7 +1482,7 @@
     },
     "Radiant Fabric": {
       "ask": 1299,
-      "bid": 802,
+      "bid": 803,
       "vendor": 144
     },
     "Radiant Fiber": {
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 919,
-      "bid": 626,
+      "bid": 628,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1866,13 +1866,13 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 787,
+      "ask": 786,
       "bid": 603,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 903,
-      "bid": 767,
+      "bid": 766,
       "vendor": 75
     },
     "Strawberry": {
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 788,
+      "ask": 749,
       "bid": 455,
       "vendor": 40
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 992743,
-      "bid": 400027,
+      "bid": 400028,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669234503.551572
+  "time": 1669235403.1892085
 }
