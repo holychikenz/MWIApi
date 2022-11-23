@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 9,
-      "bid": 7,
+      "ask": 10,
+      "bid": 9,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -106,7 +106,7 @@
       "vendor": 1512
     },
     "Azure Enhancer": {
-      "ask": 16599,
+      "ask": 16598,
       "bid": 1800,
       "vendor": 1512
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 168,
+      "ask": 169,
       "bid": 120,
       "vendor": 24
     },
@@ -276,12 +276,12 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 127,
+      "ask": 125,
       "bid": 41,
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 337,
+      "ask": 335,
       "bid": 191,
       "vendor": 12
     },
@@ -306,8 +306,8 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 38,
-      "bid": 37,
+      "ask": 39,
+      "bid": 32,
       "vendor": 8
     },
     "Blackberry": {
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 215,
+      "ask": 214,
       "bid": 114,
       "vendor": 6
     },
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 285,
-      "bid": 207,
+      "bid": 206,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -1382,7 +1382,7 @@
     },
     "Peach Yogurt": {
       "ask": 448,
-      "bid": 284,
+      "bid": 285,
       "vendor": 40
     },
     "Pierce": {
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 4511,
+      "ask": 4510,
       "bid": 3603,
       "vendor": 1000
     },
@@ -2087,7 +2087,7 @@
     },
     "Vampirism": {
       "ask": 749902,
-      "bid": 500000,
+      "bid": 500001,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669232703.3334403
+  "time": 1669233602.0749335
 }
