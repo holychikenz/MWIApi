@@ -41,7 +41,7 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 447752,
+      "ask": 400000,
       "bid": 100000,
       "vendor": 80190
     },
@@ -276,12 +276,12 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 129,
+      "ask": 100,
       "bid": 41,
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 298,
+      "ask": 296,
       "bid": 191,
       "vendor": 12
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 405,
+      "ask": 403,
       "bid": 331,
       "vendor": 24
     },
@@ -612,7 +612,7 @@
     },
     "Cleave": {
       "ask": 168993,
-      "bid": 100011,
+      "bid": 100013,
       "vendor": 1000
     },
     "Cocoon": {
@@ -867,7 +867,7 @@
     },
     "Fireball": {
       "ask": 29000,
-      "bid": 15010,
+      "bid": 15011,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 21435,
+      "ask": 21434,
       "bid": 19003,
       "vendor": 5000
     },
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 540,
+      "ask": 541,
       "bid": 440,
       "vendor": 18
     },
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 44,
+      "ask": 35,
       "bid": 26,
       "vendor": 2
     },
@@ -1261,8 +1261,8 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 218,
-      "bid": 141,
+      "ask": 216,
+      "bid": 142,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 28,
+      "ask": 20,
       "bid": 15,
       "vendor": 2
     },
@@ -1451,13 +1451,13 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 54,
+      "ask": 52,
       "bid": 31,
       "vendor": 12
     },
     "Purpleheart Lumber": {
       "ask": 350,
-      "bid": 187,
+      "bid": 188,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 379,
-      "bid": 275,
+      "bid": 276,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1726,17 +1726,17 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 6982,
+      "ask": 6981,
       "bid": 60,
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 309,
+      "ask": 307,
       "bid": 121,
       "vendor": 6
     },
     "Rough Tunic": {
-      "ask": 9000,
+      "ask": 8999,
       "bid": 500,
       "vendor": 96
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 441,
+      "ask": 440,
       "bid": 326,
       "vendor": 73
     },
@@ -1786,7 +1786,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 43320,
+      "ask": 43319,
       "bid": 5789,
       "vendor": 1500
     },
@@ -1796,7 +1796,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 404,
+      "ask": 350,
       "bid": 111,
       "vendor": 100
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 65000,
+      "ask": 64999,
       "bid": 25001,
       "vendor": 3000
     },
@@ -1836,7 +1836,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 399,
+      "ask": 375,
       "bid": 339,
       "vendor": 54
     },
@@ -1911,7 +1911,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1138,
+      "ask": 1129,
       "bid": 535,
       "vendor": 75
     },
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 2000,
+      "ask": 1950,
       "bid": 1000,
       "vendor": 75
     },
@@ -2087,7 +2087,7 @@
     },
     "Vampirism": {
       "ask": 749902,
-      "bid": 500001,
+      "bid": 500003,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669236303.758248
+  "time": 1669237203.1893642
 }
