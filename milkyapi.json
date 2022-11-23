@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 10,
+      "ask": 9,
       "bid": 7,
       "vendor": 2
     },
@@ -41,7 +41,7 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 448875,
+      "ask": 448874,
       "bid": 100000,
       "vendor": 80190
     },
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 790,
-      "bid": 547,
+      "bid": 548,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1600,
+      "ask": 1599,
       "bid": 752,
       "vendor": 50
     },
@@ -1316,7 +1316,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 341,
+      "ask": 340,
       "bid": 171,
       "vendor": 10
     },
@@ -1376,7 +1376,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 249,
+      "ask": 250,
       "bid": 228,
       "vendor": 40
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 339,
+      "ask": 329,
       "bid": 121,
       "vendor": 6
     },
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 439,
-      "bid": 308,
+      "bid": 309,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1812,12 +1812,12 @@
     },
     "Sorcerer Essence": {
       "ask": 496,
-      "bid": 273,
+      "bid": 274,
       "vendor": 36
     },
     "Sorcerer's Sole": {
       "ask": 67825,
-      "bid": 25000,
+      "bid": 25001,
       "vendor": 3000
     },
     "Spaceberry": {
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 902,
+      "ask": 903,
       "bid": 767,
       "vendor": 75
     },
@@ -1946,13 +1946,13 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1692,
+      "ask": 1695,
       "bid": 1691,
       "vendor": 75
     },
     "Super Milking Tea": {
       "ask": 1579,
-      "bid": 1001,
+      "bid": 1000,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 20000,
+      "ask": 19999,
       "bid": 2725,
       "vendor": 1000
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 849,
+      "ask": 899,
       "bid": 721,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669225503.6617627
+  "time": 1669226402.974502
 }
