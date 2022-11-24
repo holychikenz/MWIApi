@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 10,
+      "ask": 9,
       "bid": 7,
       "vendor": 2
     },
@@ -281,8 +281,8 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 280,
-      "bid": 210,
+      "ask": 279,
+      "bid": 211,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 310,
-      "bid": 220,
+      "bid": 221,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 248,
+      "ask": 260,
       "bid": 230,
       "vendor": 12
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 330,
+      "ask": 329,
       "bid": 270,
       "vendor": 24
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 799997,
-      "bid": 300112,
+      "bid": 300113,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -877,7 +877,7 @@
     },
     "Flame Blast": {
       "ask": 799991,
-      "bid": 460002,
+      "bid": 460003,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 243390,
-      "bid": 15006,
+      "bid": 15007,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -996,8 +996,8 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 810,
-      "bid": 500,
+      "ask": 809,
+      "bid": 501,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1327,7 +1327,7 @@
     },
     "Mooberry": {
       "ask": 26,
-      "bid": 20,
+      "bid": 21,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -1371,7 +1371,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 49,
+      "ask": 48,
       "bid": 22,
       "vendor": 9
     },
@@ -1407,7 +1407,7 @@
     },
     "Plum Yogurt": {
       "ask": 400,
-      "bid": 202,
+      "bid": 201,
       "vendor": 30
     },
     "Poke": {
@@ -1691,7 +1691,7 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 235,
+      "ask": 234,
       "bid": 76,
       "vendor": 18
     },
@@ -1812,7 +1812,7 @@
     },
     "Sorcerer Essence": {
       "ask": 492,
-      "bid": 276,
+      "bid": 290,
       "vendor": 36
     },
     "Sorcerer's Sole": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 918,
+      "ask": 916,
       "bid": 647,
       "vendor": 75
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 884,
+      "ask": 883,
       "bid": 609,
       "vendor": 75
     },
@@ -1941,7 +1941,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1000,
+      "ask": 999,
       "bid": 511,
       "vendor": 40
     },
@@ -2022,7 +2022,7 @@
     },
     "Turtle Shell": {
       "ask": 197194,
-      "bid": 2730,
+      "bid": 2800,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -2052,7 +2052,7 @@
     },
     "Umbral Chaps": {
       "ask": 540000,
-      "bid": 336588,
+      "bid": -1,
       "vendor": 43344
     },
     "Umbral Hide": {
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1320,
+      "ask": 1319,
       "bid": 957,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669289403.5451992
+  "time": 1669290303.537615
 }
