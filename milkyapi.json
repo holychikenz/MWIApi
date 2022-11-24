@@ -76,7 +76,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 13300,
+      "ask": 14000,
       "bid": -1,
       "vendor": 864
     },
@@ -151,7 +151,7 @@
       "vendor": 1728
     },
     "Azure Plate Legs": {
-      "ask": 8500,
+      "ask": 11000,
       "bid": -1,
       "vendor": 1512
     },
@@ -612,7 +612,7 @@
     },
     "Cleave": {
       "ask": 168991,
-      "bid": 100014,
+      "bid": 100015,
       "vendor": 1000
     },
     "Cocoon": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1838,
+      "ask": 1839,
       "bid": 800,
       "vendor": 50
     },
@@ -1531,7 +1531,7 @@
       "vendor": 17982
     },
     "Rainbow Bulwark": {
-      "ask": 95000,
+      "ask": -1,
       "bid": -1,
       "vendor": 35964
     },
@@ -1786,8 +1786,8 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 43319,
-      "bid": 5789,
+      "ask": 35000,
+      "bid": -1,
       "vendor": 1500
     },
     "Snail Shell Helmet": {
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 1950,
+      "ask": 4647,
       "bid": 1000,
       "vendor": 75
     },
@@ -2022,7 +2022,7 @@
     },
     "Turtle Shell": {
       "ask": 197194,
-      "bid": 2730,
+      "bid": 2600,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669264204.0342968
+  "time": 1669265103.0295122
 }
