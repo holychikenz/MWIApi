@@ -42,7 +42,7 @@
     },
     "Arcane Fire Staff": {
       "ask": 400000,
-      "bid": 100000,
+      "bid": 200000,
       "vendor": 80190
     },
     "Arcane Log": {
@@ -51,8 +51,8 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 1550,
-      "bid": 874,
+      "ask": 1787,
+      "bid": 1000,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -96,7 +96,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 300,
+      "ask": 355,
       "bid": 151,
       "vendor": 24
     },
@@ -281,8 +281,8 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 290,
-      "bid": 203,
+      "ask": 289,
+      "bid": 205,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 43,
+      "ask": 42,
       "bid": 36,
       "vendor": 12
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 340,
+      "ask": 339,
       "bid": 255,
       "vendor": 24
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 574,
+      "ask": 572,
       "bid": 353,
       "vendor": 50
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 799998,
-      "bid": 300086,
+      "bid": 300087,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 136,
+      "ask": 135,
       "bid": 3,
       "vendor": 12
     },
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 377,
-      "bid": 317,
+      "bid": 316,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1426,7 +1426,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 620,
+      "ask": 619,
       "bid": 426,
       "vendor": 30
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 290,
+      "ask": 289,
       "bid": 121,
       "vendor": 6
     },
@@ -1826,8 +1826,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 918,
-      "bid": 635,
+      "ask": 919,
+      "bid": 637,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 1570,
+      "ask": 1569,
       "bid": 1001,
       "vendor": 40
     },
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 37,
+      "ask": 35,
       "bid": 15,
       "vendor": 1
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669250703.153205
+  "time": 1669251602.658081
 }
