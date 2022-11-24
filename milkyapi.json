@@ -17,7 +17,7 @@
     },
     "Aqua Arrow": {
       "ask": 529426,
-      "bid": 150031,
+      "bid": 150032,
       "vendor": 1000
     },
     "Aqua Essence": {
@@ -41,7 +41,7 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 425361,
+      "ask": 383888,
       "bid": 100000,
       "vendor": 80190
     },
@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 1784,
-      "bid": 1250,
+      "bid": 1011,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 104,
+      "ask": 99,
       "bid": 76,
       "vendor": 24
     },
@@ -476,7 +476,7 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 99,
+      "ask": 98,
       "bid": 24,
       "vendor": 8
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 799996,
-      "bid": 300134,
+      "bid": 300136,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -872,7 +872,7 @@
     },
     "Flame Arrow": {
       "ask": 429893,
-      "bid": 150003,
+      "bid": 150004,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 64,
+      "ask": 49,
       "bid": 36,
       "vendor": 18
     },
@@ -1136,8 +1136,8 @@
       "vendor": 54
     },
     "Holy Needle": {
-      "ask": 135000,
-      "bid": 125000,
+      "ask": 147949,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Plate Body": {
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 43995,
-      "bid": 25050,
+      "bid": 25051,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 294,
+      "ask": 190,
       "bid": 114,
       "vendor": 48
     },
@@ -1901,12 +1901,12 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 519,
+      "ask": 493,
       "bid": 228,
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 699,
+      "ask": 664,
       "bid": 103,
       "vendor": 50
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669315503.39053
+  "time": 1669316402.422495
 }
