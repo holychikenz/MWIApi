@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 148,
+      "ask": 147,
       "bid": 120,
       "vendor": 24
     },
@@ -281,8 +281,8 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 289,
-      "bid": 208,
+      "ask": 288,
+      "bid": 210,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -456,8 +456,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 222,
-      "bid": 200,
+      "ask": 257,
+      "bid": 201,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 339,
+      "ask": 338,
       "bid": 255,
       "vendor": 24
     },
@@ -632,7 +632,7 @@
     },
     "Cotton": {
       "ask": 99,
-      "bid": 23,
+      "bid": 30,
       "vendor": 2
     },
     "Cotton Boots": {
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 351,
+      "ask": 325,
       "bid": 258,
       "vendor": 54
     },
@@ -947,7 +947,7 @@
     },
     "Ginkgo Lumber": {
       "ask": 425,
-      "bid": 190,
+      "bid": 189,
       "vendor": 54
     },
     "Ginkgo Nature Staff": {
@@ -1042,7 +1042,7 @@
     },
     "Granite Bludgeon": {
       "ask": -1,
-      "bid": 12000000,
+      "bid": 4000000,
       "vendor": 400000
     },
     "Green Tea Leaf": {
@@ -1077,7 +1077,7 @@
     },
     "Holy Brush": {
       "ask": 130000,
-      "bid": 105000,
+      "bid": 100,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -1117,7 +1117,7 @@
     },
     "Holy Hatchet": {
       "ask": 169500,
-      "bid": 125000,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1157,7 +1157,7 @@
     },
     "Holy Shears": {
       "ask": -1,
-      "bid": 105000,
+      "bid": 100001,
       "vendor": 62370
     },
     "Holy Spatula": {
@@ -1247,7 +1247,7 @@
     },
     "Living Granite": {
       "ask": 1792307,
-      "bid": 560289,
+      "bid": 439001,
       "vendor": 10000
     },
     "Log": {
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 216,
+      "ask": 215,
       "bid": 153,
       "vendor": 6
     },
@@ -1307,7 +1307,7 @@
     },
     "Medium Pouch": {
       "ask": 180496,
-      "bid": 32851,
+      "bid": 31287,
       "vendor": 50000
     },
     "Milk": {
@@ -1376,7 +1376,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 225,
+      "ask": 281,
       "bid": 146,
       "vendor": 40
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 442,
+      "ask": 425,
       "bid": 400,
       "vendor": 27
     },
@@ -1646,7 +1646,7 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 86,
+      "ask": 94,
       "bid": 20,
       "vendor": 27
     },
@@ -1691,7 +1691,7 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 239,
+      "ask": 238,
       "bid": 51,
       "vendor": 18
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 289,
+      "ask": 288,
       "bid": 121,
       "vendor": 6
     },
@@ -1756,7 +1756,7 @@
       "vendor": 73
     },
     "Silk Gloves": {
-      "ask": 156151,
+      "ask": 156150,
       "bid": -1,
       "vendor": 7200
     },
@@ -1896,8 +1896,8 @@
       "vendor": 1000
     },
     "Sugar": {
-      "ask": 3,
-      "bid": 2,
+      "ask": 4,
+      "bid": 3,
       "vendor": 1
     },
     "Super Attack Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669253403.0860124
+  "time": 1669254303.627463
 }
