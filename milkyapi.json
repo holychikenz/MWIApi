@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 116,
+      "ask": 110,
       "bid": 76,
       "vendor": 24
     },
@@ -281,7 +281,7 @@
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 269,
+      "ask": 259,
       "bid": 212,
       "vendor": 12
     },
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 258,
-      "bid": 208,
+      "bid": 209,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -476,12 +476,12 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 100,
+      "ask": 99,
       "bid": 24,
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 319,
+      "ask": 309,
       "bid": 255,
       "vendor": 24
     },
@@ -642,7 +642,7 @@
     },
     "Cotton Fabric": {
       "ask": 202,
-      "bid": 115,
+      "bid": 114,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1839,
-      "bid": 1000,
+      "bid": 1001,
       "vendor": 50
     },
     "Egg": {
@@ -841,13 +841,13 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 33420,
+      "ask": 33419,
       "bid": 5011,
       "vendor": 1000
     },
     "Excelsa Coffee Bean": {
       "ask": 111,
-      "bid": 92,
+      "bid": 95,
       "vendor": 18
     },
     "Eyessence": {
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 121,
+      "ask": 120,
       "bid": 41,
       "vendor": 6
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 65,
+      "ask": 64,
       "bid": 36,
       "vendor": 18
     },
@@ -1117,7 +1117,7 @@
     },
     "Holy Hatchet": {
       "ask": 169499,
-      "bid": 125000,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 389,
+      "ask": 388,
       "bid": 316,
       "vendor": 12
     },
@@ -1411,12 +1411,12 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 5000,
+      "ask": 4999,
       "bid": 550,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 44453,
+      "ask": 44452,
       "bid": 5001,
       "vendor": 3000
     },
@@ -1426,7 +1426,7 @@
       "vendor": 60000
     },
     "Power Coffee": {
-      "ask": 614,
+      "ask": 609,
       "bid": 426,
       "vendor": 30
     },
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 48,
+      "ask": 46,
       "bid": 31,
       "vendor": 12
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 43997,
+      "ask": 43996,
       "bid": 25049,
       "vendor": 1000
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 999997,
+      "ask": 997997,
       "bid": 550009,
       "vendor": 1000
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 249,
+      "ask": 258,
       "bid": 121,
       "vendor": 6
     },
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 62,
+      "ask": 61,
       "bid": 36,
       "vendor": 6
     },
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 23930,
+      "ask": 23929,
       "bid": 11044,
       "vendor": 1000
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 943106,
+      "ask": 913106,
       "bid": 400058,
       "vendor": 1000
     },
@@ -2026,7 +2026,7 @@
       "vendor": 1500
     },
     "Turtle Shell Body": {
-      "ask": 30000,
+      "ask": 29000,
       "bid": -1,
       "vendor": 9000
     },
@@ -2051,7 +2051,7 @@
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": 540000,
+      "ask": 539999,
       "bid": -1,
       "vendor": 43344
     },
@@ -2061,7 +2061,7 @@
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": 400000,
+      "ask": 399999,
       "bid": -1,
       "vendor": 30960
     },
@@ -2071,7 +2071,7 @@
       "vendor": 144
     },
     "Umbral Tunic": {
-      "ask": 560000,
+      "ask": 559999,
       "bid": -1,
       "vendor": 49536
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669310103.2066302
+  "time": 1669311003.2645104
 }
