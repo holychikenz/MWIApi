@@ -41,17 +41,17 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 383888,
+      "ask": 383887,
       "bid": 200000,
       "vendor": 80190
     },
     "Arcane Log": {
       "ask": 338,
-      "bid": 125,
+      "bid": 2,
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 1784,
+      "ask": 1695,
       "bid": 1013,
       "vendor": 162
     },
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 788,
-      "bid": 558,
+      "bid": 559,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 305,
-      "bid": 255,
+      "bid": 3,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -831,7 +831,7 @@
       "vendor": 1000
     },
     "Emp Tea Leaf": {
-      "ask": 322,
+      "ask": 321,
       "bid": 258,
       "vendor": 54
     },
@@ -876,12 +876,12 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 799990,
+      "ask": 759991,
       "bid": 550001,
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 325000,
+      "ask": 304148,
       "bid": 50005,
       "vendor": 4000
     },
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 749,
-      "bid": 500,
+      "bid": 501,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1031,7 +1031,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 449,
+      "ask": 448,
       "bid": 262,
       "vendor": 108
     },
@@ -1176,13 +1176,13 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 732879,
+      "ask": 732878,
       "bid": 200007,
       "vendor": 1000
     },
     "Icy Cloth": {
       "ask": 499988,
-      "bid": 100000,
+      "bid": 75000,
       "vendor": 4000
     },
     "Icy Robe Bottoms": {
@@ -1211,8 +1211,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 413,
-      "bid": 316,
+      "ask": 412,
+      "bid": 317,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1246,7 +1246,7 @@
       "vendor": 864
     },
     "Living Granite": {
-      "ask": 1792304,
+      "ask": 1792303,
       "bid": 439001,
       "vendor": 10000
     },
@@ -1316,7 +1316,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 342,
+      "ask": 700,
       "bid": 173,
       "vendor": 10
     },
@@ -1372,7 +1372,7 @@
     },
     "Peach": {
       "ask": 49,
-      "bid": 22,
+      "bid": 23,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -1487,7 +1487,7 @@
     },
     "Radiant Fiber": {
       "ask": 190,
-      "bid": 114,
+      "bid": 116,
       "vendor": 48
     },
     "Radiant Gloves": {
@@ -1702,7 +1702,7 @@
     },
     "Robusta Coffee Bean": {
       "ask": 158,
-      "bid": 49,
+      "bid": 50,
       "vendor": 8
     },
     "Rough Boots": {
@@ -1746,7 +1746,7 @@
       "vendor": 1000
     },
     "Silk Boots": {
-      "ask": 98589,
+      "ask": 98588,
       "bid": -1,
       "vendor": 7200
     },
@@ -1822,7 +1822,7 @@
     },
     "Spaceberry": {
       "ask": 179,
-      "bid": 71,
+      "bid": 73,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1847,7 +1847,7 @@
     },
     "Stalactite Shard": {
       "ask": 1999999,
-      "bid": 500000,
+      "bid": 400001,
       "vendor": 10000
     },
     "Stalactite Spear": {
@@ -1881,12 +1881,12 @@
       "vendor": 6
     },
     "Strawberry Cake": {
-      "ask": 245,
+      "ask": 240,
       "bid": 118,
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 227,
+      "ask": 225,
       "bid": 101,
       "vendor": 30
     },
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 23929,
+      "ask": 23928,
       "bid": 11044,
       "vendor": 1000
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 900000,
-      "bid": 400062,
+      "bid": 400063,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669319103.1447368
+  "time": 1669320002.5258915
 }
