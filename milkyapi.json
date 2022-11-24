@@ -241,7 +241,7 @@
       "vendor": 24
     },
     "Beast Hood": {
-      "ask": 37727,
+      "ask": 39713,
       "bid": -1,
       "vendor": 9000
     },
@@ -351,7 +351,7 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": 8000,
+      "ask": 12000,
       "bid": -1,
       "vendor": 2160
     },
@@ -386,7 +386,7 @@
       "vendor": 3780
     },
     "Burble Gauntlets": {
-      "ask": 15000,
+      "ask": 25000,
       "bid": -1,
       "vendor": 2160
     },
@@ -401,7 +401,7 @@
       "vendor": 3780
     },
     "Burble Helmet": {
-      "ask": 15000,
+      "ask": -1,
       "bid": 2805,
       "vendor": 2700
     },
@@ -451,7 +451,7 @@
       "vendor": 4860
     },
     "Burble Sword": {
-      "ask": 10500,
+      "ask": 18000,
       "bid": -1,
       "vendor": 4860
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 99,
+      "ask": 134,
       "bid": 34,
       "vendor": 2
     },
@@ -676,7 +676,7 @@
       "vendor": 1500
     },
     "Crafting Tea": {
-      "ask": 1350,
+      "ask": 1349,
       "bid": 450,
       "vendor": 30
     },
@@ -906,13 +906,13 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 219654,
+      "ask": 219653,
       "bid": 15021,
       "vendor": 1000
     },
     "Gathering Tea": {
       "ask": 594,
-      "bid": 450,
+      "bid": 451,
       "vendor": 10
     },
     "Gator Vest": {
@@ -946,7 +946,7 @@
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": 400,
+      "ask": 420,
       "bid": 184,
       "vendor": 54
     },
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 261,
+      "ask": 260,
       "bid": 242,
       "vendor": 54
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 5195,
+      "ask": 5000,
       "bid": 550,
       "vendor": 1000
     },
@@ -1691,7 +1691,7 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 231,
+      "ask": 230,
       "bid": 151,
       "vendor": 18
     },
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 4891,
+      "ask": 4890,
       "bid": 1000,
       "vendor": 75
     },
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 999,
+      "ask": 998,
       "bid": 701,
       "vendor": 40
     },
@@ -2111,7 +2111,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 369,
+      "ask": 350,
       "bid": 245,
       "vendor": 12
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669306502.912179
+  "time": 1669307403.2800107
 }
