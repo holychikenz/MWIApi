@@ -397,7 +397,7 @@
     },
     "Burble Hatchet": {
       "ask": 63175,
-      "bid": 3780,
+      "bid": -1,
       "vendor": 3780
     },
     "Burble Helmet": {
@@ -437,7 +437,7 @@
     },
     "Burble Shears": {
       "ask": 45000,
-      "bid": 3528,
+      "bid": 3360,
       "vendor": 3780
     },
     "Burble Spatula": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 35184,
+      "ask": 33425,
       "bid": 5011,
       "vendor": 1000
     },
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 80,
-      "bid": 21,
+      "bid": 35,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 810,
-      "bid": 490,
+      "bid": 500,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1676,7 +1676,7 @@
       "vendor": 432
     },
     "Reptile Chaps": {
-      "ask": 72844,
+      "ask": 48327,
       "bid": -1,
       "vendor": 756
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669282202.3616087
+  "time": 1669283103.651193
 }
