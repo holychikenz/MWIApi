@@ -37,7 +37,7 @@
     },
     "Arcane Crossbow": {
       "ask": 250000,
-      "bid": 95000,
+      "bid": -1,
       "vendor": 80190
     },
     "Arcane Fire Staff": {
@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 1787,
-      "bid": 1002,
+      "bid": 1004,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -62,7 +62,7 @@
     },
     "Arcane Water Staff": {
       "ask": 394423,
-      "bid": 95000,
+      "bid": -1,
       "vendor": 80190
     },
     "Artisan Tea": {
@@ -376,7 +376,7 @@
       "vendor": 36
     },
     "Burble Chisel": {
-      "ask": 67688,
+      "ask": 67519,
       "bid": -1,
       "vendor": 3780
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 799998,
-      "bid": 300090,
+      "bid": 300091,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 429975,
+      "ask": 429900,
       "bid": 200149,
       "vendor": 1000
     },
@@ -1031,7 +1031,7 @@
       "vendor": 10000
     },
     "Golem Essence": {
-      "ask": 456,
+      "ask": 455,
       "bid": 262,
       "vendor": 108
     },
@@ -1042,7 +1042,7 @@
     },
     "Granite Bludgeon": {
       "ask": -1,
-      "bid": 4000000,
+      "bid": 5000000,
       "vendor": 400000
     },
     "Green Tea Leaf": {
@@ -1326,7 +1326,7 @@
       "vendor": 1000
     },
     "Mooberry": {
-      "ask": 25,
+      "ask": 26,
       "bid": 23,
       "vendor": 9
     },
@@ -1561,7 +1561,7 @@
       "vendor": 20979
     },
     "Rainbow Hatchet": {
-      "ask": 79800,
+      "ask": 80000,
       "bid": -1,
       "vendor": 20979
     },
@@ -1691,7 +1691,7 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 237,
+      "ask": 236,
       "bid": 51,
       "vendor": 18
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 901,
+      "ask": 900,
       "bid": 767,
       "vendor": 75
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669258802.5827909
+  "time": 1669259703.0599551
 }
