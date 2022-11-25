@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 162,
+      "ask": 163,
       "bid": 137,
       "vendor": 12
     },
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 135,
+      "ask": 129,
       "bid": 86,
       "vendor": 6
     },
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 202,
+      "ask": 199,
       "bid": 114,
       "vendor": 6
     },
@@ -912,7 +912,7 @@
     },
     "Gathering Tea": {
       "ask": 1550,
-      "bid": 453,
+      "bid": 1001,
       "vendor": 10
     },
     "Gator Vest": {
@@ -927,7 +927,7 @@
     },
     "Ginkgo Bow": {
       "ask": 50675,
-      "bid": -1,
+      "bid": 25000,
       "vendor": 15552
     },
     "Ginkgo Crossbow": {
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 665,
-      "bid": 505,
+      "bid": 504,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 27,
+      "ask": 25,
       "bid": 10,
       "vendor": 2
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 2141,
+      "ask": 2000,
       "bid": 1038,
       "vendor": 1000
     },
@@ -1577,7 +1577,7 @@
     },
     "Rainbow Milk": {
       "ask": 33,
-      "bid": 30,
+      "bid": 31,
       "vendor": 27
     },
     "Rainbow Needle": {
@@ -1646,7 +1646,7 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 80,
+      "ask": 79,
       "bid": 32,
       "vendor": 27
     },
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 98,
+      "ask": 99,
       "bid": 68,
       "vendor": 2
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 257,
+      "ask": 250,
       "bid": 121,
       "vendor": 6
     },
@@ -1761,7 +1761,7 @@
       "vendor": 7200
     },
     "Silk Hat": {
-      "ask": 42002,
+      "ask": 44213,
       "bid": -1,
       "vendor": 9000
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 4990,
+      "ask": 4989,
       "bid": 1044,
       "vendor": 1000
     },
@@ -1887,7 +1887,7 @@
     },
     "Strawberry Donut": {
       "ask": 225,
-      "bid": 100,
+      "bid": 101,
       "vendor": 30
     },
     "Stunning Blow": {
@@ -2222,12 +2222,12 @@
     },
     "Wheat": {
       "ask": 36,
-      "bid": 11,
+      "bid": 12,
       "vendor": 1
     },
     "Wisdom Coffee": {
       "ask": 1993,
-      "bid": 1250,
+      "bid": 1251,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669389302.707277
+  "time": 1669390202.0287557
 }
