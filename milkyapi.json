@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 100,
+      "ask": 75,
       "bid": 17,
       "vendor": 10
     },
@@ -191,7 +191,7 @@
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 592,
+      "ask": 593,
       "bid": 481,
       "vendor": 36
     },
@@ -336,12 +336,12 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 145,
+      "ask": 100,
       "bid": 19,
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 100,
+      "ask": 50,
       "bid": 36,
       "vendor": 10
     },
@@ -796,7 +796,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 4,
+      "ask": 15,
       "bid": -1,
       "vendor": 5
     },
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 219650,
-      "bid": 31046,
+      "bid": 31050,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 57000,
+      "ask": 56666,
       "bid": 1000,
       "vendor": 20000
     },
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 403,
+      "ask": 399,
       "bid": 355,
       "vendor": 12
     },
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 128000,
+      "ask": 127000,
       "bid": 32851,
       "vendor": 50000
     },
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 32,
+      "ask": 31,
       "bid": 28,
       "vendor": 18
     },
@@ -1356,7 +1356,7 @@
       "vendor": 20
     },
     "Orange Yogurt": {
-      "ask": 120,
+      "ask": 80,
       "bid": 21,
       "vendor": 20
     },
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 42729,
+      "ask": 42728,
       "bid": 12010,
       "vendor": 1000
     },
@@ -1576,8 +1576,8 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 33,
-      "bid": 31,
+      "ask": 35,
+      "bid": 30,
       "vendor": 27
     },
     "Rainbow Needle": {
@@ -1761,7 +1761,7 @@
       "vendor": 7200
     },
     "Silk Hat": {
-      "ask": 44213,
+      "ask": 48994,
       "bid": -1,
       "vendor": 9000
     },
@@ -1771,7 +1771,7 @@
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 88999,
+      "ask": 89000,
       "bid": -1,
       "vendor": 14400
     },
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 61,
+      "ask": 60,
       "bid": 49,
       "vendor": 6
     },
@@ -1936,7 +1936,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 1500,
+      "ask": 900,
       "bid": 201,
       "vendor": 40
     },
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 1163,
+      "ask": 850,
       "bid": 701,
       "vendor": 40
     },
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 800,
+      "ask": 750,
       "bid": 455,
       "vendor": 40
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 850000,
-      "bid": 400081,
+      "bid": 400084,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2076,7 +2076,7 @@
       "vendor": 49536
     },
     "Vampire Fang": {
-      "ask": 1249981,
+      "ask": 1249980,
       "bid": 639457,
       "vendor": 10000
     },
@@ -2211,7 +2211,7 @@
       "vendor": 1000
     },
     "Werewolf Claw": {
-      "ask": 507929,
+      "ask": 507928,
       "bid": 315012,
       "vendor": 10000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669390202.0287557
+  "time": 1669391102.827013
 }
