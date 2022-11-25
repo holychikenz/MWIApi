@@ -231,7 +231,7 @@
       "vendor": 7200
     },
     "Beast Chaps": {
-      "ask": 131266,
+      "ask": 131265,
       "bid": -1,
       "vendor": 12600
     },
@@ -251,7 +251,7 @@
       "vendor": 72
     },
     "Beast Tunic": {
-      "ask": 262751,
+      "ask": 262750,
       "bid": -1,
       "vendor": 14400
     },
@@ -1357,7 +1357,7 @@
     },
     "Orange Yogurt": {
       "ask": 120,
-      "bid": 26,
+      "bid": 21,
       "vendor": 20
     },
     "Panda Fluff": {
@@ -1407,7 +1407,7 @@
     },
     "Plum Yogurt": {
       "ask": 400,
-      "bid": 150,
+      "bid": 175,
       "vendor": 30
     },
     "Poke": {
@@ -2047,12 +2047,12 @@
     },
     "Umbral Bracers": {
       "ask": 399997,
-      "bid": -1,
+      "bid": 200000,
       "vendor": 24768
     },
     "Umbral Chaps": {
       "ask": 540000,
-      "bid": -1,
+      "bid": 300000,
       "vendor": 43344
     },
     "Umbral Hide": {
@@ -2062,7 +2062,7 @@
     },
     "Umbral Hood": {
       "ask": 400000,
-      "bid": -1,
+      "bid": 200000,
       "vendor": 30960
     },
     "Umbral Leather": {
@@ -2072,7 +2072,7 @@
     },
     "Umbral Tunic": {
       "ask": 559999,
-      "bid": -1,
+      "bid": 300000,
       "vendor": 49536
     },
     "Vampire Fang": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669352401.8899872
+  "time": 1669353303.4196649
 }
