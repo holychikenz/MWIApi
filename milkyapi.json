@@ -221,17 +221,17 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 45801,
+      "ask": 45800,
       "bid": 26250,
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 53558,
+      "ask": 53557,
       "bid": -1,
       "vendor": 7200
     },
     "Beast Chaps": {
-      "ask": 131265,
+      "ask": 131264,
       "bid": -1,
       "vendor": 12600
     },
@@ -241,7 +241,7 @@
       "vendor": 24
     },
     "Beast Hood": {
-      "ask": 35836,
+      "ask": 35835,
       "bid": -1,
       "vendor": 9000
     },
@@ -861,12 +861,12 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 194,
+      "ask": 193,
       "bid": 116,
       "vendor": 27
     },
     "Fireball": {
-      "ask": 26926,
+      "ask": 26925,
       "bid": 15011,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 759985,
+      "ask": 759984,
       "bid": 550002,
       "vendor": 1000
     },
@@ -1391,7 +1391,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 200000,
+      "ask": 179000,
       "bid": 71026,
       "vendor": 6000
     },
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 486,
+      "ask": 484,
       "bid": 276,
       "vendor": 36
     },
@@ -1877,7 +1877,7 @@
     },
     "Strawberry": {
       "ask": 59,
-      "bid": 49,
+      "bid": 50,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 750,
+      "ask": 800,
       "bid": 455,
       "vendor": 40
     },
@@ -2046,13 +2046,13 @@
       "vendor": 24768
     },
     "Umbral Bracers": {
-      "ask": 399997,
-      "bid": 250000,
+      "ask": 399998,
+      "bid": -1,
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": 540000,
-      "bid": 350000,
+      "ask": -1,
+      "bid": -1,
       "vendor": 43344
     },
     "Umbral Hide": {
@@ -2062,7 +2062,7 @@
     },
     "Umbral Hood": {
       "ask": 400000,
-      "bid": 250000,
+      "bid": -1,
       "vendor": 30960
     },
     "Umbral Leather": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669392002.6159236
+  "time": 1669392902.7658796
 }
