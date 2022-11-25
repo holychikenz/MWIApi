@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 258,
-      "bid": 223,
+      "bid": 224,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -481,8 +481,8 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 341,
-      "bid": 193,
+      "ask": 324,
+      "bid": 194,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1836,
+      "ask": 1835,
       "bid": 1150,
       "vendor": 50
     },
@@ -1096,7 +1096,7 @@
       "vendor": 162
     },
     "Holy Chisel": {
-      "ask": 100000,
+      "ask": 200000,
       "bid": -1,
       "vendor": 62370
     },
@@ -1117,7 +1117,7 @@
     },
     "Holy Hatchet": {
       "ask": 169499,
-      "bid": 125000,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 405,
+      "ask": 406,
       "bid": 355,
       "vendor": 12
     },
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 914,
-      "bid": 708,
+      "bid": 709,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1866,13 +1866,13 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 744,
+      "ask": 743,
       "bid": 607,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
       "ask": 861,
-      "bid": 693,
+      "bid": 694,
       "vendor": 75
     },
     "Strawberry": {
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 900000,
-      "bid": 400072,
+      "bid": 400073,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669344303.6537347
+  "time": 1669345203.1548603
 }
