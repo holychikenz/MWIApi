@@ -31,7 +31,7 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": 498999,
+      "ask": 235000,
       "bid": 157500,
       "vendor": 106920
     },
@@ -41,8 +41,8 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 326671,
-      "bid": 100000,
+      "ask": 220000,
+      "bid": 6943,
       "vendor": 80190
     },
     "Arcane Log": {
@@ -51,8 +51,8 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 1348,
-      "bid": 1032,
+      "ask": 1200,
+      "bid": 1005,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -181,7 +181,7 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 28998,
+      "ask": 28997,
       "bid": 2500,
       "vendor": 1872
     },
@@ -201,7 +201,7 @@
       "vendor": 1872
     },
     "Bamboo Hat": {
-      "ask": 34999,
+      "ask": 32999,
       "bid": -1,
       "vendor": 2340
     },
@@ -276,7 +276,7 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 124,
+      "ask": 122,
       "bid": 53,
       "vendor": 4
     },
@@ -326,8 +326,8 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1158,
-      "bid": 455,
+      "ask": 1157,
+      "bid": 456,
       "vendor": 75
     },
     "Blueberry": {
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 40,
+      "ask": 35,
       "bid": 24,
       "vendor": 18
     },
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 26,
+      "ask": 35,
       "bid": 11,
       "vendor": 1
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 200766,
+      "ask": 199999,
       "bid": 50006,
       "vendor": 4000
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 999,
+      "ask": 800,
       "bid": 501,
       "vendor": 10
     },
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 643,
-      "bid": 250,
+      "bid": 251,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 78,
-      "bid": 60,
+      "bid": 61,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1072,7 +1072,7 @@
     },
     "Holy Boots": {
       "ask": 35950,
-      "bid": 30125,
+      "bid": 30450,
       "vendor": 35640
     },
     "Holy Brush": {
@@ -1631,17 +1631,17 @@
       "vendor": 27
     },
     "Redwood Bow": {
-      "ask": 59715,
+      "ask": 55000,
       "bid": -1,
       "vendor": 35964
     },
     "Redwood Crossbow": {
-      "ask": 174999,
+      "ask": 55000,
       "bid": -1,
       "vendor": 26973
     },
     "Redwood Fire Staff": {
-      "ask": 75747,
+      "ask": 55000,
       "bid": -1,
       "vendor": 26973
     },
@@ -1656,12 +1656,12 @@
       "vendor": 81
     },
     "Redwood Nature Staff": {
-      "ask": 177354,
+      "ask": 55000,
       "bid": -1,
       "vendor": 26973
     },
     "Redwood Water Staff": {
-      "ask": 177793,
+      "ask": 55000,
       "bid": -1,
       "vendor": 26973
     },
@@ -1701,7 +1701,7 @@
       "vendor": 864
     },
     "Robusta Coffee Bean": {
-      "ask": 150,
+      "ask": 149,
       "bid": 76,
       "vendor": 8
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669408202.8171864
+  "time": 1669409103.0919704
 }
