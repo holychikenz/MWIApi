@@ -372,11 +372,11 @@
     },
     "Burble Cheese": {
       "ask": 300,
-      "bid": 221,
+      "bid": 222,
       "vendor": 36
     },
     "Burble Chisel": {
-      "ask": 67519,
+      "ask": 67688,
       "bid": -1,
       "vendor": 3780
     },
@@ -531,7 +531,7 @@
       "vendor": 144
     },
     "Cheese Chisel": {
-      "ask": 4850,
+      "ask": 5000,
       "bid": -1,
       "vendor": 84
     },
@@ -947,7 +947,7 @@
     },
     "Ginkgo Lumber": {
       "ask": 400,
-      "bid": 300,
+      "bid": 184,
       "vendor": 54
     },
     "Ginkgo Nature Staff": {
@@ -1117,7 +1117,7 @@
     },
     "Holy Hatchet": {
       "ask": 119999,
-      "bid": -1,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1181,7 +1181,7 @@
       "vendor": 1000
     },
     "Icy Cloth": {
-      "ask": 450000,
+      "ask": 449999,
       "bid": 75000,
       "vendor": 4000
     },
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 333,
-      "bid": 295,
+      "bid": 296,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": -1,
+      "ask": 666,
       "bid": 277,
       "vendor": 81
     },
@@ -2006,7 +2006,7 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 3649983,
+      "ask": 3649984,
       "bid": 1000001,
       "vendor": 100000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669444203.1165638
+  "time": 1669445103.0226467
 }
