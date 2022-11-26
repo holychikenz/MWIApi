@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 8,
-      "bid": 6,
+      "bid": 5,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 338,
-      "bid": 223,
+      "bid": 222,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -742,7 +742,7 @@
     },
     "Crimson Milk": {
       "ask": 40,
-      "bid": 24,
+      "bid": 19,
       "vendor": 18
     },
     "Crimson Needle": {
@@ -857,7 +857,7 @@
     },
     "Fermenting Tea": {
       "ask": 895,
-      "bid": 400,
+      "bid": 201,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
@@ -966,7 +966,7 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 29752,
+      "ask": 29751,
       "bid": 4500,
       "vendor": 1872
     },
@@ -996,8 +996,8 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 643,
-      "bid": 266,
+      "ask": 611,
+      "bid": 279,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1116,7 +1116,7 @@
       "vendor": 62370
     },
     "Holy Hatchet": {
-      "ask": 120000,
+      "ask": 119999,
       "bid": 105000,
       "vendor": 62370
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669434303.1535206
+  "time": 1669435202.5262682
 }
