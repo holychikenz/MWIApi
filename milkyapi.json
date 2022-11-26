@@ -126,7 +126,7 @@
       "vendor": 1512
     },
     "Azure Helmet": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 3604,
       "vendor": 1080
     },
@@ -276,12 +276,12 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 118,
+      "ask": 117,
       "bid": 57,
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 90,
+      "ask": 89,
       "bid": 61,
       "vendor": 12
     },
@@ -421,7 +421,7 @@
       "vendor": 3780
     },
     "Burble Plate Body": {
-      "ask": -1,
+      "ask": 49000,
       "bid": 5253,
       "vendor": 4320
     },
@@ -511,7 +511,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": -1,
+      "ask": 1600,
       "bid": -1,
       "vendor": 48
     },
@@ -556,7 +556,7 @@
       "vendor": 84
     },
     "Cheese Helmet": {
-      "ask": -1,
+      "ask": 2000,
       "bid": 270,
       "vendor": 60
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1830,
+      "ask": 1829,
       "bid": 1202,
       "vendor": 50
     },
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 517,
+      "ask": 509,
       "bid": 381,
       "vendor": 18
     },
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 465,
-      "bid": 416,
+      "bid": 417,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -2141,7 +2141,7 @@
       "vendor": 420
     },
     "Verdant Helmet": {
-      "ask": -1,
+      "ask": 15000,
       "bid": 803,
       "vendor": 300
     },
@@ -2156,12 +2156,12 @@
       "vendor": 4
     },
     "Verdant Needle": {
-      "ask": 29936,
+      "ask": 15000,
       "bid": -1,
       "vendor": 420
     },
     "Verdant Plate Body": {
-      "ask": 4513,
+      "ask": 12000,
       "bid": 606,
       "vendor": 480
     },
@@ -2171,7 +2171,7 @@
       "vendor": 420
     },
     "Verdant Pot": {
-      "ask": 14000,
+      "ask": 11000,
       "bid": 445,
       "vendor": 420
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1985,
+      "ask": 1983,
       "bid": 1024,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669464003.5351713
+  "time": 1669464902.5866935
 }
