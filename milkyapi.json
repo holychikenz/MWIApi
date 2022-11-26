@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 75,
+      "ask": 50,
       "bid": 17,
       "vendor": 10
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 269,
+      "ask": 256,
       "bid": 84,
       "vendor": 24
     },
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 274,
-      "bid": 203,
+      "bid": 214,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 94,
+      "ask": 99,
       "bid": 86,
       "vendor": 6
     },
@@ -617,7 +617,7 @@
     },
     "Cocoon": {
       "ask": 195,
-      "bid": 35,
+      "bid": 125,
       "vendor": 24
     },
     "Coin": {
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 337,
-      "bid": 225,
+      "bid": 226,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 799989,
-      "bid": 300194,
+      "bid": 300195,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -872,7 +872,7 @@
     },
     "Flame Arrow": {
       "ask": 357997,
-      "bid": 150024,
+      "bid": 150025,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 180496,
+      "ask": 179594,
       "bid": 50005,
       "vendor": 4000
     },
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 390,
+      "ask": 400,
       "bid": 206,
       "vendor": 12
     },
@@ -1241,12 +1241,12 @@
       "vendor": 756
     },
     "Linen Robe Top": {
-      "ask": 20945,
+      "ask": 20000,
       "bid": 6000,
       "vendor": 864
     },
     "Living Granite": {
-      "ask": 1702682,
+      "ask": 1317503,
       "bid": 439001,
       "vendor": 10000
     },
@@ -1266,8 +1266,8 @@
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 772,
-      "bid": 501,
+      "ask": 600,
+      "bid": 250,
       "vendor": 30
     },
     "Magnet": {
@@ -1376,7 +1376,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 299,
+      "ask": 312,
       "bid": 213,
       "vendor": 40
     },
@@ -1401,7 +1401,7 @@
       "vendor": 6
     },
     "Plum Gummy": {
-      "ask": 120,
+      "ask": 114,
       "bid": 67,
       "vendor": 30
     },
@@ -1416,7 +1416,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 44454,
+      "ask": 44453,
       "bid": 5001,
       "vendor": 3000
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 441,
+      "ask": 442,
       "bid": 350,
       "vendor": 73
     },
@@ -1806,13 +1806,13 @@
       "vendor": 2000
     },
     "Sorcerer Boots": {
-      "ask": 3000000,
+      "ask": 2000000,
       "bid": 650000,
       "vendor": 50000
     },
     "Sorcerer Essence": {
       "ask": 477,
-      "bid": 276,
+      "bid": 300,
       "vendor": 36
     },
     "Sorcerer's Sole": {
@@ -1941,7 +1941,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1199,
+      "ask": 1200,
       "bid": 511,
       "vendor": 40
     },
@@ -1956,7 +1956,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1107,
+      "ask": 1109,
       "bid": 1003,
       "vendor": 75
     },
@@ -2006,7 +2006,7 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 3649984,
+      "ask": 3649990,
       "bid": 1000001,
       "vendor": 100000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669482003.319442
+  "time": 1669482902.9889886
 }
