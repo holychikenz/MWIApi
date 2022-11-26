@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 8,
+      "ask": 7,
       "bid": 6,
       "vendor": 2
     },
@@ -67,7 +67,7 @@
     },
     "Artisan Tea": {
       "ask": 1794,
-      "bid": 812,
+      "bid": 813,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 147,
+      "ask": 140,
       "bid": 84,
       "vendor": 24
     },
@@ -501,12 +501,12 @@
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 75484,
+      "ask": 75000,
       "bid": 38003,
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 94,
+      "ask": 90,
       "bid": 86,
       "vendor": 6
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 150,
+      "ask": 195,
       "bid": 32,
       "vendor": 24
     },
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 337,
-      "bid": 224,
+      "bid": 225,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -816,12 +816,12 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1738,
-      "bid": 1250,
+      "ask": 1737,
+      "bid": 1500,
       "vendor": 50
     },
     "Egg": {
-      "ask": 39,
+      "ask": 34,
       "bid": 11,
       "vendor": 1
     },
@@ -852,7 +852,7 @@
     },
     "Eyessence": {
       "ask": 53,
-      "bid": 37,
+      "bid": 45,
       "vendor": 36
     },
     "Fermenting Tea": {
@@ -877,7 +877,7 @@
     },
     "Flame Blast": {
       "ask": 721982,
-      "bid": 550004,
+      "bid": 550005,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -1281,7 +1281,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 145000,
+      "ask": 159000,
       "bid": 10001,
       "vendor": 10000
     },
@@ -1496,12 +1496,12 @@
       "vendor": 24768
     },
     "Radiant Hat": {
-      "ask": 115583,
+      "ask": 125000,
       "bid": -1,
       "vendor": 30960
     },
     "Radiant Robe Bottoms": {
-      "ask": 434681,
+      "ask": 250000,
       "bid": -1,
       "vendor": 43344
     },
@@ -1732,7 +1732,7 @@
     },
     "Rough Leather": {
       "ask": 236,
-      "bid": 171,
+      "bid": 172,
       "vendor": 6
     },
     "Rough Tunic": {
@@ -1811,12 +1811,12 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 478,
+      "ask": 477,
       "bid": 276,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 500000,
+      "ask": 499999,
       "bid": 40002,
       "vendor": 3000
     },
@@ -1997,7 +1997,7 @@
     },
     "Tailoring Tea": {
       "ask": 933,
-      "bid": 403,
+      "bid": 404,
       "vendor": 30
     },
     "Tome Of Healing": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669479303.4373217
+  "time": 1669480203.0070984
 }
