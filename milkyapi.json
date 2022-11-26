@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 7,
+      "ask": 11,
       "bid": 6,
       "vendor": 2
     },
@@ -46,7 +46,7 @@
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 206,
+      "ask": 205,
       "bid": 130,
       "vendor": 54
     },
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 349,
-      "bid": 250,
+      "bid": 260,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -921,7 +921,7 @@
       "vendor": 5000
     },
     "Giant Pouch": {
-      "ask": 7281740,
+      "ask": 7281739,
       "bid": 3000001,
       "vendor": 5000000
     },
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 399,
-      "bid": 305,
+      "bid": 306,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 31,
+      "ask": 32,
       "bid": 27,
       "vendor": 18
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 29,
+      "ask": 33,
       "bid": 28,
       "vendor": 6
     },
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 665,
-      "bid": 376,
+      "bid": 395,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 841,
-      "bid": 769,
+      "bid": 770,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1500,
+      "ask": 1970,
       "bid": 1100,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669503602.8782456
+  "time": 1669504502.8173819
 }
