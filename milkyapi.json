@@ -31,8 +31,8 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": 220000,
-      "bid": 157500,
+      "ask": 209000,
+      "bid": -1,
       "vendor": 106920
     },
     "Arcane Crossbow": {
@@ -371,7 +371,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 300,
+      "ask": 299,
       "bid": 222,
       "vendor": 36
     },
@@ -1136,7 +1136,7 @@
       "vendor": 54
     },
     "Holy Needle": {
-      "ask": 147949,
+      "ask": 147900,
       "bid": -1,
       "vendor": 62370
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669449603.1522207
+  "time": 1669450503.2788079
 }
