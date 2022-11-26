@@ -882,7 +882,7 @@
     },
     "Flaming Cloth": {
       "ask": 180499,
-      "bid": 100000,
+      "bid": 50005,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 125000,
-      "bid": 35010,
+      "bid": 35012,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 56000,
+      "ask": 57000,
       "bid": 15000,
       "vendor": 20000
     },
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 350,
+      "ask": 403,
       "bid": 62,
       "vendor": 12
     },
@@ -1382,7 +1382,7 @@
     },
     "Peach Yogurt": {
       "ask": 425,
-      "bid": 321,
+      "bid": 322,
       "vendor": 40
     },
     "Pierce": {
@@ -1446,7 +1446,7 @@
       "vendor": 4860
     },
     "Purpleheart Fire Staff": {
-      "ask": 60000,
+      "ask": 39999,
       "bid": -1,
       "vendor": 4860
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 759983,
+      "ask": 759981,
       "bid": 550010,
       "vendor": 1000
     },
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 666,
-      "bid": 280,
+      "bid": 281,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1811,12 +1811,12 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 480,
+      "ask": 479,
       "bid": 276,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 206066,
+      "ask": 206065,
       "bid": 40001,
       "vendor": 3000
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 891,
+      "ask": 887,
       "bid": 768,
       "vendor": 75
     },
@@ -1861,7 +1861,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 207,
+      "ask": 208,
       "bid": 102,
       "vendor": 27
     },
@@ -1902,7 +1902,7 @@
     },
     "Super Attack Coffee": {
       "ask": 490,
-      "bid": 240,
+      "bid": 241,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 749,
+      "ask": 712,
       "bid": 701,
       "vendor": 40
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 899999,
-      "bid": 400096,
+      "bid": 400099,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2226,8 +2226,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1380,
-      "bid": 1004,
+      "ask": 1991,
+      "bid": 1024,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669458602.5840893
+  "time": 1669459502.952723
 }
