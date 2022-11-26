@@ -46,7 +46,7 @@
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 212,
+      "ask": 211,
       "bid": 127,
       "vendor": 54
     },
@@ -71,7 +71,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 443,
+      "ask": 350,
       "bid": 282,
       "vendor": 20
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 230,
+      "ask": 229,
       "bid": 85,
       "vendor": 24
     },
@@ -257,7 +257,7 @@
     },
     "Berserk": {
       "ask": 298229,
-      "bid": 175000,
+      "bid": 175001,
       "vendor": 1000
     },
     "Birch Bow": {
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 112,
-      "bid": 60,
+      "bid": 57,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -612,7 +612,7 @@
     },
     "Cleave": {
       "ask": 168982,
-      "bid": 100018,
+      "bid": 100019,
       "vendor": 1000
     },
     "Cocoon": {
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 37,
+      "ask": 40,
       "bid": 20,
       "vendor": 18
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 540,
+      "ask": 535,
       "bid": 358,
       "vendor": 50
     },
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 34,
+      "ask": 33,
       "bid": 11,
       "vendor": 1
     },
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 70,
-      "bid": 27,
+      "bid": 28,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -967,17 +967,17 @@
     },
     "Gobo Boots": {
       "ask": 29751,
-      "bid": 4500,
+      "bid": 4501,
       "vendor": 1872
     },
     "Gobo Bracers": {
       "ask": 17447,
-      "bid": -1,
+      "bid": 1966,
       "vendor": 1872
     },
     "Gobo Chaps": {
       "ask": -1,
-      "bid": 4603,
+      "bid": 4604,
       "vendor": 3276
     },
     "Gobo Essence": {
@@ -992,7 +992,7 @@
     },
     "Gobo Hood": {
       "ask": 10523,
-      "bid": -1,
+      "bid": 2457,
       "vendor": 2340
     },
     "Gobo Leather": {
@@ -1022,7 +1022,7 @@
     },
     "Gobo Tunic": {
       "ask": 142489,
-      "bid": -1,
+      "bid": 3931,
       "vendor": 3744
     },
     "Goggles": {
@@ -1207,7 +1207,7 @@
     },
     "Large Pouch": {
       "ask": 1341351,
-      "bid": 512003,
+      "bid": 512004,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
@@ -1252,7 +1252,7 @@
     },
     "Log": {
       "ask": 24,
-      "bid": 10,
+      "bid": 9,
       "vendor": 2
     },
     "Lucky Coffee": {
@@ -1452,7 +1452,7 @@
     },
     "Purpleheart Log": {
       "ask": 37,
-      "bid": 18,
+      "bid": 19,
       "vendor": 12
     },
     "Purpleheart Lumber": {
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 689998,
+      "ask": 689997,
       "bid": 550000,
       "vendor": 1000
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 464,
+      "ask": 463,
       "bid": 420,
       "vendor": 27
     },
@@ -1647,7 +1647,7 @@
     },
     "Redwood Log": {
       "ask": 78,
-      "bid": 35,
+      "bid": 36,
       "vendor": 27
     },
     "Redwood Lumber": {
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 99,
+      "ask": 100,
       "bid": 68,
       "vendor": 2
     },
@@ -1821,7 +1821,7 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 189,
+      "ask": 188,
       "bid": 90,
       "vendor": 27
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 857,
+      "ask": 855,
       "bid": 800,
       "vendor": 75
     },
@@ -1951,8 +1951,8 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 711,
-      "bid": 701,
+      "ask": 675,
+      "bid": 300,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 941,
+      "ask": 940,
       "bid": 823,
       "vendor": 50
     },
@@ -2221,12 +2221,12 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 34,
+      "ask": 33,
       "bid": 13,
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1970,
+      "ask": 1500,
       "bid": 1029,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669486503.686522
+  "time": 1669487403.1049097
 }
