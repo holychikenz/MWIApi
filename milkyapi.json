@@ -971,12 +971,12 @@
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 16571,
+      "ask": 16572,
       "bid": -1,
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 37058,
+      "ask": 37059,
       "bid": 4603,
       "vendor": 3276
     },
@@ -1077,7 +1077,7 @@
     },
     "Holy Brush": {
       "ask": 130000,
-      "bid": 105000,
+      "bid": 100,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 769,
+      "ask": 777,
       "bid": 676,
       "vendor": 162
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 19999,
+      "ask": 15000,
       "bid": 3511,
       "vendor": 1000
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 1000,
+      "ask": 900,
       "bid": 703,
       "vendor": 1000
     },
@@ -1452,7 +1452,7 @@
     },
     "Purpleheart Log": {
       "ask": 38,
-      "bid": 16,
+      "bid": 17,
       "vendor": 12
     },
     "Purpleheart Lumber": {
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 2999,
+      "ask": 2599,
       "bid": 1263,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669430703.085911
+  "time": 1669431602.5295782
 }
