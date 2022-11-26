@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 223,
-      "bid": 125,
+      "bid": 126,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -187,11 +187,11 @@
     },
     "Bamboo Branch": {
       "ask": 148,
-      "bid": 132,
+      "bid": 102,
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 603,
+      "ask": 602,
       "bid": 491,
       "vendor": 36
     },
@@ -217,7 +217,7 @@
     },
     "Bear Essence": {
       "ask": 56,
-      "bid": 53,
+      "bid": 54,
       "vendor": 54
     },
     "Beast Boots": {
@@ -236,8 +236,8 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 115,
-      "bid": 82,
+      "ask": 118,
+      "bid": 85,
       "vendor": 24
     },
     "Beast Hood": {
@@ -326,8 +326,8 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1156,
-      "bid": 459,
+      "ask": 1155,
+      "bid": 460,
       "vendor": 75
     },
     "Blueberry": {
@@ -821,13 +821,13 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 40,
+      "ask": 39,
       "bid": 11,
       "vendor": 1
     },
     "Elemental Affinity": {
       "ask": 799990,
-      "bid": 300179,
+      "bid": 300180,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 25000,
+      "ask": 24999,
       "bid": 15012,
       "vendor": 1000
     },
@@ -921,7 +921,7 @@
       "vendor": 5000
     },
     "Giant Pouch": {
-      "ask": 7281750,
+      "ask": 7281749,
       "bid": 3000000,
       "vendor": 5000000
     },
@@ -1091,8 +1091,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 777,
-      "bid": 678,
+      "ask": 776,
+      "bid": 679,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1117,7 +1117,7 @@
     },
     "Holy Hatchet": {
       "ask": 119999,
-      "bid": 105000,
+      "bid": -1,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 599990,
+      "ask": 599989,
       "bid": 300000,
       "vendor": 1000
     },
@@ -1377,7 +1377,7 @@
     },
     "Peach Gummy": {
       "ask": 297,
-      "bid": 218,
+      "bid": 219,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 759992,
+      "ask": 759991,
       "bid": 550010,
       "vendor": 1000
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 462,
+      "ask": 464,
       "bid": 415,
       "vendor": 27
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 2599,
+      "ask": 2000,
       "bid": 1263,
       "vendor": 1000
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 438,
+      "ask": 437,
       "bid": 316,
       "vendor": 73
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 2400,
+      "ask": 2000,
       "bid": 1044,
       "vendor": 1000
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 64658,
+      "ask": 64832,
       "bid": 40000,
       "vendor": 3000
     },
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 898,
-      "bid": 769,
+      "bid": 768,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1866,7 +1866,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 738,
+      "ask": 737,
       "bid": 607,
       "vendor": 75
     },
@@ -1932,7 +1932,7 @@
     },
     "Super Enhancing Tea": {
       "ask": 1187,
-      "bid": 306,
+      "bid": 307,
       "vendor": 50
     },
     "Super Foraging Tea": {
@@ -1957,7 +1957,7 @@
     },
     "Super Power Coffee": {
       "ask": 1110,
-      "bid": 1000,
+      "bid": 1002,
       "vendor": 75
     },
     "Super Ranged Coffee": {
@@ -1986,13 +1986,13 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 15499,
-      "bid": 11065,
+      "ask": 15000,
+      "bid": 11066,
       "vendor": 1000
     },
     "Swiftness Coffee": {
       "ask": 942,
-      "bid": 821,
+      "bid": 822,
       "vendor": 50
     },
     "Tailoring Tea": {
@@ -2222,12 +2222,12 @@
     },
     "Wheat": {
       "ask": 32,
-      "bid": 12,
+      "bid": 13,
       "vendor": 1
     },
     "Wisdom Coffee": {
       "ask": 1385,
-      "bid": 1003,
+      "bid": 1004,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669435202.5262682
+  "time": 1669436102.7492013
 }
