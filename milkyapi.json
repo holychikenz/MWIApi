@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 1025,
-      "bid": 2,
+      "bid": 500,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 155,
-      "bid": 103,
+      "bid": 102,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -326,8 +326,8 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1155,
-      "bid": 460,
+      "ask": 1154,
+      "bid": 461,
       "vendor": 75
     },
     "Blueberry": {
@@ -811,7 +811,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 450,
+      "ask": 449,
       "bid": 434,
       "vendor": 50
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 799989,
-      "bid": 300185,
+      "bid": 300186,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -867,7 +867,7 @@
     },
     "Fireball": {
       "ask": 23999,
-      "bid": 15016,
+      "bid": 15018,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -906,7 +906,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 125000,
+      "ask": 124999,
       "bid": 35016,
       "vendor": 1000
     },
@@ -921,7 +921,7 @@
       "vendor": 5000
     },
     "Giant Pouch": {
-      "ask": 7281748,
+      "ask": 7281747,
       "bid": 3000001,
       "vendor": 5000000
     },
@@ -1252,7 +1252,7 @@
     },
     "Log": {
       "ask": 24,
-      "bid": 9,
+      "bid": 8,
       "vendor": 2
     },
     "Lucky Coffee": {
@@ -1296,7 +1296,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 349,
+      "ask": 348,
       "bid": 277,
       "vendor": 50
     },
@@ -1361,8 +1361,8 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 30947,
-      "bid": 29905,
+      "ask": 30946,
+      "bid": 2,
       "vendor": 3000
     },
     "Panda Gloves": {
@@ -1416,7 +1416,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 44455,
+      "ask": 44454,
       "bid": 5001,
       "vendor": 3000
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 899999,
-      "bid": 400099,
+      "bid": 400100,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2071,7 +2071,7 @@
       "vendor": 144
     },
     "Umbral Tunic": {
-      "ask": 499999,
+      "ask": 499998,
       "bid": -1,
       "vendor": 49536
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1988,
+      "ask": 1987,
       "bid": 1024,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669462203.0939274
+  "time": 1669463103.105691
 }
