@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 30,
+      "ask": 40,
       "bid": 11,
       "vendor": 1
     },
@@ -857,7 +857,7 @@
     },
     "Fermenting Tea": {
       "ask": 895,
-      "bid": 201,
+      "bid": 400,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
@@ -922,7 +922,7 @@
     },
     "Giant Pouch": {
       "ask": 7281750,
-      "bid": 2000001,
+      "bid": 3000000,
       "vendor": 5000000
     },
     "Ginkgo Bow": {
@@ -1341,8 +1341,8 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 29,
-      "bid": 27,
+      "ask": 30,
+      "bid": 29,
       "vendor": 18
     },
     "Orange": {
@@ -1821,13 +1821,13 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 176,
+      "ask": 177,
       "bid": 82,
       "vendor": 27
     },
     "Spaceberry Cake": {
       "ask": 898,
-      "bid": 770,
+      "bid": 769,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1861,7 +1861,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 208,
+      "ask": 207,
       "bid": 98,
       "vendor": 27
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 979,
+      "ask": 975,
       "bid": 726,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669432503.4443676
+  "time": 1669433402.403418
 }
