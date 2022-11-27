@@ -42,16 +42,16 @@
     },
     "Arcane Fire Staff": {
       "ask": 180049,
-      "bid": 105001,
+      "bid": 105002,
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 203,
+      "ask": 202,
       "bid": 131,
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 1005,
+      "ask": 999,
       "bid": 600,
       "vendor": 162
     },
@@ -97,7 +97,7 @@
     },
     "Azure Cheese": {
       "ask": 355,
-      "bid": 153,
+      "bid": 154,
       "vendor": 24
     },
     "Azure Chisel": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 225,
+      "ask": 214,
       "bid": 87,
       "vendor": 24
     },
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 349,
-      "bid": 230,
+      "bid": 231,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 45,
-      "bid": 34,
+      "bid": 35,
       "vendor": 12
     },
     "Burble Needle": {
@@ -466,7 +466,7 @@
       "vendor": 2592
     },
     "Cedar Crossbow": {
-      "ask": 75000,
+      "ask": 74999,
       "bid": -1,
       "vendor": 1944
     },
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 297,
-      "bid": 195,
+      "bid": 196,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -501,7 +501,7 @@
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 71244,
+      "ask": 427497,
       "bid": 42004,
       "vendor": 3000
     },
@@ -521,7 +521,7 @@
       "vendor": 84
     },
     "Cheese Buckler": {
-      "ask": 2500,
+      "ask": 2000,
       "bid": 216,
       "vendor": 72
     },
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 337,
-      "bid": 231,
+      "bid": 232,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -906,8 +906,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 115899,
-      "bid": 40002,
+      "ask": 121999,
+      "bid": 35037,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 764,
-      "bid": 708,
+      "bid": 709,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 401,
-      "bid": 308,
+      "bid": 309,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1266,7 +1266,7 @@
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 558,
+      "ask": 557,
       "bid": 251,
       "vendor": 30
     },
@@ -1406,7 +1406,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 380,
+      "ask": 400,
       "bid": 184,
       "vendor": 30
     },
@@ -1706,17 +1706,17 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 4284,
+      "ask": 2843,
       "bid": 1000,
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 21174,
+      "ask": 11000,
       "bid": -1,
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 44795,
+      "ask": 20000,
       "bid": 401,
       "vendor": 84
     },
@@ -1726,7 +1726,7 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 6982,
+      "ask": 6000,
       "bid": 60,
       "vendor": 60
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1399,
+      "ask": 1398,
       "bid": 1029,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669522502.8163714
+  "time": 1669523403.1484082
 }
