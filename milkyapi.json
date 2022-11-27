@@ -21,7 +21,7 @@
       "vendor": 1000
     },
     "Aqua Essence": {
-      "ask": 30,
+      "ask": 29,
       "bid": 18,
       "vendor": 16
     },
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 142,
+      "ask": 149,
       "bid": 60,
       "vendor": 12
     },
@@ -532,7 +532,7 @@
     },
     "Cheese Chisel": {
       "ask": 4750,
-      "bid": 500,
+      "bid": 250,
       "vendor": 84
     },
     "Cheese Enhancer": {
@@ -552,7 +552,7 @@
     },
     "Cheese Hatchet": {
       "ask": 5000,
-      "bid": 500,
+      "bid": 250,
       "vendor": 84
     },
     "Cheese Helmet": {
@@ -567,7 +567,7 @@
     },
     "Cheese Needle": {
       "ask": 6000,
-      "bid": 500,
+      "bid": 250,
       "vendor": 84
     },
     "Cheese Plate Body": {
@@ -582,17 +582,17 @@
     },
     "Cheese Pot": {
       "ask": 7000,
-      "bid": 160,
+      "bid": 250,
       "vendor": 84
     },
     "Cheese Shears": {
       "ask": 1799,
-      "bid": 85,
+      "bid": 250,
       "vendor": 84
     },
     "Cheese Spatula": {
       "ask": 1000000,
-      "bid": 160,
+      "bid": 250,
       "vendor": 84
     },
     "Cheese Spear": {
@@ -616,8 +616,8 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 175,
-      "bid": 36,
+      "ask": 200,
+      "bid": 40,
       "vendor": 24
     },
     "Coin": {
@@ -906,8 +906,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 121999,
-      "bid": 35036,
+      "ask": 115899,
+      "bid": 40000,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 765,
-      "bid": 707,
+      "bid": 708,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 398,
+      "ask": 401,
       "bid": 308,
       "vendor": 12
     },
@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 465,
-      "bid": 381,
+      "bid": 350,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 13000,
+      "ask": 12350,
       "bid": 3512,
       "vendor": 1000
     },
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 34999,
+      "ask": 33249,
       "bid": 12010,
       "vendor": 1000
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 33,
+      "ask": 36,
       "bid": 28,
       "vendor": 6
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 29992,
+      "ask": 29993,
       "bid": 15000,
       "vendor": 1000
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 148,
+      "ask": 147,
       "bid": 114,
       "vendor": 48
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 465,
+      "ask": 450,
       "bid": 418,
       "vendor": 27
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 850,
+      "ask": 851,
       "bid": 754,
       "vendor": 75
     },
@@ -1941,7 +1941,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1200,
+      "ask": 1140,
       "bid": 513,
       "vendor": 40
     },
@@ -2021,7 +2021,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 196701,
+      "ask": 186866,
       "bid": 2941,
       "vendor": 1500
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669514402.7453327
+  "time": 1669515303.4474957
 }
