@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 11,
-      "bid": 7,
+      "bid": 6,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 200,
+      "ask": 149,
       "bid": 41,
       "vendor": 12
     },
@@ -482,7 +482,7 @@
     },
     "Cedar Lumber": {
       "ask": 295,
-      "bid": 221,
+      "bid": 225,
       "vendor": 24
     },
     "Cedar Nature Staff": {
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 254,
+      "ask": 253,
       "bid": 54,
       "vendor": 2
     },
@@ -806,13 +806,13 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 532,
-      "bid": 361,
+      "ask": 546,
+      "bid": 381,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
       "ask": 446,
-      "bid": 365,
+      "bid": 386,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 28994,
+      "ask": 28993,
       "bid": 5019,
       "vendor": 1000
     },
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 50,
+      "ask": 49,
       "bid": 31,
       "vendor": 6
     },
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 532,
-      "bid": 306,
+      "bid": 310,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 70,
-      "bid": 55,
+      "bid": 56,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 748999,
+      "ask": 748998,
       "bid": 25012,
       "vendor": 1000
     },
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 187,
-      "bid": 111,
+      "bid": 115,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1316,7 +1316,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 570,
+      "ask": 550,
       "bid": 181,
       "vendor": 10
     },
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 33993,
+      "ask": 33991,
       "bid": 12010,
       "vendor": 1000
     },
@@ -1666,7 +1666,7 @@
       "vendor": 26973
     },
     "Reptile Boots": {
-      "ask": 6649,
+      "ask": 6999,
       "bid": 2500,
       "vendor": 432
     },
@@ -1676,7 +1676,7 @@
       "vendor": 432
     },
     "Reptile Chaps": {
-      "ask": 11900,
+      "ask": 11998,
       "bid": -1,
       "vendor": 756
     },
@@ -1686,7 +1686,7 @@
       "vendor": 6
     },
     "Reptile Hood": {
-      "ask": 14500,
+      "ask": 15000,
       "bid": -1,
       "vendor": 540
     },
@@ -1706,17 +1706,17 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 2701,
+      "ask": 2700,
       "bid": -1,
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 10450,
+      "ask": 10449,
       "bid": -1,
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 18050,
+      "ask": 18049,
       "bid": 401,
       "vendor": 84
     },
@@ -1726,17 +1726,17 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 5415,
+      "ask": 5414,
       "bid": -1,
       "vendor": 60
     },
     "Rough Leather": {
       "ask": 232,
-      "bid": 176,
+      "bid": 180,
       "vendor": 6
     },
     "Rough Tunic": {
-      "ask": 8549,
+      "ask": 8548,
       "bid": -1,
       "vendor": 96
     },
@@ -1871,8 +1871,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 838,
-      "bid": 610,
+      "ask": 837,
+      "bid": 613,
       "vendor": 75
     },
     "Strawberry": {
@@ -2087,7 +2087,7 @@
     },
     "Vampirism": {
       "ask": 749844,
-      "bid": 500028,
+      "bid": 500029,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2241,7 +2241,7 @@
       "vendor": 10
     },
     "Wooden Bow": {
-      "ask": 6472,
+      "ask": 6471,
       "bid": -1,
       "vendor": 144
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669588203.3948753
+  "time": 1669589102.6128516
 }
