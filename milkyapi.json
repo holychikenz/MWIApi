@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 11,
+      "ask": 12,
       "bid": 6,
       "vendor": 2
     },
@@ -51,7 +51,7 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 1050,
+      "ask": 999,
       "bid": 651,
       "vendor": 162
     },
@@ -196,7 +196,7 @@
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 28498,
+      "ask": 28497,
       "bid": -1,
       "vendor": 1872
     },
@@ -221,7 +221,7 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 45798,
+      "ask": 45797,
       "bid": 26250,
       "vendor": 7200
     },
@@ -241,7 +241,7 @@
       "vendor": 24
     },
     "Beast Hood": {
-      "ask": 30684,
+      "ask": 30683,
       "bid": -1,
       "vendor": 9000
     },
@@ -251,12 +251,12 @@
       "vendor": 72
     },
     "Beast Tunic": {
-      "ask": 262746,
+      "ask": 262745,
       "bid": -1,
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 298229,
+      "ask": 298228,
       "bid": 175002,
       "vendor": 1000
     },
@@ -376,7 +376,7 @@
       "vendor": 36
     },
     "Burble Chisel": {
-      "ask": 49999,
+      "ask": 50000,
       "bid": -1,
       "vendor": 3780
     },
@@ -396,7 +396,7 @@
       "vendor": 3780
     },
     "Burble Hatchet": {
-      "ask": 45125,
+      "ask": 47500,
       "bid": -1,
       "vendor": 3780
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 28996,
+      "ask": 28995,
       "bid": 5019,
       "vendor": 1000
     },
@@ -901,7 +901,7 @@
       "vendor": 6
     },
     "Foraging Tea": {
-      "ask": 491,
+      "ask": 490,
       "bid": 211,
       "vendor": 10
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 565,
+      "ask": 536,
       "bid": 305,
       "vendor": 36
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 599971,
+      "ask": 599970,
       "bid": 300003,
       "vendor": 1000
     },
@@ -1201,7 +1201,7 @@
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 129,
+      "ask": 120,
       "bid": 50,
       "vendor": 24
     },
@@ -1241,7 +1241,7 @@
       "vendor": 756
     },
     "Linen Robe Top": {
-      "ask": 15147,
+      "ask": 15146,
       "bid": 6000,
       "vendor": 864
     },
@@ -1267,7 +1267,7 @@
     },
     "Magic Coffee": {
       "ask": 500,
-      "bid": 253,
+      "bid": 254,
       "vendor": 30
     },
     "Magnet": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 11000,
+      "ask": 11685,
       "bid": 3515,
       "vendor": 1000
     },
@@ -1706,17 +1706,17 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 2843,
-      "bid": 1000,
+      "ask": 2701,
+      "bid": -1,
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 11000,
+      "ask": 10450,
       "bid": -1,
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 20000,
+      "ask": 19000,
       "bid": 401,
       "vendor": 84
     },
@@ -1726,8 +1726,8 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 6000,
-      "bid": 60,
+      "ask": 5700,
+      "bid": -1,
       "vendor": 60
     },
     "Rough Leather": {
@@ -1736,7 +1736,7 @@
       "vendor": 6
     },
     "Rough Tunic": {
-      "ask": 8999,
+      "ask": 8549,
       "bid": -1,
       "vendor": 96
     },
@@ -1746,7 +1746,7 @@
       "vendor": 1000
     },
     "Silk Boots": {
-      "ask": 98585,
+      "ask": 98584,
       "bid": -1,
       "vendor": 7200
     },
@@ -1756,7 +1756,7 @@
       "vendor": 73
     },
     "Silk Gloves": {
-      "ask": 148334,
+      "ask": 148333,
       "bid": -1,
       "vendor": 7200
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 474980,
+      "ask": 474979,
       "bid": 40003,
       "vendor": 3000
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 9955044,
+      "ask": 7317873,
       "bid": 550028,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669576503.0317435
+  "time": 1669577402.7839398
 }
