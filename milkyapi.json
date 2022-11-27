@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 1005,
-      "bid": 380,
+      "bid": 600,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 197,
-      "bid": 107,
+      "bid": 25,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1452,7 +1452,7 @@
     },
     "Purpleheart Log": {
       "ask": 42,
-      "bid": 20,
+      "bid": 21,
       "vendor": 12
     },
     "Purpleheart Lumber": {
@@ -1577,7 +1577,7 @@
     },
     "Rainbow Milk": {
       "ask": 31,
-      "bid": 28,
+      "bid": 29,
       "vendor": 27
     },
     "Rainbow Needle": {
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 113,
+      "ask": 114,
       "bid": 68,
       "vendor": 2
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 236,
+      "ask": 235,
       "bid": 172,
       "vendor": 6
     },
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 442,
-      "bid": 352,
+      "bid": 353,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1822,12 +1822,12 @@
     },
     "Spaceberry": {
       "ask": 187,
-      "bid": 94,
+      "bid": 95,
       "vendor": 27
     },
     "Spaceberry Cake": {
       "ask": 840,
-      "bid": 771,
+      "bid": 780,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1946,13 +1946,13 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 3350,
+      "ask": 3349,
       "bid": 1342,
       "vendor": 75
     },
     "Super Milking Tea": {
       "ask": 500,
-      "bid": 1,
+      "bid": 300,
       "vendor": 40
     },
     "Super Power Coffee": {
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 9979999,
+      "ask": 9979998,
       "bid": 550016,
       "vendor": 1000
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 758,
-      "bid": 431,
+      "bid": 432,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 64,
+      "ask": 63,
       "bid": 41,
       "vendor": 4
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1600,
+      "ask": 1599,
       "bid": 1027,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669509903.042205
+  "time": 1669510803.0408037
 }
