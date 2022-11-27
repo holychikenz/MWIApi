@@ -326,8 +326,8 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1000,
-      "bid": 463,
+      "ask": 999,
+      "bid": 465,
       "vendor": 75
     },
     "Blueberry": {
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 60,
+      "ask": 50,
       "bid": 38,
       "vendor": 12
     },
@@ -611,7 +611,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 168978,
+      "ask": 168977,
       "bid": 100022,
       "vendor": 1000
     },
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 190,
+      "ask": 202,
       "bid": 114,
       "vendor": 6
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 582,
+      "ask": 580,
       "bid": 455,
       "vendor": 10
     },
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 63,
-      "bid": 30,
+      "bid": 32,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 70,
-      "bid": 55,
+      "bid": 56,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 390,
+      "ask": 389,
       "bid": 304,
       "vendor": 12
     },
@@ -1221,8 +1221,8 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 426,
-      "bid": 270,
+      "ask": 425,
+      "bid": 271,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 59,
+      "ask": 58,
       "bid": 11,
       "vendor": 2
     },
@@ -1342,7 +1342,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 31,
-      "bid": 27,
+      "bid": 24,
       "vendor": 18
     },
     "Orange": {
@@ -1382,11 +1382,11 @@
     },
     "Peach Yogurt": {
       "ask": 424,
-      "bid": 189,
+      "bid": 205,
       "vendor": 40
     },
     "Pierce": {
-      "ask": 33996,
+      "ask": 33995,
       "bid": 12010,
       "vendor": 1000
     },
@@ -1452,7 +1452,7 @@
     },
     "Purpleheart Log": {
       "ask": 89,
-      "bid": 31,
+      "bid": 32,
       "vendor": 12
     },
     "Purpleheart Lumber": {
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 233,
+      "ask": 232,
       "bid": 176,
       "vendor": 6
     },
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 615,
-      "bid": 306,
+      "bid": 307,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1946,12 +1946,12 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1599,
+      "ask": 1550,
       "bid": 1354,
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 1536,
+      "ask": 1535,
       "bid": 802,
       "vendor": 40
     },
@@ -2227,12 +2227,12 @@
     },
     "Wisdom Coffee": {
       "ask": 1386,
-      "bid": 1034,
+      "bid": 1035,
       "vendor": 30
     },
     "Wisdom Tea": {
       "ask": 950,
-      "bid": 727,
+      "bid": 728,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669583703.1175022
+  "time": 1669584603.8287303
 }
