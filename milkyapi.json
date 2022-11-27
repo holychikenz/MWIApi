@@ -31,7 +31,7 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": 209000,
+      "ask": 198550,
       "bid": 115000,
       "vendor": 106920
     },
@@ -41,7 +41,7 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 180049,
+      "ask": 179599,
       "bid": 105002,
       "vendor": 80190
     },
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 157,
-      "bid": 60,
+      "bid": 40,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -237,7 +237,7 @@
     },
     "Beast Hide": {
       "ask": 210,
-      "bid": 87,
+      "bid": 100,
       "vendor": 24
     },
     "Beast Hood": {
@@ -617,7 +617,7 @@
     },
     "Cocoon": {
       "ask": 200,
-      "bid": 48,
+      "bid": 60,
       "vendor": 24
     },
     "Coin": {
@@ -676,8 +676,8 @@
       "vendor": 1500
     },
     "Crafting Tea": {
-      "ask": 800,
-      "bid": 450,
+      "ask": 750,
+      "bid": -1,
       "vendor": 30
     },
     "Crimson Boots": {
@@ -807,7 +807,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 507,
-      "bid": 361,
+      "bid": 358,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 91,
-      "bid": 21,
+      "bid": 30,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 884,
+      "ask": 649,
       "bid": 455,
       "vendor": 10
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 603,
+      "ask": 573,
       "bid": 300,
       "vendor": 36
     },
@@ -1046,8 +1046,8 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 64,
-      "bid": 54,
+      "ask": 65,
+      "bid": 64,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669538702.9957762
+  "time": 1669539603.1869845
 }
