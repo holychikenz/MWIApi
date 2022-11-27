@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 35,
+      "ask": 30,
       "bid": 17,
       "vendor": 10
     },
@@ -276,7 +276,7 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 108,
+      "ask": 107,
       "bid": 57,
       "vendor": 4
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 297,
+      "ask": 296,
       "bid": 220,
       "vendor": 24
     },
@@ -591,7 +591,7 @@
       "vendor": 84
     },
     "Cheese Spatula": {
-      "ask": 1000000,
+      "ask": 800,
       "bid": 250,
       "vendor": 84
     },
@@ -946,7 +946,7 @@
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": 395,
+      "ask": 394,
       "bid": 184,
       "vendor": 54
     },
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 758,
+      "ask": 756,
       "bid": 713,
       "vendor": 162
     },
@@ -1377,7 +1377,7 @@
     },
     "Peach Gummy": {
       "ask": 349,
-      "bid": 216,
+      "bid": 212,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 380,
+      "ask": 379,
       "bid": 225,
       "vendor": 36
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 599997,
+      "ask": 599998,
       "bid": 550001,
       "vendor": 1000
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 31,
+      "ask": 30,
       "bid": 20,
       "vendor": 6
     },
@@ -1706,17 +1706,17 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 2701,
+      "ask": 2843,
       "bid": -1,
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 10450,
+      "ask": 11000,
       "bid": -1,
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 19000,
+      "ask": 20000,
       "bid": 401,
       "vendor": 84
     },
@@ -1726,7 +1726,7 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 5700,
+      "ask": 6000,
       "bid": -1,
       "vendor": 60
     },
@@ -1736,7 +1736,7 @@
       "vendor": 6
     },
     "Rough Tunic": {
-      "ask": 8549,
+      "ask": 8999,
       "bid": -1,
       "vendor": 96
     },
@@ -1836,8 +1836,8 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 415,
-      "bid": 400,
+      "ask": 414,
+      "bid": 350,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 970,
+      "ask": 978,
       "bid": 860,
       "vendor": 75
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669579202.6367419
+  "time": 1669580102.9012961
 }
