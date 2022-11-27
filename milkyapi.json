@@ -81,7 +81,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 35000,
+      "ask": 50000,
       "bid": 1160,
       "vendor": 1512
     },
@@ -116,7 +116,7 @@
       "vendor": 864
     },
     "Azure Hammer": {
-      "ask": 15000,
+      "ask": 17743,
       "bid": 1435,
       "vendor": 1512
     },
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 142,
-      "bid": 32,
+      "bid": 60,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 200,
+      "ask": 190,
       "bid": 86,
       "vendor": 24
     },
@@ -532,7 +532,7 @@
     },
     "Cheese Chisel": {
       "ask": 4750,
-      "bid": -1,
+      "bid": 500,
       "vendor": 84
     },
     "Cheese Enhancer": {
@@ -552,7 +552,7 @@
     },
     "Cheese Hatchet": {
       "ask": 5000,
-      "bid": -1,
+      "bid": 500,
       "vendor": 84
     },
     "Cheese Helmet": {
@@ -567,7 +567,7 @@
     },
     "Cheese Needle": {
       "ask": 6000,
-      "bid": -1,
+      "bid": 500,
       "vendor": 84
     },
     "Cheese Plate Body": {
@@ -886,17 +886,17 @@
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
-      "ask": 1649999,
+      "ask": 750000,
       "bid": -1,
       "vendor": 40000
     },
     "Flaming Robe Top": {
       "ask": 2049999,
-      "bid": 750000,
+      "bid": 175420,
       "vendor": 60000
     },
     "Flax": {
-      "ask": 90,
+      "ask": 91,
       "bid": 21,
       "vendor": 6
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 941,
+      "ask": 935,
       "bid": 455,
       "vendor": 10
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 57000,
+      "ask": 55000,
       "bid": 15000,
       "vendor": 20000
     },
@@ -987,7 +987,7 @@
     },
     "Gobo Hide": {
       "ask": 130,
-      "bid": 69,
+      "bid": 85,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1136,7 +1136,7 @@
       "vendor": 54
     },
     "Holy Needle": {
-      "ask": 147900,
+      "ask": 147899,
       "bid": -1,
       "vendor": 62370
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 599980,
+      "ask": 599979,
       "bid": 300003,
       "vendor": 1000
     },
@@ -1391,7 +1391,7 @@
       "vendor": 1000
     },
     "Pincer Gloves": {
-      "ask": 177000,
+      "ask": 168150,
       "bid": 71026,
       "vendor": 6000
     },
@@ -1577,7 +1577,7 @@
     },
     "Rainbow Milk": {
       "ask": 31,
-      "bid": 28,
+      "bid": 27,
       "vendor": 27
     },
     "Rainbow Needle": {
@@ -1791,13 +1791,13 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 199999,
+      "ask": 189999,
       "bid": 6385,
       "vendor": 6000
     },
     "Snake Fang": {
       "ask": 1800,
-      "bid": 300,
+      "bid": 120,
       "vendor": 100
     },
     "Snake Fang Dirk": {
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 499,
+      "ask": 840,
       "bid": 301,
       "vendor": 40
     },
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 63,
+      "ask": 64,
       "bid": 41,
       "vendor": 4
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669512603.2303126
+  "time": 1669513502.8821058
 }
