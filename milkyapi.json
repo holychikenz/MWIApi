@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 190,
+      "ask": 225,
       "bid": 86,
       "vendor": 24
     },
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 115899,
-      "bid": 40000,
+      "bid": 40001,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -1206,7 +1206,7 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 1341351,
+      "ask": 1351352,
       "bid": 512004,
       "vendor": 500000
     },
@@ -1451,7 +1451,7 @@
       "vendor": 4860
     },
     "Purpleheart Log": {
-      "ask": 42,
+      "ask": 120,
       "bid": 21,
       "vendor": 12
     },
@@ -1762,7 +1762,7 @@
     },
     "Silk Hat": {
       "ask": 48997,
-      "bid": 10000,
+      "bid": -1,
       "vendor": 9000
     },
     "Silk Robe Bottoms": {
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 840,
-      "bid": 780,
+      "bid": 781,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1941,7 +1941,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1140,
+      "ask": 1200,
       "bid": 513,
       "vendor": 40
     },
@@ -1957,7 +1957,7 @@
     },
     "Super Power Coffee": {
       "ask": 1106,
-      "bid": 1003,
+      "bid": 1004,
       "vendor": 75
     },
     "Super Ranged Coffee": {
@@ -1997,7 +1997,7 @@
     },
     "Tailoring Tea": {
       "ask": 933,
-      "bid": 404,
+      "bid": 403,
       "vendor": 30
     },
     "Tome Of Healing": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669515303.4474957
+  "time": 1669516201.9967048
 }
