@@ -41,7 +41,7 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 200000,
+      "ask": 190000,
       "bid": 105003,
       "vendor": 80190
     },
@@ -191,7 +191,7 @@
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 592,
+      "ask": 591,
       "bid": 483,
       "vendor": 36
     },
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 59,
+      "ask": 60,
       "bid": 36,
       "vendor": 12
     },
@@ -501,7 +501,7 @@
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 406119,
+      "ask": 406116,
       "bid": 50004,
       "vendor": 3000
     },
@@ -632,7 +632,7 @@
     },
     "Cotton": {
       "ask": 257,
-      "bid": 54,
+      "bid": 53,
       "vendor": 2
     },
     "Cotton Boots": {
@@ -807,7 +807,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 533,
-      "bid": 361,
+      "bid": 363,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 583,
+      "ask": 582,
       "bid": 455,
       "vendor": 10
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 568,
+      "ask": 567,
       "bid": 301,
       "vendor": 36
     },
@@ -1091,8 +1091,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 759,
-      "bid": 711,
+      "ask": 758,
+      "bid": 712,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1201,7 +1201,7 @@
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 98,
+      "ask": 130,
       "bid": 50,
       "vendor": 24
     },
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 399,
-      "bid": 311,
+      "bid": 304,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 443,
+      "ask": 442,
       "bid": 351,
       "vendor": 18
     },
@@ -1327,7 +1327,7 @@
     },
     "Mooberry": {
       "ask": 29,
-      "bid": 15,
+      "bid": 20,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -1371,7 +1371,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 34,
+      "ask": 45,
       "bid": 19,
       "vendor": 9
     },
@@ -1481,7 +1481,7 @@
       "vendor": 24768
     },
     "Radiant Fabric": {
-      "ask": -1,
+      "ask": 9999,
       "bid": 651,
       "vendor": 144
     },
@@ -1946,12 +1946,12 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 2000,
+      "ask": 1700,
       "bid": 1354,
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 1298,
+      "ask": 1297,
       "bid": 802,
       "vendor": 40
     },
@@ -2016,8 +2016,8 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 9979995,
-      "bid": 550025,
+      "ask": 9955045,
+      "bid": 550028,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669567502.7924101
+  "time": 1669568402.7453225
 }
