@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 141,
+      "ask": 140,
       "bid": 86,
       "vendor": 6
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 206,
+      "ask": 205,
       "bid": 40,
       "vendor": 2
     },
@@ -816,8 +816,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1550,
-      "bid": 900,
+      "ask": 1525,
+      "bid": 1000,
       "vendor": 50
     },
     "Egg": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 48996,
+      "ask": 48995,
       "bid": 15040,
       "vendor": 1000
     },
@@ -1706,27 +1706,27 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 2699,
+      "ask": 2698,
       "bid": -1,
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 10448,
+      "ask": 10447,
       "bid": -1,
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 18048,
+      "ask": 18047,
       "bid": 401,
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 98,
+      "ask": 99,
       "bid": 30,
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 5413,
+      "ask": 5412,
       "bid": -1,
       "vendor": 60
     },
@@ -1736,7 +1736,7 @@
       "vendor": 6
     },
     "Rough Tunic": {
-      "ask": 8547,
+      "ask": 8546,
       "bid": -1,
       "vendor": 96
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 275000,
+      "ask": 274999,
       "bid": 40006,
       "vendor": 3000
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 881,
+      "ask": 880,
       "bid": 739,
       "vendor": 75
     },
@@ -1987,7 +1987,7 @@
     },
     "Sweep": {
       "ask": 44650,
-      "bid": 11081,
+      "bid": 11085,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -2087,7 +2087,7 @@
     },
     "Vampirism": {
       "ask": 749843,
-      "bid": 515014,
+      "bid": 515015,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2241,7 +2241,7 @@
       "vendor": 10
     },
     "Wooden Bow": {
-      "ask": 4500,
+      "ask": 4499,
       "bid": -1,
       "vendor": 144
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669697103.2228687
+  "time": 1669698003.0535495
 }
