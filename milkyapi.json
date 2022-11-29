@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 8,
+      "ask": 11,
       "bid": 6,
       "vendor": 2
     },
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1750,
-      "bid": 1100,
+      "bid": 1450,
       "vendor": 50
     },
     "Egg": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 48992,
+      "ask": 48991,
       "bid": 15041,
       "vendor": 1000
     },
@@ -1046,8 +1046,8 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 66,
-      "bid": 65,
+      "ask": 74,
+      "bid": 56,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 739,
-      "bid": 674,
+      "bid": 685,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1136,7 +1136,7 @@
       "vendor": 54
     },
     "Holy Needle": {
-      "ask": 145000,
+      "ask": 144999,
       "bid": -1,
       "vendor": 62370
     },
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 26,
+      "ask": 30,
       "bid": 24,
       "vendor": 18
     },
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 368,
+      "ask": 350,
       "bid": 201,
       "vendor": 36
     },
@@ -1962,7 +1962,7 @@
     },
     "Super Ranged Coffee": {
       "ask": 2497,
-      "bid": 901,
+      "bid": 950,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1145,
+      "ask": 1149,
       "bid": 802,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669712404.2209206
+  "time": 1669713303.8024387
 }
