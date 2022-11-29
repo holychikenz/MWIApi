@@ -21,13 +21,13 @@
       "vendor": 1000
     },
     "Aqua Essence": {
-      "ask": 25,
+      "ask": 24,
       "bid": 17,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 118,
-      "bid": 100,
+      "ask": 124,
+      "bid": 96,
       "vendor": 4
     },
     "Arcane Bow": {
@@ -66,7 +66,7 @@
       "vendor": 80190
     },
     "Artisan Tea": {
-      "ask": 1525,
+      "ask": 1450,
       "bid": 828,
       "vendor": 75
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 104,
+      "ask": 99,
       "bid": 11,
       "vendor": 24
     },
@@ -246,7 +246,7 @@
       "vendor": 9000
     },
     "Beast Leather": {
-      "ask": 213,
+      "ask": 599,
       "bid": 201,
       "vendor": 72
     },
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 86,
-      "bid": 35,
+      "bid": 36,
       "vendor": 12
     },
     "Burble Needle": {
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 293,
+      "ask": 292,
       "bid": 242,
       "vendor": 24
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 178,
+      "ask": 176,
       "bid": 103,
       "vendor": 24
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 512,
+      "ask": 511,
       "bid": 392,
       "vendor": 50
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 40,
+      "ask": 39,
       "bid": 4,
       "vendor": 18
     },
@@ -1201,7 +1201,7 @@
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 167,
+      "ask": 166,
       "bid": 30,
       "vendor": 24
     },
@@ -1292,11 +1292,11 @@
     },
     "Marsberry": {
       "ask": 29,
-      "bid": 27,
+      "bid": 26,
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 339,
+      "ask": 338,
       "bid": 278,
       "vendor": 50
     },
@@ -1406,8 +1406,8 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 400,
-      "bid": 187,
+      "ask": 1000000000000,
+      "bid": 100,
       "vendor": 30
     },
     "Poke": {
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 25061,
+      "ask": 25062,
       "bid": 15008,
       "vendor": 1000
     },
@@ -1701,7 +1701,7 @@
       "vendor": 864
     },
     "Robusta Coffee Bean": {
-      "ask": 135,
+      "ask": 127,
       "bid": 76,
       "vendor": 8
     },
@@ -1831,7 +1831,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 844,
+      "ask": 845,
       "bid": 703,
       "vendor": 75
     },
@@ -1866,7 +1866,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 728,
+      "ask": 727,
       "bid": 611,
       "vendor": 75
     },
@@ -1886,7 +1886,7 @@
       "vendor": 30
     },
     "Strawberry Donut": {
-      "ask": 227,
+      "ask": 215,
       "bid": 101,
       "vendor": 30
     },
@@ -1956,7 +1956,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1104,
+      "ask": 1101,
       "bid": 1004,
       "vendor": 75
     },
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 802,
+      "ask": 799,
       "bid": 499,
       "vendor": 40
     },
@@ -2222,7 +2222,7 @@
     },
     "Wheat": {
       "ask": 20,
-      "bid": 16,
+      "bid": 15,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669760103.428232
+  "time": 1669761002.8997605
 }
