@@ -346,7 +346,7 @@
       "vendor": 10
     },
     "Brewing Tea": {
-      "ask": 166,
+      "ask": 165,
       "bid": 30,
       "vendor": 20
     },
@@ -551,7 +551,7 @@
       "vendor": 84
     },
     "Cheese Hatchet": {
-      "ask": 5000,
+      "ask": 1000,
       "bid": -1,
       "vendor": 84
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 799984,
-      "bid": 314500,
+      "bid": 314501,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 48994,
+      "ask": 48993,
       "bid": 15041,
       "vendor": 1000
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 48,
+      "ask": 46,
       "bid": 36,
       "vendor": 18
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 503,
+      "ask": 478,
       "bid": 316,
       "vendor": 36
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 58,
+      "ask": 65,
       "bid": 56,
       "vendor": 4
     },
@@ -1091,8 +1091,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 740,
-      "bid": 672,
+      "ask": 739,
+      "bid": 674,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 659,
+      "ask": 658,
       "bid": 400,
       "vendor": 81
     },
@@ -1977,7 +1977,7 @@
     },
     "Super Woodcutting Tea": {
       "ask": 1247,
-      "bid": 700,
+      "bid": 614,
       "vendor": 40
     },
     "Swamp Essence": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669707904.2153068
+  "time": 1669708803.0406756
 }
