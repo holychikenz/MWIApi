@@ -237,7 +237,7 @@
     },
     "Beast Hide": {
       "ask": 98,
-      "bid": 10,
+      "bid": 15,
       "vendor": 24
     },
     "Beast Hood": {
@@ -246,7 +246,7 @@
       "vendor": 9000
     },
     "Beast Leather": {
-      "ask": 400,
+      "ask": 599,
       "bid": 80,
       "vendor": 72
     },
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 344,
+      "ask": 343,
       "bid": 257,
       "vendor": 12
     },
@@ -497,11 +497,11 @@
     },
     "Centaur Boots": {
       "ask": 1985030,
-      "bid": 1500000,
+      "bid": -1,
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 337241,
+      "ask": 250000,
       "bid": 60000,
       "vendor": 3000
     },
@@ -862,7 +862,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 296,
-      "bid": 105,
+      "bid": 107,
       "vendor": 27
     },
     "Fireball": {
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 734,
+      "ask": 735,
       "bid": 689,
       "vendor": 162
     },
@@ -1201,7 +1201,7 @@
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 166,
+      "ask": 195,
       "bid": 30,
       "vendor": 24
     },
@@ -1211,8 +1211,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 385,
-      "bid": 325,
+      "ask": 384,
+      "bid": 300,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1292,7 +1292,7 @@
     },
     "Marsberry": {
       "ask": 29,
-      "bid": 26,
+      "bid": 27,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1382,7 +1382,7 @@
     },
     "Peach Yogurt": {
       "ask": 418,
-      "bid": 237,
+      "bid": 238,
       "vendor": 40
     },
     "Pierce": {
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 489,
-      "bid": 250,
+      "bid": 251,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1821,17 +1821,17 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 133,
+      "ask": 131,
       "bid": 115,
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 868,
+      "ask": 800,
       "bid": 745,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 845,
+      "ask": 844,
       "bid": 703,
       "vendor": 75
     },
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 133,
-      "bid": 83,
+      "bid": 85,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -2011,7 +2011,7 @@
       "vendor": 100000
     },
     "Toughness": {
-      "ask": 34626,
+      "ask": 34624,
       "bid": 21006,
       "vendor": 1000
     },
@@ -2052,7 +2052,7 @@
     },
     "Umbral Chaps": {
       "ask": 411767,
-      "bid": -1,
+      "bid": 152536,
       "vendor": 43344
     },
     "Umbral Hide": {
@@ -2072,7 +2072,7 @@
     },
     "Umbral Tunic": {
       "ask": 499997,
-      "bid": -1,
+      "bid": 152536,
       "vendor": 49536
     },
     "Vampire Fang": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669763703.6800473
+  "time": 1669764602.8079367
 }
