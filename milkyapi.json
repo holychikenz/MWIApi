@@ -307,7 +307,7 @@
     },
     "Black Tea Leaf": {
       "ask": 45,
-      "bid": 34,
+      "bid": 35,
       "vendor": 8
     },
     "Blackberry": {
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 340,
+      "ask": 341,
       "bid": 286,
       "vendor": 12
     },
@@ -642,7 +642,7 @@
     },
     "Cotton Fabric": {
       "ask": 190,
-      "bid": 114,
+      "bid": 120,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -816,18 +816,18 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1525,
-      "bid": 1000,
+      "ask": 1500,
+      "bid": 1050,
       "vendor": 50
     },
     "Egg": {
       "ask": 30,
-      "bid": 14,
+      "bid": 15,
       "vendor": 1
     },
     "Elemental Affinity": {
       "ask": 799984,
-      "bid": 314495,
+      "bid": 314497,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 219973,
-      "bid": 35099,
+      "bid": 35100,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 170,
+      "ask": 171,
       "bid": 115,
       "vendor": 12
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 505,
+      "ask": 503,
       "bid": 316,
       "vendor": 36
     },
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 58,
-      "bid": 55,
+      "bid": 56,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1091,8 +1091,8 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 741,
-      "bid": 670,
+      "ask": 740,
+      "bid": 671,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 370,
+      "ask": 369,
       "bid": 228,
       "vendor": 18
     },
@@ -1292,7 +1292,7 @@
     },
     "Marsberry": {
       "ask": 29,
-      "bid": 26,
+      "bid": 27,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1492,7 +1492,7 @@
     },
     "Radiant Gloves": {
       "ask": 899955,
-      "bid": 150000,
+      "bid": -1,
       "vendor": 24768
     },
     "Radiant Hat": {
@@ -1577,7 +1577,7 @@
     },
     "Rainbow Milk": {
       "ask": 30,
-      "bid": 27,
+      "bid": 28,
       "vendor": 27
     },
     "Rainbow Needle": {
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 625,
-      "bid": 410,
+      "bid": 412,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 880,
-      "bid": 739,
+      "bid": 740,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1877,7 +1877,7 @@
     },
     "Strawberry": {
       "ask": 163,
-      "bid": 73,
+      "bid": 75,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 1455,
+      "ask": 1454,
       "bid": 802,
       "vendor": 40
     },
@@ -2111,7 +2111,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 359,
+      "ask": 358,
       "bid": 240,
       "vendor": 12
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669698003.0535495
+  "time": 1669698903.860651
 }
