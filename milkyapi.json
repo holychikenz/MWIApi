@@ -236,8 +236,8 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 109,
-      "bid": 16,
+      "ask": 97,
+      "bid": 18,
       "vendor": 24
     },
     "Beast Hood": {
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 400,
-      "bid": 146,
+      "bid": 148,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1699,
+      "ask": 1698,
       "bid": 1501,
       "vendor": 50
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 799972,
-      "bid": 410028,
+      "bid": 410029,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 286,
+      "ask": 284,
       "bid": 181,
       "vendor": 27
     },
@@ -941,13 +941,13 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 30,
+      "ask": 29,
       "bid": 15,
       "vendor": 18
     },
     "Ginkgo Lumber": {
       "ask": 419,
-      "bid": 284,
+      "bid": 285,
       "vendor": 54
     },
     "Ginkgo Nature Staff": {
@@ -1077,7 +1077,7 @@
     },
     "Holy Brush": {
       "ask": 112000,
-      "bid": 100,
+      "bid": 70000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 776,
+      "ask": 775,
       "bid": 702,
       "vendor": 162
     },
@@ -1112,12 +1112,12 @@
     },
     "Holy Hammer": {
       "ask": 149450,
-      "bid": 51,
+      "bid": 70000,
       "vendor": 62370
     },
     "Holy Hatchet": {
       "ask": 119999,
-      "bid": -1,
+      "bid": 70000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1137,7 +1137,7 @@
     },
     "Holy Needle": {
       "ask": 144999,
-      "bid": -1,
+      "bid": 70000,
       "vendor": 62370
     },
     "Holy Plate Body": {
@@ -1162,7 +1162,7 @@
     },
     "Holy Spatula": {
       "ask": -1,
-      "bid": 65555,
+      "bid": 65556,
       "vendor": 62370
     },
     "Holy Spear": {
@@ -1211,8 +1211,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 373,
-      "bid": 302,
+      "ask": 371,
+      "bid": 303,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 284,
+      "ask": 275,
       "bid": 240,
       "vendor": 18
     },
@@ -1266,7 +1266,7 @@
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 481,
+      "ask": 479,
       "bid": 261,
       "vendor": 30
     },
@@ -1457,7 +1457,7 @@
     },
     "Purpleheart Lumber": {
       "ask": 339,
-      "bid": 217,
+      "bid": 218,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 27796,
-      "bid": 15012,
+      "bid": 15013,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 488,
-      "bid": 259,
+      "bid": 260,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 635,
+      "ask": 634,
       "bid": 352,
       "vendor": 81
     },
@@ -1732,7 +1732,7 @@
     },
     "Rough Leather": {
       "ask": 235,
-      "bid": 125,
+      "bid": 126,
       "vendor": 6
     },
     "Rough Tunic": {
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 1400,
-      "bid": 342,
+      "bid": 343,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1812,7 +1812,7 @@
     },
     "Sorcerer Essence": {
       "ask": 454,
-      "bid": 325,
+      "bid": 326,
       "vendor": 36
     },
     "Sorcerer's Sole": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 791,
+      "ask": 793,
       "bid": 718,
       "vendor": 75
     },
@@ -1872,11 +1872,11 @@
     },
     "Star Fruit Yogurt": {
       "ask": 1199,
-      "bid": 767,
+      "bid": 771,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 99,
+      "ask": 75,
       "bid": 52,
       "vendor": 6
     },
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 340,
-      "bid": 245,
+      "bid": 246,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669831203.0442276
+  "time": 1669832103.8963072
 }
