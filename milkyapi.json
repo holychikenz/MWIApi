@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 9,
+      "ask": 8,
       "bid": 7,
       "vendor": 2
     },
@@ -42,7 +42,7 @@
     },
     "Arcane Fire Staff": {
       "ask": 190000,
-      "bid": 105012,
+      "bid": 105013,
       "vendor": 80190
     },
     "Arcane Log": {
@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 1042,
-      "bid": 706,
+      "bid": 707,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -97,7 +97,7 @@
     },
     "Azure Cheese": {
       "ask": 359,
-      "bid": 194,
+      "bid": 195,
       "vendor": 24
     },
     "Azure Chisel": {
@@ -187,12 +187,12 @@
     },
     "Bamboo Branch": {
       "ask": 113,
-      "bid": 34,
+      "bid": 60,
       "vendor": 12
     },
     "Bamboo Fabric": {
       "ask": 413,
-      "bid": 255,
+      "bid": 256,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -211,7 +211,7 @@
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 21422,
+      "ask": 21369,
       "bid": 10014,
       "vendor": 3744
     },
@@ -371,8 +371,8 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 485,
-      "bid": 239,
+      "ask": 484,
+      "bid": 240,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 338,
-      "bid": 252,
+      "bid": 253,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -886,12 +886,12 @@
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
-      "ask": 750000,
+      "ask": 749999,
       "bid": -1,
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 2049998,
+      "ask": 1125000,
       "bid": 175420,
       "vendor": 60000
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 708,
+      "ask": 707,
       "bid": 456,
       "vendor": 10
     },
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 14,
+      "ask": 13,
       "bid": 7,
       "vendor": 2
     },
@@ -1976,7 +1976,7 @@
       "vendor": 75
     },
     "Super Woodcutting Tea": {
-      "ask": 998,
+      "ask": 1200,
       "bid": -1,
       "vendor": 40
     },
@@ -1996,8 +1996,8 @@
       "vendor": 50
     },
     "Tailoring Tea": {
-      "ask": 931,
-      "bid": 402,
+      "ask": 930,
+      "bid": 400,
       "vendor": 30
     },
     "Tome Of Healing": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669846503.769937
+  "time": 1669847403.2380102
 }
