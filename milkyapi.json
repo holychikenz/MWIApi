@@ -36,7 +36,7 @@
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 999999,
+      "ask": 450000,
       "bid": -1,
       "vendor": 80190
     },
@@ -501,7 +501,7 @@
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 249999,
+      "ask": 249996,
       "bid": 60000,
       "vendor": 3000
     },
@@ -617,7 +617,7 @@
     },
     "Cocoon": {
       "ask": 176,
-      "bid": 103,
+      "bid": 104,
       "vendor": 24
     },
     "Coin": {
@@ -807,7 +807,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 508,
-      "bid": 394,
+      "bid": 395,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 27533,
+      "ask": 27532,
       "bid": 8003,
       "vendor": 1000
     },
@@ -906,17 +906,17 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 207995,
-      "bid": 37517,
+      "ask": 207992,
+      "bid": 37520,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 950,
+      "ask": 949,
       "bid": 458,
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 19999,
+      "ask": 20000,
       "bid": 7500,
       "vendor": 5000
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 597447,
+      "ask": 597446,
       "bid": 175003,
       "vendor": 1000
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 735,
-      "bid": 689,
+      "bid": 690,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 260,
-      "bid": 215,
+      "bid": 216,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1291,8 +1291,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 41,
-      "bid": 28,
+      "ask": 40,
+      "bid": 10,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1382,7 +1382,7 @@
     },
     "Peach Yogurt": {
       "ask": 418,
-      "bid": 238,
+      "bid": 239,
       "vendor": 40
     },
     "Pierce": {
@@ -1446,7 +1446,7 @@
       "vendor": 4860
     },
     "Purpleheart Fire Staff": {
-      "ask": 37999,
+      "ask": 39799,
       "bid": -1,
       "vendor": 4860
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 28,
+      "ask": 26,
       "bid": 13,
       "vendor": 6
     },
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 800,
-      "bid": 745,
+      "bid": 744,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 791,
+      "ask": 792,
       "bid": 643,
       "vendor": 75
     },
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 1337,
+      "ask": 1300,
       "bid": 802,
       "vendor": 40
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 924,
+      "ask": 925,
       "bid": 745,
       "vendor": 50
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669767303.2323935
+  "time": 1669768202.9203696
 }
