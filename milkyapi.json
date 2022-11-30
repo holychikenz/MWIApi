@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 28500,
+      "ask": 99000,
       "bid": -1,
       "vendor": 1512
     },
@@ -246,7 +246,7 @@
       "vendor": 9000
     },
     "Beast Leather": {
-      "ask": 350,
+      "ask": 300,
       "bid": 148,
       "vendor": 72
     },
@@ -456,8 +456,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 338,
-      "bid": 253,
+      "ask": 339,
+      "bid": 338,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 210,
+      "ask": 215,
       "bid": 76,
       "vendor": 6
     },
@@ -701,12 +701,12 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 327,
+      "ask": 328,
       "bid": 241,
       "vendor": 54
     },
     "Crimson Chisel": {
-      "ask": 40000,
+      "ask": -1,
       "bid": -1,
       "vendor": 9072
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 44200,
+      "ask": 44199,
       "bid": 17417,
       "vendor": 1000
     },
@@ -876,8 +876,8 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 719963,
-      "bid": 330750,
+      "ask": 719962,
+      "bid": 350000,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 266,
-      "bid": 108,
+      "bid": 109,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 399,
-      "bid": 267,
+      "bid": 268,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1732,7 +1732,7 @@
     },
     "Rough Leather": {
       "ask": 235,
-      "bid": 160,
+      "bid": 161,
       "vendor": 6
     },
     "Rough Tunic": {
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 264987,
+      "ask": 264986,
       "bid": 40006,
       "vendor": 3000
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 794,
+      "ask": 878,
       "bid": 718,
       "vendor": 75
     },
@@ -2112,11 +2112,11 @@
     },
     "Verdant Cheese": {
       "ask": 339,
-      "bid": 263,
+      "bid": 264,
       "vendor": 12
     },
     "Verdant Chisel": {
-      "ask": 10000,
+      "ask": -1,
       "bid": -1,
       "vendor": 420
     },
@@ -2151,8 +2151,8 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 63,
-      "bid": 52,
+      "ask": 60,
+      "bid": 50,
       "vendor": 4
     },
     "Verdant Needle": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669848303.681521
+  "time": 1669849201.9731379
 }
