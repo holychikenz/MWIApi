@@ -31,7 +31,7 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": 188620,
+      "ask": 180000,
       "bid": -1,
       "vendor": 106920
     },
@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 115,
-      "bid": 69,
+      "bid": 70,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -326,7 +326,7 @@
       "vendor": 20
     },
     "Blessed Tea": {
-      "ask": 1182,
+      "ask": 1183,
       "bid": 477,
       "vendor": 75
     },
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 330,
+      "ask": 329,
       "bid": 252,
       "vendor": 12
     },
@@ -502,7 +502,7 @@
     },
     "Centaur Hoof": {
       "ask": 171370,
-      "bid": 60000,
+      "bid": 60001,
       "vendor": 3000
     },
     "Cheese": {
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 28,
+      "ask": 30,
       "bid": 21,
       "vendor": 1
     },
@@ -846,7 +846,7 @@
       "vendor": 1000
     },
     "Excelsa Coffee Bean": {
-      "ask": 102,
+      "ask": 103,
       "bid": 100,
       "vendor": 18
     },
@@ -906,8 +906,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 205946,
-      "bid": 40430,
+      "ask": 205943,
+      "bid": 40434,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 226,
+      "ask": 227,
       "bid": 187,
       "vendor": 54
     },
@@ -1156,7 +1156,7 @@
       "vendor": 62370
     },
     "Holy Shears": {
-      "ask": 500000,
+      "ask": -1,
       "bid": 100001,
       "vendor": 62370
     },
@@ -1821,13 +1821,13 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 118,
+      "ask": 120,
       "bid": 111,
       "vendor": 27
     },
     "Spaceberry Cake": {
       "ask": 867,
-      "bid": 724,
+      "bid": 719,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1866,7 +1866,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 709,
+      "ask": 708,
       "bid": 580,
       "vendor": 75
     },
@@ -2086,7 +2086,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 749822,
+      "ask": 749821,
       "bid": 525076,
       "vendor": 1000
     },
@@ -2221,8 +2221,8 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 14,
-      "bid": 13,
+      "ask": 20,
+      "bid": 18,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669935602.9982293
+  "time": 1669936502.7310228
 }
