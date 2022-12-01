@@ -787,7 +787,7 @@
     },
     "Cupcake": {
       "ask": 25,
-      "bid": 6,
+      "bid": 5,
       "vendor": 5
     },
     "Defense Coffee": {
@@ -1332,7 +1332,7 @@
     },
     "Mooberry Cake": {
       "ask": 229,
-      "bid": 75,
+      "bid": 87,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -1407,7 +1407,7 @@
     },
     "Plum Yogurt": {
       "ask": 199,
-      "bid": 75,
+      "bid": 87,
       "vendor": 30
     },
     "Poke": {
@@ -1517,7 +1517,7 @@
     },
     "Rainbow Boots": {
       "ask": 12000,
-      "bid": -1,
+      "bid": 6000,
       "vendor": 11988
     },
     "Rainbow Brush": {
@@ -1791,7 +1791,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 50000,
+      "ask": 45000,
       "bid": 5250,
       "vendor": 6000
     },
@@ -1821,7 +1821,7 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 120,
+      "ask": 118,
       "bid": 113,
       "vendor": 27
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669877104.0585694
+  "time": 1669878003.399413
 }
