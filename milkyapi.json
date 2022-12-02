@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 7,
+      "ask": 8,
       "bid": 6,
       "vendor": 2
     },
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 490,
-      "bid": 350,
+      "bid": 351,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 27364,
+      "ask": 20000,
       "bid": 5555,
       "vendor": 5000
     },
@@ -956,7 +956,7 @@
       "vendor": 11664
     },
     "Ginkgo Water Staff": {
-      "ask": 160048,
+      "ask": 160049,
       "bid": -1,
       "vendor": 11664
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 486607,
+      "ask": 486608,
       "bid": 200003,
       "vendor": 1000
     },
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 214,
+      "ask": 213,
       "bid": 117,
       "vendor": 18
     },
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 551,
-      "bid": 462,
+      "bid": 463,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 174,
-      "bid": 128,
+      "bid": 130,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670003103.390403
+  "time": 1670004003.0415154
 }
