@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 8,
+      "ask": 7,
       "bid": 6,
       "vendor": 2
     },
@@ -566,7 +566,7 @@
       "vendor": 108
     },
     "Cheese Needle": {
-      "ask": 6000,
+      "ask": 2000,
       "bid": -1,
       "vendor": 84
     },
@@ -811,7 +811,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 434,
+      "ask": 425,
       "bid": 362,
       "vendor": 50
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669986903.478856
+  "time": 1669987802.79765
 }
