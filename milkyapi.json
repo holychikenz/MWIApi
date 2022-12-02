@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 7,
+      "ask": 8,
       "bid": 6,
       "vendor": 2
     },
@@ -71,7 +71,7 @@
       "vendor": 75
     },
     "Attack Coffee": {
-      "ask": 326,
+      "ask": 324,
       "bid": 281,
       "vendor": 20
     },
@@ -501,7 +501,7 @@
       "vendor": 50000
     },
     "Centaur Hoof": {
-      "ask": 162798,
+      "ask": 162797,
       "bid": 60001,
       "vendor": 3000
     },
@@ -671,7 +671,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 50297,
+      "ask": 45000,
       "bid": 26000,
       "vendor": 1500
     },
@@ -877,7 +877,7 @@
     },
     "Flame Blast": {
       "ask": 718140,
-      "bid": 355558,
+      "bid": 355559,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -901,7 +901,7 @@
       "vendor": 6
     },
     "Foraging Tea": {
-      "ask": 481,
+      "ask": 480,
       "bid": 211,
       "vendor": 10
     },
@@ -1196,12 +1196,12 @@
       "vendor": 60000
     },
     "Intelligence Coffee": {
-      "ask": 358,
+      "ask": 357,
       "bid": 258,
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 199,
+      "ask": 198,
       "bid": 30,
       "vendor": 24
     },
@@ -1266,7 +1266,7 @@
       "vendor": 6
     },
     "Magic Coffee": {
-      "ask": 442,
+      "ask": 446,
       "bid": 266,
       "vendor": 30
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 4508,
+      "ask": 4507,
       "bid": 3001,
       "vendor": 1000
     },
@@ -1901,12 +1901,12 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 487,
+      "ask": 486,
       "bid": 260,
       "vendor": 50
     },
     "Super Brewing Tea": {
-      "ask": 1064,
+      "ask": 1063,
       "bid": 103,
       "vendor": 50
     },
@@ -1916,7 +1916,7 @@
       "vendor": 75
     },
     "Super Cooking Tea": {
-      "ask": 592,
+      "ask": 591,
       "bid": 303,
       "vendor": 50
     },
@@ -2011,7 +2011,7 @@
       "vendor": 100000
     },
     "Toughness": {
-      "ask": 33330,
+      "ask": 33329,
       "bid": 21006,
       "vendor": 1000
     },
@@ -2021,8 +2021,8 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 65000,
-      "bid": 10000,
+      "ask": 130496,
+      "bid": 2941,
       "vendor": 1500
     },
     "Turtle Shell Body": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669986002.7620757
+  "time": 1669986903.478856
 }
