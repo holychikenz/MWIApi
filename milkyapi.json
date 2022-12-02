@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 7,
+      "ask": 8,
       "bid": 6,
       "vendor": 2
     },
@@ -612,7 +612,7 @@
     },
     "Cleave": {
       "ask": 158996,
-      "bid": 100034,
+      "bid": 100035,
       "vendor": 1000
     },
     "Cocoon": {
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 40,
+      "ask": 38,
       "bid": 24,
       "vendor": 18
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 486608,
+      "ask": 512221,
       "bid": 200003,
       "vendor": 1000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 475472,
+      "ask": 475471,
       "bid": 200003,
       "vendor": 1000
     },
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 372,
-      "bid": 82,
+      "bid": 83,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1227,7 +1227,7 @@
     },
     "Linen Gloves": {
       "ask": 8500,
-      "bid": 7500,
+      "bid": -1,
       "vendor": 432
     },
     "Linen Hat": {
@@ -1302,7 +1302,7 @@
     },
     "Marsberry Donut": {
       "ask": 405,
-      "bid": 333,
+      "bid": 329,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 551,
+      "ask": 553,
       "bid": 464,
       "vendor": 27
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 263650,
+      "ask": 250000,
       "bid": 75000,
       "vendor": 3000
     },
@@ -1861,8 +1861,8 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 173,
-      "bid": 133,
+      "ask": 172,
+      "bid": 135,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 936,
+      "ask": 935,
       "bid": 760,
       "vendor": 75
     },
@@ -1942,12 +1942,12 @@
     },
     "Super Intelligence Coffee": {
       "ask": 1197,
-      "bid": 546,
+      "bid": 888,
       "vendor": 40
     },
     "Super Magic Coffee": {
       "ask": 1235,
-      "bid": 607,
+      "bid": 608,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -2086,8 +2086,8 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 749813,
-      "bid": 525085,
+      "ask": 749812,
+      "bid": 525087,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1163,
+      "ask": 1162,
       "bid": 974,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670006703.8502755
+  "time": 1670007603.295326
 }
