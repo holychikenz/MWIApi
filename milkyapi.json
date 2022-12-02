@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 7,
+      "ask": 8,
       "bid": 6,
       "vendor": 2
     },
@@ -17,7 +17,7 @@
     },
     "Aqua Arrow": {
       "ask": 231325,
-      "bid": 181122,
+      "bid": 181123,
       "vendor": 1000
     },
     "Aqua Essence": {
@@ -97,7 +97,7 @@
     },
     "Azure Cheese": {
       "ask": 368,
-      "bid": 218,
+      "bid": 219,
       "vendor": 24
     },
     "Azure Chisel": {
@@ -271,13 +271,13 @@
       "vendor": 540
     },
     "Birch Fire Staff": {
-      "ask": 58300,
+      "ask": 55300,
       "bid": -1,
       "vendor": 540
     },
     "Birch Log": {
       "ask": 98,
-      "bid": 56,
+      "bid": 57,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 248,
-      "bid": 90,
+      "bid": 91,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 251,
-      "bid": 198,
+      "bid": 200,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -806,8 +806,8 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 396,
-      "bid": 217,
+      "ask": 392,
+      "bid": 216,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1850,
+      "ask": 1849,
       "bid": 1450,
       "vendor": 50
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 799953,
-      "bid": 410066,
+      "bid": 410067,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -872,7 +872,7 @@
     },
     "Flame Arrow": {
       "ask": 321995,
-      "bid": 150114,
+      "bid": 150115,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1600,
+      "ask": 1610,
       "bid": 1000,
       "vendor": 10
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 795,
-      "bid": 706,
+      "bid": 707,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 220,
-      "bid": 200,
+      "bid": 193,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 372,
-      "bid": 203,
+      "bid": 214,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1292,7 +1292,7 @@
     },
     "Marsberry": {
       "ask": 31,
-      "bid": 19,
+      "bid": 21,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1397,7 +1397,7 @@
     },
     "Plum": {
       "ask": 66,
-      "bid": 54,
+      "bid": 53,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -1471,8 +1471,8 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 20895,
-      "bid": 15032,
+      "ask": 40000,
+      "bid": 15033,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 933,
+      "ask": 931,
       "bid": 760,
       "vendor": 75
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670013903.648333
+  "time": 1670014803.3758094
 }
