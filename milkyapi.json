@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 7,
+      "ask": 8,
       "bid": 6,
       "vendor": 2
     },
@@ -246,7 +246,7 @@
       "vendor": 9000
     },
     "Beast Leather": {
-      "ask": 489,
+      "ask": 488,
       "bid": 351,
       "vendor": 72
     },
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 135366,
+      "ask": 135365,
       "bid": -1,
       "vendor": 3744
     },
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 220,
-      "bid": 192,
+      "bid": 193,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 28872,
+      "ask": 28871,
       "bid": 15001,
       "vendor": 1000
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 1148,
+      "ask": 1147,
       "bid": 403,
       "vendor": 73
     },
@@ -1791,7 +1791,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 44992,
+      "ask": 44750,
       "bid": 5251,
       "vendor": 6000
     },
@@ -2046,12 +2046,12 @@
       "vendor": 24768
     },
     "Umbral Bracers": {
-      "ask": 331914,
+      "ask": -1,
       "bid": -1,
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": 390200,
+      "ask": -1,
       "bid": 185409,
       "vendor": 43344
     },
@@ -2061,7 +2061,7 @@
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": 376321,
+      "ask": -1,
       "bid": -1,
       "vendor": 30960
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1161,
+      "ask": 1160,
       "bid": 974,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670011202.5799189
+  "time": 1670012102.8882203
 }
