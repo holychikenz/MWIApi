@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 8,
+      "ask": 7,
       "bid": 6,
       "vendor": 2
     },
@@ -246,7 +246,7 @@
       "vendor": 9000
     },
     "Beast Leather": {
-      "ask": 490,
+      "ask": 489,
       "bid": 351,
       "vendor": 72
     },
@@ -297,7 +297,7 @@
     },
     "Black Bear Fluff": {
       "ask": 21092,
-      "bid": 5503,
+      "bid": 5502,
       "vendor": 3000
     },
     "Black Bear Shoes": {
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 338,
+      "ask": 342,
       "bid": 265,
       "vendor": 12
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2100,
+      "ask": 1999,
       "bid": 1450,
       "vendor": 50
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 799955,
+      "ask": 799954,
       "bid": 410063,
       "vendor": 1000
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 21163,
+      "ask": 21162,
       "bid": 8007,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 41973,
+      "ask": 41972,
       "bid": 17501,
       "vendor": 1000
     },
@@ -876,13 +876,13 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 600000,
+      "ask": 599999,
       "bid": 355562,
       "vendor": 1000
     },
     "Flaming Cloth": {
       "ask": 124990,
-      "bid": 90001,
+      "bid": 71500,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -906,13 +906,13 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 179542,
-      "bid": 60015,
+      "ask": 179541,
+      "bid": 60017,
       "vendor": 1000
     },
     "Gathering Tea": {
       "ask": 1600,
-      "bid": 305,
+      "bid": 1000,
       "vendor": 10
     },
     "Gator Vest": {
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 220,
-      "bid": 186,
+      "bid": 192,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 475466,
+      "ask": 475465,
       "bid": 200003,
       "vendor": 1000
     },
@@ -1646,7 +1646,7 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 53,
+      "ask": 50,
       "bid": 25,
       "vendor": 27
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 1149,
+      "ask": 1148,
       "bid": 403,
       "vendor": 73
     },
@@ -1987,7 +1987,7 @@
     },
     "Sweep": {
       "ask": 33865,
-      "bid": 11253,
+      "bid": 11255,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 262262,
+      "ask": 262261,
       "bid": 10047,
       "vendor": 10000
     },
@@ -2012,7 +2012,7 @@
     },
     "Toughness": {
       "ask": 33326,
-      "bid": 21005,
+      "bid": 21006,
       "vendor": 1000
     },
     "Toxic Pollen": {
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 796,
-      "bid": 502,
+      "bid": 503,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2087,7 +2087,7 @@
     },
     "Vampirism": {
       "ask": 749811,
-      "bid": 535088,
+      "bid": 535089,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670010304.3532703
+  "time": 1670011202.5799189
 }
