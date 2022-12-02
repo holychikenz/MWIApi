@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 8,
+      "ask": 7,
       "bid": 6,
       "vendor": 2
     },
@@ -97,7 +97,7 @@
     },
     "Azure Cheese": {
       "ask": 368,
-      "bid": 219,
+      "bid": 220,
       "vendor": 24
     },
     "Azure Chisel": {
@@ -436,7 +436,7 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": 39999,
+      "ask": 39750,
       "bid": 3360,
       "vendor": 3780
     },
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 342,
-      "bid": 265,
+      "bid": 266,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -807,7 +807,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 392,
-      "bid": 216,
+      "bid": 217,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1849,
+      "ask": 1750,
       "bid": 1450,
       "vendor": 50
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 799953,
+      "ask": 799952,
       "bid": 410067,
       "vendor": 1000
     },
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 20000,
+      "ask": 27365,
       "bid": 5555,
       "vendor": 5000
     },
@@ -2057,7 +2057,7 @@
     },
     "Umbral Hide": {
       "ask": 796,
-      "bid": 503,
+      "bid": 505,
       "vendor": 48
     },
     "Umbral Hood": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670014803.3758094
+  "time": 1670015704.0145216
 }
