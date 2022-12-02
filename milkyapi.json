@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 7,
+      "ask": 8,
       "bid": 6,
       "vendor": 2
     },
@@ -806,8 +806,8 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 396,
-      "bid": 203,
+      "ask": 397,
+      "bid": 396,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 41979,
+      "ask": 41977,
       "bid": 17419,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 718141,
+      "ask": 718140,
       "bid": 355558,
       "vendor": 1000
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 940,
+      "ask": 939,
       "bid": 760,
       "vendor": 75
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1669984204.0624237
+  "time": 1669985104.1243596
 }
