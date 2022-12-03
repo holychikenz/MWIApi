@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 200,
-      "bid": 175,
+      "bid": 3,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1751,8 +1751,8 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 999,
-      "bid": 600,
+      "ask": 900,
+      "bid": 403,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670050802.686453
+  "time": 1670051703.0705938
 }
