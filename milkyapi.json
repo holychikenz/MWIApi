@@ -31,7 +31,7 @@
       "vendor": 4
     },
     "Arcane Bow": {
-      "ask": 175000,
+      "ask": 166250,
       "bid": -1,
       "vendor": 106920
     },
@@ -256,8 +256,8 @@
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 269145,
-      "bid": 175008,
+      "ask": 255688,
+      "bid": 175010,
       "vendor": 1000
     },
     "Birch Bow": {
@@ -611,7 +611,7 @@
       "vendor": 30
     },
     "Cleave": {
-      "ask": 158995,
+      "ask": 158993,
       "bid": 100036,
       "vendor": 1000
     },
@@ -811,7 +811,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 400,
+      "ask": 430,
       "bid": 366,
       "vendor": 50
     },
@@ -866,13 +866,13 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 33000,
+      "ask": 32999,
       "bid": 17503,
       "vendor": 1000
     },
     "Flame Arrow": {
       "ask": 305895,
-      "bid": 150121,
+      "bid": 150122,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 170559,
-      "bid": 60026,
+      "bid": 60029,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 475446,
+      "ask": 475445,
       "bid": 200007,
       "vendor": 1000
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 70988,
+      "ask": 70987,
       "bid": 5003,
       "vendor": 1000
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 3158,
+      "ask": 3159,
       "bid": 1207,
       "vendor": 1000
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 3484,
+      "ask": 3481,
       "bid": 2505,
       "vendor": 1000
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 917,
+      "ask": 916,
       "bid": 844,
       "vendor": 75
     },
@@ -1941,7 +1941,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1194,
+      "ask": 1195,
       "bid": 891,
       "vendor": 40
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1425,
+      "ask": 1422,
       "bid": 982,
       "vendor": 75
     },
@@ -1986,12 +1986,12 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 30561,
+      "ask": 29032,
       "bid": 11258,
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 847,
+      "ask": 846,
       "bid": 748,
       "vendor": 50
     },
@@ -2021,7 +2021,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 65549,
+      "ask": 30000,
       "bid": 2941,
       "vendor": 1500
     },
@@ -2086,8 +2086,8 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 712314,
-      "bid": 535096,
+      "ask": 712312,
+      "bid": 535098,
       "vendor": 1000
     },
     "Verdant Boots": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670085002.8294375
+  "time": 1670085902.5074358
 }
