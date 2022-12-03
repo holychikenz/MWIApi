@@ -76,7 +76,7 @@
       "vendor": 20
     },
     "Azure Boots": {
-      "ask": 13999,
+      "ask": 14000,
       "bid": -1,
       "vendor": 864
     },
@@ -146,7 +146,7 @@
       "vendor": 1512
     },
     "Azure Plate Body": {
-      "ask": 13999,
+      "ask": 15000,
       "bid": -1,
       "vendor": 1728
     },
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 98,
+      "ask": 99,
       "bid": 75,
       "vendor": 12
     },
@@ -401,7 +401,7 @@
       "vendor": 3780
     },
     "Burble Helmet": {
-      "ask": 62800,
+      "ask": -1,
       "bid": 2805,
       "vendor": 2700
     },
@@ -421,12 +421,12 @@
       "vendor": 3780
     },
     "Burble Plate Body": {
-      "ask": 48999,
+      "ask": 49000,
       "bid": 5253,
       "vendor": 4320
     },
     "Burble Plate Legs": {
-      "ask": 84800,
+      "ask": -1,
       "bid": 1500,
       "vendor": 3780
     },
@@ -436,7 +436,7 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": 36750,
+      "ask": 34000,
       "bid": 3360,
       "vendor": 3780
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1699,
+      "ask": 1300,
       "bid": 1000,
       "vendor": 50
     },
@@ -866,12 +866,12 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 38996,
+      "ask": 33000,
       "bid": 17503,
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 321995,
+      "ask": 305895,
       "bid": 150121,
       "vendor": 1000
     },
@@ -946,7 +946,7 @@
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": 399,
+      "ask": 398,
       "bid": 357,
       "vendor": 54
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 25999,
+      "ask": 22000,
       "bid": 19000,
       "vendor": 20000
     },
@@ -1006,7 +1006,7 @@
       "vendor": 20000
     },
     "Gobo Slasher": {
-      "ask": 19950,
+      "ask": 17000,
       "bid": 3000,
       "vendor": 20000
     },
@@ -1412,7 +1412,7 @@
     },
     "Poke": {
       "ask": 3862,
-      "bid": 3000,
+      "bid": 3001,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -1536,7 +1536,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 392,
+      "ask": 391,
       "bid": 260,
       "vendor": 81
     },
@@ -1577,7 +1577,7 @@
     },
     "Rainbow Milk": {
       "ask": 30,
-      "bid": 28,
+      "bid": 27,
       "vendor": 27
     },
     "Rainbow Needle": {
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 60,
+      "ask": 59,
       "bid": 56,
       "vendor": 6
     },
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 598,
+      "ask": 599,
       "bid": 301,
       "vendor": 40
     },
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 30562,
+      "ask": 30561,
       "bid": 11258,
       "vendor": 1000
     },
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 59,
+      "ask": 60,
       "bid": 26,
       "vendor": 4
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670084103.0897343
+  "time": 1670085002.8294375
 }
