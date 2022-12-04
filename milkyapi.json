@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 50,
-      "bid": 27,
+      "bid": 28,
       "vendor": 12
     },
     "Burble Needle": {
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 470,
-      "bid": 325,
+      "bid": 326,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -862,7 +862,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 247,
-      "bid": 141,
+      "bid": 140,
       "vendor": 27
     },
     "Fireball": {
@@ -876,8 +876,8 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 599960,
-      "bid": 300015,
+      "ask": 599958,
+      "bid": 300018,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -906,8 +906,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 124686,
-      "bid": 70039,
+      "ask": 124685,
+      "bid": 70042,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -1377,7 +1377,7 @@
     },
     "Peach Gummy": {
       "ask": 240,
-      "bid": 174,
+      "bid": 175,
       "vendor": 40
     },
     "Peach Yogurt": {
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 39950,
-      "bid": 15029,
+      "bid": 15030,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 540,
-      "bid": 482,
+      "bid": 483,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1877,7 +1877,7 @@
     },
     "Strawberry": {
       "ask": 60,
-      "bid": 51,
+      "bid": 52,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1947,7 +1947,7 @@
     },
     "Super Magic Coffee": {
       "ask": 1235,
-      "bid": 625,
+      "bid": 627,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -1962,7 +1962,7 @@
     },
     "Super Ranged Coffee": {
       "ask": 1414,
-      "bid": 971,
+      "bid": 973,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 892970,
-      "bid": 200004,
+      "bid": 200007,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2061,7 +2061,7 @@
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": 309600,
+      "ask": -1,
       "bid": -1,
       "vendor": 30960
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670154302.529238
+  "time": 1670155203.5756123
 }
