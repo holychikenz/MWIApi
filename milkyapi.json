@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 949,
+      "ask": 849,
       "bid": 307,
       "vendor": 10
     },
@@ -1482,7 +1482,7 @@
     },
     "Radiant Fabric": {
       "ask": 991,
-      "bid": 671,
+      "bid": 500,
       "vendor": 144
     },
     "Radiant Fiber": {
@@ -1826,12 +1826,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 846,
+      "ask": 845,
       "bid": 753,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 844,
+      "ask": 843,
       "bid": 727,
       "vendor": 75
     },
@@ -1866,7 +1866,7 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 705,
+      "ask": 704,
       "bid": 582,
       "vendor": 75
     },
@@ -1971,7 +1971,7 @@
       "vendor": 40
     },
     "Super Tailoring Tea": {
-      "ask": 1418,
+      "ask": 1419,
       "bid": 1005,
       "vendor": 75
     },
@@ -2047,7 +2047,7 @@
     },
     "Umbral Bracers": {
       "ask": -1,
-      "bid": -1,
+      "bid": 199999,
       "vendor": 24768
     },
     "Umbral Chaps": {
@@ -2071,7 +2071,7 @@
       "vendor": 144
     },
     "Umbral Tunic": {
-      "ask": 428678,
+      "ask": 428677,
       "bid": -1,
       "vendor": 49536
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 11366,
+      "ask": 10798,
       "bid": 4001,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670160602.7496898
+  "time": 1670161502.8196542
 }
