@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 473,
-      "bid": 291,
+      "bid": 300,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 470,
-      "bid": 350,
+      "bid": 351,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 249,
+      "ask": 200,
       "bid": 81,
       "vendor": 6
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 219,
+      "ask": 218,
       "bid": 135,
       "vendor": 24
     },
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 172,
+      "ask": 174,
       "bid": 141,
       "vendor": 6
     },
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 319,
-      "bid": 250,
+      "bid": 251,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -816,12 +816,12 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1948,
+      "ask": 1949,
       "bid": 1001,
       "vendor": 50
     },
     "Egg": {
-      "ask": 34,
+      "ask": 33,
       "bid": 17,
       "vendor": 1
     },
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 247,
+      "ask": 200,
       "bid": 140,
       "vendor": 27
     },
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 124685,
-      "bid": 71000,
+      "bid": 71001,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -986,7 +986,7 @@
       "vendor": 24
     },
     "Gobo Hide": {
-      "ask": 137,
+      "ask": 136,
       "bid": 81,
       "vendor": 12
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 73,
+      "ask": 72,
       "bid": 52,
       "vendor": 4
     },
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 336,
-      "bid": 95,
+      "bid": 100,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1291,8 +1291,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 34,
-      "bid": 26,
+      "ask": 35,
+      "bid": -1,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1326,7 +1326,7 @@
       "vendor": 1000
     },
     "Mooberry": {
-      "ask": 45,
+      "ask": 44,
       "bid": 28,
       "vendor": 9
     },
@@ -1341,12 +1341,12 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 44,
+      "ask": 43,
       "bid": 24,
       "vendor": 18
     },
     "Orange": {
-      "ask": 44,
+      "ask": 43,
       "bid": 7,
       "vendor": 4
     },
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 305,
+      "ask": 338,
       "bid": 255,
       "vendor": 40
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 152,
+      "ask": 151,
       "bid": 80,
       "vendor": 6
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 4063,
+      "ask": 4062,
       "bid": 3500,
       "vendor": 1000
     },
@@ -1457,7 +1457,7 @@
     },
     "Purpleheart Lumber": {
       "ask": 256,
-      "bid": 237,
+      "bid": 71,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 30,
+      "ask": 29,
       "bid": 13,
       "vendor": 6
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 3799,
+      "ask": 3798,
       "bid": 1207,
       "vendor": 1000
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 4503,
+      "ask": 4502,
       "bid": 2901,
       "vendor": 1000
     },
@@ -1796,7 +1796,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 540,
+      "ask": 539,
       "bid": 140,
       "vendor": 100
     },
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 60,
+      "ask": 59,
       "bid": 52,
       "vendor": 6
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1413,
+      "ask": 1400,
       "bid": 973,
       "vendor": 75
     },
@@ -1981,7 +1981,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 37,
+      "ask": 36,
       "bid": 20,
       "vendor": 8
     },
@@ -2036,7 +2036,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 330,
+      "ask": 329,
       "bid": 234,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670169603.110413
+  "time": 1670170503.5536141
 }
