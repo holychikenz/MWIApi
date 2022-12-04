@@ -46,13 +46,13 @@
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 99,
+      "ask": 100,
       "bid": 85,
       "vendor": 54
     },
     "Arcane Lumber": {
       "ask": 1160,
-      "bid": 801,
+      "bid": 805,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 76,
+      "ask": 75,
       "bid": 50,
       "vendor": 24
     },
@@ -371,7 +371,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 472,
+      "ask": 450,
       "bid": 321,
       "vendor": 36
     },
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 469,
+      "ask": 467,
       "bid": 351,
       "vendor": 12
     },
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1949,
-      "bid": 1001,
+      "bid": 1002,
       "vendor": 50
     },
     "Egg": {
@@ -867,7 +867,7 @@
     },
     "Fireball": {
       "ask": 22999,
-      "bid": 17601,
+      "bid": 17602,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -877,7 +877,7 @@
     },
     "Flame Blast": {
       "ask": 599952,
-      "bid": 310004,
+      "bid": 310005,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -987,7 +987,7 @@
     },
     "Gobo Hide": {
       "ask": 134,
-      "bid": 90,
+      "bid": 91,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1177,7 +1177,7 @@
     },
     "Ice Spear": {
       "ask": 449992,
-      "bid": 200012,
+      "bid": 210012,
       "vendor": 1000
     },
     "Icy Cloth": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 165,
-      "bid": 135,
+      "bid": 140,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 26999,
+      "ask": 26000,
       "bid": 16001,
       "vendor": 1000
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 540,
+      "ask": 535,
       "bid": 490,
       "vendor": 27
     },
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 835,
-      "bid": 476,
+      "bid": 500,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 4889,
+      "ask": 4888,
       "bid": 1000,
       "vendor": 75
     },
@@ -2016,8 +2016,8 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 799997,
-      "bid": 210004,
+      "ask": 799996,
+      "bid": 250000,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670180401.901783
+  "time": 1670181302.5893924
 }
