@@ -796,7 +796,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 17,
+      "ask": 10000,
       "bid": 16,
       "vendor": 5
     },
@@ -822,7 +822,7 @@
     },
     "Egg": {
       "ask": 35,
-      "bid": 20,
+      "bid": 18,
       "vendor": 1
     },
     "Elemental Affinity": {
@@ -936,7 +936,7 @@
       "vendor": 11664
     },
     "Ginkgo Fire Staff": {
-      "ask": 59401,
+      "ask": 56431,
       "bid": -1,
       "vendor": 11664
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 449981,
+      "ask": 449980,
       "bid": 200016,
       "vendor": 1000
     },
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 28,
-      "bid": 16,
+      "bid": 18,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 95,
-      "bid": 31,
+      "bid": 35,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1961,8 +1961,8 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1235,
-      "bid": 1026,
+      "ask": 1327,
+      "bid": 1027,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -2246,7 +2246,7 @@
       "vendor": 144
     },
     "Wooden Crossbow": {
-      "ask": 16538,
+      "ask": 19997,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670244302.7336512
+  "time": 1670245202.7813241
 }
