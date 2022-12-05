@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 48,
+      "ask": 47,
       "bid": 6,
       "vendor": 2
     },
@@ -341,7 +341,7 @@
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 49,
+      "ask": 48,
       "bid": 11,
       "vendor": 10
     },
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 450,
-      "bid": 331,
+      "bid": 332,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -521,7 +521,7 @@
       "vendor": 84
     },
     "Cheese Buckler": {
-      "ask": 1000,
+      "ask": 2500,
       "bid": 216,
       "vendor": 72
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 129,
+      "ask": 100,
       "bid": 3,
       "vendor": 24
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 99,
+      "ask": 98,
       "bid": 41,
       "vendor": 2
     },
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 2949,
-      "bid": 1500,
+      "bid": 2000,
       "vendor": 50
     },
     "Egg": {
@@ -871,7 +871,7 @@
       "vendor": 1000
     },
     "Flame Arrow": {
-      "ask": 305895,
+      "ask": 300000,
       "bid": 150143,
       "vendor": 1000
     },
@@ -1036,7 +1036,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 427,
+      "ask": 406,
       "bid": 302,
       "vendor": 20
     },
@@ -1076,7 +1076,7 @@
       "vendor": 35640
     },
     "Holy Brush": {
-      "ask": 200000,
+      "ask": -1,
       "bid": 70000,
       "vendor": 62370
     },
@@ -1196,7 +1196,7 @@
       "vendor": 60000
     },
     "Intelligence Coffee": {
-      "ask": 383,
+      "ask": 380,
       "bid": 267,
       "vendor": 10
     },
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 91926,
+      "ask": 90000,
       "bid": 50000,
       "vendor": 50000
     },
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 49,
+      "ask": 193,
       "bid": 24,
       "vendor": 18
     },
@@ -1487,7 +1487,7 @@
     },
     "Radiant Fiber": {
       "ask": 145,
-      "bid": 93,
+      "bid": 92,
       "vendor": 48
     },
     "Radiant Gloves": {
@@ -1797,7 +1797,7 @@
     },
     "Snake Fang": {
       "ask": 478,
-      "bid": 140,
+      "bid": 141,
       "vendor": 100
     },
     "Snake Fang Dirk": {
@@ -1837,7 +1837,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 348,
-      "bid": 210,
+      "bid": 201,
       "vendor": 54
     },
     "Spike Shell": {
@@ -1871,12 +1871,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 897,
+      "ask": 898,
       "bid": 785,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 149,
+      "ask": 145,
       "bid": 53,
       "vendor": 6
     },
@@ -1936,7 +1936,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 1999,
+      "ask": 4500,
       "bid": 201,
       "vendor": 40
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 845,
+      "ask": 844,
       "bid": 754,
       "vendor": 50
     },
@@ -2051,7 +2051,7 @@
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": -1,
+      "ask": 222222,
       "bid": 185409,
       "vendor": 43344
     },
@@ -2061,7 +2061,7 @@
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": -1,
+      "ask": 222222,
       "bid": 84133,
       "vendor": 30960
     },
@@ -2071,7 +2071,7 @@
       "vendor": 144
     },
     "Umbral Tunic": {
-      "ask": 428675,
+      "ask": 349999,
       "bid": -1,
       "vendor": 49536
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1156,
+      "ask": 1155,
       "bid": 1000,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670265904.0540092
+  "time": 1670266802.488909
 }
