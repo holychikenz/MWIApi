@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 47,
-      "bid": 5,
+      "bid": 6,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -136,7 +136,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 64,
+      "ask": 63,
       "bid": 42,
       "vendor": 8
     },
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 474,
-      "bid": 214,
+      "bid": 215,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 100,
+      "ask": 249,
       "bid": 82,
       "vendor": 6
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 100,
+      "ask": 99,
       "bid": 41,
       "vendor": 2
     },
@@ -807,7 +807,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 333,
-      "bid": 265,
+      "bid": 266,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -1306,7 +1306,7 @@
       "vendor": 50
     },
     "Medium Pouch": {
-      "ask": 83172,
+      "ask": 91926,
       "bid": 50000,
       "vendor": 50000
     },
@@ -1326,7 +1326,7 @@
       "vendor": 1000
     },
     "Mooberry": {
-      "ask": 43,
+      "ask": 45,
       "bid": 28,
       "vendor": 9
     },
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 31,
+      "ask": 49,
       "bid": 24,
       "vendor": 18
     },
@@ -1876,8 +1876,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 100,
-      "bid": 60,
+      "ask": 149,
+      "bid": 53,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -2007,7 +2007,7 @@
     },
     "Tome Of The Elements": {
       "ask": 3649982,
-      "bid": 2000003,
+      "bid": 2000004,
       "vendor": 100000
     },
     "Toughness": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670264102.8163137
+  "time": 1670265002.9275725
 }
