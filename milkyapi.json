@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 48,
+      "ask": 49,
       "bid": 6,
       "vendor": 2
     },
@@ -192,7 +192,7 @@
     },
     "Bamboo Fabric": {
       "ask": 574,
-      "bid": 355,
+      "bid": 380,
       "vendor": 36
     },
     "Bamboo Gloves": {
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 68,
+      "ask": 69,
       "bid": 56,
       "vendor": 24
     },
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 180,
+      "ask": 182,
       "bid": 141,
       "vendor": 6
     },
@@ -1456,8 +1456,8 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 243,
-      "bid": 71,
+      "ask": 231,
+      "bid": 150,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 428,
-      "bid": 202,
+      "bid": 300,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 833,
-      "bid": 503,
+      "bid": 550,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670205602.1348934
+  "time": 1670206503.1353862
 }
