@@ -32,12 +32,12 @@
     },
     "Arcane Bow": {
       "ask": 179547,
-      "bid": -1,
+      "bid": 700,
       "vendor": 106920
     },
     "Arcane Crossbow": {
       "ask": 280000,
-      "bid": -1,
+      "bid": 800,
       "vendor": 80190
     },
     "Arcane Fire Staff": {
@@ -62,7 +62,7 @@
     },
     "Arcane Water Staff": {
       "ask": 370037,
-      "bid": -1,
+      "bid": 700,
       "vendor": 80190
     },
     "Artisan Tea": {
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 450,
-      "bid": 337,
+      "bid": 247,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 599957,
+      "ask": 599956,
       "bid": 405004,
       "vendor": 1000
     },
@@ -1127,12 +1127,12 @@
     },
     "Holy Mace": {
       "ask": 89990,
-      "bid": -1,
+      "bid": 801,
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 209,
-      "bid": 191,
+      "ask": 210,
+      "bid": 190,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 333,
-      "bid": 150,
+      "bid": 151,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 194,
-      "bid": 141,
+      "bid": 142,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 142,
+      "ask": 141,
       "bid": 83,
       "vendor": 6
     },
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 386,
-      "bid": 325,
+      "bid": 326,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1692,7 +1692,7 @@
     },
     "Reptile Leather": {
       "ask": 188,
-      "bid": 65,
+      "bid": 66,
       "vendor": 18
     },
     "Reptile Tunic": {
@@ -1812,11 +1812,11 @@
     },
     "Sorcerer Essence": {
       "ask": 770,
-      "bid": 322,
+      "bid": 323,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 203518,
+      "ask": 203517,
       "bid": 40007,
       "vendor": 3000
     },
@@ -1896,7 +1896,7 @@
       "vendor": 1000
     },
     "Sugar": {
-      "ask": 5,
+      "ask": 6,
       "bid": 4,
       "vendor": 1
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 799987,
-      "bid": 255003,
+      "bid": 255004,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670247903.7053158
+  "time": 1670248803.2941709
 }
