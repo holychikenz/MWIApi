@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 48,
-      "bid": 6,
+      "ask": 47,
+      "bid": 5,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -17,7 +17,7 @@
     },
     "Aqua Arrow": {
       "ask": 571560,
-      "bid": 181148,
+      "bid": 181149,
       "vendor": 1000
     },
     "Aqua Essence": {
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 474,
-      "bid": 213,
+      "bid": 214,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -282,7 +282,7 @@
     },
     "Birch Lumber": {
       "ask": 242,
-      "bid": 215,
+      "bid": 194,
       "vendor": 12
     },
     "Birch Nature Staff": {
@@ -296,7 +296,7 @@
       "vendor": 540
     },
     "Black Bear Fluff": {
-      "ask": 17770,
+      "ask": 17769,
       "bid": 8003,
       "vendor": 3000
     },
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 450,
-      "bid": 329,
+      "bid": 331,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 123,
+      "ask": 100,
       "bid": 41,
       "vendor": 2
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 331,
+      "ask": 333,
       "bid": 265,
       "vendor": 50
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 799959,
-      "bid": 450043,
+      "bid": 450044,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 31269,
+      "ask": 31000,
       "bid": 20500,
       "vendor": 1000
     },
@@ -877,12 +877,12 @@
     },
     "Flame Blast": {
       "ask": 599956,
-      "bid": 415003,
+      "bid": 415004,
       "vendor": 1000
     },
     "Flaming Cloth": {
       "ask": 109999,
-      "bid": 75002,
+      "bid": 75003,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 374,
-      "bid": 291,
+      "bid": 300,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 191,
-      "bid": 144,
+      "bid": 145,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 4054,
+      "ask": 4055,
       "bid": 3500,
       "vendor": 1000
     },
@@ -1692,7 +1692,7 @@
     },
     "Reptile Leather": {
       "ask": 185,
-      "bid": 68,
+      "bid": 69,
       "vendor": 18
     },
     "Reptile Tunic": {
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 828,
-      "bid": 503,
+      "bid": 505,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 792,
+      "ask": 794,
       "bid": 651,
       "vendor": 75
     },
@@ -1872,11 +1872,11 @@
     },
     "Star Fruit Yogurt": {
       "ask": 897,
-      "bid": 776,
+      "bid": 785,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 99,
+      "ask": 100,
       "bid": 60,
       "vendor": 6
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 450000,
+      "ask": 750750,
       "bid": 315001,
       "vendor": 1000
     },
@@ -2231,8 +2231,8 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1324,
-      "bid": 850,
+      "ask": 1400,
+      "bid": 1301,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670263202.6706498
+  "time": 1670264102.8163137
 }
