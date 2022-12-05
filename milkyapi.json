@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 61,
+      "ask": 62,
       "bid": 41,
       "vendor": 24
     },
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 474,
-      "bid": 284,
+      "bid": 285,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -867,7 +867,7 @@
     },
     "Fireball": {
       "ask": 31000,
-      "bid": 20500,
+      "bid": 20000,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 872,
+      "ask": 871,
       "bid": 307,
       "vendor": 10
     },
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 330,
+      "ask": 329,
       "bid": 266,
       "vendor": 40
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 134,
+      "ask": 130,
       "bid": 85,
       "vendor": 48
     },
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 900,
-      "bid": 606,
+      "bid": 625,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 125,
+      "ask": 124,
       "bid": 53,
       "vendor": 6
     },
@@ -2061,7 +2061,7 @@
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": -1,
+      "ask": 330000,
       "bid": 84133,
       "vendor": 30960
     },
@@ -2226,13 +2226,13 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1152,
+      "ask": 1151,
       "bid": 1001,
       "vendor": 30
     },
     "Wisdom Tea": {
       "ask": 1400,
-      "bid": 1301,
+      "bid": 850,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670276702.8227448
+  "time": 1670277602.5428605
 }
