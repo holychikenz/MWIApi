@@ -357,7 +357,7 @@
     },
     "Burble Brush": {
       "ask": 50000,
-      "bid": 4005,
+      "bid": 100,
       "vendor": 3780
     },
     "Burble Buckler": {
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 438,
+      "ask": 450,
       "bid": 329,
       "vendor": 12
     },
@@ -607,7 +607,7 @@
     },
     "Cheesesmithing Tea": {
       "ask": 746,
-      "bid": 103,
+      "bid": 200,
       "vendor": 30
     },
     "Cleave": {
@@ -766,7 +766,7 @@
       "vendor": 9072
     },
     "Crimson Shears": {
-      "ask": 38000,
+      "ask": 40000,
       "bid": -1,
       "vendor": 9072
     },
@@ -801,7 +801,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 41,
+      "ask": 42,
       "bid": 30,
       "vendor": 14
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1900,
+      "ask": 1875,
       "bid": 1003,
       "vendor": 50
     },
@@ -911,12 +911,12 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 740,
+      "ask": 739,
       "bid": 309,
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 12350,
+      "ask": 12250,
       "bid": 5001,
       "vendor": 5000
     },
@@ -976,7 +976,7 @@
       "vendor": 1872
     },
     "Gobo Chaps": {
-      "ask": 165375,
+      "ask": 157106,
       "bid": 4603,
       "vendor": 3276
     },
@@ -1021,7 +1021,7 @@
       "vendor": 20000
     },
     "Gobo Tunic": {
-      "ask": 135360,
+      "ask": 128592,
       "bid": -1,
       "vendor": 3744
     },
@@ -1207,7 +1207,7 @@
     },
     "Large Pouch": {
       "ask": 1000000,
-      "bid": 512007,
+      "bid": 512000,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 30000,
+      "ask": 29925,
       "bid": 5007,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670300103.3845682
+  "time": 1670301002.6571996
 }
