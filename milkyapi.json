@@ -331,7 +331,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 20,
+      "ask": 19,
       "bid": 17,
       "vendor": 2
     },
@@ -402,7 +402,7 @@
     },
     "Burble Helmet": {
       "ask": -1,
-      "bid": 2805,
+      "bid": -1,
       "vendor": 2700
     },
     "Burble Mace": {
@@ -422,7 +422,7 @@
     },
     "Burble Plate Body": {
       "ask": 49000,
-      "bid": 5253,
+      "bid": -1,
       "vendor": 4320
     },
     "Burble Plate Legs": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2200,
+      "ask": 2000,
       "bid": 1003,
       "vendor": 50
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 774,
+      "ask": 750,
       "bid": 309,
       "vendor": 10
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 55730,
+      "ask": 55700,
       "bid": 19000,
       "vendor": 20000
     },
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 210,
+      "ask": 209,
       "bid": 192,
       "vendor": 54
     },
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 33,
+      "ask": 35,
       "bid": 6,
       "vendor": 2
     },
@@ -1346,7 +1346,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 34,
+      "ask": 33,
       "bid": 9,
       "vendor": 4
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 119,
+      "ask": 118,
       "bid": 68,
       "vendor": 6
     },
@@ -1936,7 +1936,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 4999,
+      "ask": 3500,
       "bid": 201,
       "vendor": 40
     },
@@ -2046,7 +2046,7 @@
       "vendor": 24768
     },
     "Umbral Bracers": {
-      "ask": 320000,
+      "ask": -1,
       "bid": -1,
       "vendor": 24768
     },
@@ -2061,17 +2061,17 @@
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": 330000,
+      "ask": -1,
       "bid": 84133,
       "vendor": 30960
     },
     "Umbral Leather": {
-      "ask": 3200,
+      "ask": 3199,
       "bid": 1101,
       "vendor": 144
     },
     "Umbral Tunic": {
-      "ask": 428675,
+      "ask": 428676,
       "bid": -1,
       "vendor": 49536
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670293803.6130507
+  "time": 1670294703.9899845
 }
