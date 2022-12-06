@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 109,
-      "bid": 40,
+      "bid": 42,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 206,
+      "ask": 208,
       "bid": 55,
       "vendor": 24
     },
@@ -816,12 +816,12 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2000,
+      "ask": 1975,
       "bid": 1003,
       "vendor": 50
     },
     "Egg": {
-      "ask": 34,
+      "ask": 35,
       "bid": 18,
       "vendor": 1
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 750,
+      "ask": 749,
       "bid": 309,
       "vendor": 10
     },
@@ -1131,8 +1131,8 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 209,
-      "bid": 192,
+      "ask": 210,
+      "bid": 191,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 10,
+      "ask": 22,
       "bid": 9,
       "vendor": 2
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 37988,
+      "ask": 36089,
       "bid": 15032,
       "vendor": 1000
     },
@@ -1742,7 +1742,7 @@
     },
     "Scratch": {
       "ask": 2000,
-      "bid": 1267,
+      "bid": 1207,
       "vendor": 1000
     },
     "Silk Boots": {
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 826,
-      "bid": 507,
+      "bid": 508,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -1872,7 +1872,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 878,
-      "bid": 609,
+      "bid": 611,
       "vendor": 75
     },
     "Strawberry": {
@@ -2046,7 +2046,7 @@
       "vendor": 24768
     },
     "Umbral Bracers": {
-      "ask": -1,
+      "ask": 320000,
       "bid": -1,
       "vendor": 24768
     },
@@ -2061,12 +2061,12 @@
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": -1,
+      "ask": 330000,
       "bid": 84133,
       "vendor": 30960
     },
     "Umbral Leather": {
-      "ask": 3199,
+      "ask": 3150,
       "bid": 1101,
       "vendor": 144
     },
@@ -2152,7 +2152,7 @@
     },
     "Verdant Milk": {
       "ask": 59,
-      "bid": 26,
+      "bid": 27,
       "vendor": 4
     },
     "Verdant Needle": {
@@ -2181,7 +2181,7 @@
       "vendor": 420
     },
     "Verdant Spatula": {
-      "ask": 9499,
+      "ask": 9024,
       "bid": 3000,
       "vendor": 420
     },
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 20,
+      "ask": 24,
       "bid": 12,
       "vendor": 1
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1445,
+      "ask": 1444,
       "bid": 850,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670295603.8783019
+  "time": 1670296503.7127688
 }
