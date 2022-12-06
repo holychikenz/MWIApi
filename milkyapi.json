@@ -26,7 +26,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 121,
+      "ask": 122,
       "bid": 103,
       "vendor": 4
     },
@@ -382,7 +382,7 @@
     },
     "Burble Enhancer": {
       "ask": 50000,
-      "bid": 3008,
+      "bid": -1,
       "vendor": 3780
     },
     "Burble Gauntlets": {
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 428,
+      "ask": 475,
       "bid": 329,
       "vendor": 12
     },
@@ -481,7 +481,7 @@
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 257,
+      "ask": 261,
       "bid": 236,
       "vendor": 24
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 797951,
-      "bid": 450070,
+      "bid": 450071,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -1067,7 +1067,7 @@
     },
     "Heal": {
       "ask": 949998,
-      "bid": 150003,
+      "bid": 150007,
       "vendor": 1000
     },
     "Holy Boots": {
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 449966,
+      "ask": 449965,
       "bid": 200016,
       "vendor": 1000
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 4054,
+      "ask": 4055,
       "bid": 3500,
       "vendor": 1000
     },
@@ -1511,8 +1511,8 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 759990,
-      "bid": 150001,
+      "ask": 721991,
+      "bid": 150002,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1706,8 +1706,8 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 1000,
-      "bid": -1,
+      "ask": 17088,
+      "bid": 1500,
       "vendor": 48
     },
     "Rough Bracers": {
@@ -1987,7 +1987,7 @@
     },
     "Sweep": {
       "ask": 27579,
-      "bid": 11270,
+      "bid": 11271,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -2016,8 +2016,8 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 689431,
-      "bid": 350003,
+      "ask": 689430,
+      "bid": 350004,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670318103.3782473
+  "time": 1670319003.0508792
 }
