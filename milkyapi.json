@@ -617,7 +617,7 @@
     },
     "Cocoon": {
       "ask": 208,
-      "bid": 55,
+      "bid": 80,
       "vendor": 24
     },
     "Coin": {
@@ -636,8 +636,8 @@
       "vendor": 2
     },
     "Cotton Boots": {
-      "ask": 990,
-      "bid": -1,
+      "ask": 1450,
+      "bid": 990,
       "vendor": 48
     },
     "Cotton Fabric": {
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 210,
-      "bid": 190,
+      "bid": 169,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1251,7 +1251,7 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 35,
+      "ask": 25,
       "bid": 6,
       "vendor": 2
     },
@@ -2051,7 +2051,7 @@
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": -1,
+      "ask": 380000,
       "bid": 200000,
       "vendor": 43344
     },
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 59,
+      "ask": 58,
       "bid": 27,
       "vendor": 4
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670334302.744123
+  "time": 1670335202.8946443
 }
