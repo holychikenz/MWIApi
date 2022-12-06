@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 473,
-      "bid": 291,
+      "bid": 300,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 50,
-      "bid": 40,
+      "bid": 26,
       "vendor": 12
     },
     "Burble Needle": {
@@ -456,8 +456,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 621,
-      "bid": 329,
+      "ask": 615,
+      "bid": 340,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -531,7 +531,7 @@
       "vendor": 144
     },
     "Cheese Chisel": {
-      "ask": 80,
+      "ask": 5000,
       "bid": -1,
       "vendor": 84
     },
@@ -832,7 +832,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 343,
-      "bid": 251,
+      "bid": 255,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -922,7 +922,7 @@
     },
     "Giant Pouch": {
       "ask": 7500000,
-      "bid": 4750000,
+      "bid": 5300000,
       "vendor": 5000000
     },
     "Ginkgo Bow": {
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 50269,
+      "ask": 50000,
       "bid": 19000,
       "vendor": 20000
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 737,
-      "bid": 658,
+      "bid": 660,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1332,7 +1332,7 @@
     },
     "Mooberry Cake": {
       "ask": 200,
-      "bid": 148,
+      "bid": 150,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 23748,
+      "ask": 23700,
       "bid": 16001,
       "vendor": 1000
     },
@@ -1457,7 +1457,7 @@
     },
     "Purpleheart Lumber": {
       "ask": 231,
-      "bid": 185,
+      "bid": 200,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 389,
-      "bid": 276,
+      "bid": 280,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 360,
-      "bid": 335,
+      "bid": 336,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1691,7 +1691,7 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 169,
+      "ask": 167,
       "bid": 77,
       "vendor": 18
     },
@@ -1812,7 +1812,7 @@
     },
     "Sorcerer Essence": {
       "ask": 749,
-      "bid": 383,
+      "bid": 384,
       "vendor": 36
     },
     "Sorcerer's Sole": {
@@ -1941,7 +1941,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 1186,
+      "ask": 1185,
       "bid": 961,
       "vendor": 40
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 689426,
-      "bid": 350008,
+      "bid": 350009,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2226,12 +2226,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1156,
+      "ask": 1155,
       "bid": 1006,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1440,
+      "ask": 1444,
       "bid": 1000,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670344202.5236523
+  "time": 1670345103.5803015
 }
