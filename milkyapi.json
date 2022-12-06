@@ -191,7 +191,7 @@
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 511,
+      "ask": 500,
       "bid": 200,
       "vendor": 36
     },
@@ -436,8 +436,8 @@
       "vendor": 3780
     },
     "Burble Shears": {
-      "ask": 24000,
-      "bid": 3360,
+      "ask": 23000,
+      "bid": 30,
       "vendor": 3780
     },
     "Burble Spatula": {
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 797951,
-      "bid": 450066,
+      "bid": 450067,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -942,7 +942,7 @@
     },
     "Ginkgo Log": {
       "ask": 69,
-      "bid": 23,
+      "bid": 25,
       "vendor": 18
     },
     "Ginkgo Lumber": {
@@ -1202,7 +1202,7 @@
     },
     "Jungle Essence": {
       "ask": 94,
-      "bid": 32,
+      "bid": 33,
       "vendor": 24
     },
     "Large Pouch": {
@@ -1222,7 +1222,7 @@
     },
     "Linen Fabric": {
       "ask": 188,
-      "bid": 151,
+      "bid": 152,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1647,12 +1647,12 @@
     },
     "Redwood Log": {
       "ask": 48,
-      "bid": 26,
+      "bid": 29,
       "vendor": 27
     },
     "Redwood Lumber": {
       "ask": 386,
-      "bid": 333,
+      "bid": 334,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1666,7 +1666,7 @@
       "vendor": 26973
     },
     "Reptile Boots": {
-      "ask": 3800,
+      "ask": 3700,
       "bid": -1,
       "vendor": 432
     },
@@ -1692,7 +1692,7 @@
     },
     "Reptile Leather": {
       "ask": 179,
-      "bid": 76,
+      "bid": 77,
       "vendor": 18
     },
     "Reptile Tunic": {
@@ -1781,7 +1781,7 @@
       "vendor": 1000
     },
     "Small Pouch": {
-      "ask": 14249,
+      "ask": 14000,
       "bid": 3,
       "vendor": 5000
     },
@@ -1912,7 +1912,7 @@
     },
     "Super Cheesesmithing Tea": {
       "ask": 1090,
-      "bid": 950,
+      "bid": 531,
       "vendor": 75
     },
     "Super Cooking Tea": {
@@ -1936,7 +1936,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 4999,
+      "ask": 3000,
       "bid": 201,
       "vendor": 40
     },
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1000,
+      "ask": 999,
       "bid": 645,
       "vendor": 75
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 689434,
-      "bid": 320005,
+      "bid": 320006,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2066,7 +2066,7 @@
       "vendor": 30960
     },
     "Umbral Leather": {
-      "ask": 3150,
+      "ask": 3000,
       "bid": 1101,
       "vendor": 144
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670301002.6571996
+  "time": 1670301902.712762
 }
