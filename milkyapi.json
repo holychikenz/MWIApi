@@ -42,7 +42,7 @@
     },
     "Arcane Fire Staff": {
       "ask": 200000,
-      "bid": 6943,
+      "bid": 100000,
       "vendor": 80190
     },
     "Arcane Log": {
@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 933,
-      "bid": 808,
+      "bid": 809,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -97,7 +97,7 @@
     },
     "Azure Cheese": {
       "ask": 500,
-      "bid": 375,
+      "bid": 334,
       "vendor": 24
     },
     "Azure Chisel": {
@@ -256,7 +256,7 @@
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 238081,
+      "ask": 238080,
       "bid": 175010,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 27550,
+      "ask": 27549,
       "bid": 20000,
       "vendor": 1000
     },
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 369,
+      "ask": 368,
       "bid": 301,
       "vendor": 36
     },
@@ -1077,7 +1077,7 @@
     },
     "Holy Brush": {
       "ask": -1,
-      "bid": 100000,
+      "bid": 70000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 162,
+      "ask": 125,
       "bid": 27,
       "vendor": 18
     },
@@ -1406,7 +1406,7 @@
       "vendor": 30
     },
     "Plum Yogurt": {
-      "ask": 249,
+      "ask": 1000000000000,
       "bid": 150,
       "vendor": 30
     },
@@ -1816,8 +1816,8 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 202995,
-      "bid": 100000,
+      "ask": 202993,
+      "bid": 40008,
       "vendor": 3000
     },
     "Spaceberry": {
@@ -1827,12 +1827,12 @@
     },
     "Spaceberry Cake": {
       "ask": 830,
-      "bid": 660,
+      "bid": 661,
       "vendor": 75
     },
     "Spaceberry Donut": {
       "ask": 840,
-      "bid": 727,
+      "bid": 730,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1872,7 +1872,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 870,
-      "bid": 421,
+      "bid": 425,
       "vendor": 75
     },
     "Strawberry": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670338802.6033628
+  "time": 1670339702.6654644
 }
