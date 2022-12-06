@@ -671,12 +671,12 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": -1,
+      "ask": 800000,
       "bid": 5000,
       "vendor": 1500
     },
     "Crafting Tea": {
-      "ask": 1873,
+      "ask": 1526,
       "bid": 600,
       "vendor": 30
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 698,
+      "ask": 675,
       "bid": 310,
       "vendor": 10
     },
@@ -1136,7 +1136,7 @@
       "vendor": 54
     },
     "Holy Needle": {
-      "ask": 144999,
+      "ask": 140000,
       "bid": 70000,
       "vendor": 62370
     },
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 328,
+      "ask": 325,
       "bid": 202,
       "vendor": 12
     },
@@ -1821,7 +1821,7 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 159,
+      "ask": 151,
       "bid": 110,
       "vendor": 27
     },
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 216,
-      "bid": 177,
+      "bid": 173,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1871,8 +1871,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 863,
-      "bid": 450,
+      "ask": 860,
+      "bid": 451,
       "vendor": 75
     },
     "Strawberry": {
@@ -1936,7 +1936,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 2200,
+      "ask": 1500,
       "bid": 201,
       "vendor": 40
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1946,
+      "ask": 1945,
       "bid": 1040,
       "vendor": 75
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1149,
+      "ask": 1148,
       "bid": 1007,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670360402.5047693
+  "time": 1670361302.8113875
 }
