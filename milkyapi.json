@@ -91,7 +91,7 @@
       "vendor": 1296
     },
     "Azure Bulwark": {
-      "ask": 30000,
+      "ask": -1,
       "bid": -1,
       "vendor": 2592
     },
@@ -642,7 +642,7 @@
     },
     "Cotton Fabric": {
       "ask": 182,
-      "bid": 135,
+      "bid": 136,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -676,7 +676,7 @@
       "vendor": 1500
     },
     "Crafting Tea": {
-      "ask": 2187,
+      "ask": 2186,
       "bid": -1,
       "vendor": 30
     },
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 33,
+      "ask": 34,
       "bid": 18,
       "vendor": 1
     },
@@ -1351,7 +1351,7 @@
       "vendor": 4
     },
     "Orange Gummy": {
-      "ask": 32,
+      "ask": 33,
       "bid": 21,
       "vendor": 20
     },
@@ -1621,7 +1621,7 @@
       "vendor": 26973
     },
     "Ranged Coffee": {
-      "ask": 641,
+      "ask": 640,
       "bid": 424,
       "vendor": 30
     },
@@ -1861,7 +1861,7 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 228,
+      "ask": 217,
       "bid": 174,
       "vendor": 27
     },
@@ -1936,7 +1936,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 3000,
+      "ask": 2999,
       "bid": 201,
       "vendor": 40
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670314503.2981052
+  "time": 1670315403.3564677
 }
