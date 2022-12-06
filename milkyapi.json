@@ -91,7 +91,7 @@
       "vendor": 1296
     },
     "Azure Bulwark": {
-      "ask": -1,
+      "ask": 10000,
       "bid": -1,
       "vendor": 2592
     },
@@ -306,8 +306,8 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 37,
-      "bid": 29,
+      "ask": 109,
+      "bid": 28,
       "vendor": 8
     },
     "Blackberry": {
@@ -366,7 +366,7 @@
       "vendor": 3240
     },
     "Burble Bulwark": {
-      "ask": 6480,
+      "ask": 5000,
       "bid": 1,
       "vendor": 6480
     },
@@ -456,8 +456,8 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 645,
-      "bid": 340,
+      "ask": 644,
+      "bid": 335,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2450,
+      "ask": 2449,
       "bid": 1400,
       "vendor": 50
     },
@@ -832,7 +832,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 343,
-      "bid": 255,
+      "bid": 250,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 71,
+      "ask": 70,
       "bid": 57,
       "vendor": 4
     },
@@ -1201,7 +1201,7 @@
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 93,
+      "ask": 91,
       "bid": 33,
       "vendor": 24
     },
@@ -1332,7 +1332,7 @@
     },
     "Mooberry Cake": {
       "ask": 200,
-      "bid": 151,
+      "bid": 152,
       "vendor": 40
     },
     "Mooberry Donut": {
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 107,
+      "ask": 106,
       "bid": 57,
       "vendor": 6
     },
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 879,
-      "bid": 666,
+      "bid": 627,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 100,
+      "ask": 99,
       "bid": 55,
       "vendor": 6
     },
@@ -2051,7 +2051,7 @@
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": -1,
+      "ask": 380000,
       "bid": 210000,
       "vendor": 43344
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670354102.8536358
+  "time": 1670355002.4057326
 }
