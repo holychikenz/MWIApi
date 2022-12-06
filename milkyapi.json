@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 48,
-      "bid": 8,
+      "bid": 10,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 34,
+      "ask": 33,
       "bid": 18,
       "vendor": 1
     },
@@ -862,7 +862,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 190,
-      "bid": 102,
+      "bid": 110,
       "vendor": 27
     },
     "Fireball": {
@@ -922,7 +922,7 @@
     },
     "Giant Pouch": {
       "ask": 7500000,
-      "bid": 4000000,
+      "bid": 4000001,
       "vendor": 5000000
     },
     "Ginkgo Bow": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670308203.690386
+  "time": 1670309103.7600825
 }
