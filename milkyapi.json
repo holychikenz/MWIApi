@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 53,
+      "ask": 52,
       "bid": 40,
       "vendor": 24
     },
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 105,
+      "ask": 104,
       "bid": 28,
       "vendor": 8
     },
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 50,
+      "ask": 49,
       "bid": 21,
       "vendor": 12
     },
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 639,
+      "ask": 638,
       "bid": 335,
       "vendor": 12
     },
@@ -642,7 +642,7 @@
     },
     "Cotton Fabric": {
       "ask": 182,
-      "bid": 135,
+      "bid": 134,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -687,7 +687,7 @@
     },
     "Crimson Brush": {
       "ask": 59999,
-      "bid": 10007,
+      "bid": 30000,
       "vendor": 9072
     },
     "Crimson Buckler": {
@@ -811,7 +811,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 412,
+      "ask": 390,
       "bid": 284,
       "vendor": 50
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 797947,
-      "bid": 450084,
+      "bid": 450086,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -867,17 +867,17 @@
     },
     "Fireball": {
       "ask": 27545,
-      "bid": 18000,
+      "bid": 18001,
       "vendor": 1000
     },
     "Flame Arrow": {
       "ask": 284999,
-      "bid": 150162,
+      "bid": 150163,
       "vendor": 1000
     },
     "Flame Blast": {
       "ask": 599947,
-      "bid": 450005,
+      "bid": 450007,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -922,7 +922,7 @@
     },
     "Giant Pouch": {
       "ask": 8000000,
-      "bid": 5300000,
+      "bid": 5800000,
       "vendor": 5000000
     },
     "Ginkgo Bow": {
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 50000,
+      "ask": 49999,
       "bid": 19000,
       "vendor": 20000
     },
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 69,
-      "bid": 57,
+      "bid": 56,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 325,
+      "ask": 324,
       "bid": 202,
       "vendor": 12
     },
@@ -1341,12 +1341,12 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 120,
+      "ask": 119,
       "bid": 27,
       "vendor": 18
     },
     "Orange": {
-      "ask": 33,
+      "ask": 32,
       "bid": 9,
       "vendor": 4
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 103,
+      "ask": 102,
       "bid": 60,
       "vendor": 6
     },
@@ -1476,7 +1476,7 @@
       "vendor": 1000
     },
     "Radiant Boots": {
-      "ask": 400000,
+      "ask": 250000,
       "bid": 1,
       "vendor": 24768
     },
@@ -1826,12 +1826,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 824,
+      "ask": 827,
       "bid": 667,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 840,
+      "ask": 841,
       "bid": 741,
       "vendor": 75
     },
@@ -1871,12 +1871,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 860,
+      "ask": 862,
       "bid": 453,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 91,
+      "ask": 90,
       "bid": 52,
       "vendor": 6
     },
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 207555,
+      "ask": 207554,
       "bid": 10047,
       "vendor": 10000
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 689418,
-      "bid": 350016,
+      "bid": 350018,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2226,12 +2226,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1144,
+      "ask": 1143,
       "bid": 1007,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1250,
+      "ask": 1350,
       "bid": 850,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670363103.1367283
+  "time": 1670364002.4079158
 }
