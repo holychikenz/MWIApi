@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 628,
+      "ask": 627,
       "bid": 355,
       "vendor": 12
     },
@@ -671,7 +671,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 142497,
+      "ask": 142494,
       "bid": 5000,
       "vendor": 1500
     },
@@ -811,7 +811,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 360,
+      "ask": 357,
       "bid": 275,
       "vendor": 50
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 797947,
-      "bid": 450094,
+      "bid": 450097,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -872,7 +872,7 @@
     },
     "Flame Arrow": {
       "ask": 284999,
-      "bid": 150167,
+      "bid": 150169,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -906,8 +906,8 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 124682,
-      "bid": 75040,
+      "ask": 424998,
+      "bid": 75043,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 949997,
+      "ask": 949996,
       "bid": 150010,
       "vendor": 1000
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 735,
-      "bid": 657,
+      "bid": 658,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1206,7 +1206,7 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 995000,
+      "ask": 993997,
       "bid": 3003,
       "vendor": 500000
     },
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 113,
+      "ask": 112,
       "bid": 30,
       "vendor": 18
     },
@@ -1381,8 +1381,8 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 295,
-      "bid": 104,
+      "ask": 292,
+      "bid": 105,
       "vendor": 40
     },
     "Pierce": {
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 34284,
+      "ask": 34283,
       "bid": 15032,
       "vendor": 1000
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 879,
+      "ask": 880,
       "bid": 500,
       "vendor": 27
     },
@@ -1831,7 +1831,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 839,
+      "ask": 837,
       "bid": 741,
       "vendor": 75
     },
@@ -1871,12 +1871,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 842,
+      "ask": 843,
       "bid": 453,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 82,
+      "ask": 79,
       "bid": 52,
       "vendor": 6
     },
@@ -1891,7 +1891,7 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 306992,
+      "ask": 670285,
       "bid": 203963,
       "vendor": 1000
     },
@@ -1962,7 +1962,7 @@
     },
     "Super Ranged Coffee": {
       "ask": 1943,
-      "bid": 1050,
+      "bid": 1051,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 27500,
+      "ask": 119999,
       "bid": 11271,
       "vendor": 1000
     },
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 50000,
+      "ask": 49997,
       "bid": 10047,
       "vendor": 10000
     },
@@ -2016,12 +2016,12 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 689418,
-      "bid": 350026,
+      "ask": 689417,
+      "bid": 350029,
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 38500,
+      "ask": 38497,
       "bid": 2940,
       "vendor": 1500
     },
@@ -2159,7 +2159,117 @@
       "ask": 15000,
       "bid": -1,
       "vendor": 420
+    },
+    "Verdant Plate Body": {
+      "ask": 12000,
+      "bid": 606,
+      "vendor": 480
+    },
+    "Verdant Plate Legs": {
+      "ask": -1,
+      "bid": 440,
+      "vendor": 420
+    },
+    "Verdant Pot": {
+      "ask": 8500,
+      "bid": 445,
+      "vendor": 420
+    },
+    "Verdant Shears": {
+      "ask": 9000,
+      "bid": -1,
+      "vendor": 420
+    },
+    "Verdant Spatula": {
+      "ask": 9023,
+      "bid": 3000,
+      "vendor": 420
+    },
+    "Verdant Spear": {
+      "ask": 11999,
+      "bid": 250,
+      "vendor": 540
+    },
+    "Verdant Sword": {
+      "ask": -1,
+      "bid": 500,
+      "vendor": 540
+    },
+    "Vision Helmet": {
+      "ask": 143388,
+      "bid": 20000,
+      "vendor": 20000
+    },
+    "Vision Shield": {
+      "ask": 279998,
+      "bid": 71840,
+      "vendor": 20000
+    },
+    "Water Strike": {
+      "ask": 12908,
+      "bid": 4004,
+      "vendor": 1000
+    },
+    "Werewolf Claw": {
+      "ask": 424000,
+      "bid": 315012,
+      "vendor": 10000
+    },
+    "Werewolf Slasher": {
+      "ask": 12000000,
+      "bid": 1001,
+      "vendor": 400000
+    },
+    "Wheat": {
+      "ask": 28,
+      "bid": 13,
+      "vendor": 1
+    },
+    "Wisdom Coffee": {
+      "ask": 1075,
+      "bid": 1002,
+      "vendor": 30
+    },
+    "Wisdom Tea": {
+      "ask": 1350,
+      "bid": 1000,
+      "vendor": 30
+    },
+    "Woodcutting Tea": {
+      "ask": 650,
+      "bid": 250,
+      "vendor": 10
+    },
+    "Wooden Bow": {
+      "ask": 2000,
+      "bid": -1,
+      "vendor": 144
+    },
+    "Wooden Crossbow": {
+      "ask": 9999,
+      "bid": -1,
+      "vendor": 108
+    },
+    "Wooden Fire Staff": {
+      "ask": 32000,
+      "bid": -1,
+      "vendor": 108
+    },
+    "Wooden Nature Staff": {
+      "ask": 33250,
+      "bid": -1,
+      "vendor": 108
+    },
+    "Wooden Water Staff": {
+      "ask": 22554,
+      "bid": -1,
+      "vendor": 108
+    },
+    "Yogurt": {
+      "ask": 37,
+      "bid": 5,
+      "vendor": 5
     }
   },
-  "time": 1670382902.4710228
+  "time": 1670383802.7010677
 }
