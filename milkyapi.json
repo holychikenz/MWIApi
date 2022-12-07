@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 623,
-      "bid": 333,
+      "bid": 324,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -511,7 +511,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 1600,
+      "ask": 1000,
       "bid": -1,
       "vendor": 48
     },
@@ -877,7 +877,7 @@
     },
     "Flame Blast": {
       "ask": 599946,
-      "bid": 460000,
+      "bid": 460001,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -887,12 +887,12 @@
     },
     "Flaming Robe Bottoms": {
       "ask": 600000,
-      "bid": -1,
+      "bid": 350000,
       "vendor": 40000
     },
     "Flaming Robe Top": {
       "ask": 800000,
-      "bid": 175420,
+      "bid": 500000,
       "vendor": 60000
     },
     "Flax": {
@@ -1027,7 +1027,7 @@
     },
     "Goggles": {
       "ask": 144998,
-      "bid": 44000,
+      "bid": 46200,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 949996,
+      "ask": 902496,
       "bid": 175000,
       "vendor": 1000
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 689416,
-      "bid": 375000,
+      "bid": 375001,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670394603.8674552
+  "time": 1670395502.986118
 }
