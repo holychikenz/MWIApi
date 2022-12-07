@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 43,
+      "ask": 42,
       "bid": 16,
       "vendor": 2
     },
@@ -256,7 +256,7 @@
       "vendor": 14400
     },
     "Berserk": {
-      "ask": 237485,
+      "ask": 235000,
       "bid": 175010,
       "vendor": 1000
     },
@@ -306,12 +306,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 93,
+      "ask": 92,
       "bid": 32,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 22,
+      "ask": 21,
       "bid": 19,
       "vendor": 4
     },
@@ -371,7 +371,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 439,
+      "ask": 449,
       "bid": 300,
       "vendor": 36
     },
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 49,
+      "ask": 48,
       "bid": 21,
       "vendor": 12
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 206,
+      "ask": 205,
       "bid": 80,
       "vendor": 24
     },
@@ -812,7 +812,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 360,
-      "bid": 202,
+      "bid": 275,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 34,
+      "ask": 33,
       "bid": 25,
       "vendor": 1
     },
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 23000,
+      "ask": 22999,
       "bid": 5001,
       "vendor": 5000
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 68,
+      "ask": 67,
       "bid": 56,
       "vendor": 4
     },
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 210,
-      "bid": 186,
+      "bid": 185,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 179,
+      "ask": 187,
       "bid": 151,
       "vendor": 18
     },
@@ -1346,7 +1346,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 31,
+      "ask": 30,
       "bid": 9,
       "vendor": 4
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 28,
+      "ask": 27,
       "bid": 25,
       "vendor": 6
     },
@@ -1711,12 +1711,12 @@
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 10436,
+      "ask": 10400,
       "bid": -1,
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 18036,
+      "ask": 18000,
       "bid": 401,
       "vendor": 84
     },
@@ -1821,7 +1821,7 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 160,
+      "ask": 178,
       "bid": 113,
       "vendor": 27
     },
@@ -1962,7 +1962,7 @@
     },
     "Super Ranged Coffee": {
       "ask": 1943,
-      "bid": 1042,
+      "bid": 1050,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -1981,12 +1981,12 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 29,
+      "ask": 28,
       "bid": 22,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 27549,
+      "ask": 27500,
       "bid": 11271,
       "vendor": 1000
     },
@@ -2036,7 +2036,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 329,
+      "ask": 328,
       "bid": 234,
       "vendor": 108
     },
@@ -2159,117 +2159,7 @@
       "ask": 15000,
       "bid": -1,
       "vendor": 420
-    },
-    "Verdant Plate Body": {
-      "ask": 12000,
-      "bid": 606,
-      "vendor": 480
-    },
-    "Verdant Plate Legs": {
-      "ask": -1,
-      "bid": 440,
-      "vendor": 420
-    },
-    "Verdant Pot": {
-      "ask": 8500,
-      "bid": 445,
-      "vendor": 420
-    },
-    "Verdant Shears": {
-      "ask": 9000,
-      "bid": -1,
-      "vendor": 420
-    },
-    "Verdant Spatula": {
-      "ask": 9023,
-      "bid": 3000,
-      "vendor": 420
-    },
-    "Verdant Spear": {
-      "ask": 11999,
-      "bid": 250,
-      "vendor": 540
-    },
-    "Verdant Sword": {
-      "ask": -1,
-      "bid": 500,
-      "vendor": 540
-    },
-    "Vision Helmet": {
-      "ask": 143388,
-      "bid": 20000,
-      "vendor": 20000
-    },
-    "Vision Shield": {
-      "ask": 279998,
-      "bid": 71840,
-      "vendor": 20000
-    },
-    "Water Strike": {
-      "ask": 12908,
-      "bid": 4004,
-      "vendor": 1000
-    },
-    "Werewolf Claw": {
-      "ask": 424995,
-      "bid": 315012,
-      "vendor": 10000
-    },
-    "Werewolf Slasher": {
-      "ask": 12000000,
-      "bid": 1001,
-      "vendor": 400000
-    },
-    "Wheat": {
-      "ask": 23,
-      "bid": 13,
-      "vendor": 1
-    },
-    "Wisdom Coffee": {
-      "ask": 1080,
-      "bid": 1006,
-      "vendor": 30
-    },
-    "Wisdom Tea": {
-      "ask": 1350,
-      "bid": 1000,
-      "vendor": 30
-    },
-    "Woodcutting Tea": {
-      "ask": 650,
-      "bid": 250,
-      "vendor": 10
-    },
-    "Wooden Bow": {
-      "ask": 2000,
-      "bid": -1,
-      "vendor": 144
-    },
-    "Wooden Crossbow": {
-      "ask": 9999,
-      "bid": -1,
-      "vendor": 108
-    },
-    "Wooden Fire Staff": {
-      "ask": 32000,
-      "bid": -1,
-      "vendor": 108
-    },
-    "Wooden Nature Staff": {
-      "ask": 33250,
-      "bid": -1,
-      "vendor": 108
-    },
-    "Wooden Water Staff": {
-      "ask": 22554,
-      "bid": -1,
-      "vendor": 108
-    },
-    "Yogurt": {
-      "ask": 37,
-      "bid": 5,
-      "vendor": 5
     }
   },
-  "time": 1670382001.9911835
+  "time": 1670382902.4710228
 }
