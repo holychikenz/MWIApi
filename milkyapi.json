@@ -317,7 +317,7 @@
     },
     "Blackberry Cake": {
       "ask": 494,
-      "bid": 70,
+      "bid": -1,
       "vendor": 20
     },
     "Blackberry Donut": {
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 498,
-      "bid": 375,
+      "bid": 401,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2200,
+      "ask": 2199,
       "bid": 1572,
       "vendor": 50
     },
@@ -881,8 +881,8 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 124893,
-      "bid": 75002,
+      "ask": 120000,
+      "bid": 80000,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -1206,8 +1206,8 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 949997,
-      "bid": 3003,
+      "ask": 949000,
+      "bid": 500000,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 350,
-      "bid": 274,
+      "bid": 259,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 874,
+      "ask": 872,
       "bid": 507,
       "vendor": 27
     },
@@ -1716,7 +1716,7 @@
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 18000,
+      "ask": 18036,
       "bid": 401,
       "vendor": 84
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 3400,
+      "ask": 3897,
       "bid": 2503,
       "vendor": 1000
     },
@@ -1812,11 +1812,11 @@
     },
     "Sorcerer Essence": {
       "ask": 662,
-      "bid": 391,
+      "bid": 395,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 199999,
+      "ask": 199998,
       "bid": 40009,
       "vendor": 3000
     },
@@ -1827,11 +1827,11 @@
     },
     "Spaceberry Cake": {
       "ask": 829,
-      "bid": 706,
+      "bid": 750,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 835,
+      "ask": 834,
       "bid": 745,
       "vendor": 75
     },
@@ -1877,7 +1877,7 @@
     },
     "Strawberry": {
       "ask": 50,
-      "bid": 17,
+      "bid": 18,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670441402.8727133
+  "time": 1670442303.4896202
 }
