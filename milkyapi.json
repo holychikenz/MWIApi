@@ -796,7 +796,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 10000,
+      "ask": 50,
       "bid": 1,
       "vendor": 5
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 549,
+      "ask": 548,
       "bid": 310,
       "vendor": 10
     },
@@ -1646,7 +1646,7 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 44,
+      "ask": 40,
       "bid": 29,
       "vendor": 27
     },
@@ -1821,7 +1821,7 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 135,
+      "ask": 160,
       "bid": 110,
       "vendor": 27
     },
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 20,
+      "ask": 23,
       "bid": 12,
       "vendor": 1
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670373002.4560978
+  "time": 1670373902.77608
 }
