@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 40,
+      "ask": 30,
       "bid": 17,
       "vendor": 2
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 300,
+      "ask": 332,
       "bid": 266,
       "vendor": 50
     },
@@ -987,7 +987,7 @@
     },
     "Gobo Hide": {
       "ask": 125,
-      "bid": 81,
+      "bid": 82,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1206,7 +1206,7 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 993993,
+      "ask": 990000,
       "bid": 3003,
       "vendor": 500000
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 826,
+      "ask": 828,
       "bid": 701,
       "vendor": 75
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 839,
+      "ask": 842,
       "bid": 684,
       "vendor": 75
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670411703.8240936
+  "time": 1670413504.526988
 }
