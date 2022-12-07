@@ -46,7 +46,7 @@
       "vendor": 80190
     },
     "Arcane Log": {
-      "ask": 106,
+      "ask": 108,
       "bid": 71,
       "vendor": 54
     },
@@ -96,7 +96,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 447,
+      "ask": 446,
       "bid": 236,
       "vendor": 24
     },
@@ -221,8 +221,8 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 41998,
-      "bid": -1,
+      "ask": 41997,
+      "bid": 20000,
       "vendor": 7200
     },
     "Beast Bracers": {
@@ -642,7 +642,7 @@
     },
     "Cotton Fabric": {
       "ask": 100000,
-      "bid": 134,
+      "bid": 2,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -947,7 +947,7 @@
     },
     "Ginkgo Lumber": {
       "ask": 329,
-      "bid": 260,
+      "bid": 223,
       "vendor": 54
     },
     "Ginkgo Nature Staff": {
@@ -1136,7 +1136,7 @@
       "vendor": 54
     },
     "Holy Needle": {
-      "ask": 134999,
+      "ask": 134500,
       "bid": 70000,
       "vendor": 62370
     },
@@ -1646,7 +1646,7 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 32,
+      "ask": 45,
       "bid": 5,
       "vendor": 27
     },
@@ -2007,7 +2007,7 @@
     },
     "Tome Of The Elements": {
       "ask": 3649969,
-      "bid": 2000006,
+      "bid": 2100000,
       "vendor": 100000
     },
     "Toughness": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670447704.086068
+  "time": 1670448603.8878849
 }
