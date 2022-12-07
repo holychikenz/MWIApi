@@ -1,8 +1,8 @@
 {
   "market": {
     "Apple": {
-      "ask": 42,
-      "bid": 16,
+      "ask": 40,
+      "bid": 17,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -26,8 +26,8 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 116,
-      "bid": 103,
+      "ask": 122,
+      "bid": 99,
       "vendor": 4
     },
     "Arcane Bow": {
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 473,
-      "bid": 291,
+      "bid": 306,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -411,8 +411,8 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 48,
-      "bid": 25,
+      "ask": 47,
+      "bid": 26,
       "vendor": 12
     },
     "Burble Needle": {
@@ -617,7 +617,7 @@
     },
     "Cocoon": {
       "ask": 195,
-      "bid": 80,
+      "bid": 84,
       "vendor": 24
     },
     "Coin": {
@@ -722,7 +722,7 @@
     },
     "Crimson Hammer": {
       "ask": 38000,
-      "bid": 6810,
+      "bid": 20000,
       "vendor": 9072
     },
     "Crimson Hatchet": {
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 735,
+      "ask": 734,
       "bid": 658,
       "vendor": 162
     },
@@ -1211,8 +1211,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 289,
-      "bid": 204,
+      "ask": 304,
+      "bid": 205,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1311,8 +1311,8 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 22,
-      "bid": 9,
+      "ask": 21,
+      "bid": 10,
       "vendor": 2
     },
     "Milking Tea": {
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 878,
-      "bid": 500,
+      "bid": 501,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670386502.9211318
+  "time": 1670387402.1341226
 }
