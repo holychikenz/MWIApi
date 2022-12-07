@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 30,
+      "ask": 25,
       "bid": 17,
       "vendor": 2
     },
@@ -86,7 +86,7 @@
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": 12000,
+      "ask": 10000,
       "bid": 1350,
       "vendor": 1296
     },
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 86,
+      "ask": 80,
       "bid": 29,
       "vendor": 8
     },
@@ -451,12 +451,12 @@
       "vendor": 4860
     },
     "Burble Sword": {
-      "ask": 36756,
+      "ask": 40000,
       "bid": -1,
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 533,
+      "ask": 520,
       "bid": 351,
       "vendor": 12
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 204,
+      "ask": 200,
       "bid": 85,
       "vendor": 24
     },
@@ -661,7 +661,7 @@
       "vendor": 84
     },
     "Cotton Robe Top": {
-      "ask": 3950,
+      "ask": 5139,
       "bid": 903,
       "vendor": 96
     },
@@ -671,7 +671,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 124900,
+      "ask": 75000,
       "bid": 10000,
       "vendor": 1500
     },
@@ -811,17 +811,17 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 345,
+      "ask": 320,
       "bid": 250,
       "vendor": 50
     },
     "Efficiency Tea": {
       "ask": 2250,
-      "bid": 1472,
+      "bid": 1572,
       "vendor": 50
     },
     "Egg": {
-      "ask": 32,
+      "ask": 26,
       "bid": 17,
       "vendor": 1
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 18896,
+      "ask": 18000,
       "bid": 8007,
       "vendor": 1000
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 66,
+      "ask": 60,
       "bid": 56,
       "vendor": 4
     },
@@ -1136,7 +1136,7 @@
       "vendor": 54
     },
     "Holy Needle": {
-      "ask": 135000,
+      "ask": 134999,
       "bid": 70000,
       "vendor": 62370
     },
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 22514,
+      "ask": 21388,
       "bid": 16020,
       "vendor": 1000
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 3994,
+      "ask": 3800,
       "bid": 3500,
       "vendor": 1000
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 118,
+      "ask": 110,
       "bid": 95,
       "vendor": 48
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 235,
+      "ask": 223,
       "bid": 150,
       "vendor": 6
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 3499,
+      "ask": 3400,
       "bid": 1207,
       "vendor": 1000
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 3479,
+      "ask": 3400,
       "bid": 2503,
       "vendor": 1000
     },
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 224997,
+      "ask": 124997,
       "bid": 11271,
       "vendor": 1000
     },
@@ -2226,8 +2226,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1100,
-      "bid": 1050,
+      "ask": 1157,
+      "bid": 1100,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670429703.3933034
+  "time": 1670430603.5290046
 }
