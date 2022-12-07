@@ -351,7 +351,7 @@
       "vendor": 20
     },
     "Burble Boots": {
-      "ask": 82080,
+      "ask": 86400,
       "bid": -1,
       "vendor": 2160
     },
@@ -772,7 +772,7 @@
     },
     "Crimson Spatula": {
       "ask": 37999,
-      "bid": 20000,
+      "bid": 1,
       "vendor": 9072
     },
     "Crimson Spear": {
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 49999,
+      "ask": 47499,
       "bid": 19000,
       "vendor": 20000
     },
@@ -1201,7 +1201,7 @@
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 91,
+      "ask": 86,
       "bid": 33,
       "vendor": 24
     },
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 113,
+      "ask": 107,
       "bid": 30,
       "vendor": 18
     },
@@ -1777,7 +1777,7 @@
     },
     "Smack": {
       "ask": 3500,
-      "bid": 2502,
+      "bid": 2503,
       "vendor": 1000
     },
     "Small Pouch": {
@@ -2021,7 +2021,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 40526,
+      "ask": 38500,
       "bid": 2940,
       "vendor": 1500
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670379303.0092974
+  "time": 1670380203.0237396
 }
