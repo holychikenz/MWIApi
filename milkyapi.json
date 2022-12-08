@@ -42,17 +42,17 @@
     },
     "Arcane Fire Staff": {
       "ask": 140000,
-      "bid": 85000,
+      "bid": 85001,
       "vendor": 80190
     },
     "Arcane Log": {
       "ask": 197,
-      "bid": 70,
+      "bid": 71,
       "vendor": 54
     },
     "Arcane Lumber": {
       "ask": 940,
-      "bid": 661,
+      "bid": 662,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 59,
+      "ask": 58,
       "bid": 30,
       "vendor": 8
     },
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 443,
+      "ask": 442,
       "bid": 425,
       "vendor": 12
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 85,
+      "ask": 50,
       "bid": 6,
       "vendor": 2
     },
@@ -822,7 +822,7 @@
     },
     "Egg": {
       "ask": 32,
-      "bid": 17,
+      "bid": 18,
       "vendor": 1
     },
     "Elemental Affinity": {
@@ -847,7 +847,7 @@
     },
     "Excelsa Coffee Bean": {
       "ask": 145,
-      "bid": 108,
+      "bid": 109,
       "vendor": 18
     },
     "Eyessence": {
@@ -861,8 +861,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 190,
-      "bid": 117,
+      "ask": 189,
+      "bid": 118,
       "vendor": 27
     },
     "Fireball": {
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 560,
+      "ask": 559,
       "bid": 310,
       "vendor": 10
     },
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 204,
+      "ask": 205,
       "bid": 181,
       "vendor": 54
     },
@@ -1152,7 +1152,7 @@
     },
     "Holy Pot": {
       "ask": 149998,
-      "bid": 120000,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Shears": {
@@ -1211,8 +1211,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 290,
-      "bid": 255,
+      "ask": 295,
+      "bid": 256,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1492,12 +1492,12 @@
     },
     "Radiant Gloves": {
       "ask": 172500,
-      "bid": 50000,
+      "bid": 45000,
       "vendor": 24768
     },
     "Radiant Hat": {
       "ask": 111999,
-      "bid": -1,
+      "bid": 50000,
       "vendor": 30960
     },
     "Radiant Robe Bottoms": {
@@ -1826,8 +1826,8 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 835,
-      "bid": 735,
+      "ask": 839,
+      "bid": 750,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1867,11 +1867,11 @@
     },
     "Star Fruit Gummy": {
       "ask": 700,
-      "bid": 133,
+      "bid": 350,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 837,
+      "ask": 839,
       "bid": 686,
       "vendor": 75
     },
@@ -1941,7 +1941,7 @@
       "vendor": 40
     },
     "Super Intelligence Coffee": {
-      "ask": 949,
+      "ask": 999,
       "bid": 537,
       "vendor": 40
     },
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 42855,
+      "ask": 40712,
       "bid": 10049,
       "vendor": 10000
     },
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 28,
+      "ask": 27,
       "bid": 13,
       "vendor": 1
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670539503.2609694
+  "time": 1670540401.838889
 }
