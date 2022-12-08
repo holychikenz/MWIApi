@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 24,
-      "bid": 17,
+      "bid": 8,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -86,7 +86,7 @@
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": 10000,
+      "ask": 12000,
       "bid": 1350,
       "vendor": 1296
     },
@@ -96,7 +96,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 444,
+      "ask": 443,
       "bid": 238,
       "vendor": 24
     },
@@ -187,7 +187,7 @@
     },
     "Bamboo Branch": {
       "ask": 98,
-      "bid": 42,
+      "bid": 40,
       "vendor": 12
     },
     "Bamboo Fabric": {
@@ -332,7 +332,7 @@
     },
     "Blueberry": {
       "ask": 18,
-      "bid": 17,
+      "bid": 7,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -371,7 +371,7 @@
       "vendor": 6480
     },
     "Burble Cheese": {
-      "ask": 469,
+      "ask": 468,
       "bid": 245,
       "vendor": 36
     },
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 48,
-      "bid": 28,
+      "bid": 29,
       "vendor": 12
     },
     "Burble Needle": {
@@ -566,7 +566,7 @@
       "vendor": 108
     },
     "Cheese Needle": {
-      "ask": 1999,
+      "ask": 2000,
       "bid": -1,
       "vendor": 84
     },
@@ -591,7 +591,7 @@
       "vendor": 84
     },
     "Cheese Spatula": {
-      "ask": 10000,
+      "ask": 1000000,
       "bid": 160,
       "vendor": 84
     },
@@ -617,7 +617,7 @@
     },
     "Cocoon": {
       "ask": 160,
-      "bid": 100,
+      "bid": 85,
       "vendor": 24
     },
     "Coin": {
@@ -701,7 +701,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 296,
+      "ask": 295,
       "bid": 226,
       "vendor": 54
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 367,
+      "ask": 350,
       "bid": 257,
       "vendor": 50
     },
@@ -1292,7 +1292,7 @@
     },
     "Marsberry": {
       "ask": 57,
-      "bid": 32,
+      "bid": 31,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1372,7 +1372,7 @@
     },
     "Peach": {
       "ask": 27,
-      "bid": 20,
+      "bid": 19,
       "vendor": 9
     },
     "Peach Gummy": {
@@ -1397,7 +1397,7 @@
     },
     "Plum": {
       "ask": 98,
-      "bid": 65,
+      "bid": 38,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -1487,7 +1487,7 @@
     },
     "Radiant Fiber": {
       "ask": 118,
-      "bid": 95,
+      "bid": 88,
       "vendor": 48
     },
     "Radiant Gloves": {
@@ -1877,7 +1877,7 @@
     },
     "Strawberry": {
       "ask": 42,
-      "bid": 19,
+      "bid": 18,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 1135,
+      "ask": 1120,
       "bid": 454,
       "vendor": 40
     },
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 30,
+      "ask": 55,
       "bid": 28,
       "vendor": 4
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 11646,
+      "ask": 11649,
       "bid": 4008,
       "vendor": 1000
     },
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 26,
+      "ask": 28,
       "bid": 13,
       "vendor": 1
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670502603.8194885
+  "time": 1670503504.1396084
 }
