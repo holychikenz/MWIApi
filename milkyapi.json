@@ -181,7 +181,7 @@
       "vendor": 1944
     },
     "Bamboo Boots": {
-      "ask": 28995,
+      "ask": 25000,
       "bid": 2500,
       "vendor": 1872
     },
@@ -196,22 +196,22 @@
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 29998,
+      "ask": 25000,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Hat": {
-      "ask": 31345,
+      "ask": 30000,
       "bid": -1,
       "vendor": 2340
     },
     "Bamboo Robe Bottoms": {
-      "ask": 20894,
+      "ask": 18000,
       "bid": 8009,
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 21365,
+      "ask": 20000,
       "bid": 12783,
       "vendor": 3744
     },
@@ -221,12 +221,12 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 19999,
+      "ask": 15000,
       "bid": -1,
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 24999,
+      "ask": 20000,
       "bid": -1,
       "vendor": 7200
     },
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 45,
-      "bid": 28,
+      "bid": 30,
       "vendor": 12
     },
     "Burble Needle": {
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 69,
+      "ask": 68,
       "bid": 25,
       "vendor": 18
     },
@@ -1077,7 +1077,7 @@
     },
     "Holy Brush": {
       "ask": -1,
-      "bid": 70000,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -1097,12 +1097,12 @@
     },
     "Holy Chisel": {
       "ask": 199999,
-      "bid": 80000,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Enhancer": {
-      "ask": 120000,
-      "bid": 85001,
+      "ask": 133884,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -1112,12 +1112,12 @@
     },
     "Holy Hammer": {
       "ask": 149449,
-      "bid": 70000,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Hatchet": {
       "ask": 119998,
-      "bid": 70000,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1137,7 +1137,7 @@
     },
     "Holy Needle": {
       "ask": 119999,
-      "bid": 70000,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Plate Body": {
@@ -1152,17 +1152,17 @@
     },
     "Holy Pot": {
       "ask": 149998,
-      "bid": 80003,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Shears": {
       "ask": 200000,
-      "bid": 95001,
+      "bid": 100000,
       "vendor": 62370
     },
     "Holy Spatula": {
       "ask": -1,
-      "bid": 65556,
+      "bid": 95000,
       "vendor": 62370
     },
     "Holy Spear": {
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 28,
-      "bid": 23,
+      "bid": 24,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 60,
-      "bid": 30,
+      "bid": 31,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 39,
+      "ask": 74,
       "bid": 19,
       "vendor": 6
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670514303.1152449
+  "time": 1670515203.1091752
 }
