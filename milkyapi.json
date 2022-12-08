@@ -221,12 +221,12 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 20000,
+      "ask": 19999,
       "bid": -1,
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 25000,
+      "ask": 24999,
       "bid": -1,
       "vendor": 7200
     },
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 68,
+      "ask": 67,
       "bid": 29,
       "vendor": 8
     },
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 198,
+      "ask": 230,
       "bid": 88,
       "vendor": 6
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 188,
+      "ask": 170,
       "bid": 85,
       "vendor": 24
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 797946,
-      "bid": 450109,
+      "bid": 450110,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -901,7 +901,7 @@
       "vendor": 6
     },
     "Foraging Tea": {
-      "ask": 455,
+      "ask": 454,
       "bid": 210,
       "vendor": 10
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 857370,
+      "ask": 857369,
       "bid": 175003,
       "vendor": 1000
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 29385,
+      "ask": 29384,
       "bid": 15033,
       "vendor": 1000
     },
@@ -1706,12 +1706,12 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 16234,
+      "ask": 16233,
       "bid": 1500,
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 10400,
+      "ask": 10399,
       "bid": -1,
       "vendor": 48
     },
@@ -1726,7 +1726,7 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 12858,
+      "ask": 12857,
       "bid": -1,
       "vendor": 60
     },
@@ -1771,8 +1771,8 @@
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 76499,
-      "bid": -1,
+      "ask": 76498,
+      "bid": 34658,
       "vendor": 14400
     },
     "Smack": {
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 814,
+      "ask": 810,
       "bid": 686,
       "vendor": 75
     },
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 85000,
+      "ask": 84999,
       "bid": 11271,
       "vendor": 1000
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 654549,
+      "ask": 654548,
       "bid": 375013,
       "vendor": 1000
     },
@@ -2236,7 +2236,7 @@
       "vendor": 30
     },
     "Woodcutting Tea": {
-      "ask": 650,
+      "ask": 500,
       "bid": 250,
       "vendor": 10
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670479202.3621922
+  "time": 1670480103.035227
 }
