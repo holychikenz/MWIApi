@@ -22,7 +22,7 @@
     },
     "Aqua Essence": {
       "ask": 32,
-      "bid": 18,
+      "bid": 17,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -97,7 +97,7 @@
     },
     "Azure Cheese": {
       "ask": 400,
-      "bid": 238,
+      "bid": 237,
       "vendor": 24
     },
     "Azure Chisel": {
@@ -341,7 +341,7 @@
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 49,
+      "ask": 99,
       "bid": 11,
       "vendor": 10
     },
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 466,
-      "bid": 245,
+      "bid": 244,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 444,
-      "bid": 426,
+      "bid": 425,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 229,
-      "bid": 88,
+      "bid": 87,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -671,7 +671,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 61697,
+      "ask": 50000,
       "bid": 10000,
       "vendor": 1500
     },
@@ -822,11 +822,11 @@
     },
     "Egg": {
       "ask": 32,
-      "bid": 18,
+      "bid": 17,
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 797946,
+      "ask": 797944,
       "bid": 450118,
       "vendor": 1000
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 26157,
+      "ask": 26156,
       "bid": 20000,
       "vendor": 1000
     },
@@ -876,8 +876,8 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 599943,
-      "bid": 500000,
+      "ask": 599941,
+      "bid": 475002,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -1026,7 +1026,7 @@
       "vendor": 3744
     },
     "Goggles": {
-      "ask": 144996,
+      "ask": 140000,
       "bid": 46200,
       "vendor": 10000
     },
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 205,
+      "ask": 204,
       "bid": 179,
       "vendor": 54
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 425403,
+      "ask": 425399,
       "bid": 200013,
       "vendor": 1000
     },
@@ -1342,7 +1342,7 @@
     },
     "Moolong Tea Leaf": {
       "ask": 70,
-      "bid": 30,
+      "bid": 32,
       "vendor": 18
     },
     "Orange": {
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 823,
-      "bid": 612,
+      "bid": 611,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 28,
-      "bid": 24,
+      "bid": 23,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1786,7 +1786,7 @@
       "vendor": 5000
     },
     "Snail Shell": {
-      "ask": 17900,
+      "ask": 15000,
       "bid": 3121,
       "vendor": 1500
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 169999,
+      "ask": 169998,
       "bid": 40010,
       "vendor": 3000
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 795,
+      "ask": 825,
       "bid": 736,
       "vendor": 75
     },
@@ -1871,8 +1871,8 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 841,
-      "bid": 708,
+      "ask": 842,
+      "bid": 686,
       "vendor": 75
     },
     "Strawberry": {
@@ -2021,7 +2021,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 28398,
+      "ask": 25000,
       "bid": 2941,
       "vendor": 1500
     },
@@ -2111,7 +2111,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 299,
+      "ask": 257,
       "bid": 141,
       "vendor": 12
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670517002.2147863
+  "time": 1670517903.6469488
 }
