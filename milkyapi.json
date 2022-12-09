@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 460,
-      "bid": 236,
+      "bid": 260,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -796,7 +796,7 @@
       "vendor": 20
     },
     "Donut": {
-      "ask": 35,
+      "ask": 33,
       "bid": 6,
       "vendor": 5
     },
@@ -1727,7 +1727,7 @@
     },
     "Rough Hood": {
       "ask": 12857,
-      "bid": 1500,
+      "bid": -1,
       "vendor": 60
     },
     "Rough Leather": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 895,
+      "ask": 897,
       "bid": 764,
       "vendor": 75
     },
@@ -1872,7 +1872,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 832,
-      "bid": 688,
+      "bid": 700,
       "vendor": 75
     },
     "Strawberry": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670625902.5695024
+  "time": 1670626802.355241
 }
