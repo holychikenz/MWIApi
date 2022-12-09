@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 198,
-      "bid": 75,
+      "bid": 80,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -137,7 +137,7 @@
     },
     "Azure Milk": {
       "ask": 97,
-      "bid": 44,
+      "bid": 43,
       "vendor": 8
     },
     "Azure Needle": {
@@ -411,8 +411,8 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 46,
-      "bid": 33,
+      "ask": 47,
+      "bid": 34,
       "vendor": 12
     },
     "Burble Needle": {
@@ -806,8 +806,8 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 539,
-      "bid": 300,
+      "ask": 531,
+      "bid": 301,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -1067,7 +1067,7 @@
     },
     "Heal": {
       "ask": 773775,
-      "bid": 300003,
+      "bid": 350000,
       "vendor": 1000
     },
     "Holy Boots": {
@@ -1376,7 +1376,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 252,
+      "ask": 251,
       "bid": 162,
       "vendor": 40
     },
@@ -1867,7 +1867,7 @@
     },
     "Star Fruit Gummy": {
       "ask": 699,
-      "bid": 350,
+      "bid": 351,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
@@ -2016,8 +2016,8 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 621800,
-      "bid": 450008,
+      "ask": 621799,
+      "bid": 470000,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2091,7 +2091,7 @@
       "vendor": 1000
     },
     "Verdant Boots": {
-      "ask": 520,
+      "ask": 400,
       "bid": -1,
       "vendor": 240
     },
@@ -2111,8 +2111,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 289,
-      "bid": 145,
+      "ask": 288,
+      "bid": 142,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2126,7 +2126,7 @@
       "vendor": 420
     },
     "Verdant Gauntlets": {
-      "ask": 7600,
+      "ask": 5000,
       "bid": 383,
       "vendor": 240
     },
@@ -2141,7 +2141,7 @@
       "vendor": 420
     },
     "Verdant Helmet": {
-      "ask": 15000,
+      "ask": 7500,
       "bid": 803,
       "vendor": 300
     },
@@ -2161,13 +2161,13 @@
       "vendor": 420
     },
     "Verdant Plate Body": {
-      "ask": 12000,
+      "ask": 7500,
       "bid": 606,
       "vendor": 480
     },
     "Verdant Plate Legs": {
-      "ask": -1,
-      "bid": 2000,
+      "ask": 5000,
+      "bid": 440,
       "vendor": 420
     },
     "Verdant Pot": {
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1125,
+      "ask": 1124,
       "bid": 979,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670604302.9223862
+  "time": 1670605202.8953476
 }
