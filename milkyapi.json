@@ -196,12 +196,12 @@
       "vendor": 36
     },
     "Bamboo Gloves": {
-      "ask": 25000,
+      "ask": 24999,
       "bid": -1,
       "vendor": 1872
     },
     "Bamboo Hat": {
-      "ask": 30000,
+      "ask": 29999,
       "bid": -1,
       "vendor": 2340
     },
@@ -211,7 +211,7 @@
       "vendor": 3276
     },
     "Bamboo Robe Top": {
-      "ask": 20000,
+      "ask": 19999,
       "bid": 12783,
       "vendor": 3744
     },
@@ -226,7 +226,7 @@
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 20000,
+      "ask": 19999,
       "bid": -1,
       "vendor": 7200
     },
@@ -241,7 +241,7 @@
       "vendor": 24
     },
     "Beast Hood": {
-      "ask": 20000,
+      "ask": 19999,
       "bid": -1,
       "vendor": 9000
     },
@@ -352,7 +352,7 @@
     },
     "Burble Boots": {
       "ask": 86400,
-      "bid": -1,
+      "bid": 1000,
       "vendor": 2160
     },
     "Burble Brush": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 23999,
+      "ask": 23998,
       "bid": 19501,
       "vendor": 1000
     },
@@ -971,7 +971,7 @@
       "vendor": 1872
     },
     "Gobo Bracers": {
-      "ask": 60000,
+      "ask": 59999,
       "bid": -1,
       "vendor": 1872
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 814501,
+      "ask": 814500,
       "bid": 300003,
       "vendor": 1000
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 27912,
+      "ask": 27911,
       "bid": 15034,
       "vendor": 1000
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 774,
+      "ask": 773,
       "bid": 617,
       "vendor": 27
     },
@@ -1716,7 +1716,7 @@
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 18036,
+      "ask": 19999,
       "bid": 1500,
       "vendor": 84
     },
@@ -1746,7 +1746,7 @@
       "vendor": 1000
     },
     "Silk Boots": {
-      "ask": 73999,
+      "ask": 73998,
       "bid": -1,
       "vendor": 7200
     },
@@ -1761,17 +1761,17 @@
       "vendor": 7200
     },
     "Silk Hat": {
-      "ask": 199997,
+      "ask": 199996,
       "bid": -1,
       "vendor": 9000
     },
     "Silk Robe Bottoms": {
-      "ask": 49998,
+      "ask": 49997,
       "bid": -1,
       "vendor": 12600
     },
     "Silk Robe Top": {
-      "ask": 76497,
+      "ask": 76496,
       "bid": 34658,
       "vendor": 14400
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 621805,
+      "ask": 621804,
       "bid": 450004,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670567403.4819317
+  "time": 1670568303.302468
 }
