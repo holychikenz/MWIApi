@@ -511,7 +511,7 @@
       "vendor": 6
     },
     "Cheese Boots": {
-      "ask": 200,
+      "ask": 1000,
       "bid": -1,
       "vendor": 48
     },
@@ -576,7 +576,7 @@
       "vendor": 96
     },
     "Cheese Plate Legs": {
-      "ask": 3000,
+      "ask": 4500000,
       "bid": 279,
       "vendor": 84
     },
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 264,
-      "bid": 182,
+      "bid": 150,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 210,
+      "ask": 200,
       "bid": 182,
       "vendor": 54
     },
@@ -1296,7 +1296,7 @@
       "vendor": 14
     },
     "Marsberry Cake": {
-      "ask": 325,
+      "ask": 320,
       "bid": 269,
       "vendor": 50
     },
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 61,
+      "ask": 60,
       "bid": 33,
       "vendor": 18
     },
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 234,
+      "ask": 230,
       "bid": 153,
       "vendor": 40
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 768,
+      "ask": 775,
       "bid": 626,
       "vendor": 27
     },
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 341,
+      "ask": 300,
       "bid": 217,
       "vendor": 81
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 9495,
+      "ask": 9994,
       "bid": 2505,
       "vendor": 1000
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 906,
+      "ask": 900,
       "bid": 757,
       "vendor": 75
     },
@@ -1982,7 +1982,7 @@
     },
     "Swamp Essence": {
       "ask": 23,
-      "bid": 21,
+      "bid": 12,
       "vendor": 8
     },
     "Sweep": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670589903.9658475
+  "time": 1670590802.9587712
 }
