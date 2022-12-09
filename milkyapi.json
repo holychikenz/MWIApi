@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 59,
-      "bid": 32,
+      "bid": 30,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -671,7 +671,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 40000,
+      "ask": 40997,
       "bid": 10000,
       "vendor": 1500
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 531,
+      "ask": 530,
       "bid": 301,
       "vendor": 50
     },
@@ -887,12 +887,12 @@
     },
     "Flaming Robe Bottoms": {
       "ask": 700000,
-      "bid": 350000,
+      "bid": -1,
       "vendor": 40000
     },
     "Flaming Robe Top": {
       "ask": 850000,
-      "bid": 500000,
+      "bid": 175420,
       "vendor": 60000
     },
     "Flax": {
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 55,
+      "ask": 54,
       "bid": 45,
       "vendor": 4
     },
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 749,
+      "ask": 748,
       "bid": 668,
       "vendor": 162
     },
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 210,
+      "ask": 209,
       "bid": 182,
       "vendor": 54
     },
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 16,
+      "ask": 10,
       "bid": 9,
       "vendor": 2
     },
@@ -1376,7 +1376,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 251,
+      "ask": 250,
       "bid": 162,
       "vendor": 40
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 70,
+      "ask": 71,
       "bid": 43,
       "vendor": 6
     },
@@ -2141,7 +2141,7 @@
       "vendor": 420
     },
     "Verdant Helmet": {
-      "ask": 7500,
+      "ask": 6528,
       "bid": 803,
       "vendor": 300
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670612403.1079133
+  "time": 1670614202.9448586
 }
