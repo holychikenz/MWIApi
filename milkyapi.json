@@ -502,12 +502,12 @@
     },
     "Centaur Hoof": {
       "ask": 109990,
-      "bid": 42501,
+      "bid": 42505,
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 225,
-      "bid": 88,
+      "ask": 224,
+      "bid": 89,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -1707,7 +1707,7 @@
     },
     "Rough Boots": {
       "ask": 16233,
-      "bid": 1500,
+      "bid": -1,
       "vendor": 48
     },
     "Rough Bracers": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670560202.6227126
+  "time": 1670561102.5997124
 }
