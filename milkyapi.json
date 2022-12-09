@@ -136,7 +136,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 98,
+      "ask": 97,
       "bid": 43,
       "vendor": 8
     },
@@ -676,8 +676,8 @@
       "vendor": 1500
     },
     "Crafting Tea": {
-      "ask": 864,
-      "bid": 600,
+      "ask": 704,
+      "bid": -1,
       "vendor": 30
     },
     "Crimson Boots": {
@@ -922,7 +922,7 @@
     },
     "Giant Pouch": {
       "ask": 6000000,
-      "bid": 3000003,
+      "bid": 3000002,
       "vendor": 5000000
     },
     "Ginkgo Bow": {
@@ -1177,7 +1177,7 @@
     },
     "Ice Spear": {
       "ask": 375000,
-      "bid": 4000,
+      "bid": 4001,
       "vendor": 1000
     },
     "Icy Cloth": {
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 17,
+      "ask": 16,
       "bid": 11,
       "vendor": 2
     },
@@ -1376,12 +1376,12 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 254,
+      "ask": 252,
       "bid": 162,
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 230,
+      "ask": 227,
       "bid": 153,
       "vendor": 40
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 27910,
+      "ask": 27907,
       "bid": 15034,
       "vendor": 1000
     },
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 777,
-      "bid": 627,
+      "bid": 628,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1711,12 +1711,12 @@
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 10399,
+      "ask": 8000,
       "bid": 100,
       "vendor": 48
     },
     "Rough Chaps": {
-      "ask": 19999,
+      "ask": 15000,
       "bid": 1500,
       "vendor": 84
     },
@@ -1726,7 +1726,7 @@
       "vendor": 2
     },
     "Rough Hood": {
-      "ask": 12857,
+      "ask": 8000,
       "bid": 1500,
       "vendor": 60
     },
@@ -1736,7 +1736,7 @@
       "vendor": 6
     },
     "Rough Tunic": {
-      "ask": 7712,
+      "ask": 5000,
       "bid": 1500,
       "vendor": 96
     },
@@ -1871,12 +1871,12 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 837,
-      "bid": 686,
+      "ask": 834,
+      "bid": 687,
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 55,
+      "ask": 52,
       "bid": 24,
       "vendor": 6
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670597103.8454921
+  "time": 1670598002.741462
 }
