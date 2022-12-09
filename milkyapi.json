@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 170,
-      "bid": 90,
+      "bid": 100,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -856,7 +856,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 800,
+      "ask": 896,
       "bid": 500,
       "vendor": 40
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 22000,
+      "ask": 21999,
       "bid": 19501,
       "vendor": 1000
     },
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 210,
+      "ask": 209,
       "bid": 171,
       "vendor": 54
     },
@@ -1407,7 +1407,7 @@
     },
     "Plum Yogurt": {
       "ask": 999999999999,
-      "bid": 150,
+      "bid": 128,
       "vendor": 30
     },
     "Poke": {
@@ -1521,7 +1521,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": -1,
+      "ask": 37000,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 621,
+      "ask": 620,
       "bid": 397,
       "vendor": 36
     },
@@ -2006,7 +2006,7 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 3000000,
+      "ask": 3649959,
       "bid": 2000004,
       "vendor": 100000
     },
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 28,
+      "ask": 21,
       "bid": 12,
       "vendor": 1
     },
@@ -2232,7 +2232,7 @@
     },
     "Wisdom Tea": {
       "ask": 1445,
-      "bid": 1033,
+      "bid": 1100,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670622302.587539
+  "time": 1670623201.5114772
 }
