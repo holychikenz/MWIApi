@@ -162,7 +162,7 @@
     },
     "Azure Shears": {
       "ask": 17000,
-      "bid": 2000,
+      "bid": -1,
       "vendor": 1512
     },
     "Azure Spatula": {
@@ -581,7 +581,7 @@
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 300,
+      "ask": 280,
       "bid": 160,
       "vendor": 84
     },
@@ -1097,7 +1097,7 @@
     },
     "Holy Chisel": {
       "ask": 199999,
-      "bid": 100000,
+      "bid": 105000,
       "vendor": 62370
     },
     "Holy Enhancer": {
@@ -1247,7 +1247,7 @@
     },
     "Living Granite": {
       "ask": 1129593,
-      "bid": 613098,
+      "bid": 613000,
       "vendor": 10000
     },
     "Log": {
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 12000,
+      "ask": 10000,
       "bid": 2504,
       "vendor": 1000
     },
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 60,
+      "ask": 50,
       "bid": 21,
       "vendor": 6
     },
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 49998,
+      "ask": 49500,
       "bid": 11271,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670550303.5309012
+  "time": 1670551202.9328806
 }
