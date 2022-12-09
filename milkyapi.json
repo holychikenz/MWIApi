@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 21,
+      "ask": 20,
       "bid": 8,
       "vendor": 2
     },
@@ -86,7 +86,7 @@
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": 12000,
+      "ask": -1,
       "bid": 1350,
       "vendor": 1296
     },
@@ -331,7 +331,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 16,
+      "ask": 15,
       "bid": 6,
       "vendor": 2
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 23998,
+      "ask": 23997,
       "bid": 19501,
       "vendor": 1000
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 99999,
+      "ask": 99998,
       "bid": 75001,
       "vendor": 4000
     },
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 160,
+      "ask": 159,
       "bid": 88,
       "vendor": 18
     },
@@ -1346,7 +1346,7 @@
       "vendor": 18
     },
     "Orange": {
-      "ask": 22,
+      "ask": 21,
       "bid": 16,
       "vendor": 4
     },
@@ -1396,7 +1396,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 71,
+      "ask": 70,
       "bid": 43,
       "vendor": 6
     },
@@ -1482,7 +1482,7 @@
     },
     "Radiant Fabric": {
       "ask": 722,
-      "bid": 520,
+      "bid": 525,
       "vendor": 144
     },
     "Radiant Fiber": {
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 776,
-      "bid": 628,
+      "bid": 630,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1651,7 +1651,7 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 307,
+      "ask": 292,
       "bid": 217,
       "vendor": 81
     },
@@ -1796,7 +1796,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 380,
+      "ask": 379,
       "bid": 171,
       "vendor": 100
     },
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 52,
+      "ask": 51,
       "bid": 25,
       "vendor": 6
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1299,
+      "ask": 1250,
       "bid": 1200,
       "vendor": 75
     },
@@ -1981,7 +1981,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 23,
+      "ask": 22,
       "bid": 10,
       "vendor": 8
     },
@@ -2067,7 +2067,7 @@
     },
     "Umbral Leather": {
       "ask": 4999,
-      "bid": 1575,
+      "bid": 1650,
       "vendor": 144
     },
     "Umbral Tunic": {
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 29,
+      "ask": 28,
       "bid": 12,
       "vendor": 1
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670608803.045355
+  "time": 1670609704.0980687
 }
