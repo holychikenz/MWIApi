@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 172,
+      "ask": 171,
       "bid": 90,
       "vendor": 6
     },
@@ -572,7 +572,7 @@
     },
     "Cheese Plate Body": {
       "ask": 4197,
-      "bid": 321,
+      "bid": -1,
       "vendor": 96
     },
     "Cheese Plate Legs": {
@@ -636,7 +636,7 @@
       "vendor": 2
     },
     "Cotton Boots": {
-      "ask": 1450,
+      "ask": 1449,
       "bid": -1,
       "vendor": 48
     },
@@ -802,7 +802,7 @@
     },
     "Dragon Fruit": {
       "ask": 60,
-      "bid": 37,
+      "bid": 38,
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
@@ -816,8 +816,8 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2474,
-      "bid": 1601,
+      "ask": 2495,
+      "bid": 2474,
       "vendor": 50
     },
     "Egg": {
@@ -862,7 +862,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 174,
-      "bid": 120,
+      "bid": 121,
       "vendor": 27
     },
     "Fireball": {
@@ -906,7 +906,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 316663,
+      "ask": 300830,
       "bid": 84033,
       "vendor": 1000
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 773775,
+      "ask": 1299998,
       "bid": 350000,
       "vendor": 1000
     },
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 712,
+      "ask": 749,
       "bid": 668,
       "vendor": 162
     },
@@ -1216,13 +1216,13 @@
       "vendor": 12
     },
     "Linen Boots": {
-      "ask": 12000,
+      "ask": 11999,
       "bid": -1,
       "vendor": 432
     },
     "Linen Fabric": {
       "ask": 160,
-      "bid": 87,
+      "bid": 88,
       "vendor": 18
     },
     "Linen Gloves": {
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 44997,
+      "ask": 146623,
       "bid": 5007,
       "vendor": 1000
     },
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 224,
+      "ask": 220,
       "bid": 153,
       "vendor": 40
     },
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 27907,
+      "ask": 27909,
       "bid": 15034,
       "vendor": 1000
     },
@@ -1481,7 +1481,7 @@
       "vendor": 24768
     },
     "Radiant Fabric": {
-      "ask": 723,
+      "ask": 722,
       "bid": 520,
       "vendor": 144
     },
@@ -1621,7 +1621,7 @@
       "vendor": 26973
     },
     "Ranged Coffee": {
-      "ask": 640,
+      "ask": 641,
       "bid": 424,
       "vendor": 30
     },
@@ -1756,7 +1756,7 @@
       "vendor": 73
     },
     "Silk Gloves": {
-      "ask": 111451,
+      "ask": 111452,
       "bid": -1,
       "vendor": 7200
     },
@@ -1791,7 +1791,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 39425,
+      "ask": 39000,
       "bid": 5251,
       "vendor": 6000
     },
@@ -1947,7 +1947,7 @@
     },
     "Super Magic Coffee": {
       "ask": 1250,
-      "bid": 1022,
+      "bid": 1025,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -2076,7 +2076,7 @@
       "vendor": 49536
     },
     "Vampire Fang": {
-      "ask": 1249956,
+      "ask": 1187458,
       "bid": 639457,
       "vendor": 10000
     },
@@ -2086,7 +2086,7 @@
       "vendor": 400000
     },
     "Vampirism": {
-      "ask": 700000,
+      "ask": 749844,
       "bid": 595354,
       "vendor": 1000
     },
@@ -2111,8 +2111,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 288,
-      "bid": 142,
+      "ask": 287,
+      "bid": 143,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2246,7 +2246,7 @@
       "vendor": 144
     },
     "Wooden Crossbow": {
-      "ask": 600,
+      "ask": 9999,
       "bid": -1,
       "vendor": 108
     },
@@ -2256,12 +2256,12 @@
       "vendor": 108
     },
     "Wooden Nature Staff": {
-      "ask": 33250,
+      "ask": 35000,
       "bid": -1,
       "vendor": 108
     },
     "Wooden Water Staff": {
-      "ask": 22554,
+      "ask": 22561,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670606103.3297224
+  "time": 1670607905.2857704
 }
