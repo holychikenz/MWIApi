@@ -11,7 +11,7 @@
       "vendor": 10
     },
     "Apple Yogurt": {
-      "ask": 50,
+      "ask": 10000,
       "bid": 15,
       "vendor": 10
     },
@@ -516,7 +516,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 1050,
+      "ask": 2998,
       "bid": 310,
       "vendor": 84
     },
@@ -581,7 +581,7 @@
       "vendor": 84
     },
     "Cheese Pot": {
-      "ask": 280,
+      "ask": 7000,
       "bid": 160,
       "vendor": 84
     },
@@ -671,7 +671,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 38947,
+      "ask": 37947,
       "bid": 10001,
       "vendor": 1500
     },
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1950,
-      "bid": 1601,
+      "bid": 1600,
       "vendor": 50
     },
     "Egg": {
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 748,
-      "bid": 690,
+      "bid": 685,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 210,
+      "ask": 209,
       "bid": 171,
       "vendor": 54
     },
@@ -1212,7 +1212,7 @@
     },
     "Liberica Coffee Bean": {
       "ask": 290,
-      "bid": 262,
+      "bid": 256,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1521,7 +1521,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 37000,
+      "ask": -1,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 384,
-      "bid": 246,
+      "bid": 242,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 149996,
+      "ask": 149995,
       "bid": 60000,
       "vendor": 3000
     },
@@ -1912,7 +1912,7 @@
     },
     "Super Cheesesmithing Tea": {
       "ask": 1119,
-      "bid": 532,
+      "bid": 531,
       "vendor": 75
     },
     "Super Cooking Tea": {
@@ -1956,7 +1956,7 @@
       "vendor": 40
     },
     "Super Power Coffee": {
-      "ask": 1162,
+      "ask": 1000,
       "bid": 622,
       "vendor": 75
     },
@@ -2146,7 +2146,7 @@
       "vendor": 300
     },
     "Verdant Mace": {
-      "ask": 3000,
+      "ask": 25000,
       "bid": 500,
       "vendor": 540
     },
@@ -2232,7 +2232,7 @@
     },
     "Wisdom Tea": {
       "ask": 1445,
-      "bid": 1101,
+      "bid": 1100,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670630402.6335268
+  "time": 1670631302.7136505
 }
