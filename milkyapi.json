@@ -22,7 +22,7 @@
     },
     "Aqua Essence": {
       "ask": 55,
-      "bid": 34,
+      "bid": 18,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
@@ -67,7 +67,7 @@
     },
     "Artisan Tea": {
       "ask": 1795,
-      "bid": 1400,
+      "bid": 1215,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -191,7 +191,7 @@
       "vendor": 12
     },
     "Bamboo Fabric": {
-      "ask": 393,
+      "ask": 392,
       "bid": 259,
       "vendor": 36
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 119,
+      "ask": 118,
       "bid": 86,
       "vendor": 24
     },
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 38,
+      "ask": 39,
       "bid": 21,
       "vendor": 18
     },
@@ -807,7 +807,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": 530,
-      "bid": 301,
+      "bid": 257,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 21941,
+      "ask": 21939,
       "bid": 15001,
       "vendor": 1000
     },
@@ -1257,7 +1257,7 @@
     },
     "Lucky Coffee": {
       "ask": 375,
-      "bid": 309,
+      "bid": 308,
       "vendor": 40
     },
     "Lumber": {
@@ -1471,7 +1471,7 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 27908,
+      "ask": 26513,
       "bid": 15034,
       "vendor": 1000
     },
@@ -1796,7 +1796,7 @@
       "vendor": 6000
     },
     "Snake Fang": {
-      "ask": 359,
+      "ask": 341,
       "bid": 171,
       "vendor": 100
     },
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 619,
+      "ask": 618,
       "bid": 397,
       "vendor": 36
     },
@@ -1876,7 +1876,7 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 45,
+      "ask": 46,
       "bid": 25,
       "vendor": 6
     },
@@ -1947,7 +1947,7 @@
     },
     "Super Magic Coffee": {
       "ask": 1250,
-      "bid": 1077,
+      "bid": 1076,
       "vendor": 75
     },
     "Super Milking Tea": {
@@ -1992,7 +1992,7 @@
     },
     "Swiftness Coffee": {
       "ask": 1052,
-      "bid": 804,
+      "bid": 768,
       "vendor": 50
     },
     "Tailoring Tea": {
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 40705,
+      "ask": 38670,
       "bid": 10049,
       "vendor": 10000
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 621795,
+      "ask": 590705,
       "bid": 470004,
       "vendor": 1000
     },
@@ -2046,12 +2046,12 @@
       "vendor": 24768
     },
     "Umbral Bracers": {
-      "ask": -1,
+      "ask": 320000,
       "bid": 120000,
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": -1,
+      "ask": 380000,
       "bid": 220501,
       "vendor": 43344
     },
@@ -2061,7 +2061,7 @@
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": -1,
+      "ask": 330000,
       "bid": 120000,
       "vendor": 30960
     },
@@ -2217,7 +2217,7 @@
     },
     "Werewolf Slasher": {
       "ask": 11999999,
-      "bid": 9999999,
+      "bid": 1001,
       "vendor": 400000
     },
     "Wheat": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670647502.7037213
+  "time": 1670648401.8565483
 }
