@@ -252,7 +252,7 @@
     },
     "Beast Tunic": {
       "ask": 123000,
-      "bid": 40000,
+      "bid": -1,
       "vendor": 14400
     },
     "Berserk": {
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 454,
+      "ask": 455,
       "bid": 267,
       "vendor": 12
     },
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 169,
+      "ask": 168,
       "bid": 90,
       "vendor": 6
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 745,
-      "bid": 686,
+      "bid": 687,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1317,7 +1317,7 @@
     },
     "Milking Tea": {
       "ask": 631,
-      "bid": 171,
+      "bid": 250,
       "vendor": 10
     },
     "Minor Heal": {
@@ -1772,7 +1772,7 @@
     },
     "Silk Robe Top": {
       "ask": 76495,
-      "bid": 34658,
+      "bid": -1,
       "vendor": 14400
     },
     "Smack": {
@@ -1801,7 +1801,7 @@
       "vendor": 100
     },
     "Snake Fang Dirk": {
-      "ask": 79999,
+      "ask": 76969,
       "bid": 2001,
       "vendor": 2000
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 826,
+      "ask": 825,
       "bid": 725,
       "vendor": 75
     },
@@ -2062,7 +2062,7 @@
     },
     "Umbral Hood": {
       "ask": 330000,
-      "bid": 120000,
+      "bid": 88340,
       "vendor": 30960
     },
     "Umbral Leather": {
@@ -2111,7 +2111,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 268,
+      "ask": 267,
       "bid": 144,
       "vendor": 12
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670699703.1018398
+  "time": 1670700602.681652
 }
