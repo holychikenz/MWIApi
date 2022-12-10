@@ -331,7 +331,7 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 10,
+      "ask": 12,
       "bid": 6,
       "vendor": 2
     },
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 47,
-      "bid": 34,
+      "bid": 35,
       "vendor": 12
     },
     "Burble Needle": {
@@ -457,7 +457,7 @@
     },
     "Burble Tea Leaf": {
       "ask": 459,
-      "bid": 260,
+      "bid": 236,
       "vendor": 12
     },
     "Cedar Bow": {
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 118,
+      "ask": 112,
       "bid": 86,
       "vendor": 24
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 66,
+      "ask": 69,
       "bid": 7,
       "vendor": 2
     },
@@ -701,7 +701,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 262,
+      "ask": 249,
       "bid": 154,
       "vendor": 54
     },
@@ -1151,7 +1151,7 @@
       "vendor": 62370
     },
     "Holy Pot": {
-      "ask": 149998,
+      "ask": 149999,
       "bid": 105000,
       "vendor": 62370
     },
@@ -1311,7 +1311,7 @@
       "vendor": 50000
     },
     "Milk": {
-      "ask": 16,
+      "ask": 15,
       "bid": 9,
       "vendor": 2
     },
@@ -1341,8 +1341,8 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 58,
-      "bid": 33,
+      "ask": 55,
+      "bid": 34,
       "vendor": 18
     },
     "Orange": {
@@ -1536,7 +1536,7 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 383,
+      "ask": 375,
       "bid": 242,
       "vendor": 81
     },
@@ -1876,8 +1876,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 48,
-      "bid": 25,
+      "ask": 49,
+      "bid": 23,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670656502.8579683
+  "time": 1670657403.0440874
 }
