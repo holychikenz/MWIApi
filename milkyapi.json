@@ -51,7 +51,7 @@
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 1200,
+      "ask": 1199,
       "bid": 676,
       "vendor": 162
     },
@@ -156,7 +156,7 @@
       "vendor": 1512
     },
     "Azure Pot": {
-      "ask": 20949,
+      "ask": -1,
       "bid": 1155,
       "vendor": 1512
     },
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 131,
+      "ask": 169,
       "bid": 90,
       "vendor": 6
     },
@@ -876,12 +876,12 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 575000,
+      "ask": 569945,
       "bid": 480001,
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 94987,
+      "ask": 90238,
       "bid": 75001,
       "vendor": 4000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 374977,
+      "ask": 356228,
       "bid": 4202,
       "vendor": 1000
     },
@@ -1366,7 +1366,7 @@
       "vendor": 3000
     },
     "Panda Gloves": {
-      "ask": 721998,
+      "ask": 699999,
       "bid": 99999,
       "vendor": 60000
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 135366,
+      "ask": 128598,
       "bid": 40009,
       "vendor": 3000
     },
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 897,
-      "bid": 778,
+      "bid": 777,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -2232,7 +2232,7 @@
     },
     "Wisdom Tea": {
       "ask": 1950,
-      "bid": 1113,
+      "bid": 1250,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670698802.2877605
+  "time": 1670699703.1018398
 }
