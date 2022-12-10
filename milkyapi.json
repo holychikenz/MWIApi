@@ -56,7 +56,7 @@
       "vendor": 162
     },
     "Arcane Nature Staff": {
-      "ask": 1100000,
+      "ask": 300000,
       "bid": 700,
       "vendor": 80190
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 36,
+      "ask": 239,
       "bid": 30,
       "vendor": 24
     },
@@ -546,7 +546,7 @@
       "vendor": 48
     },
     "Cheese Hammer": {
-      "ask": 1500,
+      "ask": 1425,
       "bid": 301,
       "vendor": 84
     },
@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 76,
-      "bid": 26,
+      "bid": 18,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -996,7 +996,7 @@
       "vendor": 2340
     },
     "Gobo Leather": {
-      "ask": 350,
+      "ask": 368,
       "bid": 292,
       "vendor": 36
     },
@@ -1206,7 +1206,7 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 899997,
+      "ask": 899996,
       "bid": 500000,
       "vendor": 500000
     },
@@ -1477,7 +1477,7 @@
     },
     "Radiant Boots": {
       "ask": 470000,
-      "bid": 1,
+      "bid": -1,
       "vendor": 24768
     },
     "Radiant Fabric": {
@@ -1821,7 +1821,7 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 169,
+      "ask": 168,
       "bid": 140,
       "vendor": 27
     },
@@ -1877,7 +1877,7 @@
     },
     "Strawberry": {
       "ask": 49,
-      "bid": 24,
+      "bid": 25,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670679003.1441698
+  "time": 1670679903.3438132
 }
