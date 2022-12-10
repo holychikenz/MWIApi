@@ -166,7 +166,7 @@
       "vendor": 1512
     },
     "Azure Spatula": {
-      "ask": 25000,
+      "ask": -1,
       "bid": 3000,
       "vendor": 1512
     },
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 797944,
-      "bid": 450137,
+      "bid": 450140,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 94997,
+      "ask": 94996,
       "bid": 75001,
       "vendor": 4000
     },
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 210,
+      "ask": 207,
       "bid": 153,
       "vendor": 40
     },
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 142494,
+      "ask": 142493,
       "bid": 60000,
       "vendor": 3000
     },
@@ -1912,7 +1912,7 @@
     },
     "Super Cheesesmithing Tea": {
       "ask": 1139,
-      "bid": 1119,
+      "bid": 531,
       "vendor": 75
     },
     "Super Cooking Tea": {
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 590705,
+      "ask": 590702,
       "bid": 470004,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670649302.3022356
+  "time": 1670650202.543864
 }
