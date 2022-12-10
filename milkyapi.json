@@ -401,7 +401,7 @@
       "vendor": 3780
     },
     "Burble Helmet": {
-      "ask": -1,
+      "ask": 40000,
       "bid": -1,
       "vendor": 2700
     },
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 459,
+      "ask": 458,
       "bid": 236,
       "vendor": 12
     },
@@ -701,7 +701,7 @@
       "vendor": 15552
     },
     "Crimson Cheese": {
-      "ask": 249,
+      "ask": 237,
       "bid": 154,
       "vendor": 54
     },
@@ -906,7 +906,7 @@
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 249999,
+      "ask": 222222,
       "bid": 84034,
       "vendor": 1000
     },
@@ -1331,7 +1331,7 @@
       "vendor": 9
     },
     "Mooberry Cake": {
-      "ask": 224,
+      "ask": 223,
       "bid": 151,
       "vendor": 40
     },
@@ -1472,7 +1472,7 @@
     },
     "Quick Shot": {
       "ask": 26513,
-      "bid": 15033,
+      "bid": 15034,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 774,
+      "ask": 773,
       "bid": 627,
       "vendor": 27
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670667302.38113
+  "time": 1670668203.673932
 }
