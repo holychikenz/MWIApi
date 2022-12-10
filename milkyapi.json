@@ -151,7 +151,7 @@
       "vendor": 1728
     },
     "Azure Plate Legs": {
-      "ask": -1,
+      "ask": 15000,
       "bid": -1,
       "vendor": 1512
     },
@@ -411,7 +411,7 @@
       "vendor": 4860
     },
     "Burble Milk": {
-      "ask": 47,
+      "ask": 46,
       "bid": 35,
       "vendor": 12
     },
@@ -426,7 +426,7 @@
       "vendor": 4320
     },
     "Burble Plate Legs": {
-      "ask": -1,
+      "ask": 40000,
       "bid": 3780,
       "vendor": 3780
     },
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 249,
-      "bid": 199,
+      "bid": 154,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -756,7 +756,7 @@
       "vendor": 10368
     },
     "Crimson Plate Legs": {
-      "ask": -1,
+      "ask": 50000,
       "bid": -1,
       "vendor": 9072
     },
@@ -766,7 +766,7 @@
       "vendor": 9072
     },
     "Crimson Shears": {
-      "ask": -1,
+      "ask": 50000,
       "bid": 1000,
       "vendor": 9072
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 525,
+      "ask": 559,
       "bid": 309,
       "vendor": 10
     },
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 748,
+      "ask": 747,
       "bid": 685,
       "vendor": 162
     },
@@ -1546,7 +1546,7 @@
       "vendor": 20979
     },
     "Rainbow Enhancer": {
-      "ask": 49870,
+      "ask": 49869,
       "bid": 15555,
       "vendor": 20979
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 3492,
+      "ask": 4887,
       "bid": 1209,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670665502.6746294
+  "time": 1670667302.38113
 }
