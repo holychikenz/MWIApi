@@ -257,7 +257,7 @@
     },
     "Berserk": {
       "ask": 428403,
-      "bid": 200001,
+      "bid": 200010,
       "vendor": 1000
     },
     "Birch Bow": {
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 64,
-      "bid": 31,
+      "bid": 30,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -416,7 +416,7 @@
       "vendor": 12
     },
     "Burble Needle": {
-      "ask": 45000,
+      "ask": 30000,
       "bid": -1,
       "vendor": 3780
     },
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 23,
+      "ask": 24,
       "bid": 17,
       "vendor": 1
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 90236,
+      "ask": 89000,
       "bid": 75001,
       "vendor": 4000
     },
@@ -907,11 +907,11 @@
     },
     "Frenzy": {
       "ask": 284939,
-      "bid": 84043,
+      "bid": 84044,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 498,
+      "ask": 499,
       "bid": 308,
       "vendor": 10
     },
@@ -1116,7 +1116,7 @@
       "vendor": 62370
     },
     "Holy Hatchet": {
-      "ask": 114992,
+      "ask": -1,
       "bid": 95000,
       "vendor": 62370
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 259999,
+      "ask": 250000,
       "bid": 4867,
       "vendor": 1000
     },
@@ -1291,7 +1291,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 40,
+      "ask": 38,
       "bid": 30,
       "vendor": 14
     },
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 179,
+      "ask": 180,
       "bid": 100,
       "vendor": 40
     },
@@ -1482,7 +1482,7 @@
     },
     "Radiant Fabric": {
       "ask": 720,
-      "bid": 529,
+      "bid": 530,
       "vendor": 144
     },
     "Radiant Fiber": {
@@ -1646,7 +1646,7 @@
       "vendor": 26973
     },
     "Redwood Log": {
-      "ask": 40,
+      "ask": 38,
       "bid": 25,
       "vendor": 27
     },
@@ -1811,12 +1811,12 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 611,
+      "ask": 610,
       "bid": 309,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 99998,
+      "ask": 95000,
       "bid": 40009,
       "vendor": 3000
     },
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 58,
+      "ask": 50,
       "bid": 32,
       "vendor": 4
     },
@@ -2222,7 +2222,7 @@
     },
     "Wheat": {
       "ask": 29,
-      "bid": 13,
+      "bid": 11,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670770804.0380387
+  "time": 1670772603.6772718
 }
