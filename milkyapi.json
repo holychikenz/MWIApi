@@ -106,7 +106,7 @@
       "vendor": 1512
     },
     "Azure Enhancer": {
-      "ask": 16598,
+      "ask": 16599,
       "bid": 1800,
       "vendor": 1512
     },
@@ -116,7 +116,7 @@
       "vendor": 864
     },
     "Azure Hammer": {
-      "ask": 17743,
+      "ask": 1000000000000,
       "bid": 1435,
       "vendor": 1512
     },
@@ -141,7 +141,7 @@
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 22222,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -161,7 +161,7 @@
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": 17000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -391,7 +391,7 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": 28429,
+      "ask": -1,
       "bid": 105,
       "vendor": 3780
     },
@@ -431,7 +431,7 @@
       "vendor": 3780
     },
     "Burble Pot": {
-      "ask": 37999,
+      "ask": 50000,
       "bid": 1000,
       "vendor": 3780
     },
@@ -441,7 +441,7 @@
       "vendor": 3780
     },
     "Burble Spatula": {
-      "ask": 37999,
+      "ask": -1,
       "bid": 3500,
       "vendor": 3780
     },
@@ -516,7 +516,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 9499,
+      "ask": 9020,
       "bid": 310,
       "vendor": 84
     },
@@ -711,7 +711,7 @@
       "vendor": 9072
     },
     "Crimson Enhancer": {
-      "ask": 39999,
+      "ask": -1,
       "bid": 10001,
       "vendor": 9072
     },
@@ -721,12 +721,12 @@
       "vendor": 5184
     },
     "Crimson Hammer": {
-      "ask": 36100,
+      "ask": -1,
       "bid": 6810,
       "vendor": 9072
     },
     "Crimson Hatchet": {
-      "ask": 37905,
+      "ask": 39900,
       "bid": -1,
       "vendor": 9072
     },
@@ -746,7 +746,7 @@
       "vendor": 18
     },
     "Crimson Needle": {
-      "ask": 40000,
+      "ask": 50000,
       "bid": -1,
       "vendor": 9072
     },
@@ -766,12 +766,12 @@
       "vendor": 9072
     },
     "Crimson Shears": {
-      "ask": 47500,
+      "ask": 50000,
       "bid": 1000,
       "vendor": 9072
     },
     "Crimson Spatula": {
-      "ask": 37998,
+      "ask": -1,
       "bid": 1,
       "vendor": 9072
     },
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 743,
+      "ask": 742,
       "bid": 687,
       "vendor": 162
     },
@@ -1196,7 +1196,7 @@
       "vendor": 60000
     },
     "Intelligence Coffee": {
-      "ask": 375,
+      "ask": 340,
       "bid": 270,
       "vendor": 10
     },
@@ -1601,7 +1601,7 @@
       "vendor": 20979
     },
     "Rainbow Shears": {
-      "ask": 40000,
+      "ask": -1,
       "bid": 25000,
       "vendor": 20979
     },
@@ -2006,7 +2006,7 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 3649949,
+      "ask": 3649947,
       "bid": 2000004,
       "vendor": 100000
     },
@@ -2226,8 +2226,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1105,
-      "bid": 850,
+      "ask": 1104,
+      "bid": 900,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670724902.1468894
+  "time": 1670725801.6793377
 }
