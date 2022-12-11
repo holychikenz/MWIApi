@@ -226,7 +226,7 @@
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 9000,
+      "ask": 8900,
       "bid": -1,
       "vendor": 7200
     },
@@ -811,7 +811,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 418,
+      "ask": 417,
       "bid": 359,
       "vendor": 50
     },
@@ -1382,7 +1382,7 @@
     },
     "Peach Yogurt": {
       "ask": 180,
-      "bid": 153,
+      "bid": 100,
       "vendor": 40
     },
     "Pierce": {
@@ -1861,8 +1861,8 @@
       "vendor": 10
     },
     "Star Fruit": {
-      "ask": 203,
-      "bid": 81,
+      "ask": 190,
+      "bid": 100,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670748304.4199755
+  "time": 1670750103.871473
 }
