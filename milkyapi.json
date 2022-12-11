@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 60000,
+      "ask": 99000,
       "bid": 10000,
       "vendor": 1512
     },
@@ -116,7 +116,7 @@
       "vendor": 864
     },
     "Azure Hammer": {
-      "ask": 60000,
+      "ask": 1000000000000,
       "bid": 1435,
       "vendor": 1512
     },
@@ -141,7 +141,7 @@
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 60000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -161,7 +161,7 @@
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": 60000,
+      "ask": -1,
       "bid": -1,
       "vendor": 1512
     },
@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 159,
-      "bid": 100,
+      "bid": 90,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -711,7 +711,7 @@
       "vendor": 9072
     },
     "Crimson Enhancer": {
-      "ask": 100000,
+      "ask": -1,
       "bid": 10001,
       "vendor": 9072
     },
@@ -721,7 +721,7 @@
       "vendor": 5184
     },
     "Crimson Hammer": {
-      "ask": 100000,
+      "ask": -1,
       "bid": 6810,
       "vendor": 9072
     },
@@ -771,7 +771,7 @@
       "vendor": 9072
     },
     "Crimson Spatula": {
-      "ask": 100000,
+      "ask": -1,
       "bid": 1,
       "vendor": 9072
     },
@@ -1291,7 +1291,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 45,
+      "ask": 43,
       "bid": 31,
       "vendor": 14
     },
@@ -2091,12 +2091,12 @@
       "vendor": 1000
     },
     "Verdant Boots": {
-      "ask": 7950,
+      "ask": 8000,
       "bid": -1,
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": 50000,
+      "ask": 20000,
       "bid": 1000,
       "vendor": 420
     },
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 267,
-      "bid": 160,
+      "bid": 144,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2121,7 +2121,7 @@
       "vendor": 420
     },
     "Verdant Enhancer": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 1000,
       "vendor": 420
     },
@@ -2171,17 +2171,17 @@
       "vendor": 420
     },
     "Verdant Pot": {
-      "ask": 11000,
+      "ask": 10500,
       "bid": 445,
       "vendor": 420
     },
     "Verdant Shears": {
-      "ask": -1,
+      "ask": 20000,
       "bid": -1,
       "vendor": 420
     },
     "Verdant Spatula": {
-      "ask": -1,
+      "ask": 20000,
       "bid": 3000,
       "vendor": 420
     },
@@ -2226,7 +2226,7 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1103,
+      "ask": 1102,
       "bid": 900,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670732102.5715985
+  "time": 1670733002.1498392
 }
