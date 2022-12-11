@@ -366,7 +366,7 @@
       "vendor": 3240
     },
     "Burble Bulwark": {
-      "ask": 5000,
+      "ask": 6480,
       "bid": 1,
       "vendor": 6480
     },
@@ -861,8 +861,8 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 173,
-      "bid": 123,
+      "ask": 172,
+      "bid": 124,
       "vendor": 27
     },
     "Fireball": {
@@ -902,7 +902,7 @@
     },
     "Foraging Tea": {
       "ask": 454,
-      "bid": 210,
+      "bid": 300,
       "vendor": 10
     },
     "Frenzy": {
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 19997,
+      "ask": 18997,
       "bid": 5502,
       "vendor": 5000
     },
@@ -997,7 +997,7 @@
     },
     "Gobo Leather": {
       "ask": 368,
-      "bid": 292,
+      "bid": 307,
       "vendor": 36
     },
     "Gobo Shooter": {
@@ -1291,7 +1291,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 49,
+      "ask": 48,
       "bid": 31,
       "vendor": 14
     },
@@ -1651,8 +1651,8 @@
       "vendor": 27
     },
     "Redwood Lumber": {
-      "ask": 292,
-      "bid": 236,
+      "ask": 307,
+      "bid": 250,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 895,
+      "ask": 850,
       "bid": 780,
       "vendor": 75
     },
@@ -2231,13 +2231,13 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1949,
+      "ask": 1900,
       "bid": 1125,
       "vendor": 30
     },
     "Woodcutting Tea": {
       "ask": 500,
-      "bid": 250,
+      "bid": -1,
       "vendor": 10
     },
     "Wooden Bow": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670720402.3876405
+  "time": 1670721302.5489225
 }
