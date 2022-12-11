@@ -26,7 +26,7 @@
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 122,
+      "ask": 121,
       "bid": 95,
       "vendor": 4
     },
@@ -516,7 +516,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 9020,
+      "ask": 9000,
       "bid": 310,
       "vendor": 84
     },
@@ -801,7 +801,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 53,
+      "ask": 50,
       "bid": 36,
       "vendor": 14
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 797939,
+      "ask": 750000,
       "bid": 450145,
       "vendor": 1000
     },
@@ -861,7 +861,7 @@
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
-      "ask": 172,
+      "ask": 163,
       "bid": 124,
       "vendor": 27
     },
@@ -1131,7 +1131,7 @@
       "vendor": 80190
     },
     "Holy Milk": {
-      "ask": 207,
+      "ask": 210,
       "bid": 167,
       "vendor": 54
     },
@@ -1291,7 +1291,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 48,
+      "ask": 46,
       "bid": 31,
       "vendor": 14
     },
@@ -1831,7 +1831,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 844,
+      "ask": 845,
       "bid": 732,
       "vendor": 75
     },
@@ -2007,7 +2007,7 @@
     },
     "Tome Of The Elements": {
       "ask": 3649947,
-      "bid": 2000004,
+      "bid": 2000003,
       "vendor": 100000
     },
     "Toughness": {
@@ -2096,8 +2096,8 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": -1,
-      "bid": 520,
+      "ask": 40000,
+      "bid": 1000,
       "vendor": 420
     },
     "Verdant Buckler": {
@@ -2111,8 +2111,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 260,
-      "bid": 144,
+      "ask": 267,
+      "bid": 150,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2176,7 +2176,7 @@
       "vendor": 420
     },
     "Verdant Shears": {
-      "ask": 8750,
+      "ask": -1,
       "bid": -1,
       "vendor": 420
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 12910,
+      "ask": 10000,
       "bid": 4208,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670725801.6793377
+  "time": 1670726702.2925215
 }
