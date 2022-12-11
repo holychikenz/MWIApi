@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 1000,
-      "bid": 676,
+      "bid": 677,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -116,7 +116,7 @@
       "vendor": 864
     },
     "Azure Hammer": {
-      "ask": 1000000000000,
+      "ask": 60000,
       "bid": 1435,
       "vendor": 1512
     },
@@ -141,7 +141,7 @@
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": -1,
+      "ask": 60000,
       "bid": -1,
       "vendor": 1512
     },
@@ -161,7 +161,7 @@
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": -1,
+      "ask": 60000,
       "bid": -1,
       "vendor": 1512
     },
@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 159,
-      "bid": 92,
+      "bid": 100,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 524,
+      "ask": 523,
       "bid": 257,
       "vendor": 50
     },
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 267,
-      "bid": 150,
+      "bid": 160,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670728502.2398095
+  "time": 1670729401.86024
 }
