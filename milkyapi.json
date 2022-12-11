@@ -97,11 +97,11 @@
     },
     "Azure Cheese": {
       "ask": 408,
-      "bid": 236,
+      "bid": 235,
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 99000,
+      "ask": 60000,
       "bid": 10000,
       "vendor": 1512
     },
@@ -516,7 +516,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 8800,
+      "ask": 9020,
       "bid": 310,
       "vendor": 84
     },
@@ -1111,7 +1111,7 @@
       "vendor": 35640
     },
     "Holy Hammer": {
-      "ask": 140000,
+      "ask": 149448,
       "bid": 95000,
       "vendor": 62370
     },
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 286,
+      "ask": 285,
       "bid": 203,
       "vendor": 12
     },
@@ -1626,8 +1626,8 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 815,
-      "bid": 655,
+      "ask": 808,
+      "bid": 654,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 822,
+      "ask": 823,
       "bid": 761,
       "vendor": 75
     },
@@ -2046,12 +2046,12 @@
       "vendor": 24768
     },
     "Umbral Bracers": {
-      "ask": 320000,
+      "ask": -1,
       "bid": 120000,
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": 380000,
+      "ask": -1,
       "bid": 223371,
       "vendor": 43344
     },
@@ -2061,7 +2061,7 @@
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": 330000,
+      "ask": -1,
       "bid": 88340,
       "vendor": 30960
     },
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 20,
+      "ask": 19,
       "bid": 13,
       "vendor": 1
     },
@@ -2237,7 +2237,7 @@
     },
     "Woodcutting Tea": {
       "ask": 500,
-      "bid": 300,
+      "bid": -1,
       "vendor": 10
     },
     "Wooden Bow": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670729401.86024
+  "time": 1670730302.2343943
 }
