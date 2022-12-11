@@ -897,7 +897,7 @@
     },
     "Flax": {
       "ask": 75,
-      "bid": 14,
+      "bid": 13,
       "vendor": 6
     },
     "Foraging Tea": {
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 280,
+      "ask": 279,
       "bid": 204,
       "vendor": 12
     },
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 177,
+      "ask": 179,
       "bid": 100,
       "vendor": 40
     },
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 827,
+      "ask": 828,
       "bid": 689,
       "vendor": 75
     },
@@ -2062,7 +2062,7 @@
     },
     "Umbral Hood": {
       "ask": 330000,
-      "bid": 88340,
+      "bid": -1,
       "vendor": 30960
     },
     "Umbral Leather": {
@@ -2236,7 +2236,7 @@
       "vendor": 30
     },
     "Woodcutting Tea": {
-      "ask": 500,
+      "ask": 475,
       "bid": -1,
       "vendor": 10
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670765403.9972785
+  "time": 1670766302.9422507
 }
