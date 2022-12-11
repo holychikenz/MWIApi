@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 980,
-      "bid": 683,
+      "bid": 684,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -497,7 +497,7 @@
     },
     "Centaur Boots": {
       "ask": 1000000,
-      "bid": 175000,
+      "bid": 500000,
       "vendor": 50000
     },
     "Centaur Hoof": {
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 225,
+      "ask": 224,
       "bid": 100,
       "vendor": 24
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 85,
+      "ask": 84,
       "bid": 8,
       "vendor": 2
     },
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 36,
+      "ask": 37,
       "bid": 18,
       "vendor": 18
     },
@@ -801,7 +801,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 50,
+      "ask": 49,
       "bid": 37,
       "vendor": 14
     },
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 3000,
+      "ask": 2999,
       "bid": 1605,
       "vendor": 50
     },
@@ -1291,8 +1291,8 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 37,
-      "bid": 23,
+      "ask": 38,
+      "bid": 26,
       "vendor": 14
     },
     "Marsberry Cake": {
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 190,
+      "ask": 189,
       "bid": 100,
       "vendor": 40
     },
@@ -1481,7 +1481,7 @@
       "vendor": 24768
     },
     "Radiant Fabric": {
-      "ask": 720,
+      "ask": 719,
       "bid": 531,
       "vendor": 144
     },
@@ -1626,8 +1626,8 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 765,
-      "bid": 638,
+      "ask": 807,
+      "bid": 639,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1711,7 +1711,7 @@
       "vendor": 48
     },
     "Rough Bracers": {
-      "ask": 10397,
+      "ask": 10000,
       "bid": 100,
       "vendor": 48
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 4327,
+      "ask": 4111,
       "bid": 1209,
       "vendor": 1000
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 9263,
+      "ask": 9000,
       "bid": 2505,
       "vendor": 1000
     },
@@ -1836,7 +1836,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 339,
+      "ask": 340,
       "bid": 205,
       "vendor": 54
     },
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 190,
-      "bid": 100,
+      "bid": 107,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1877,7 +1877,7 @@
     },
     "Strawberry": {
       "ask": 48,
-      "bid": 25,
+      "bid": 29,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1057,
+      "ask": 1056,
       "bid": 770,
       "vendor": 50
     },
@@ -2066,7 +2066,7 @@
       "vendor": 30960
     },
     "Umbral Leather": {
-      "ask": 3500,
+      "ask": 3499,
       "bid": 1600,
       "vendor": 144
     },
@@ -2226,12 +2226,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1098,
+      "ask": 1096,
       "bid": 930,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1899,
+      "ask": 5517,
       "bid": 1424,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670786104.131087
+  "time": 1670787002.9710069
 }
