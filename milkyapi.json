@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 18,
+      "ask": 17,
       "bid": 7,
       "vendor": 2
     },
@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Arrow": {
-      "ask": 999997,
+      "ask": 975000,
       "bid": 1003,
       "vendor": 1000
     },
@@ -52,7 +52,7 @@
     },
     "Arcane Lumber": {
       "ask": 1000,
-      "bid": 679,
+      "bid": 680,
       "vendor": 162
     },
     "Arcane Nature Staff": {
@@ -136,7 +136,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 97,
+      "ask": 85,
       "bid": 44,
       "vendor": 8
     },
@@ -226,7 +226,7 @@
       "vendor": 7200
     },
     "Beast Bracers": {
-      "ask": 10923,
+      "ask": 10900,
       "bid": -1,
       "vendor": 7200
     },
@@ -251,7 +251,7 @@
       "vendor": 72
     },
     "Beast Tunic": {
-      "ask": 95175,
+      "ask": 95000,
       "bid": -1,
       "vendor": 14400
     },
@@ -306,7 +306,7 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 38,
+      "ask": 36,
       "bid": 28,
       "vendor": 8
     },
@@ -376,7 +376,7 @@
       "vendor": 36
     },
     "Burble Chisel": {
-      "ask": 45125,
+      "ask": 44000,
       "bid": -1,
       "vendor": 3780
     },
@@ -391,12 +391,12 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": -1,
+      "ask": 50000,
       "bid": 105,
       "vendor": 3780
     },
     "Burble Hatchet": {
-      "ask": 42750,
+      "ask": 40000,
       "bid": -1,
       "vendor": 3780
     },
@@ -431,7 +431,7 @@
       "vendor": 3780
     },
     "Burble Pot": {
-      "ask": 50000,
+      "ask": 49000,
       "bid": 1000,
       "vendor": 3780
     },
@@ -441,7 +441,7 @@
       "vendor": 3780
     },
     "Burble Spatula": {
-      "ask": -1,
+      "ask": 50000,
       "bid": 3500,
       "vendor": 3780
     },
@@ -516,8 +516,8 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 4000,
-      "bid": 310,
+      "ask": 2500,
+      "bid": 350,
       "vendor": 84
     },
     "Cheese Buckler": {
@@ -606,7 +606,7 @@
       "vendor": 108
     },
     "Cheesesmithing Tea": {
-      "ask": 600,
+      "ask": 599,
       "bid": 103,
       "vendor": 30
     },
@@ -686,7 +686,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 59999,
+      "ask": 59500,
       "bid": 9200,
       "vendor": 9072
     },
@@ -711,7 +711,7 @@
       "vendor": 9072
     },
     "Crimson Enhancer": {
-      "ask": -1,
+      "ask": 60000,
       "bid": 10001,
       "vendor": 9072
     },
@@ -721,12 +721,12 @@
       "vendor": 5184
     },
     "Crimson Hammer": {
-      "ask": -1,
+      "ask": 60000,
       "bid": 6810,
       "vendor": 9072
     },
     "Crimson Hatchet": {
-      "ask": 39900,
+      "ask": 39000,
       "bid": -1,
       "vendor": 9072
     },
@@ -766,12 +766,12 @@
       "vendor": 9072
     },
     "Crimson Shears": {
-      "ask": 50000,
+      "ask": 49500,
       "bid": 1000,
       "vendor": 9072
     },
     "Crimson Spatula": {
-      "ask": -1,
+      "ask": 60000,
       "bid": 1,
       "vendor": 9072
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 514374,
+      "ask": 514373,
       "bid": 400000,
       "vendor": 1000
     },
@@ -1316,7 +1316,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 600,
+      "ask": 660,
       "bid": 250,
       "vendor": 10
     },
@@ -1521,7 +1521,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": -1,
+      "ask": 120000,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1601,7 +1601,7 @@
       "vendor": 20979
     },
     "Rainbow Shears": {
-      "ask": -1,
+      "ask": 120000,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1631,7 +1631,7 @@
       "vendor": 27
     },
     "Redwood Bow": {
-      "ask": 45000,
+      "ask": 42750,
       "bid": -1,
       "vendor": 35964
     },
@@ -1681,7 +1681,7 @@
       "vendor": 756
     },
     "Reptile Hide": {
-      "ask": 28,
+      "ask": 29,
       "bid": 12,
       "vendor": 6
     },
@@ -1797,7 +1797,7 @@
     },
     "Snake Fang": {
       "ask": 329,
-      "bid": 171,
+      "bid": 180,
       "vendor": 100
     },
     "Snake Fang Dirk": {
@@ -1871,13 +1871,13 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 823,
+      "ask": 825,
       "bid": 761,
       "vendor": 75
     },
     "Strawberry": {
       "ask": 48,
-      "bid": 25,
+      "bid": 26,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 731,
+      "ask": 840,
       "bid": 366,
       "vendor": 40
     },
@@ -2111,7 +2111,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 267,
+      "ask": 266,
       "bid": 144,
       "vendor": 12
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1500,
+      "ask": 1499,
       "bid": 1315,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670737502.2156866
+  "time": 1670738401.9168086
 }
