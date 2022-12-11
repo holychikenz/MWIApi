@@ -97,7 +97,7 @@
     },
     "Azure Cheese": {
       "ask": 408,
-      "bid": 240,
+      "bid": 236,
       "vendor": 24
     },
     "Azure Chisel": {
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 450,
-      "bid": 280,
+      "bid": 285,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -516,7 +516,7 @@
       "vendor": 48
     },
     "Cheese Brush": {
-      "ask": 9000,
+      "ask": 8800,
       "bid": 310,
       "vendor": 84
     },
@@ -536,7 +536,7 @@
       "vendor": 84
     },
     "Cheese Enhancer": {
-      "ask": -1,
+      "ask": 10000,
       "bid": 301,
       "vendor": 84
     },
@@ -546,12 +546,12 @@
       "vendor": 48
     },
     "Cheese Hammer": {
-      "ask": 1000000000000,
+      "ask": 10000,
       "bid": 301,
       "vendor": 84
     },
     "Cheese Hatchet": {
-      "ask": 99999,
+      "ask": 10000,
       "bid": -1,
       "vendor": 84
     },
@@ -591,7 +591,7 @@
       "vendor": 84
     },
     "Cheese Spatula": {
-      "ask": 1000000,
+      "ask": 8000,
       "bid": 160,
       "vendor": 84
     },
@@ -702,7 +702,7 @@
     },
     "Crimson Cheese": {
       "ask": 248,
-      "bid": 155,
+      "bid": 156,
       "vendor": 54
     },
     "Crimson Chisel": {
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 10000000,
+      "ask": 9999999,
       "bid": 375003,
       "vendor": 1000
     },
@@ -1092,7 +1092,7 @@
     },
     "Holy Cheese": {
       "ask": 742,
-      "bid": 611,
+      "bid": 613,
       "vendor": 162
     },
     "Holy Chisel": {
@@ -1381,7 +1381,7 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 189,
+      "ask": 185,
       "bid": 153,
       "vendor": 40
     },
@@ -1482,7 +1482,7 @@
     },
     "Radiant Fabric": {
       "ask": 720,
-      "bid": 526,
+      "bid": 527,
       "vendor": 144
     },
     "Radiant Fiber": {
@@ -1981,7 +1981,7 @@
       "vendor": 40
     },
     "Swamp Essence": {
-      "ask": 18,
+      "ask": 17,
       "bid": 11,
       "vendor": 8
     },
@@ -2096,7 +2096,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": 40000,
+      "ask": -1,
       "bid": 1000,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670727602.34521
+  "time": 1670728502.2398095
 }
