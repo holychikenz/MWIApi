@@ -262,7 +262,7 @@
     },
     "Birch Bow": {
       "ask": -1,
-      "bid": -1,
+      "bid": 3000,
       "vendor": 720
     },
     "Birch Crossbow": {
@@ -1221,7 +1221,7 @@
       "vendor": 432
     },
     "Linen Fabric": {
-      "ask": 177,
+      "ask": 176,
       "bid": 88,
       "vendor": 18
     },
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 799,
-      "bid": 704,
+      "bid": 710,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -2076,7 +2076,7 @@
       "vendor": 49536
     },
     "Vampire Fang": {
-      "ask": 1071673,
+      "ask": 1071672,
       "bid": 639457,
       "vendor": 10000
     },
@@ -2151,7 +2151,7 @@
       "vendor": 540
     },
     "Verdant Milk": {
-      "ask": 40,
+      "ask": 57,
       "bid": 29,
       "vendor": 4
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670809504.5449276
+  "time": 1670810403.2716076
 }
