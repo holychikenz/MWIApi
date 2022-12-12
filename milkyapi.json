@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 17,
+      "ask": 16,
       "bid": 8,
       "vendor": 2
     },
@@ -66,8 +66,8 @@
       "vendor": 80190
     },
     "Artisan Tea": {
-      "ask": 1795,
-      "bid": 840,
+      "ask": 1794,
+      "bid": 841,
       "vendor": 75
     },
     "Attack Coffee": {
@@ -502,7 +502,7 @@
     },
     "Centaur Hoof": {
       "ask": 104490,
-      "bid": 42509,
+      "bid": 1000,
       "vendor": 3000
     },
     "Cheese": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2700,
+      "ask": 2200,
       "bid": 1605,
       "vendor": 50
     },
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 18995,
+      "ask": 10000,
       "bid": 5503,
       "vendor": 5000
     },
@@ -1196,7 +1196,7 @@
       "vendor": 60000
     },
     "Intelligence Coffee": {
-      "ask": 362,
+      "ask": 330,
       "bid": 269,
       "vendor": 10
     },
@@ -1206,12 +1206,12 @@
       "vendor": 24
     },
     "Large Pouch": {
-      "ask": 789998,
+      "ask": 780000,
       "bid": 500003,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 292,
+      "ask": 291,
       "bid": 204,
       "vendor": 12
     },
@@ -1376,7 +1376,7 @@
       "vendor": 9
     },
     "Peach Gummy": {
-      "ask": 205,
+      "ask": 234,
       "bid": 146,
       "vendor": 40
     },
@@ -1511,7 +1511,7 @@
       "vendor": 49536
     },
     "Rain Of Arrows": {
-      "ask": 989999,
+      "ask": 893474,
       "bid": 160011,
       "vendor": 1000
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 7596,
+      "ask": 4080,
       "bid": 2505,
       "vendor": 1000
     },
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 891,
-      "bid": 825,
+      "bid": 802,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 184,
-      "bid": 104,
+      "bid": 110,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1966,7 +1966,7 @@
       "vendor": 75
     },
     "Super Stamina Coffee": {
-      "ask": 1119,
+      "ask": 1063,
       "bid": 454,
       "vendor": 40
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1055,
+      "ask": 1057,
       "bid": 771,
       "vendor": 50
     },
@@ -2226,8 +2226,8 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 949,
-      "bid": 886,
+      "ask": 900,
+      "bid": 803,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670836505.1365469
+  "time": 1670838303.629437
 }
