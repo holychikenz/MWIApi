@@ -262,7 +262,7 @@
     },
     "Birch Bow": {
       "ask": -1,
-      "bid": 3000,
+      "bid": -1,
       "vendor": 720
     },
     "Birch Crossbow": {
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 514375,
+      "ask": 514374,
       "bid": 350000,
       "vendor": 1000
     },
@@ -1431,7 +1431,7 @@
       "vendor": 30
     },
     "Precision": {
-      "ask": 17499,
+      "ask": 60000,
       "bid": 300,
       "vendor": 1000
     },
@@ -1537,7 +1537,7 @@
     },
     "Rainbow Cheese": {
       "ask": 355,
-      "bid": 220,
+      "bid": 221,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 776,
+      "ask": 806,
       "bid": 710,
       "vendor": 27
     },
@@ -1922,7 +1922,7 @@
     },
     "Super Crafting Tea": {
       "ask": 1350,
-      "bid": 1001,
+      "bid": -1,
       "vendor": 75
     },
     "Super Defense Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670824803.5724149
+  "time": 1670825704.1705613
 }
