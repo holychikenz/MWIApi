@@ -81,7 +81,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 45998,
+      "ask": 40000,
       "bid": 1160,
       "vendor": 1512
     },
@@ -616,7 +616,7 @@
       "vendor": 1000
     },
     "Cocoon": {
-      "ask": 195,
+      "ask": 190,
       "bid": 100,
       "vendor": 24
     },
@@ -686,7 +686,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 59500,
+      "ask": 59999,
       "bid": 15000,
       "vendor": 9072
     },
@@ -711,7 +711,7 @@
       "vendor": 9072
     },
     "Crimson Enhancer": {
-      "ask": 60000,
+      "ask": -1,
       "bid": 10001,
       "vendor": 9072
     },
@@ -721,12 +721,12 @@
       "vendor": 5184
     },
     "Crimson Hammer": {
-      "ask": 60000,
+      "ask": -1,
       "bid": 6810,
       "vendor": 9072
     },
     "Crimson Hatchet": {
-      "ask": 39000,
+      "ask": -1,
       "bid": -1,
       "vendor": 9072
     },
@@ -771,7 +771,7 @@
       "vendor": 9072
     },
     "Crimson Spatula": {
-      "ask": 60000,
+      "ask": -1,
       "bid": 1,
       "vendor": 9072
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 468,
+      "ask": 469,
       "bid": 260,
       "vendor": 50
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 1499994,
+      "ask": 1499993,
       "bid": 300003,
       "vendor": 1000
     },
@@ -1521,7 +1521,7 @@
       "vendor": 11988
     },
     "Rainbow Brush": {
-      "ask": 120000,
+      "ask": -1,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1601,7 +1601,7 @@
       "vendor": 20979
     },
     "Rainbow Shears": {
-      "ask": 120000,
+      "ask": -1,
       "bid": 25000,
       "vendor": 20979
     },
@@ -1826,7 +1826,7 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 895,
+      "ask": 894,
       "bid": 825,
       "vendor": 75
     },
@@ -1912,7 +1912,7 @@
     },
     "Super Cheesesmithing Tea": {
       "ask": 1281,
-      "bid": 1000,
+      "bid": 531,
       "vendor": 75
     },
     "Super Cooking Tea": {
@@ -2096,7 +2096,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": -1,
+      "ask": 17000,
       "bid": 1000,
       "vendor": 420
     },
@@ -2116,7 +2116,7 @@
       "vendor": 12
     },
     "Verdant Chisel": {
-      "ask": 20000,
+      "ask": 17000,
       "bid": -1,
       "vendor": 420
     },
@@ -2176,7 +2176,7 @@
       "vendor": 420
     },
     "Verdant Shears": {
-      "ask": -1,
+      "ask": 17000,
       "bid": -1,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670816703.5780559
+  "time": 1670817602.7717948
 }
