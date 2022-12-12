@@ -356,7 +356,7 @@
       "vendor": 2160
     },
     "Burble Brush": {
-      "ask": 9999,
+      "ask": 20000,
       "bid": 3900,
       "vendor": 3780
     },
@@ -786,7 +786,7 @@
       "vendor": 11664
     },
     "Cupcake": {
-      "ask": 29,
+      "ask": 38,
       "bid": 7,
       "vendor": 5
     },
@@ -797,7 +797,7 @@
     },
     "Donut": {
       "ask": 31,
-      "bid": 6,
+      "bid": 8,
       "vendor": 5
     },
     "Dragon Fruit": {
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 27,
+      "ask": 26,
       "bid": 17,
       "vendor": 1
     },
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 70,
+      "ask": 69,
       "bid": 13,
       "vendor": 6
     },
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 210,
-      "bid": 145,
+      "bid": 132,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 8546,
+      "ask": 6000,
       "bid": 3500,
       "vendor": 1000
     },
@@ -1576,7 +1576,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 34,
+      "ask": 35,
       "bid": 27,
       "vendor": 27
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 7000,
+      "ask": 4500,
       "bid": 2500,
       "vendor": 1000
     },
@@ -1776,13 +1776,13 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 7198,
+      "ask": 5000,
       "bid": 2505,
       "vendor": 1000
     },
     "Small Pouch": {
       "ask": 14000,
-      "bid": 6825,
+      "bid": 6500,
       "vendor": 5000
     },
     "Snail Shell": {
@@ -2221,7 +2221,7 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 28,
+      "ask": 27,
       "bid": 11,
       "vendor": 1
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670859003.2325203
+  "time": 1670859904.665485
 }
