@@ -437,7 +437,7 @@
     },
     "Burble Shears": {
       "ask": 45000,
-      "bid": 25000,
+      "bid": 1002,
       "vendor": 3780
     },
     "Burble Spatula": {
@@ -1347,7 +1347,7 @@
     },
     "Orange": {
       "ask": 17,
-      "bid": 15,
+      "bid": 10,
       "vendor": 4
     },
     "Orange Gummy": {
@@ -1536,8 +1536,8 @@
       "vendor": 35964
     },
     "Rainbow Cheese": {
-      "ask": 355,
-      "bid": 227,
+      "ask": 354,
+      "bid": 228,
       "vendor": 81
     },
     "Rainbow Chisel": {
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 807,
+      "ask": 816,
       "bid": 713,
       "vendor": 27
     },
@@ -1686,7 +1686,7 @@
       "vendor": 6
     },
     "Reptile Hood": {
-      "ask": 3500,
+      "ask": 6174,
       "bid": -1,
       "vendor": 540
     },
@@ -1696,7 +1696,7 @@
       "vendor": 18
     },
     "Reptile Tunic": {
-      "ask": 5748,
+      "ask": 5747,
       "bid": -1,
       "vendor": 864
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 2997,
+      "ask": 2998,
       "bid": 2505,
       "vendor": 1000
     },
@@ -1987,7 +1987,7 @@
     },
     "Sweep": {
       "ask": 78097,
-      "bid": 13051,
+      "bid": 15000,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -2102,7 +2102,7 @@
     },
     "Verdant Buckler": {
       "ask": -1,
-      "bid": 420,
+      "bid": 5000,
       "vendor": 360
     },
     "Verdant Bulwark": {
@@ -2111,8 +2111,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 263,
-      "bid": 144,
+      "ask": 262,
+      "bid": 145,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2256,7 +2256,7 @@
       "vendor": 108
     },
     "Wooden Nature Staff": {
-      "ask": 34888,
+      "ask": 34777,
       "bid": 19,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670876105.2169755
+  "time": 1670877004.0017638
 }
