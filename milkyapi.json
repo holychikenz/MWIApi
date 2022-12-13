@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 152,
+      "ask": 154,
       "bid": 23,
       "vendor": 6
     },
@@ -536,7 +536,7 @@
       "vendor": 84
     },
     "Cheese Enhancer": {
-      "ask": 5000,
+      "ask": -1,
       "bid": 400,
       "vendor": 84
     },
@@ -641,7 +641,7 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 278,
+      "ask": 264,
       "bid": 25,
       "vendor": 6
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": -1,
+      "ask": 150000,
       "bid": 50002,
       "vendor": 4000
     },
@@ -891,7 +891,7 @@
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 1000000,
+      "ask": 900000,
       "bid": 175420,
       "vendor": 60000
     },
@@ -1411,8 +1411,8 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 4498,
-      "bid": 3500,
+      "ask": 4000,
+      "bid": 3100,
       "vendor": 1000
     },
     "Polar Bear Fluff": {
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 135366,
+      "ask": 128598,
       "bid": 40001,
       "vendor": 3000
     },
@@ -1832,7 +1832,7 @@
     },
     "Spaceberry Donut": {
       "ask": 1598,
-      "bid": 735,
+      "bid": 736,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -2082,7 +2082,7 @@
     },
     "Vampire Fang Dirk": {
       "ask": -1,
-      "bid": 6691000,
+      "bid": 10379937,
       "vendor": 400000
     },
     "Vampirism": {
@@ -2096,7 +2096,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": 17000,
+      "ask": 16988,
       "bid": 520,
       "vendor": 420
     },
@@ -2232,7 +2232,7 @@
     },
     "Wisdom Tea": {
       "ask": 1292,
-      "bid": 851,
+      "bid": 860,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670957104.2703125
+  "time": 1670958003.1237144
 }
