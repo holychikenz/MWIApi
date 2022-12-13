@@ -41,7 +41,7 @@
       "vendor": 80190
     },
     "Arcane Fire Staff": {
-      "ask": 140000,
+      "ask": 139999,
       "bid": 90000,
       "vendor": 80190
     },
@@ -332,7 +332,7 @@
     },
     "Blueberry": {
       "ask": 14,
-      "bid": 7,
+      "bid": 8,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 1097246,
+      "ask": 1097243,
       "bid": 350000,
       "vendor": 1000
     },
@@ -1832,7 +1832,7 @@
     },
     "Spaceberry Donut": {
       "ask": 1598,
-      "bid": 737,
+      "bid": 740,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1876,8 +1876,8 @@
       "vendor": 75
     },
     "Strawberry": {
-      "ask": 46,
-      "bid": 27,
+      "ask": 43,
+      "bid": 25,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 1709050,
-      "bid": 500002,
+      "bid": 500003,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2136,7 +2136,7 @@
       "vendor": 420
     },
     "Verdant Hatchet": {
-      "ask": 16991,
+      "ask": 16141,
       "bid": -1,
       "vendor": 420
     },
@@ -2226,12 +2226,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 1085,
+      "ask": 1084,
       "bid": 803,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1289,
+      "ask": 1280,
       "bid": 860,
       "vendor": 30
     },
@@ -2241,12 +2241,12 @@
       "vendor": 10
     },
     "Wooden Bow": {
-      "ask": 2000,
+      "ask": 1000,
       "bid": -1,
       "vendor": 144
     },
     "Wooden Crossbow": {
-      "ask": 9977,
+      "ask": 5000,
       "bid": -1,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670968802.4270976
+  "time": 1670969702.9701438
 }
