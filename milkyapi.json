@@ -307,7 +307,7 @@
     },
     "Black Tea Leaf": {
       "ask": 27,
-      "bid": 26,
+      "bid": 25,
       "vendor": 8
     },
     "Blackberry": {
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 699997,
-      "bid": 465006,
+      "bid": 465007,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -896,7 +896,7 @@
       "vendor": 60000
     },
     "Flax": {
-      "ask": 69,
+      "ask": 68,
       "bid": 41,
       "vendor": 6
     },
@@ -916,8 +916,8 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 19996,
-      "bid": 5503,
+      "ask": 18996,
+      "bid": 5502,
       "vendor": 5000
     },
     "Giant Pouch": {
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 45,
-      "bid": 23,
+      "bid": 21,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 256,
+      "ask": 255,
       "bid": 204,
       "vendor": 12
     },
@@ -1457,7 +1457,7 @@
     },
     "Purpleheart Lumber": {
       "ask": 159,
-      "bid": 158,
+      "bid": 73,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1741,8 +1741,8 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 4997,
-      "bid": 2500,
+      "ask": 4987,
+      "bid": 1209,
       "vendor": 1000
     },
     "Silk Boots": {
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 3998,
+      "ask": 3579,
       "bid": 2505,
       "vendor": 1000
     },
@@ -1797,7 +1797,7 @@
     },
     "Snake Fang": {
       "ask": 294,
-      "bid": 181,
+      "bid": 180,
       "vendor": 100
     },
     "Snake Fang Dirk": {
@@ -1826,12 +1826,12 @@
       "vendor": 27
     },
     "Spaceberry Cake": {
-      "ask": 890,
+      "ask": 895,
       "bid": 802,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 845,
+      "ask": -1,
       "bid": 782,
       "vendor": 75
     },
@@ -1987,7 +1987,7 @@
     },
     "Sweep": {
       "ask": 56789,
-      "bid": 13051,
+      "bid": 13050,
       "vendor": 1000
     },
     "Swiftness Coffee": {
@@ -2007,7 +2007,7 @@
     },
     "Tome Of The Elements": {
       "ask": 2900000,
-      "bid": 1000001,
+      "bid": 1000002,
       "vendor": 100000
     },
     "Toughness": {
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 12909,
+      "ask": 12345,
       "bid": 4647,
       "vendor": 1000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670914802.6541252
+  "time": 1670915703.9388285
 }
