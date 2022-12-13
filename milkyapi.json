@@ -47,11 +47,11 @@
     },
     "Arcane Log": {
       "ask": 300,
-      "bid": 125,
+      "bid": 126,
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 971,
+      "ask": 970,
       "bid": 701,
       "vendor": 162
     },
@@ -456,7 +456,7 @@
       "vendor": 4860
     },
     "Burble Tea Leaf": {
-      "ask": 454,
+      "ask": 453,
       "bid": 307,
       "vendor": 12
     },
@@ -787,7 +787,7 @@
     },
     "Cupcake": {
       "ask": 38,
-      "bid": 8,
+      "bid": 9,
       "vendor": 5
     },
     "Defense Coffee": {
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 395,
+      "ask": 394,
       "bid": 261,
       "vendor": 50
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 695000,
+      "ask": 694999,
       "bid": 469004,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 500000,
+      "ask": 499999,
       "bid": 360001,
       "vendor": 1000
     },
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 249997,
-      "bid": 100003,
+      "bid": 105000,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 718,
+      "ask": 717,
       "bid": 678,
       "vendor": 162
     },
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 209,
-      "bid": 164,
+      "bid": 167,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 199995,
+      "ask": 199994,
       "bid": 20000,
       "vendor": 1000
     },
@@ -1411,7 +1411,7 @@
       "vendor": 30
     },
     "Poke": {
-      "ask": 4000,
+      "ask": 3998,
       "bid": 3100,
       "vendor": 1000
     },
@@ -1806,18 +1806,18 @@
       "vendor": 2000
     },
     "Sorcerer Boots": {
-      "ask": -1,
+      "ask": 1200000,
       "bid": -1,
       "vendor": 50000
     },
     "Sorcerer Essence": {
       "ask": 520,
-      "bid": 321,
+      "bid": 322,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 128598,
-      "bid": 40001,
+      "ask": 128597,
+      "bid": 40002,
       "vendor": 3000
     },
     "Spaceberry": {
@@ -1871,7 +1871,7 @@
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 814,
+      "ask": 813,
       "bid": 457,
       "vendor": 75
     },
@@ -1892,7 +1892,7 @@
     },
     "Stunning Blow": {
       "ask": 670283,
-      "bid": 160002,
+      "bid": 165000,
       "vendor": 1000
     },
     "Sugar": {
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 1199,
+      "ask": 1198,
       "bid": -1,
       "vendor": 75
     },
@@ -1946,7 +1946,7 @@
       "vendor": 40
     },
     "Super Magic Coffee": {
-      "ask": 1900,
+      "ask": 1715,
       "bid": 1136,
       "vendor": 75
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1041,
+      "ask": 1040,
       "bid": 773,
       "vendor": 50
     },
@@ -2006,8 +2006,8 @@
       "vendor": 10000
     },
     "Tome Of The Elements": {
-      "ask": 2800000,
-      "bid": 1000002,
+      "ask": 2799999,
+      "bid": 1000004,
       "vendor": 100000
     },
     "Toughness": {
@@ -2051,7 +2051,7 @@
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": -1,
+      "ask": 380000,
       "bid": 120000,
       "vendor": 43344
     },
@@ -2061,7 +2061,7 @@
       "vendor": 48
     },
     "Umbral Hood": {
-      "ask": -1,
+      "ask": 330000,
       "bid": -1,
       "vendor": 30960
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1292,
+      "ask": 1291,
       "bid": 860,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670958003.1237144
+  "time": 1670958904.2065773
 }
