@@ -507,7 +507,7 @@
     },
     "Cheese": {
       "ask": 99,
-      "bid": 22,
+      "bid": 23,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -631,8 +631,8 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 68,
-      "bid": 22,
+      "ask": 67,
+      "bid": 10,
       "vendor": 2
     },
     "Cotton Boots": {
@@ -832,7 +832,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 354,
-      "bid": 239,
+      "bid": 240,
       "vendor": 54
     },
     "Enhancing Tea": {
@@ -1312,7 +1312,7 @@
     },
     "Milk": {
       "ask": 18,
-      "bid": 10,
+      "bid": 11,
       "vendor": 2
     },
     "Milking Tea": {
@@ -1701,7 +1701,7 @@
       "vendor": 864
     },
     "Robusta Coffee Bean": {
-      "ask": 113,
+      "ask": 112,
       "bid": 75,
       "vendor": 8
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 2135,
+      "ask": 2133,
       "bid": 124,
       "vendor": 6
     },
@@ -2221,8 +2221,8 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 34,
-      "bid": 12,
+      "ask": 33,
+      "bid": 13,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670918403.8000684
+  "time": 1670919305.4929252
 }
