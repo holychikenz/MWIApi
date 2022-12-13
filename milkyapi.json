@@ -102,7 +102,7 @@
     },
     "Azure Chisel": {
       "ask": 40000,
-      "bid": 10000,
+      "bid": -1,
       "vendor": 1512
     },
     "Azure Enhancer": {
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 152,
+      "ask": 153,
       "bid": 23,
       "vendor": 6
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 48,
+      "ask": 49,
       "bid": 9,
       "vendor": 2
     },
@@ -641,12 +641,12 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 262,
+      "ask": 249,
       "bid": 25,
       "vendor": 6
     },
     "Cotton Gloves": {
-      "ask": 1998,
+      "ask": 1000,
       "bid": -1,
       "vendor": 48
     },
@@ -826,7 +826,7 @@
       "vendor": 1
     },
     "Elemental Affinity": {
-      "ask": 689999,
+      "ask": 680000,
       "bid": 469005,
       "vendor": 1000
     },
@@ -856,7 +856,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 1250,
+      "ask": 1299,
       "bid": 651,
       "vendor": 40
     },
@@ -907,11 +907,11 @@
     },
     "Frenzy": {
       "ask": 237493,
-      "bid": 105000,
+      "bid": 100000,
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1098,
+      "ask": 1199,
       "bid": 311,
       "vendor": 10
     },
@@ -961,7 +961,7 @@
       "vendor": 11664
     },
     "Gobo Boomstick": {
-      "ask": 39998,
+      "ask": 39000,
       "bid": 19000,
       "vendor": 20000
     },
@@ -1001,7 +1001,7 @@
       "vendor": 36
     },
     "Gobo Shooter": {
-      "ask": 27998,
+      "ask": 27900,
       "bid": 19000,
       "vendor": 20000
     },
@@ -1302,7 +1302,7 @@
     },
     "Marsberry Donut": {
       "ask": 382,
-      "bid": 330,
+      "bid": 300,
       "vendor": 50
     },
     "Medium Pouch": {
@@ -1316,7 +1316,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 600,
+      "ask": 598,
       "bid": 171,
       "vendor": 10
     },
@@ -1776,7 +1776,7 @@
       "vendor": 14400
     },
     "Smack": {
-      "ask": 3000,
+      "ask": 3398,
       "bid": 2505,
       "vendor": 1000
     },
@@ -1821,7 +1821,7 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 147,
+      "ask": 146,
       "bid": 111,
       "vendor": 27
     },
@@ -1831,8 +1831,8 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 1598,
-      "bid": 741,
+      "ask": 1596,
+      "bid": 817,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1872,7 +1872,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 807,
-      "bid": 457,
+      "bid": 555,
       "vendor": 75
     },
     "Strawberry": {
@@ -1892,7 +1892,7 @@
     },
     "Stunning Blow": {
       "ask": 670283,
-      "bid": 165002,
+      "bid": 170000,
       "vendor": 1000
     },
     "Sugar": {
@@ -1911,7 +1911,7 @@
       "vendor": 50
     },
     "Super Cheesesmithing Tea": {
-      "ask": 1100,
+      "ask": 1281,
       "bid": 535,
       "vendor": 75
     },
@@ -2152,7 +2152,7 @@
     },
     "Verdant Milk": {
       "ask": 59,
-      "bid": 34,
+      "bid": 35,
       "vendor": 4
     },
     "Verdant Needle": {
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1280,
+      "ask": 1289,
       "bid": 861,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670973303.9833567
+  "time": 1670974203.121834
 }
