@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 94,
+      "ask": 98,
       "bid": 23,
       "vendor": 6
     },
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 37,
+      "ask": 38,
       "bid": 21,
       "vendor": 18
     },
@@ -806,7 +806,7 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 399,
+      "ask": 396,
       "bid": 261,
       "vendor": 50
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 70000,
+      "ask": 69997,
       "bid": 5254,
       "vendor": 1000
     },
@@ -901,13 +901,13 @@
       "vendor": 6
     },
     "Foraging Tea": {
-      "ask": 431,
-      "bid": 210,
+      "ask": 317,
+      "bid": -1,
       "vendor": 10
     },
     "Frenzy": {
-      "ask": 284941,
-      "bid": 100000,
+      "ask": 284939,
+      "bid": 100003,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -921,7 +921,7 @@
       "vendor": 5000
     },
     "Giant Pouch": {
-      "ask": 5999999,
+      "ask": 6000000,
       "bid": 3000003,
       "vendor": 5000000
     },
@@ -1176,7 +1176,7 @@
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 237478,
+      "ask": 237475,
       "bid": 5921,
       "vendor": 1000
     },
@@ -1211,8 +1211,8 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 230,
-      "bid": 204,
+      "ask": 219,
+      "bid": 111,
       "vendor": 12
     },
     "Linen Boots": {
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 132,
+      "ask": 138,
       "bid": 40,
       "vendor": 6
     },
@@ -1322,7 +1322,7 @@
     },
     "Minor Heal": {
       "ask": 134997,
-      "bid": 5016,
+      "bid": 5020,
       "vendor": 1000
     },
     "Mooberry": {
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 229996,
+      "ask": 229993,
       "bid": 16021,
       "vendor": 1000
     },
@@ -1432,7 +1432,7 @@
     },
     "Precision": {
       "ask": 55000,
-      "bid": 2200,
+      "bid": 2201,
       "vendor": 1000
     },
     "Purpleheart Bow": {
@@ -1576,7 +1576,7 @@
       "vendor": 26973
     },
     "Rainbow Milk": {
-      "ask": 31,
+      "ask": 30,
       "bid": 29,
       "vendor": 27
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 776,
+      "ask": 779,
       "bid": 714,
       "vendor": 27
     },
@@ -1701,7 +1701,7 @@
       "vendor": 864
     },
     "Robusta Coffee Bean": {
-      "ask": 112,
+      "ask": 111,
       "bid": 75,
       "vendor": 8
     },
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 643,
+      "ask": 642,
       "bid": 512,
       "vendor": 73
     },
@@ -1862,11 +1862,11 @@
     },
     "Star Fruit": {
       "ask": 179,
-      "bid": 127,
+      "bid": 130,
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 696,
+      "ask": 695,
       "bid": 403,
       "vendor": 75
     },
@@ -1892,7 +1892,7 @@
     },
     "Stunning Blow": {
       "ask": 670283,
-      "bid": 155000,
+      "bid": 155002,
       "vendor": 1000
     },
     "Sugar": {
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 56789,
+      "ask": 56786,
       "bid": 13050,
       "vendor": 1000
     },
@@ -2012,7 +2012,7 @@
     },
     "Toughness": {
       "ask": 25425,
-      "bid": 18010,
+      "bid": 18011,
       "vendor": 1000
     },
     "Toxic Pollen": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670927402.811507
+  "time": 1670928303.4747415
 }
