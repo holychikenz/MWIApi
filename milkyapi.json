@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 83,
+      "ask": 82,
       "bid": 44,
       "vendor": 12
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 86,
+      "ask": 85,
       "bid": 30,
       "vendor": 24
     },
@@ -361,7 +361,7 @@
       "vendor": 3780
     },
     "Burble Buckler": {
-      "ask": 10000,
+      "ask": -1,
       "bid": -1,
       "vendor": 3240
     },
@@ -506,8 +506,8 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 154,
-      "bid": 22,
+      "ask": 152,
+      "bid": 23,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -686,7 +686,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 59999,
+      "ask": 40000,
       "bid": 9200,
       "vendor": 9072
     },
@@ -731,7 +731,7 @@
       "vendor": 9072
     },
     "Crimson Helmet": {
-      "ask": 29998,
+      "ask": 29999,
       "bid": 7500,
       "vendor": 6480
     },
@@ -741,7 +741,7 @@
       "vendor": 11664
     },
     "Crimson Milk": {
-      "ask": 38,
+      "ask": 39,
       "bid": 21,
       "vendor": 18
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 33,
+      "ask": 32,
       "bid": 19,
       "vendor": 18
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 1499980,
+      "ask": 1200000,
       "bid": 350000,
       "vendor": 1000
     },
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 199,
-      "bid": 156,
+      "bid": 160,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1481,8 +1481,8 @@
       "vendor": 24768
     },
     "Radiant Fabric": {
-      "ask": 715,
-      "bid": 534,
+      "ask": 700,
+      "bid": 535,
       "vendor": 144
     },
     "Radiant Fiber": {
@@ -1752,7 +1752,7 @@
     },
     "Silk Fabric": {
       "ask": 642,
-      "bid": 512,
+      "bid": 513,
       "vendor": 73
     },
     "Silk Gloves": {
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 1879998,
+      "ask": 1800000,
       "bid": 500001,
       "vendor": 1000
     },
@@ -2051,12 +2051,12 @@
       "vendor": 24768
     },
     "Umbral Chaps": {
-      "ask": -1,
+      "ask": 380000,
       "bid": 120000,
       "vendor": 43344
     },
     "Umbral Hide": {
-      "ask": 880,
+      "ask": 884,
       "bid": 651,
       "vendor": 48
     },
@@ -2111,7 +2111,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 188,
+      "ask": 198,
       "bid": 145,
       "vendor": 12
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1670940903.6340578
+  "time": 1670941803.3996572
 }
