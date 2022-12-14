@@ -246,7 +246,7 @@
       "vendor": 9000
     },
     "Beast Leather": {
-      "ask": 493,
+      "ask": -1,
       "bid": 311,
       "vendor": 72
     },
@@ -306,12 +306,12 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 26,
+      "ask": 27,
       "bid": 25,
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 19,
+      "ask": 20,
       "bid": 15,
       "vendor": 4
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 26,
+      "ask": 25,
       "bid": 20,
       "vendor": 18
     },
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 188,
-      "bid": 171,
+      "bid": 175,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1316,7 +1316,7 @@
       "vendor": 2
     },
     "Milking Tea": {
-      "ask": 699,
+      "ask": 650,
       "bid": 171,
       "vendor": 10
     },
@@ -1822,7 +1822,7 @@
     },
     "Spaceberry": {
       "ask": 138,
-      "bid": 110,
+      "bid": 115,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 184,
-      "bid": 138,
+      "bid": 150,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1986,7 +1986,7 @@
       "vendor": 8
     },
     "Sweep": {
-      "ask": 119993,
+      "ask": 100000,
       "bid": 13704,
       "vendor": 1000
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1286,
+      "ask": 1285,
       "bid": 861,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671021904.4388645
+  "time": 1671022802.9152346
 }
