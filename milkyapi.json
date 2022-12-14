@@ -36,7 +36,7 @@
       "vendor": 106920
     },
     "Arcane Crossbow": {
-      "ask": 119765,
+      "ask": 119764,
       "bid": 90000,
       "vendor": 80190
     },
@@ -86,7 +86,7 @@
       "vendor": 1512
     },
     "Azure Buckler": {
-      "ask": 1600,
+      "ask": -1,
       "bid": 1350,
       "vendor": 1296
     },
@@ -96,7 +96,7 @@
       "vendor": 2592
     },
     "Azure Cheese": {
-      "ask": 297,
+      "ask": 296,
       "bid": 247,
       "vendor": 24
     },
@@ -476,7 +476,7 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 97,
+      "ask": 99,
       "bid": 41,
       "vendor": 8
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 29999,
+      "ask": 29924,
       "bid": 15001,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 470000,
+      "ask": 468825,
       "bid": 360001,
       "vendor": 1000
     },
@@ -946,7 +946,7 @@
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": 200,
+      "ask": 241,
       "bid": 126,
       "vendor": 54
     },
@@ -1236,7 +1236,7 @@
       "vendor": 540
     },
     "Linen Robe Bottoms": {
-      "ask": 16496,
+      "ask": 16497,
       "bid": 4000,
       "vendor": 756
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 109997,
+      "ask": 104497,
       "bid": 5020,
       "vendor": 1000
     },
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 519,
+      "ask": 518,
       "bid": 324,
       "vendor": 36
     },
@@ -1822,7 +1822,7 @@
     },
     "Spaceberry": {
       "ask": 137,
-      "bid": 115,
+      "bid": 125,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1862,7 +1862,7 @@
     },
     "Star Fruit": {
       "ask": 183,
-      "bid": 155,
+      "bid": 160,
       "vendor": 27
     },
     "Star Fruit Gummy": {
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1031,
+      "ask": 1030,
       "bid": 773,
       "vendor": 50
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1282,
+      "ask": 1281,
       "bid": 862,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671029103.343266
+  "time": 1671030002.5563092
 }
