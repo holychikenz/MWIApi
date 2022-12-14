@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 271,
-      "bid": 127,
+      "bid": 128,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -217,7 +217,7 @@
     },
     "Bear Essence": {
       "ask": 58,
-      "bid": 55,
+      "bid": 54,
       "vendor": 54
     },
     "Beast Boots": {
@@ -386,7 +386,7 @@
       "vendor": 3780
     },
     "Burble Gauntlets": {
-      "ask": 25000,
+      "ask": 16000,
       "bid": -1,
       "vendor": 2160
     },
@@ -437,7 +437,7 @@
     },
     "Burble Shears": {
       "ask": 45000,
-      "bid": 1004,
+      "bid": 1002,
       "vendor": 3780
     },
     "Burble Spatula": {
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 145,
+      "ask": 144,
       "bid": 95,
       "vendor": 6
     },
@@ -811,7 +811,7 @@
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 396,
+      "ask": 395,
       "bid": 274,
       "vendor": 50
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 65546,
+      "ask": 65543,
       "bid": 5795,
       "vendor": 1000
     },
@@ -911,8 +911,8 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1394,
-      "bid": 311,
+      "ask": 1393,
+      "bid": 312,
       "vendor": 10
     },
     "Gator Vest": {
@@ -1036,7 +1036,7 @@
       "vendor": 108
     },
     "Gourmet Tea": {
-      "ask": 632,
+      "ask": 631,
       "bid": 307,
       "vendor": 20
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 1039770,
+      "ask": 1039767,
       "bid": 350003,
       "vendor": 1000
     },
@@ -1321,7 +1321,7 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 104496,
+      "ask": 104494,
       "bid": 5020,
       "vendor": 1000
     },
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 41,
+      "ask": 42,
       "bid": 26,
       "vendor": 18
     },
@@ -1481,7 +1481,7 @@
       "vendor": 24768
     },
     "Radiant Fabric": {
-      "ask": 717,
+      "ask": 716,
       "bid": 552,
       "vendor": 144
     },
@@ -1491,7 +1491,7 @@
       "vendor": 48
     },
     "Radiant Gloves": {
-      "ask": 145000,
+      "ask": 120000,
       "bid": 47250,
       "vendor": 24768
     },
@@ -1537,11 +1537,11 @@
     },
     "Rainbow Cheese": {
       "ask": 280,
-      "bid": 233,
+      "bid": 234,
       "vendor": 81
     },
     "Rainbow Chisel": {
-      "ask": 166250,
+      "ask": 166249,
       "bid": -1,
       "vendor": 20979
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 1111,
+      "ask": 1110,
       "bid": 700,
       "vendor": 27
     },
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 3999,
+      "ask": 3500,
       "bid": 1700,
       "vendor": 1000
     },
@@ -1832,7 +1832,7 @@
     },
     "Spaceberry Donut": {
       "ask": 1394,
-      "bid": 863,
+      "bid": 869,
       "vendor": 75
     },
     "Spacia Coffee Bean": {
@@ -1951,7 +1951,7 @@
       "vendor": 75
     },
     "Super Milking Tea": {
-      "ask": 947,
+      "ask": 948,
       "bid": 366,
       "vendor": 40
     },
@@ -1961,7 +1961,7 @@
       "vendor": 75
     },
     "Super Ranged Coffee": {
-      "ask": 1546,
+      "ask": 1548,
       "bid": 1035,
       "vendor": 75
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1027,
+      "ask": 1024,
       "bid": 773,
       "vendor": 50
     },
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 27066,
+      "ask": 27064,
       "bid": 10051,
       "vendor": 10000
     },
@@ -2111,7 +2111,7 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 258,
+      "ask": 259,
       "bid": 145,
       "vendor": 12
     },
@@ -2227,17 +2227,17 @@
     },
     "Wisdom Coffee": {
       "ask": 994,
-      "bid": 803,
+      "bid": 801,
       "vendor": 30
     },
     "Wisdom Tea": {
       "ask": 1278,
-      "bid": 862,
+      "bid": 861,
       "vendor": 30
     },
     "Woodcutting Tea": {
       "ask": 950,
-      "bid": -1,
+      "bid": 250,
       "vendor": 10
     },
     "Wooden Bow": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671041704.1517873
+  "time": 1671042603.5058162
 }
