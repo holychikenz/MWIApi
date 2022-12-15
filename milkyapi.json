@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 666,
-      "bid": 310,
+      "bid": 290,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 73,
-      "bid": 21,
+      "bid": 22,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -632,7 +632,7 @@
     },
     "Cotton": {
       "ask": 40,
-      "bid": 14,
+      "bid": 15,
       "vendor": 2
     },
     "Cotton Boots": {
@@ -1077,7 +1077,7 @@
     },
     "Holy Brush": {
       "ask": 129999,
-      "bid": 70000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Buckler": {
@@ -1097,12 +1097,12 @@
     },
     "Holy Chisel": {
       "ask": 125000,
-      "bid": 80000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Enhancer": {
       "ask": 110000,
-      "bid": 85001,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Gauntlets": {
@@ -1112,12 +1112,12 @@
     },
     "Holy Hammer": {
       "ask": 148990,
-      "bid": 70000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Hatchet": {
       "ask": -1,
-      "bid": 70000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Helmet": {
@@ -1137,7 +1137,7 @@
     },
     "Holy Needle": {
       "ask": 180000,
-      "bid": 70000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Plate Body": {
@@ -1152,17 +1152,17 @@
     },
     "Holy Pot": {
       "ask": 105000,
-      "bid": 80003,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Shears": {
       "ask": 200000,
-      "bid": 95001,
+      "bid": 96000,
       "vendor": 62370
     },
     "Holy Spatula": {
-      "ask": -1,
-      "bid": 65556,
+      "ask": 250000,
+      "bid": 90000,
       "vendor": 62370
     },
     "Holy Spear": {
@@ -1262,7 +1262,7 @@
     },
     "Lumber": {
       "ask": 129,
-      "bid": 47,
+      "bid": 48,
       "vendor": 6
     },
     "Magic Coffee": {
@@ -1416,7 +1416,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 28496,
+      "ask": 44452,
       "bid": 12500,
       "vendor": 3000
     },
@@ -1457,7 +1457,7 @@
     },
     "Purpleheart Lumber": {
       "ask": 157,
-      "bid": 80,
+      "bid": 81,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 337,
-      "bid": 252,
+      "bid": 253,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1751,7 +1751,7 @@
       "vendor": 7200
     },
     "Silk Fabric": {
-      "ask": 620,
+      "ask": 670,
       "bid": 516,
       "vendor": 73
     },
@@ -2036,7 +2036,7 @@
       "vendor": 6000
     },
     "Twilight Essence": {
-      "ask": 318,
+      "ask": 317,
       "bid": 234,
       "vendor": 108
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671075003.395252
+  "time": 1671075904.6996784
 }
