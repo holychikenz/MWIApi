@@ -346,7 +346,7 @@
       "vendor": 10
     },
     "Brewing Tea": {
-      "ask": 162,
+      "ask": 170,
       "bid": 30,
       "vendor": 20
     },
@@ -631,7 +631,7 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 54,
+      "ask": 50,
       "bid": 12,
       "vendor": 2
     },
@@ -711,7 +711,7 @@
       "vendor": 9072
     },
     "Crimson Enhancer": {
-      "ask": 54999,
+      "ask": 50000,
       "bid": 10001,
       "vendor": 9072
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 27999,
+      "ask": 27998,
       "bid": 16540,
       "vendor": 1000
     },
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 112807,
+      "ask": 112806,
       "bid": 50003,
       "vendor": 4000
     },
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 16283,
+      "ask": 14696,
       "bid": 5502,
       "vendor": 5000
     },
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 712,
+      "ask": 711,
       "bid": 652,
       "vendor": 162
     },
@@ -1201,8 +1201,8 @@
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 75,
-      "bid": 47,
+      "ask": 74,
+      "bid": 48,
       "vendor": 24
     },
     "Large Pouch": {
@@ -1341,7 +1341,7 @@
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 39,
+      "ask": 40,
       "bid": 26,
       "vendor": 18
     },
@@ -1482,7 +1482,7 @@
     },
     "Radiant Fabric": {
       "ask": 716,
-      "bid": 575,
+      "bid": 576,
       "vendor": 144
     },
     "Radiant Fiber": {
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 104492,
+      "ask": 104491,
       "bid": 40010,
       "vendor": 3000
     },
@@ -1831,7 +1831,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 1374,
+      "ask": 1373,
       "bid": 863,
       "vendor": 75
     },
@@ -2222,7 +2222,7 @@
     },
     "Wheat": {
       "ask": 43,
-      "bid": 12,
+      "bid": 13,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671118203.4117973
+  "time": 1671119103.620298
 }
