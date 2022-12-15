@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 11,
+      "ask": 10,
       "bid": 8,
       "vendor": 2
     },
@@ -47,7 +47,7 @@
     },
     "Arcane Log": {
       "ask": 244,
-      "bid": 128,
+      "bid": 129,
       "vendor": 54
     },
     "Arcane Lumber": {
@@ -331,8 +331,8 @@
       "vendor": 75
     },
     "Blueberry": {
-      "ask": 18,
-      "bid": 6,
+      "ask": 17,
+      "bid": 7,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -372,7 +372,7 @@
     },
     "Burble Cheese": {
       "ask": 297,
-      "bid": 236,
+      "bid": 237,
       "vendor": 36
     },
     "Burble Chisel": {
@@ -817,11 +817,11 @@
     },
     "Efficiency Tea": {
       "ask": 1500,
-      "bid": 1200,
+      "bid": 1300,
       "vendor": 50
     },
     "Egg": {
-      "ask": 24,
+      "ask": 23,
       "bid": 19,
       "vendor": 1
     },
@@ -857,7 +857,7 @@
     },
     "Fermenting Tea": {
       "ask": 1228,
-      "bid": 652,
+      "bid": 653,
       "vendor": 40
     },
     "Fieriosa Coffee Bean": {
@@ -911,8 +911,8 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1199,
-      "bid": 317,
+      "ask": 1198,
+      "bid": 319,
       "vendor": 10
     },
     "Gator Vest": {
@@ -1037,7 +1037,7 @@
     },
     "Gourmet Tea": {
       "ask": 1193,
-      "bid": 308,
+      "bid": 309,
       "vendor": 20
     },
     "Granite Bludgeon": {
@@ -1091,7 +1091,7 @@
       "vendor": 106920
     },
     "Holy Cheese": {
-      "ask": 711,
+      "ask": 700,
       "bid": 652,
       "vendor": 162
     },
@@ -1291,7 +1291,7 @@
       "vendor": 1000
     },
     "Marsberry": {
-      "ask": 27,
+      "ask": 26,
       "bid": 23,
       "vendor": 14
     },
@@ -1327,7 +1327,7 @@
     },
     "Mooberry": {
       "ask": 39,
-      "bid": 18,
+      "bid": 20,
       "vendor": 9
     },
     "Mooberry Cake": {
@@ -1371,7 +1371,7 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 22,
+      "ask": 21,
       "bid": 16,
       "vendor": 9
     },
@@ -1396,8 +1396,8 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 70,
-      "bid": 44,
+      "ask": 69,
+      "bid": 45,
       "vendor": 6
     },
     "Plum Gummy": {
@@ -1627,11 +1627,11 @@
     },
     "Red Tea Leaf": {
       "ask": 949,
-      "bid": 650,
+      "bid": 651,
       "vendor": 27
     },
     "Redwood Bow": {
-      "ask": 44999,
+      "ask": 44998,
       "bid": -1,
       "vendor": 35964
     },
@@ -1652,7 +1652,7 @@
     },
     "Redwood Lumber": {
       "ask": 337,
-      "bid": 256,
+      "bid": 257,
       "vendor": 81
     },
     "Redwood Nature Staff": {
@@ -1827,7 +1827,7 @@
     },
     "Spaceberry Cake": {
       "ask": 915,
-      "bid": 807,
+      "bid": 808,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1921,7 +1921,7 @@
       "vendor": 50
     },
     "Super Crafting Tea": {
-      "ask": 1000,
+      "ask": 999,
       "bid": -1,
       "vendor": 75
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1014,
+      "ask": 1013,
       "bid": 774,
       "vendor": 50
     },
@@ -2206,7 +2206,7 @@
       "vendor": 20000
     },
     "Water Strike": {
-      "ask": 21000,
+      "ask": 18953,
       "bid": 5140,
       "vendor": 1000
     },
@@ -2221,18 +2221,18 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 43,
+      "ask": 42,
       "bid": 14,
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 920,
+      "ask": 919,
       "bid": 601,
       "vendor": 30
     },
     "Wisdom Tea": {
       "ask": 1199,
-      "bid": 863,
+      "bid": 950,
       "vendor": 30
     },
     "Woodcutting Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671120003.2231727
+  "time": 1671120903.9640722
 }
