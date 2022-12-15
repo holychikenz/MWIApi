@@ -257,7 +257,7 @@
     },
     "Berserk": {
       "ask": 420000,
-      "bid": 210000,
+      "bid": 210001,
       "vendor": 1000
     },
     "Birch Bow": {
@@ -412,7 +412,7 @@
     },
     "Burble Milk": {
       "ask": 47,
-      "bid": 41,
+      "bid": 30,
       "vendor": 12
     },
     "Burble Needle": {
@@ -432,7 +432,7 @@
     },
     "Burble Pot": {
       "ask": 49998,
-      "bid": 20000,
+      "bid": -1,
       "vendor": 3780
     },
     "Burble Shears": {
@@ -631,8 +631,8 @@
       "vendor": 20
     },
     "Cotton": {
-      "ask": 49,
-      "bid": 14,
+      "ask": 48,
+      "bid": 15,
       "vendor": 2
     },
     "Cotton Boots": {
@@ -641,8 +641,8 @@
       "vendor": 48
     },
     "Cotton Fabric": {
-      "ask": 223,
-      "bid": 33,
+      "ask": 240,
+      "bid": 35,
       "vendor": 6
     },
     "Cotton Gloves": {
@@ -671,7 +671,7 @@
       "vendor": 0
     },
     "Crab Pincer": {
-      "ask": 30861,
+      "ask": 30000,
       "bid": 10002,
       "vendor": 1500
     },
@@ -686,7 +686,7 @@
       "vendor": 5184
     },
     "Crimson Brush": {
-      "ask": 59999,
+      "ask": 55000,
       "bid": 9200,
       "vendor": 9072
     },
@@ -817,7 +817,7 @@
     },
     "Efficiency Tea": {
       "ask": 1500,
-      "bid": 1300,
+      "bid": 1301,
       "vendor": 50
     },
     "Egg": {
@@ -882,7 +882,7 @@
     },
     "Flaming Cloth": {
       "ask": 112806,
-      "bid": 50003,
+      "bid": 50004,
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
@@ -907,7 +907,7 @@
     },
     "Frenzy": {
       "ask": 180499,
-      "bid": 125003,
+      "bid": 130000,
       "vendor": 1000
     },
     "Gathering Tea": {
@@ -921,7 +921,7 @@
       "vendor": 5000
     },
     "Giant Pouch": {
-      "ask": 7000000,
+      "ask": 18799998,
       "bid": 3000003,
       "vendor": 5000000
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 21,
+      "ask": 20,
       "bid": 16,
       "vendor": 18
     },
@@ -1181,7 +1181,7 @@
       "vendor": 1000
     },
     "Icy Cloth": {
-      "ask": 280000,
+      "ask": 250000,
       "bid": 76001,
       "vendor": 4000
     },
@@ -1201,13 +1201,13 @@
       "vendor": 10
     },
     "Jungle Essence": {
-      "ask": 74,
+      "ask": 73,
       "bid": 48,
       "vendor": 24
     },
     "Large Pouch": {
       "ask": 664997,
-      "bid": 500002,
+      "bid": 500001,
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
@@ -1512,7 +1512,7 @@
     },
     "Rain Of Arrows": {
       "ask": 664997,
-      "bid": 160035,
+      "bid": 160036,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1812,16 +1812,16 @@
     },
     "Sorcerer Essence": {
       "ask": 498,
-      "bid": 328,
+      "bid": 330,
       "vendor": 36
     },
     "Sorcerer's Sole": {
       "ask": 104491,
-      "bid": 40010,
+      "bid": 40011,
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 146,
+      "ask": 141,
       "bid": 111,
       "vendor": 27
     },
@@ -1836,7 +1836,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 310,
+      "ask": 300,
       "bid": 214,
       "vendor": 54
     },
@@ -1892,7 +1892,7 @@
     },
     "Stunning Blow": {
       "ask": 670284,
-      "bid": 200002,
+      "bid": 225000,
       "vendor": 1000
     },
     "Sugar": {
@@ -2021,7 +2021,7 @@
       "vendor": 1000
     },
     "Turtle Shell": {
-      "ask": 27398,
+      "ask": 26398,
       "bid": 2941,
       "vendor": 1500
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671123603.011101
+  "time": 1671124505.440334
 }
