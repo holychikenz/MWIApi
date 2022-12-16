@@ -1312,7 +1312,7 @@
     },
     "Milk": {
       "ask": 20,
-      "bid": 10,
+      "bid": 9,
       "vendor": 2
     },
     "Milking Tea": {
@@ -1936,7 +1936,7 @@
       "vendor": 50
     },
     "Super Foraging Tea": {
-      "ask": 1800,
+      "ask": 1250,
       "bid": 202,
       "vendor": 40
     },
@@ -1971,7 +1971,7 @@
       "vendor": 40
     },
     "Super Tailoring Tea": {
-      "ask": 1399,
+      "ask": 1000,
       "bid": 500,
       "vendor": 75
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671171303.9962187
+  "time": 1671172203.8687253
 }
