@@ -47,11 +47,11 @@
     },
     "Arcane Log": {
       "ask": 244,
-      "bid": 130,
+      "bid": 129,
       "vendor": 54
     },
     "Arcane Lumber": {
-      "ask": 960,
+      "ask": 959,
       "bid": 721,
       "vendor": 162
     },
@@ -136,7 +136,7 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 91,
+      "ask": 92,
       "bid": 50,
       "vendor": 8
     },
@@ -311,7 +311,7 @@
       "vendor": 8
     },
     "Blackberry": {
-      "ask": 19,
+      "ask": 20,
       "bid": 7,
       "vendor": 4
     },
@@ -517,7 +517,7 @@
     },
     "Cheese Brush": {
       "ask": 2250,
-      "bid": 600,
+      "bid": 310,
       "vendor": 84
     },
     "Cheese Buckler": {
@@ -532,12 +532,12 @@
     },
     "Cheese Chisel": {
       "ask": 5000,
-      "bid": 600,
+      "bid": -1,
       "vendor": 84
     },
     "Cheese Enhancer": {
       "ask": -1,
-      "bid": 600,
+      "bid": 301,
       "vendor": 84
     },
     "Cheese Gauntlets": {
@@ -547,12 +547,12 @@
     },
     "Cheese Hammer": {
       "ask": 5000,
-      "bid": 600,
+      "bid": 301,
       "vendor": 84
     },
     "Cheese Hatchet": {
       "ask": 4998,
-      "bid": 600,
+      "bid": -1,
       "vendor": 84
     },
     "Cheese Helmet": {
@@ -567,7 +567,7 @@
     },
     "Cheese Needle": {
       "ask": 5998,
-      "bid": 600,
+      "bid": -1,
       "vendor": 84
     },
     "Cheese Plate Body": {
@@ -582,17 +582,17 @@
     },
     "Cheese Pot": {
       "ask": 6999,
-      "bid": 600,
+      "bid": 160,
       "vendor": 84
     },
     "Cheese Shears": {
       "ask": 4498,
-      "bid": 600,
+      "bid": 85,
       "vendor": 84
     },
     "Cheese Spatula": {
       "ask": 1000000,
-      "bid": 600,
+      "bid": 160,
       "vendor": 84
     },
     "Cheese Spear": {
@@ -806,17 +806,17 @@
       "vendor": 14
     },
     "Dragon Fruit Gummy": {
-      "ask": 382,
+      "ask": 384,
       "bid": 239,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 389,
+      "ask": 391,
       "bid": 297,
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1500,
+      "ask": 1700,
       "bid": 1301,
       "vendor": 50
     },
@@ -1066,7 +1066,7 @@
       "vendor": 5
     },
     "Heal": {
-      "ask": 1034568,
+      "ask": 1034567,
       "bid": 360000,
       "vendor": 1000
     },
@@ -1381,12 +1381,12 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 301,
+      "ask": 300,
       "bid": 104,
       "vendor": 40
     },
     "Pierce": {
-      "ask": 99993,
+      "ask": 99992,
       "bid": 16021,
       "vendor": 1000
     },
@@ -1722,7 +1722,7 @@
     },
     "Rough Hide": {
       "ask": 75,
-      "bid": 25,
+      "bid": 20,
       "vendor": 2
     },
     "Rough Hood": {
@@ -1991,8 +1991,8 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1007,
-      "bid": 777,
+      "ask": 1006,
+      "bid": 774,
       "vendor": 50
     },
     "Tailoring Tea": {
@@ -2096,7 +2096,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": 14998,
+      "ask": 15000,
       "bid": 520,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671191103.7381356
+  "time": 1671192903.0549757
 }
