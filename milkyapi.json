@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 11,
+      "ask": 10,
       "bid": 8,
       "vendor": 2
     },
@@ -16,7 +16,7 @@
       "vendor": 10
     },
     "Aqua Arrow": {
-      "ask": 499997,
+      "ask": 489997,
       "bid": 4870,
       "vendor": 1000
     },
@@ -506,8 +506,8 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 115,
-      "bid": 42,
+      "ask": 114,
+      "bid": 43,
       "vendor": 6
     },
     "Cheese Boots": {
@@ -872,7 +872,7 @@
     },
     "Flame Arrow": {
       "ask": 284997,
-      "bid": 150193,
+      "bid": 150194,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -881,7 +881,7 @@
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 112805,
+      "ask": 112803,
       "bid": 66000,
       "vendor": 4000
     },
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 195,
-      "bid": 148,
+      "bid": 149,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1501,18 +1501,18 @@
       "vendor": 30960
     },
     "Radiant Robe Bottoms": {
-      "ask": 60000,
+      "ask": 57000,
       "bid": -1,
       "vendor": 43344
     },
     "Radiant Robe Top": {
-      "ask": 72500,
+      "ask": 68875,
       "bid": 60000,
       "vendor": 49536
     },
     "Rain Of Arrows": {
       "ask": 664999,
-      "bid": 160046,
+      "bid": 160047,
       "vendor": 1000
     },
     "Rainbow Boots": {
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 426,
+      "ask": 424,
       "bid": 333,
       "vendor": 36
     },
@@ -2016,7 +2016,7 @@
       "vendor": 1000
     },
     "Toxic Pollen": {
-      "ask": 1519985,
+      "ask": 1519984,
       "bid": 600006,
       "vendor": 1000
     },
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1949,
+      "ask": 1851,
       "bid": 1101,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671225303.8135848
+  "time": 1671226203.638462
 }
