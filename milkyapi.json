@@ -81,7 +81,7 @@
       "vendor": 864
     },
     "Azure Brush": {
-      "ask": 40000,
+      "ask": 25000,
       "bid": 1160,
       "vendor": 1512
     },
@@ -101,7 +101,7 @@
       "vendor": 24
     },
     "Azure Chisel": {
-      "ask": 40000,
+      "ask": 25000,
       "bid": -1,
       "vendor": 1512
     },
@@ -116,12 +116,12 @@
       "vendor": 864
     },
     "Azure Hammer": {
-      "ask": 39777,
+      "ask": 25000,
       "bid": 1435,
       "vendor": 1512
     },
     "Azure Hatchet": {
-      "ask": 39998,
+      "ask": 25000,
       "bid": -1,
       "vendor": 1512
     },
@@ -136,12 +136,12 @@
       "vendor": 1944
     },
     "Azure Milk": {
-      "ask": 82,
+      "ask": 91,
       "bid": 50,
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 40000,
+      "ask": 25000,
       "bid": -1,
       "vendor": 1512
     },
@@ -156,12 +156,12 @@
       "vendor": 1512
     },
     "Azure Pot": {
-      "ask": 39997,
+      "ask": 25000,
       "bid": 1155,
       "vendor": 1512
     },
     "Azure Shears": {
-      "ask": 39998,
+      "ask": 25000,
       "bid": -1,
       "vendor": 1512
     },
@@ -186,7 +186,7 @@
       "vendor": 1872
     },
     "Bamboo Branch": {
-      "ask": 74,
+      "ask": 75,
       "bid": 45,
       "vendor": 12
     },
@@ -236,7 +236,7 @@
       "vendor": 12600
     },
     "Beast Hide": {
-      "ask": 120,
+      "ask": 121,
       "bid": 41,
       "vendor": 24
     },
@@ -391,7 +391,7 @@
       "vendor": 2160
     },
     "Burble Hammer": {
-      "ask": 20000,
+      "ask": 35000,
       "bid": 105,
       "vendor": 3780
     },
@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 123,
+      "ask": 122,
       "bid": 41,
       "vendor": 6
     },
@@ -517,7 +517,7 @@
     },
     "Cheese Brush": {
       "ask": 2250,
-      "bid": 320,
+      "bid": 600,
       "vendor": 84
     },
     "Cheese Buckler": {
@@ -532,12 +532,12 @@
     },
     "Cheese Chisel": {
       "ask": 5000,
-      "bid": 400,
+      "bid": 600,
       "vendor": 84
     },
     "Cheese Enhancer": {
       "ask": -1,
-      "bid": 400,
+      "bid": 600,
       "vendor": 84
     },
     "Cheese Gauntlets": {
@@ -547,12 +547,12 @@
     },
     "Cheese Hammer": {
       "ask": 5000,
-      "bid": 400,
+      "bid": 600,
       "vendor": 84
     },
     "Cheese Hatchet": {
       "ask": 4998,
-      "bid": 400,
+      "bid": 600,
       "vendor": 84
     },
     "Cheese Helmet": {
@@ -567,7 +567,7 @@
     },
     "Cheese Needle": {
       "ask": 5998,
-      "bid": 400,
+      "bid": 600,
       "vendor": 84
     },
     "Cheese Plate Body": {
@@ -582,17 +582,17 @@
     },
     "Cheese Pot": {
       "ask": 6999,
-      "bid": 400,
+      "bid": 600,
       "vendor": 84
     },
     "Cheese Shears": {
       "ask": 4500,
-      "bid": 400,
+      "bid": 600,
       "vendor": 84
     },
     "Cheese Spatula": {
       "ask": 1000000,
-      "bid": 400,
+      "bid": 600,
       "vendor": 84
     },
     "Cheese Spear": {
@@ -801,7 +801,7 @@
       "vendor": 5
     },
     "Dragon Fruit": {
-      "ask": 36,
+      "ask": 34,
       "bid": 32,
       "vendor": 14
     },
@@ -812,7 +812,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": 394,
-      "bid": 282,
+      "bid": 290,
       "vendor": 50
     },
     "Efficiency Tea": {
@@ -856,7 +856,7 @@
       "vendor": 36
     },
     "Fermenting Tea": {
-      "ask": 1108,
+      "ask": 1107,
       "bid": 654,
       "vendor": 40
     },
@@ -866,7 +866,7 @@
       "vendor": 27
     },
     "Fireball": {
-      "ask": 25204,
+      "ask": 25000,
       "bid": 16546,
       "vendor": 1000
     },
@@ -876,7 +876,7 @@
       "vendor": 1000
     },
     "Flame Blast": {
-      "ask": 466824,
+      "ask": 450000,
       "bid": 375002,
       "vendor": 1000
     },
@@ -1101,7 +1101,7 @@
       "vendor": 62370
     },
     "Holy Enhancer": {
-      "ask": 110000,
+      "ask": 133884,
       "bid": 90000,
       "vendor": 62370
     },
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 99996,
+      "ask": 99993,
       "bid": 16021,
       "vendor": 1000
     },
@@ -1682,7 +1682,7 @@
     },
     "Reptile Hide": {
       "ask": 31,
-      "bid": 10,
+      "bid": 11,
       "vendor": 6
     },
     "Reptile Hood": {
@@ -1691,7 +1691,7 @@
       "vendor": 540
     },
     "Reptile Leather": {
-      "ask": 112,
+      "ask": 80,
       "bid": 57,
       "vendor": 18
     },
@@ -1811,7 +1811,7 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 449,
+      "ask": 448,
       "bid": 333,
       "vendor": 36
     },
@@ -1866,12 +1866,12 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 682,
-      "bid": 334,
+      "ask": 681,
+      "bid": 335,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 799,
+      "ask": 793,
       "bid": 660,
       "vendor": 75
     },
@@ -1892,7 +1892,7 @@
     },
     "Stunning Blow": {
       "ask": 670285,
-      "bid": 250000,
+      "bid": 250002,
       "vendor": 1000
     },
     "Sugar": {
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 1010,
+      "ask": 1009,
       "bid": 774,
       "vendor": 50
     },
@@ -2026,7 +2026,7 @@
       "vendor": 1500
     },
     "Turtle Shell Body": {
-      "ask": 26600,
+      "ask": -1,
       "bid": -1,
       "vendor": 9000
     },
@@ -2096,7 +2096,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": 99000,
+      "ask": 15000,
       "bid": 520,
       "vendor": 420
     },
@@ -2116,12 +2116,12 @@
       "vendor": 12
     },
     "Verdant Chisel": {
-      "ask": 16150,
+      "ask": 15000,
       "bid": -1,
       "vendor": 420
     },
     "Verdant Enhancer": {
-      "ask": 18000,
+      "ask": 15000,
       "bid": 1000,
       "vendor": 420
     },
@@ -2131,12 +2131,12 @@
       "vendor": 240
     },
     "Verdant Hammer": {
-      "ask": 17988,
+      "ask": 15000,
       "bid": 364,
       "vendor": 420
     },
     "Verdant Hatchet": {
-      "ask": 15332,
+      "ask": 15000,
       "bid": -1,
       "vendor": 420
     },
@@ -2152,7 +2152,7 @@
     },
     "Verdant Milk": {
       "ask": 58,
-      "bid": 40,
+      "bid": 41,
       "vendor": 4
     },
     "Verdant Needle": {
@@ -2176,12 +2176,12 @@
       "vendor": 420
     },
     "Verdant Shears": {
-      "ask": 17000,
+      "ask": 15000,
       "bid": -1,
       "vendor": 420
     },
     "Verdant Spatula": {
-      "ask": 18000,
+      "ask": 15000,
       "bid": 3000,
       "vendor": 420
     },
@@ -2221,12 +2221,12 @@
       "vendor": 400000
     },
     "Wheat": {
-      "ask": 41,
-      "bid": 16,
+      "ask": 40,
+      "bid": 17,
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 984,
+      "ask": 1076,
       "bid": 692,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671156003.1947894
+  "time": 1671157802.80688
 }
