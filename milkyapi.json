@@ -506,7 +506,7 @@
       "vendor": 3000
     },
     "Cheese": {
-      "ask": 118,
+      "ask": 116,
       "bid": 43,
       "vendor": 6
     },
@@ -867,7 +867,7 @@
     },
     "Fireball": {
       "ask": 23749,
-      "bid": 16546,
+      "bid": 16547,
       "vendor": 1000
     },
     "Flame Arrow": {
@@ -877,11 +877,11 @@
     },
     "Flame Blast": {
       "ask": 439998,
-      "bid": 388888,
+      "bid": 388889,
       "vendor": 1000
     },
     "Flaming Cloth": {
-      "ask": 91876,
+      "ask": 87282,
       "bid": 50004,
       "vendor": 4000
     },
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 56,
-      "bid": 29,
+      "bid": 30,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1301,7 +1301,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 381,
+      "ask": 380,
       "bid": 142,
       "vendor": 50
     },
@@ -1791,7 +1791,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 80750,
+      "ask": 69233,
       "bid": 5251,
       "vendor": 6000
     },
@@ -2017,7 +2017,7 @@
     },
     "Toxic Pollen": {
       "ask": 1599987,
-      "bid": 600004,
+      "bid": 600005,
       "vendor": 1000
     },
     "Turtle Shell": {
@@ -2096,7 +2096,7 @@
       "vendor": 240
     },
     "Verdant Brush": {
-      "ask": 15000,
+      "ask": -1,
       "bid": 520,
       "vendor": 420
     },
@@ -2111,8 +2111,8 @@
       "vendor": 720
     },
     "Verdant Cheese": {
-      "ask": 243,
-      "bid": 145,
+      "ask": 242,
+      "bid": 146,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2236,7 +2236,7 @@
       "vendor": 30
     },
     "Woodcutting Tea": {
-      "ask": 285,
+      "ask": 1000,
       "bid": -1,
       "vendor": 10
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671203704.681066
+  "time": 1671204603.7392232
 }
