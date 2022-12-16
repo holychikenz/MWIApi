@@ -601,7 +601,7 @@
       "vendor": 108
     },
     "Cheese Sword": {
-      "ask": 2000,
+      "ask": -1,
       "bid": 166,
       "vendor": 108
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 48995,
+      "ask": 48994,
       "bid": 6086,
       "vendor": 1000
     },
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 19996,
+      "ask": 19000,
       "bid": 5502,
       "vendor": 5000
     },
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 56,
-      "bid": 28,
+      "bid": 29,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1816,7 +1816,7 @@
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 81220,
+      "ask": 77159,
       "bid": 42012,
       "vendor": 3000
     },
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 850,
+      "ask": 1004,
       "bid": 774,
       "vendor": 50
     },
@@ -2112,7 +2112,7 @@
     },
     "Verdant Cheese": {
       "ask": 243,
-      "bid": 146,
+      "bid": 145,
       "vendor": 12
     },
     "Verdant Chisel": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671202802.9895701
+  "time": 1671203704.681066
 }
