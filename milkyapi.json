@@ -822,7 +822,7 @@
     },
     "Egg": {
       "ask": 24,
-      "bid": 17,
+      "bid": 18,
       "vendor": 1
     },
     "Elemental Affinity": {
@@ -872,7 +872,7 @@
     },
     "Flame Arrow": {
       "ask": 284997,
-      "bid": 150195,
+      "bid": 150193,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -987,7 +987,7 @@
     },
     "Gobo Hide": {
       "ask": 109,
-      "bid": 95,
+      "bid": 60,
       "vendor": 12
     },
     "Gobo Hood": {
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 195,
-      "bid": 146,
+      "bid": 147,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 198,
+      "ask": 195,
       "bid": 169,
       "vendor": 12
     },
@@ -1251,8 +1251,8 @@
       "vendor": 10000
     },
     "Log": {
-      "ask": 14,
-      "bid": 12,
+      "ask": 22,
+      "bid": 11,
       "vendor": 2
     },
     "Lucky Coffee": {
@@ -1261,7 +1261,7 @@
       "vendor": 40
     },
     "Lumber": {
-      "ask": 130,
+      "ask": 138,
       "bid": 49,
       "vendor": 6
     },
@@ -1416,7 +1416,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 40000,
+      "ask": 39999,
       "bid": 12500,
       "vendor": 3000
     },
@@ -1721,7 +1721,7 @@
       "vendor": 84
     },
     "Rough Hide": {
-      "ask": 142,
+      "ask": 70,
       "bid": 20,
       "vendor": 2
     },
@@ -1731,7 +1731,7 @@
       "vendor": 60
     },
     "Rough Leather": {
-      "ask": 573,
+      "ask": 491,
       "bid": 126,
       "vendor": 6
     },
@@ -1811,27 +1811,27 @@
       "vendor": 50000
     },
     "Sorcerer Essence": {
-      "ask": 449,
+      "ask": 427,
       "bid": 333,
       "vendor": 36
     },
     "Sorcerer's Sole": {
-      "ask": 77159,
+      "ask": 77156,
       "bid": 42012,
       "vendor": 3000
     },
     "Spaceberry": {
       "ask": 121,
-      "bid": 83,
+      "bid": 84,
       "vendor": 27
     },
     "Spaceberry Cake": {
       "ask": 917,
-      "bid": 816,
+      "bid": 817,
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 1262,
+      "ask": 1261,
       "bid": 873,
       "vendor": 75
     },
@@ -1962,7 +1962,7 @@
     },
     "Super Ranged Coffee": {
       "ask": 1529,
-      "bid": 1088,
+      "bid": 1089,
       "vendor": 75
     },
     "Super Stamina Coffee": {
@@ -2222,12 +2222,12 @@
     },
     "Wheat": {
       "ask": 39,
-      "bid": 19,
+      "bid": 20,
       "vendor": 1
     },
     "Wisdom Coffee": {
       "ask": 946,
-      "bid": 800,
+      "bid": 700,
       "vendor": 30
     },
     "Wisdom Tea": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671211804.0178442
+  "time": 1671212703.8186245
 }
