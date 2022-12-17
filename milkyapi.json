@@ -402,7 +402,7 @@
     },
     "Burble Helmet": {
       "ask": 40000,
-      "bid": -1,
+      "bid": 12500,
       "vendor": 2700
     },
     "Burble Mace": {
@@ -427,7 +427,7 @@
     },
     "Burble Plate Legs": {
       "ask": 40000,
-      "bid": 1500,
+      "bid": 15000,
       "vendor": 3780
     },
     "Burble Pot": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 2399,
+      "ask": 2000,
       "bid": 1523,
       "vendor": 50
     },
@@ -1457,7 +1457,7 @@
     },
     "Purpleheart Lumber": {
       "ask": 243,
-      "bid": 87,
+      "bid": 88,
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671273003.1485207
+  "time": 1671273904.0674722
 }
