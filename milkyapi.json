@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 10,
+      "ask": 11,
       "bid": 8,
       "vendor": 2
     },
@@ -911,7 +911,7 @@
       "vendor": 1000
     },
     "Gathering Tea": {
-      "ask": 1188,
+      "ask": 1187,
       "bid": 352,
       "vendor": 10
     },
@@ -1211,7 +1211,7 @@
       "vendor": 500000
     },
     "Liberica Coffee Bean": {
-      "ask": 196,
+      "ask": 195,
       "bid": 172,
       "vendor": 12
     },
@@ -1317,7 +1317,7 @@
     },
     "Milking Tea": {
       "ask": 699,
-      "bid": 171,
+      "bid": 172,
       "vendor": 10
     },
     "Minor Heal": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671276603.3195455
+  "time": 1671277504.9585948
 }
