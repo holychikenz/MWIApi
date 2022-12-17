@@ -1322,7 +1322,7 @@
     },
     "Minor Heal": {
       "ask": 48544,
-      "bid": 5025,
+      "bid": 10000,
       "vendor": 1000
     },
     "Mooberry": {
@@ -1336,12 +1336,12 @@
       "vendor": 40
     },
     "Mooberry Donut": {
-      "ask": 255,
+      "ask": 242,
       "bid": 179,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
-      "ask": 41,
+      "ask": 39,
       "bid": 27,
       "vendor": 18
     },
@@ -1626,7 +1626,7 @@
       "vendor": 30
     },
     "Red Tea Leaf": {
-      "ask": 886,
+      "ask": 842,
       "bid": 685,
       "vendor": 27
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671282903.152978
+  "time": 1671283803.3582587
 }
