@@ -66,7 +66,7 @@
       "vendor": 80190
     },
     "Artisan Tea": {
-      "ask": -1,
+      "ask": 1400,
       "bid": 950,
       "vendor": 75
     },
@@ -336,7 +336,7 @@
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 174,
+      "ask": 170,
       "bid": 32,
       "vendor": 10
     },
@@ -531,13 +531,13 @@
       "vendor": 144
     },
     "Cheese Chisel": {
-      "ask": 150,
+      "ask": 5000,
       "bid": -1,
       "vendor": 84
     },
     "Cheese Enhancer": {
       "ask": -1,
-      "bid": 301,
+      "bid": 70,
       "vendor": 84
     },
     "Cheese Gauntlets": {
@@ -821,7 +821,7 @@
       "vendor": 50
     },
     "Egg": {
-      "ask": 19,
+      "ask": 20,
       "bid": 17,
       "vendor": 1
     },
@@ -1486,7 +1486,7 @@
       "vendor": 144
     },
     "Radiant Fiber": {
-      "ask": 105,
+      "ask": 109,
       "bid": 90,
       "vendor": 48
     },
@@ -1822,7 +1822,7 @@
     },
     "Spaceberry": {
       "ask": 155,
-      "bid": 93,
+      "bid": 94,
       "vendor": 27
     },
     "Spaceberry Cake": {
@@ -1837,7 +1837,7 @@
     },
     "Spacia Coffee Bean": {
       "ask": 309,
-      "bid": 216,
+      "bid": 217,
       "vendor": 54
     },
     "Spike Shell": {
@@ -2222,7 +2222,7 @@
     },
     "Wheat": {
       "ask": 34,
-      "bid": 21,
+      "bid": 22,
       "vendor": 1
     },
     "Wisdom Coffee": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671350404.1419606
+  "time": 1671351303.7254238
 }
