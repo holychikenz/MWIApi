@@ -237,7 +237,7 @@
     },
     "Beast Hide": {
       "ask": 99,
-      "bid": 34,
+      "bid": 33,
       "vendor": 24
     },
     "Beast Hood": {
@@ -946,7 +946,7 @@
       "vendor": 18
     },
     "Ginkgo Lumber": {
-      "ask": 180,
+      "ask": 100,
       "bid": 95,
       "vendor": 54
     },
@@ -1456,7 +1456,7 @@
       "vendor": 12
     },
     "Purpleheart Lumber": {
-      "ask": 241,
+      "ask": 200,
       "bid": 90,
       "vendor": 36
     },
@@ -1476,7 +1476,7 @@
       "vendor": 1000
     },
     "Radiant Boots": {
-      "ask": 90000,
+      "ask": 100000,
       "bid": -1,
       "vendor": 24768
     },
@@ -1491,7 +1491,7 @@
       "vendor": 48
     },
     "Radiant Gloves": {
-      "ask": 90000,
+      "ask": 102885,
       "bid": 47251,
       "vendor": 24768
     },
@@ -1627,7 +1627,7 @@
     },
     "Red Tea Leaf": {
       "ask": 838,
-      "bid": 722,
+      "bid": 723,
       "vendor": 27
     },
     "Redwood Bow": {
@@ -1817,7 +1817,7 @@
     },
     "Sorcerer's Sole": {
       "ask": 69624,
-      "bid": 44114,
+      "bid": 42013,
       "vendor": 3000
     },
     "Spaceberry": {
@@ -1901,8 +1901,8 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 700,
-      "bid": 268,
+      "ask": 799,
+      "bid": 269,
       "vendor": 50
     },
     "Super Brewing Tea": {
@@ -1991,7 +1991,7 @@
       "vendor": 1000
     },
     "Swiftness Coffee": {
-      "ask": 950,
+      "ask": 996,
       "bid": 773,
       "vendor": 50
     },
@@ -2226,12 +2226,12 @@
       "vendor": 1
     },
     "Wisdom Coffee": {
-      "ask": 965,
+      "ask": 1016,
       "bid": 694,
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1442,
+      "ask": 1399,
       "bid": 1115,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671325202.3218105
+  "time": 1671326103.7213278
 }
