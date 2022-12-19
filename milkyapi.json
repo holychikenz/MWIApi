@@ -276,7 +276,7 @@
       "vendor": 540
     },
     "Birch Log": {
-      "ask": 64,
+      "ask": 68,
       "bid": 20,
       "vendor": 4
     },
@@ -476,7 +476,7 @@
       "vendor": 1944
     },
     "Cedar Log": {
-      "ask": 98,
+      "ask": 99,
       "bid": 5,
       "vendor": 8
     },
@@ -862,7 +862,7 @@
     },
     "Fieriosa Coffee Bean": {
       "ask": 111,
-      "bid": 107,
+      "bid": 105,
       "vendor": 27
     },
     "Fireball": {
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 14999,
+      "ask": 12500,
       "bid": 5510,
       "vendor": 5000
     },
@@ -941,7 +941,7 @@
       "vendor": 11664
     },
     "Ginkgo Log": {
-      "ask": 29,
+      "ask": 34,
       "bid": 16,
       "vendor": 18
     },
@@ -1706,8 +1706,8 @@
       "vendor": 8
     },
     "Rough Boots": {
-      "ask": 9499,
-      "bid": 1000,
+      "ask": 9000,
+      "bid": -1,
       "vendor": 48
     },
     "Rough Bracers": {
@@ -2001,7 +2001,7 @@
       "vendor": 30
     },
     "Tome Of Healing": {
-      "ask": 21109,
+      "ask": 17500,
       "bid": 10055,
       "vendor": 10000
     },
@@ -2116,7 +2116,7 @@
       "vendor": 12
     },
     "Verdant Chisel": {
-      "ask": 14250,
+      "ask": 15000,
       "bid": -1,
       "vendor": 420
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671426968.0407956
+  "time": 1671427805.2967956
 }
