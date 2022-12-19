@@ -66,7 +66,7 @@
       "vendor": 80190
     },
     "Artisan Tea": {
-      "ask": 1499,
+      "ask": -1,
       "bid": 1000,
       "vendor": 75
     },
@@ -841,7 +841,7 @@
       "vendor": 20
     },
     "Entangle": {
-      "ask": 40000,
+      "ask": 39997,
       "bid": 6391,
       "vendor": 1000
     },
@@ -901,7 +901,7 @@
       "vendor": 6
     },
     "Foraging Tea": {
-      "ask": 479,
+      "ask": 400,
       "bid": -1,
       "vendor": 10
     },
@@ -1047,7 +1047,7 @@
     },
     "Green Tea Leaf": {
       "ask": 45,
-      "bid": 30,
+      "bid": 29,
       "vendor": 4
     },
     "Grizzly Bear Fluff": {
@@ -1062,7 +1062,7 @@
     },
     "Gummy": {
       "ask": 18,
-      "bid": 12,
+      "bid": 11,
       "vendor": 5
     },
     "Heal": {
@@ -1087,7 +1087,7 @@
     },
     "Holy Bulwark": {
       "ask": 109000,
-      "bid": 1,
+      "bid": 400,
       "vendor": 106920
     },
     "Holy Cheese": {
@@ -1172,11 +1172,11 @@
     },
     "Holy Sword": {
       "ask": 100000,
-      "bid": 700,
+      "bid": 4000,
       "vendor": 80190
     },
     "Ice Spear": {
-      "ask": 135000,
+      "ask": 134997,
       "bid": 25559,
       "vendor": 1000
     },
@@ -1821,7 +1821,7 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 150,
+      "ask": 149,
       "bid": 95,
       "vendor": 27
     },
@@ -1831,7 +1831,7 @@
       "vendor": 75
     },
     "Spaceberry Donut": {
-      "ask": 900,
+      "ask": 892,
       "bid": 740,
       "vendor": 75
     },
@@ -1901,7 +1901,7 @@
       "vendor": 1
     },
     "Super Attack Coffee": {
-      "ask": 759,
+      "ask": 799,
       "bid": 268,
       "vendor": 50
     },
@@ -1982,7 +1982,7 @@
     },
     "Swamp Essence": {
       "ask": 16,
-      "bid": 12,
+      "bid": 13,
       "vendor": 8
     },
     "Sweep": {
@@ -2231,7 +2231,7 @@
       "vendor": 30
     },
     "Wisdom Tea": {
-      "ask": 1279,
+      "ask": 1276,
       "bid": 901,
       "vendor": 30
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671464704.4795463
+  "time": 1671465603.439251
 }
