@@ -1,7 +1,7 @@
 {
   "market": {
     "Apple": {
-      "ask": 11,
+      "ask": 17,
       "bid": 8,
       "vendor": 2
     },
@@ -247,7 +247,7 @@
     },
     "Beast Leather": {
       "ask": 650,
-      "bid": 325,
+      "bid": 330,
       "vendor": 72
     },
     "Beast Tunic": {
@@ -816,7 +816,7 @@
       "vendor": 50
     },
     "Efficiency Tea": {
-      "ask": 1500,
+      "ask": 1723,
       "bid": 1200,
       "vendor": 50
     },
@@ -916,7 +916,7 @@
       "vendor": 10
     },
     "Gator Vest": {
-      "ask": 19997,
+      "ask": 18000,
       "bid": 5510,
       "vendor": 5000
     },
@@ -1046,7 +1046,7 @@
       "vendor": 400000
     },
     "Green Tea Leaf": {
-      "ask": 44,
+      "ask": 52,
       "bid": 29,
       "vendor": 4
     },
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 187,
-      "bid": 162,
+      "bid": 151,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1361,7 +1361,7 @@
       "vendor": 20
     },
     "Panda Fluff": {
-      "ask": 66199,
+      "ask": 66666,
       "bid": 10052,
       "vendor": 3000
     },
@@ -1416,7 +1416,7 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 32667,
+      "ask": 33333,
       "bid": 10010,
       "vendor": 3000
     },
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671551104.5436835
+  "time": 1671552003.2342196
 }
