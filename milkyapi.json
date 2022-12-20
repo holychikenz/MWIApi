@@ -2,7 +2,7 @@
   "market": {
     "Apple": {
       "ask": 17,
-      "bid": 8,
+      "bid": 7,
       "vendor": 2
     },
     "Apple Gummy": {
@@ -17,7 +17,7 @@
     },
     "Aqua Arrow": {
       "ask": 407252,
-      "bid": 105007,
+      "bid": 105008,
       "vendor": 1000
     },
     "Aqua Essence": {
@@ -277,7 +277,7 @@
     },
     "Birch Log": {
       "ask": 63,
-      "bid": 21,
+      "bid": 20,
       "vendor": 4
     },
     "Birch Lumber": {
@@ -332,7 +332,7 @@
     },
     "Blueberry": {
       "ask": 17,
-      "bid": 10,
+      "bid": 9,
       "vendor": 2
     },
     "Blueberry Cake": {
@@ -617,7 +617,7 @@
     },
     "Cocoon": {
       "ask": 115,
-      "bid": 86,
+      "bid": 85,
       "vendor": 24
     },
     "Coin": {
@@ -827,7 +827,7 @@
     },
     "Elemental Affinity": {
       "ask": 1099996,
-      "bid": 509281,
+      "bid": 509284,
       "vendor": 1000
     },
     "Emp Tea Leaf": {
@@ -872,7 +872,7 @@
     },
     "Flame Arrow": {
       "ask": 274989,
-      "bid": 150199,
+      "bid": 150200,
       "vendor": 1000
     },
     "Flame Blast": {
@@ -1132,7 +1132,7 @@
     },
     "Holy Milk": {
       "ask": 178,
-      "bid": 151,
+      "bid": 131,
       "vendor": 54
     },
     "Holy Needle": {
@@ -1321,8 +1321,8 @@
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 94000,
-      "bid": 10510,
+      "ask": 93997,
+      "bid": 10513,
       "vendor": 1000
     },
     "Mooberry": {
@@ -1347,7 +1347,7 @@
     },
     "Orange": {
       "ask": 21,
-      "bid": 14,
+      "bid": 10,
       "vendor": 4
     },
     "Orange Gummy": {
@@ -1386,7 +1386,7 @@
       "vendor": 40
     },
     "Pierce": {
-      "ask": 71000,
+      "ask": 70997,
       "bid": 31500,
       "vendor": 1000
     },
@@ -1461,7 +1461,7 @@
       "vendor": 36
     },
     "Purpleheart Nature Staff": {
-      "ask": 47499,
+      "ask": 47500,
       "bid": -1,
       "vendor": 4860
     },
@@ -1471,8 +1471,8 @@
       "vendor": 4860
     },
     "Quick Shot": {
-      "ask": 17499,
-      "bid": 12003,
+      "ask": 17498,
+      "bid": 12005,
       "vendor": 1000
     },
     "Radiant Boots": {
@@ -1741,7 +1741,7 @@
       "vendor": 96
     },
     "Scratch": {
-      "ask": 4060,
+      "ask": 4500,
       "bid": 1503,
       "vendor": 1000
     },
@@ -1821,13 +1821,13 @@
       "vendor": 3000
     },
     "Spaceberry": {
-      "ask": 139,
-      "bid": 100,
+      "ask": 133,
+      "bid": 103,
       "vendor": 27
     },
     "Spaceberry Cake": {
       "ask": 989,
-      "bid": 822,
+      "bid": 823,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -1866,13 +1866,13 @@
       "vendor": 27
     },
     "Star Fruit Gummy": {
-      "ask": 707,
+      "ask": 706,
       "bid": 337,
       "vendor": 75
     },
     "Star Fruit Yogurt": {
-      "ask": 770,
-      "bid": 666,
+      "ask": 764,
+      "bid": 667,
       "vendor": 75
     },
     "Strawberry": {
@@ -1891,8 +1891,8 @@
       "vendor": 30
     },
     "Stunning Blow": {
-      "ask": 650000,
-      "bid": 221114,
+      "ask": 649999,
+      "bid": 221116,
       "vendor": 1000
     },
     "Sugar": {
@@ -1982,11 +1982,11 @@
     },
     "Swamp Essence": {
       "ask": 22,
-      "bid": 14,
+      "bid": 12,
       "vendor": 8
     },
     "Sweep": {
-      "ask": 79994,
+      "ask": 77777,
       "bid": 11274,
       "vendor": 1000
     },
@@ -2002,7 +2002,7 @@
     },
     "Tome Of Healing": {
       "ask": 16622,
-      "bid": 10057,
+      "bid": 10058,
       "vendor": 10000
     },
     "Tome Of The Elements": {
@@ -2271,5 +2271,5 @@
       "vendor": 5
     }
   },
-  "time": 1671557404.510967
+  "time": 1671558305.0118275
 }
