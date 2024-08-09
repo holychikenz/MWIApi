@@ -1,1 +1,19 @@
 ~/MWIApi ~
+/home/morgan/MWIApi/./MilkAndCookies.py:116: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+Traceback (most recent call last):
+  File "/home/morgan/MWIApi/./MilkAndCookies.py", line 117, in <module>
+    loop.run_until_complete(main())
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/morgan/MWIApi/./MilkAndCookies.py", line 21, in main
+    await collectData()
+  File "/home/morgan/MWIApi/./MilkAndCookies.py", line 34, in collectData
+    await page.goto(url, {'timeout':5000})
+  File "/home/morgan/MWIApi/mw/lib/python3.12/site-packages/pyppeteer/page.py", line 838, in goto
+    raise error
+pyppeteer.errors.TimeoutError: Navigation Timeout Exceeded: 5000 ms exceeded.
+Skipping insertion: Time 1723203003 exists in TABLE ask
+Skipping insertion: Time 1723203003 exists in TABLE bid
+Data dump Fri Aug 9 12:00:29 UTC 2024
