@@ -1,19 +1,1256 @@
 ~/MWIApi ~
 /home/morgan/MWIApi/./MilkAndCookies.py:116: DeprecationWarning: There is no current event loop
   loop = asyncio.get_event_loop()
-Traceback (most recent call last):
-  File "/home/morgan/MWIApi/./MilkAndCookies.py", line 117, in <module>
-    loop.run_until_complete(main())
-  File "/usr/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
-    return future.result()
-           ^^^^^^^^^^^^^^^
-  File "/home/morgan/MWIApi/./MilkAndCookies.py", line 21, in main
-    await collectData()
-  File "/home/morgan/MWIApi/./MilkAndCookies.py", line 34, in collectData
-    await page.goto(url, {'timeout':5000})
-  File "/home/morgan/MWIApi/mw/lib/python3.12/site-packages/pyppeteer/page.py", line 838, in goto
-    raise error
-pyppeteer.errors.TimeoutError: Navigation Timeout Exceeded: 5000 ms exceeded.
-Skipping insertion: Time 1723203003 exists in TABLE ask
-Skipping insertion: Time 1723203003 exists in TABLE bid
-Data dump Fri Aug 9 12:00:29 UTC 2024
+Connected to MWI
+Connected to MWI: 1
+Connected to MWI: 2
+Connected to MWI: 2.5
+Connected to MWI: 3
+['wss://api.milkywayidle.com/ws?hash=2605637484&characterId=12511&gameVersion=v1.20240703.0']
+Connected to MWI: 4
+Reading market for 634 items
+Send: 0/634 /items/abyssal_essence
+Send: 1/634 /items/acrobatic_hood
+Send: 2/634 /items/acrobats_ribbon
+Send: 3/634 /items/advanced_task_badge
+Send: 4/634 /items/amber
+Send: 5/634 /items/amethyst
+Send: 6/634 /items/apple
+Send: 7/634 /items/apple_gummy
+Send: 8/634 /items/apple_yogurt
+Send: 9/634 /items/aqua_arrow
+Send: 10/634 /items/aqua_aura
+Send: 11/634 /items/aqua_essence
+Send: 12/634 /items/arabica_coffee_bean
+Send: 13/634 /items/arcane_bow
+Send: 14/634 /items/arcane_crossbow
+Send: 15/634 /items/arcane_fire_staff
+Send: 16/634 /items/arcane_log
+Send: 17/634 /items/arcane_lumber
+Send: 18/634 /items/arcane_nature_staff
+Send: 19/634 /items/arcane_shield
+Send: 20/634 /items/arcane_water_staff
+Send: 21/634 /items/artisan_tea
+Send: 22/634 /items/attack_coffee
+Send: 23/634 /items/azure_boots
+Send: 24/634 /items/azure_brush
+Send: 25/634 /items/azure_buckler
+Send: 26/634 /items/azure_bulwark
+Send: 27/634 /items/azure_cheese
+Send: 28/634 /items/azure_chisel
+Send: 29/634 /items/azure_enhancer
+Send: 30/634 /items/azure_gauntlets
+Send: 31/634 /items/azure_hammer
+Send: 32/634 /items/azure_hatchet
+Send: 33/634 /items/azure_helmet
+Send: 34/634 /items/azure_mace
+Send: 35/634 /items/azure_milk
+Send: 36/634 /items/azure_needle
+Send: 37/634 /items/azure_plate_body
+Send: 38/634 /items/azure_plate_legs
+Send: 39/634 /items/azure_pot
+Send: 40/634 /items/azure_shears
+Send: 41/634 /items/azure_spatula
+Send: 42/634 /items/azure_spear
+Send: 43/634 /items/azure_sword
+Send: 44/634 /items/bag_of_10_cowbells
+Send: 45/634 /items/bamboo_boots
+Send: 46/634 /items/bamboo_branch
+Send: 47/634 /items/bamboo_fabric
+Send: 48/634 /items/bamboo_gloves
+Send: 49/634 /items/bamboo_hat
+Send: 50/634 /items/bamboo_robe_bottoms
+Send: 51/634 /items/bamboo_robe_top
+Send: 52/634 /items/basic_task_badge
+Send: 53/634 /items/bear_essence
+Send: 54/634 /items/beast_boots
+Send: 55/634 /items/beast_bracers
+Send: 56/634 /items/beast_chaps
+Send: 57/634 /items/beast_hide
+Send: 58/634 /items/beast_hood
+Send: 59/634 /items/beast_leather
+Send: 60/634 /items/beast_tunic
+Send: 61/634 /items/berserk
+Send: 62/634 /items/birch_bow
+Send: 63/634 /items/birch_crossbow
+Send: 64/634 /items/birch_fire_staff
+Send: 65/634 /items/birch_log
+Send: 66/634 /items/birch_lumber
+Send: 67/634 /items/birch_nature_staff
+Send: 68/634 /items/birch_shield
+Send: 69/634 /items/birch_water_staff
+Send: 70/634 /items/bishops_codex
+Send: 71/634 /items/bishops_scroll
+Send: 72/634 /items/black_bear_fluff
+Send: 73/634 /items/black_bear_shoes
+Send: 74/634 /items/black_tea_leaf
+Send: 75/634 /items/blackberry
+Send: 76/634 /items/blackberry_cake
+Send: 77/634 /items/blackberry_donut
+Send: 78/634 /items/blessed_tea
+Send: 79/634 /items/blue_key_fragment
+Send: 80/634 /items/blueberry
+Send: 81/634 /items/blueberry_cake
+Send: 82/634 /items/blueberry_donut
+Send: 83/634 /items/brewing_tea
+Send: 84/634 /items/brown_key_fragment
+Send: 85/634 /items/burble_boots
+Send: 86/634 /items/burble_brush
+Send: 87/634 /items/burble_buckler
+Send: 88/634 /items/burble_bulwark
+Send: 89/634 /items/burble_cheese
+Send: 90/634 /items/burble_chisel
+Send: 91/634 /items/burble_enhancer
+Send: 92/634 /items/burble_gauntlets
+Send: 93/634 /items/burble_hammer
+Send: 94/634 /items/burble_hatchet
+Send: 95/634 /items/burble_helmet
+Send: 96/634 /items/burble_mace
+Send: 97/634 /items/burble_milk
+Send: 98/634 /items/burble_needle
+Send: 99/634 /items/burble_plate_body
+Send: 100/634 /items/burble_plate_legs
+Send: 101/634 /items/burble_pot
+Send: 102/634 /items/burble_shears
+Send: 103/634 /items/burble_spatula
+Send: 104/634 /items/burble_spear
+Send: 105/634 /items/burble_sword
+Send: 106/634 /items/burble_tea_leaf
+Send: 107/634 /items/burning_key_fragment
+Send: 108/634 /items/cedar_bow
+Send: 109/634 /items/cedar_crossbow
+Send: 110/634 /items/cedar_fire_staff
+Send: 111/634 /items/cedar_log
+Send: 112/634 /items/cedar_lumber
+Send: 113/634 /items/cedar_nature_staff
+Send: 114/634 /items/cedar_shield
+Send: 115/634 /items/cedar_water_staff
+Send: 116/634 /items/centaur_boots
+Send: 117/634 /items/centaur_hoof
+Send: 118/634 /items/channeling_coffee
+Send: 119/634 /items/chaotic_chain
+Send: 120/634 /items/chaotic_flail
+Send: 121/634 /items/cheese
+Send: 122/634 /items/cheese_boots
+Send: 123/634 /items/cheese_brush
+Send: 124/634 /items/cheese_buckler
+Send: 125/634 /items/cheese_bulwark
+Send: 126/634 /items/cheese_chisel
+Send: 127/634 /items/cheese_enhancer
+Send: 128/634 /items/cheese_gauntlets
+Send: 129/634 /items/cheese_hammer
+Send: 130/634 /items/cheese_hatchet
+Send: 131/634 /items/cheese_helmet
+Send: 132/634 /items/cheese_mace
+Send: 133/634 /items/cheese_needle
+Send: 134/634 /items/cheese_plate_body
+Send: 135/634 /items/cheese_plate_legs
+Send: 136/634 /items/cheese_pot
+Send: 137/634 /items/cheese_shears
+Send: 138/634 /items/cheese_spatula
+Send: 139/634 /items/cheese_spear
+Send: 140/634 /items/cheese_sword
+Send: 141/634 /items/cheesesmithing_tea
+Send: 142/634 /items/chimerical_chest
+Send: 143/634 /items/chimerical_essence
+Send: 144/634 /items/chimerical_key
+Send: 145/634 /items/chimerical_quiver
+Send: 146/634 /items/chimerical_token
+Send: 147/634 /items/chrono_gloves
+Send: 148/634 /items/chrono_sphere
+Send: 149/634 /items/cleave
+Send: 150/634 /items/cocoon
+Send: 151/634 /items/coin
+Send: 152/634 /items/collectors_boots
+Send: 153/634 /items/colossus_core
+Send: 154/634 /items/colossus_plate_body
+Send: 155/634 /items/colossus_plate_legs
+Send: 156/634 /items/cooking_tea
+Send: 157/634 /items/cotton
+Send: 158/634 /items/cotton_boots
+Send: 159/634 /items/cotton_fabric
+Send: 160/634 /items/cotton_gloves
+Send: 161/634 /items/cotton_hat
+Send: 162/634 /items/cotton_robe_bottoms
+Send: 163/634 /items/cotton_robe_top
+Send: 164/634 /items/cowbell
+Send: 165/634 /items/crab_pincer
+Send: 166/634 /items/crafting_tea
+Send: 167/634 /items/crimson_boots
+Send: 168/634 /items/crimson_brush
+Send: 169/634 /items/crimson_buckler
+Send: 170/634 /items/crimson_bulwark
+Send: 171/634 /items/crimson_cheese
+Send: 172/634 /items/crimson_chisel
+Send: 173/634 /items/crimson_enhancer
+Send: 174/634 /items/crimson_gauntlets
+Send: 175/634 /items/crimson_hammer
+Send: 176/634 /items/crimson_hatchet
+Send: 177/634 /items/crimson_helmet
+Send: 178/634 /items/crimson_mace
+Send: 179/634 /items/crimson_milk
+Send: 180/634 /items/crimson_needle
+Send: 181/634 /items/crimson_plate_body
+Send: 182/634 /items/crimson_plate_legs
+Send: 183/634 /items/crimson_pot
+Send: 184/634 /items/crimson_shears
+Send: 185/634 /items/crimson_spatula
+Send: 186/634 /items/crimson_spear
+Send: 187/634 /items/crimson_sword
+Send: 188/634 /items/crippling_slash
+Send: 189/634 /items/critical_aura
+Send: 190/634 /items/critical_coffee
+Send: 191/634 /items/crushed_amber
+Send: 192/634 /items/crushed_amethyst
+Send: 193/634 /items/crushed_garnet
+Send: 194/634 /items/crushed_jade
+Send: 195/634 /items/crushed_moonstone
+Send: 196/634 /items/crushed_pearl
+Send: 197/634 /items/cupcake
+Send: 198/634 /items/cursed_ball
+Send: 199/634 /items/cursed_bow
+Send: 200/634 /items/dark_key_fragment
+Send: 201/634 /items/defense_coffee
+Send: 202/634 /items/demonic_core
+Send: 203/634 /items/demonic_plate_body
+Send: 204/634 /items/demonic_plate_legs
+Send: 205/634 /items/dodocamel_gauntlets
+Send: 206/634 /items/dodocamel_plume
+Send: 207/634 /items/donut
+Send: 208/634 /items/dragon_fruit
+Send: 209/634 /items/dragon_fruit_gummy
+Send: 210/634 /items/dragon_fruit_yogurt
+Send: 211/634 /items/earrings_of_armor
+Send: 212/634 /items/earrings_of_gathering
+Send: 213/634 /items/earrings_of_rare_find
+Send: 214/634 /items/earrings_of_regeneration
+Send: 215/634 /items/earrings_of_resistance
+Send: 216/634 /items/earrings_of_threat
+Send: 217/634 /items/efficiency_tea
+Send: 218/634 /items/egg
+Send: 219/634 /items/elemental_affinity
+Send: 220/634 /items/elusiveness
+Send: 221/634 /items/emp_tea_leaf
+Send: 222/634 /items/enchanted_chest
+Send: 223/634 /items/enchanted_cloak
+Send: 224/634 /items/enchanted_essence
+Send: 225/634 /items/enchanted_gloves
+Send: 226/634 /items/enchanted_key
+Send: 227/634 /items/enchanted_token
+Send: 228/634 /items/enhancing_tea
+Send: 229/634 /items/entangle
+Send: 230/634 /items/excelsa_coffee_bean
+Send: 231/634 /items/expert_task_badge
+Send: 232/634 /items/eye_of_the_watcher
+Send: 233/634 /items/eye_watch
+Send: 234/634 /items/eyessence
+Send: 235/634 /items/fierce_aura
+Send: 236/634 /items/fieriosa_coffee_bean
+Send: 237/634 /items/fighter_necklace
+Send: 238/634 /items/fireball
+Send: 239/634 /items/firestorm
+Send: 240/634 /items/flame_arrow
+Send: 241/634 /items/flame_aura
+Send: 242/634 /items/flame_blast
+Send: 243/634 /items/flaming_cloth
+Send: 244/634 /items/flaming_robe_bottoms
+Send: 245/634 /items/flaming_robe_top
+Send: 246/634 /items/flax
+Send: 247/634 /items/fluffy_red_hat
+Send: 248/634 /items/foraging_tea
+Send: 249/634 /items/frenzy
+Send: 250/634 /items/frost_sphere
+Send: 251/634 /items/frost_staff
+Send: 252/634 /items/frost_surge
+Send: 253/634 /items/garnet
+Send: 254/634 /items/gathering_tea
+Send: 255/634 /items/gator_vest
+Send: 256/634 /items/giant_pouch
+Send: 257/634 /items/ginkgo_bow
+Send: 258/634 /items/ginkgo_crossbow
+Send: 259/634 /items/ginkgo_fire_staff
+Send: 260/634 /items/ginkgo_log
+Send: 261/634 /items/ginkgo_lumber
+Send: 262/634 /items/ginkgo_nature_staff
+Send: 263/634 /items/ginkgo_shield
+Send: 264/634 /items/ginkgo_water_staff
+Send: 265/634 /items/gobo_boomstick
+Send: 266/634 /items/gobo_boots
+Send: 267/634 /items/gobo_bracers
+Send: 268/634 /items/gobo_chaps
+Send: 269/634 /items/gobo_defender
+Send: 270/634 /items/gobo_essence
+Send: 271/634 /items/gobo_hide
+Send: 272/634 /items/gobo_hood
+Send: 273/634 /items/gobo_leather
+Send: 274/634 /items/gobo_rag
+Send: 275/634 /items/gobo_shooter
+Send: 276/634 /items/gobo_slasher
+Send: 277/634 /items/gobo_smasher
+Send: 278/634 /items/gobo_stabber
+Send: 279/634 /items/gobo_tunic
+Send: 280/634 /items/goggles
+Send: 281/634 /items/golem_essence
+Send: 282/634 /items/gourmet_tea
+Send: 283/634 /items/granite_bludgeon
+Send: 284/634 /items/green_key_fragment
+Send: 285/634 /items/green_tea_leaf
+Send: 286/634 /items/griffin_chaps
+Send: 287/634 /items/griffin_leather
+Send: 288/634 /items/griffin_tunic
+Send: 289/634 /items/grizzly_bear_fluff
+Send: 290/634 /items/grizzly_bear_shoes
+Send: 291/634 /items/gummy
+Send: 292/634 /items/heal
+Send: 293/634 /items/holy_boots
+Send: 294/634 /items/holy_brush
+Send: 295/634 /items/holy_buckler
+Send: 296/634 /items/holy_bulwark
+Send: 297/634 /items/holy_cheese
+Send: 298/634 /items/holy_chisel
+Send: 299/634 /items/holy_enhancer
+Send: 300/634 /items/holy_gauntlets
+Send: 301/634 /items/holy_hammer
+Send: 302/634 /items/holy_hatchet
+Send: 303/634 /items/holy_helmet
+Send: 304/634 /items/holy_mace
+Send: 305/634 /items/holy_milk
+Send: 306/634 /items/holy_needle
+Send: 307/634 /items/holy_plate_body
+Send: 308/634 /items/holy_plate_legs
+Send: 309/634 /items/holy_pot
+Send: 310/634 /items/holy_shears
+Send: 311/634 /items/holy_spatula
+Send: 312/634 /items/holy_spear
+Send: 313/634 /items/holy_sword
+Send: 314/634 /items/ice_spear
+Send: 315/634 /items/icy_cloth
+Send: 316/634 /items/icy_robe_bottoms
+Send: 317/634 /items/icy_robe_top
+Send: 318/634 /items/impale
+Send: 319/634 /items/infernal_battlestaff
+Send: 320/634 /items/infernal_ember
+Send: 321/634 /items/insanity
+Send: 322/634 /items/intelligence_coffee
+Send: 323/634 /items/invincible
+Send: 324/634 /items/jackalope_antler
+Send: 325/634 /items/jackalope_staff
+Send: 326/634 /items/jade
+Send: 327/634 /items/jungle_essence
+Send: 328/634 /items/knights_aegis
+Send: 329/634 /items/knights_ingot
+Send: 330/634 /items/large_artisans_crate
+Send: 331/634 /items/large_meteorite_cache
+Send: 332/634 /items/large_pouch
+Send: 333/634 /items/large_treasure_chest
+Send: 334/634 /items/liberica_coffee_bean
+Send: 335/634 /items/linen_boots
+Send: 336/634 /items/linen_fabric
+Send: 337/634 /items/linen_gloves
+Send: 338/634 /items/linen_hat
+Send: 339/634 /items/linen_robe_bottoms
+Send: 340/634 /items/linen_robe_top
+Send: 341/634 /items/living_granite
+Send: 342/634 /items/log
+Send: 343/634 /items/lucky_coffee
+Send: 344/634 /items/lumber
+Send: 345/634 /items/luna_robe_bottoms
+Send: 346/634 /items/luna_robe_top
+Send: 347/634 /items/luna_wing
+Send: 348/634 /items/magic_coffee
+Send: 349/634 /items/magicians_cloth
+Send: 350/634 /items/magicians_hat
+Send: 351/634 /items/magnet
+Send: 352/634 /items/magnetic_gloves
+Send: 353/634 /items/magnifying_glass
+Send: 354/634 /items/maim
+Send: 355/634 /items/mana_spring
+Send: 356/634 /items/manticore_shield
+Send: 357/634 /items/manticore_sting
+Send: 358/634 /items/marine_chaps
+Send: 359/634 /items/marine_scale
+Send: 360/634 /items/marine_tunic
+Send: 361/634 /items/marsberry
+Send: 362/634 /items/marsberry_cake
+Send: 363/634 /items/marsberry_donut
+Send: 364/634 /items/medium_artisans_crate
+Send: 365/634 /items/medium_meteorite_cache
+Send: 366/634 /items/medium_pouch
+Send: 367/634 /items/medium_treasure_chest
+Send: 368/634 /items/milk
+Send: 369/634 /items/milking_tea
+Send: 370/634 /items/minor_heal
+Send: 371/634 /items/mirror_of_protection
+Send: 372/634 /items/mooberry
+Send: 373/634 /items/mooberry_cake
+Send: 374/634 /items/mooberry_donut
+Send: 375/634 /items/moolong_tea_leaf
+Send: 376/634 /items/moonstone
+Send: 377/634 /items/natures_veil
+Send: 378/634 /items/necklace_of_efficiency
+Send: 379/634 /items/necklace_of_wisdom
+Send: 380/634 /items/orange
+Send: 381/634 /items/orange_gummy
+Send: 382/634 /items/orange_key_fragment
+Send: 383/634 /items/orange_yogurt
+Send: 384/634 /items/panda_fluff
+Send: 385/634 /items/panda_gloves
+Send: 386/634 /items/peach
+Send: 387/634 /items/peach_gummy
+Send: 388/634 /items/peach_yogurt
+Send: 389/634 /items/pearl
+Send: 390/634 /items/penetrating_shot
+Send: 391/634 /items/penetrating_strike
+Send: 392/634 /items/pestilent_shot
+Send: 393/634 /items/pincer_gloves
+Send: 394/634 /items/plum
+Send: 395/634 /items/plum_gummy
+Send: 396/634 /items/plum_yogurt
+Send: 397/634 /items/poke
+Send: 398/634 /items/polar_bear_fluff
+Send: 399/634 /items/polar_bear_shoes
+Send: 400/634 /items/power_coffee
+Send: 401/634 /items/precision
+Send: 402/634 /items/processing_tea
+Send: 403/634 /items/provoke
+Send: 404/634 /items/puncture
+Send: 405/634 /items/purple_key_fragment
+Send: 406/634 /items/purpleheart_bow
+Send: 407/634 /items/purpleheart_crossbow
+Send: 408/634 /items/purpleheart_fire_staff
+Send: 409/634 /items/purpleheart_log
+Send: 410/634 /items/purpleheart_lumber
+Send: 411/634 /items/purpleheart_nature_staff
+Send: 412/634 /items/purpleheart_shield
+Send: 413/634 /items/purpleheart_water_staff
+Send: 414/634 /items/purples_gift
+Send: 415/634 /items/quick_aid
+Send: 416/634 /items/quick_shot
+Send: 417/634 /items/radiant_boots
+Send: 418/634 /items/radiant_fabric
+Send: 419/634 /items/radiant_fiber
+Send: 420/634 /items/radiant_gloves
+Send: 421/634 /items/radiant_hat
+Send: 422/634 /items/radiant_robe_bottoms
+Send: 423/634 /items/radiant_robe_top
+Send: 424/634 /items/rain_of_arrows
+Send: 425/634 /items/rainbow_boots
+Send: 426/634 /items/rainbow_brush
+Send: 427/634 /items/rainbow_buckler
+Send: 428/634 /items/rainbow_bulwark
+Send: 429/634 /items/rainbow_cheese
+Send: 430/634 /items/rainbow_chisel
+Send: 431/634 /items/rainbow_enhancer
+Send: 432/634 /items/rainbow_gauntlets
+Send: 433/634 /items/rainbow_hammer
+Send: 434/634 /items/rainbow_hatchet
+Send: 435/634 /items/rainbow_helmet
+Send: 436/634 /items/rainbow_mace
+Send: 437/634 /items/rainbow_milk
+Send: 438/634 /items/rainbow_needle
+Send: 439/634 /items/rainbow_plate_body
+Send: 440/634 /items/rainbow_plate_legs
+Send: 441/634 /items/rainbow_pot
+Send: 442/634 /items/rainbow_shears
+Send: 443/634 /items/rainbow_spatula
+Send: 444/634 /items/rainbow_spear
+Send: 445/634 /items/rainbow_sword
+Send: 446/634 /items/ranged_coffee
+Send: 447/634 /items/ranger_necklace
+Send: 448/634 /items/red_chefs_hat
+Send: 449/634 /items/red_panda_fluff
+Send: 450/634 /items/red_tea_leaf
+Send: 451/634 /items/redwood_bow
+Send: 452/634 /items/redwood_crossbow
+Send: 453/634 /items/redwood_fire_staff
+Send: 454/634 /items/redwood_log
+Send: 455/634 /items/redwood_lumber
+Send: 456/634 /items/redwood_nature_staff
+Send: 457/634 /items/redwood_shield
+Send: 458/634 /items/redwood_water_staff
+Send: 459/634 /items/regal_jewel
+Send: 460/634 /items/regal_sword
+Send: 461/634 /items/rejuvenate
+Send: 462/634 /items/reptile_boots
+Send: 463/634 /items/reptile_bracers
+Send: 464/634 /items/reptile_chaps
+Send: 465/634 /items/reptile_hide
+Send: 466/634 /items/reptile_hood
+Send: 467/634 /items/reptile_leather
+Send: 468/634 /items/reptile_tunic
+Send: 469/634 /items/revenant_anima
+Send: 470/634 /items/revenant_chaps
+Send: 471/634 /items/revenant_tunic
+Send: 472/634 /items/revive
+Send: 473/634 /items/ring_of_armor
+Send: 474/634 /items/ring_of_gathering
+Send: 475/634 /items/ring_of_rare_find
+Send: 476/634 /items/ring_of_regeneration
+Send: 477/634 /items/ring_of_resistance
+Send: 478/634 /items/ring_of_threat
+Send: 479/634 /items/robusta_coffee_bean
+Send: 480/634 /items/rough_boots
+Send: 481/634 /items/rough_bracers
+Send: 482/634 /items/rough_chaps
+Send: 483/634 /items/rough_hide
+Send: 484/634 /items/rough_hood
+Send: 485/634 /items/rough_leather
+Send: 486/634 /items/rough_tunic
+Send: 487/634 /items/royal_cloth
+Send: 488/634 /items/royal_fire_robe_bottoms
+Send: 489/634 /items/royal_fire_robe_top
+Send: 490/634 /items/royal_nature_robe_bottoms
+Send: 491/634 /items/royal_nature_robe_top
+Send: 492/634 /items/royal_water_robe_bottoms
+Send: 493/634 /items/royal_water_robe_top
+Send: 494/634 /items/scratch
+Send: 495/634 /items/shard_of_protection
+Send: 496/634 /items/shoebill_feather
+Send: 497/634 /items/shoebill_shoes
+Send: 498/634 /items/sighted_bracers
+Send: 499/634 /items/silencing_shot
+Send: 500/634 /items/silk_boots
+Send: 501/634 /items/silk_fabric
+Send: 502/634 /items/silk_gloves
+Send: 503/634 /items/silk_hat
+Send: 504/634 /items/silk_robe_bottoms
+Send: 505/634 /items/silk_robe_top
+Send: 506/634 /items/sinister_cape
+Send: 507/634 /items/sinister_chest
+Send: 508/634 /items/sinister_essence
+Send: 509/634 /items/sinister_key
+Send: 510/634 /items/sinister_token
+Send: 511/634 /items/smack
+Send: 512/634 /items/small_artisans_crate
+Send: 513/634 /items/small_meteorite_cache
+Send: 514/634 /items/small_pouch
+Send: 515/634 /items/small_treasure_chest
+Send: 516/634 /items/smoke_burst
+Send: 517/634 /items/snail_shell
+Send: 518/634 /items/snail_shell_helmet
+Send: 519/634 /items/snake_fang
+Send: 520/634 /items/snake_fang_dirk
+Send: 521/634 /items/sorcerer_boots
+Send: 522/634 /items/sorcerer_essence
+Send: 523/634 /items/sorcerers_sole
+Send: 524/634 /items/soul_fragment
+Send: 525/634 /items/soul_hunter_crossbow
+Send: 526/634 /items/spaceberry
+Send: 527/634 /items/spaceberry_cake
+Send: 528/634 /items/spaceberry_donut
+Send: 529/634 /items/spacia_coffee_bean
+Send: 530/634 /items/speed_aura
+Send: 531/634 /items/spike_shell
+Send: 532/634 /items/spiked_bulwark
+Send: 533/634 /items/stalactite_shard
+Send: 534/634 /items/stalactite_spear
+Send: 535/634 /items/stamina_coffee
+Send: 536/634 /items/star_fragment
+Send: 537/634 /items/star_fruit
+Send: 538/634 /items/star_fruit_gummy
+Send: 539/634 /items/star_fruit_yogurt
+Send: 540/634 /items/steady_shot
+Send: 541/634 /items/stone_key_fragment
+Send: 542/634 /items/strawberry
+Send: 543/634 /items/strawberry_cake
+Send: 544/634 /items/strawberry_donut
+Send: 545/634 /items/stunning_blow
+Send: 546/634 /items/sugar
+Send: 547/634 /items/sundering_crossbow
+Send: 548/634 /items/sundering_jewel
+Send: 549/634 /items/super_attack_coffee
+Send: 550/634 /items/super_brewing_tea
+Send: 551/634 /items/super_cheesesmithing_tea
+Send: 552/634 /items/super_cooking_tea
+Send: 553/634 /items/super_crafting_tea
+Send: 554/634 /items/super_defense_coffee
+Send: 555/634 /items/super_enhancing_tea
+Send: 556/634 /items/super_foraging_tea
+Send: 557/634 /items/super_intelligence_coffee
+Send: 558/634 /items/super_magic_coffee
+Send: 559/634 /items/super_milking_tea
+Send: 560/634 /items/super_power_coffee
+Send: 561/634 /items/super_ranged_coffee
+Send: 562/634 /items/super_stamina_coffee
+Send: 563/634 /items/super_tailoring_tea
+Send: 564/634 /items/super_woodcutting_tea
+Send: 565/634 /items/swamp_essence
+Send: 566/634 /items/sweep
+Send: 567/634 /items/swiftness_coffee
+Send: 568/634 /items/sylvan_aura
+Send: 569/634 /items/tailoring_tea
+Send: 570/634 /items/task_crystal
+Send: 571/634 /items/task_token
+Send: 572/634 /items/taunt
+Send: 573/634 /items/tome_of_healing
+Send: 574/634 /items/tome_of_the_elements
+Send: 575/634 /items/toughness
+Send: 576/634 /items/toxic_pollen
+Send: 577/634 /items/treant_bark
+Send: 578/634 /items/treant_shield
+Send: 579/634 /items/turtle_shell
+Send: 580/634 /items/turtle_shell_body
+Send: 581/634 /items/turtle_shell_legs
+Send: 582/634 /items/twilight_essence
+Send: 583/634 /items/umbral_boots
+Send: 584/634 /items/umbral_bracers
+Send: 585/634 /items/umbral_chaps
+Send: 586/634 /items/umbral_hide
+Send: 587/634 /items/umbral_hood
+Send: 588/634 /items/umbral_leather
+Send: 589/634 /items/umbral_tunic
+Send: 590/634 /items/vampire_fang
+Send: 591/634 /items/vampire_fang_dirk
+Send: 592/634 /items/vampiric_bow
+Send: 593/634 /items/vampirism
+Send: 594/634 /items/verdant_boots
+Send: 595/634 /items/verdant_brush
+Send: 596/634 /items/verdant_buckler
+Send: 597/634 /items/verdant_bulwark
+Send: 598/634 /items/verdant_cheese
+Send: 599/634 /items/verdant_chisel
+Send: 600/634 /items/verdant_enhancer
+Send: 601/634 /items/verdant_gauntlets
+Send: 602/634 /items/verdant_hammer
+Send: 603/634 /items/verdant_hatchet
+Send: 604/634 /items/verdant_helmet
+Send: 605/634 /items/verdant_mace
+Send: 606/634 /items/verdant_milk
+Send: 607/634 /items/verdant_needle
+Send: 608/634 /items/verdant_plate_body
+Send: 609/634 /items/verdant_plate_legs
+Send: 610/634 /items/verdant_pot
+Send: 611/634 /items/verdant_shears
+Send: 612/634 /items/verdant_spatula
+Send: 613/634 /items/verdant_spear
+Send: 614/634 /items/verdant_sword
+Send: 615/634 /items/vision_helmet
+Send: 616/634 /items/vision_shield
+Send: 617/634 /items/watchful_relic
+Send: 618/634 /items/water_strike
+Send: 619/634 /items/werewolf_claw
+Send: 620/634 /items/werewolf_slasher
+Send: 621/634 /items/wheat
+Send: 622/634 /items/white_key_fragment
+Send: 623/634 /items/wisdom_coffee
+Send: 624/634 /items/wisdom_tea
+Send: 625/634 /items/wizard_necklace
+Send: 626/634 /items/woodcutting_tea
+Send: 627/634 /items/wooden_bow
+Send: 628/634 /items/wooden_crossbow
+Send: 629/634 /items/wooden_fire_staff
+Send: 630/634 /items/wooden_nature_staff
+Send: 631/634 /items/wooden_shield
+Send: 632/634 /items/wooden_water_staff
+Send: 633/634 /items/yogurt
+Abyssal Essence: 160 -> 155
+Acrobatic Hood: 62000000 -> 46000000
+Acrobat's Ribbon: 6000000 -> 5800000
+Amber: 6200 -> 6000
+Amethyst: 68000 -> 66000
+Apple: 5 -> 4
+Apple Gummy: 36 -> 10
+Apple Yogurt: 265 -> 96
+Aqua Arrow: 72000 -> 19500
+Aqua Aura: 2800000 -> 2500000
+Aqua Essence: 21 -> 18
+Arabica Coffee Bean: 155 -> 120
+Arcane Bow: 220000 -> 170000
+Arcane Crossbow: 265000 -> 250000
+Arcane Fire Staff: 370000 -> 270000
+Arcane Log: 370 -> 310
+Arcane Lumber: 1350 -> 1150
+Arcane Nature Staff: 360000 -> 215000
+Arcane Shield: 60000 -> -1
+Arcane Water Staff: 390000 -> 215000
+Artisan Tea: 680 -> 600
+Attack Coffee: 540 -> 360
+Azure Boots: 27000 -> 1250
+Azure Brush: 13000 -> 9400
+Azure Buckler: 26000 -> -1
+Azure Bulwark: 9600 -> -1
+Azure Cheese: 410 -> 380
+Azure Chisel: 38000 -> -1
+Azure Enhancer: 35000 -> -1
+Azure Gauntlets: -1 -> -1
+Azure Hammer: 29500 -> 2100
+Azure Hatchet: 35000 -> 2600
+Azure Helmet: -1 -> 1600
+Azure Mace: 36000 -> -1
+Azure Milk: 120 -> 76
+Azure Needle: 34000 -> 2150
+Azure Plate Body: 56000 -> 16500
+Azure Plate Legs: -1 -> 13000
+Azure Pot: 35000 -> 5000
+Azure Shears: 17500 -> 15000
+Azure Spatula: 35000 -> 10000
+Azure Spear: 28500 -> 11500
+Azure Sword: 35000 -> -1
+Bag Of 10 Cowbells: 275000 -> 270000
+Bamboo Boots: 34000 -> -1
+Bamboo Branch: 31 -> 24
+Bamboo Fabric: 270 -> 210
+Bamboo Gloves: 20500 -> 6400
+Bamboo Hat: 21500 -> 6600
+Bamboo Robe Bottoms: 28500 -> 13000
+Bamboo Robe Top: 29500 -> 5200
+Bear Essence: 58 -> 54
+Beast Boots: 48000 -> 8000
+Beast Bracers: 58000 -> -1
+Beast Chaps: 58000 -> 14000
+Beast Hide: 22 -> 20
+Beast Hood: 47000 -> -1
+Beast Leather: 500 -> 480
+Beast Tunic: 68000 -> 50000
+Berserk: 480000 -> 470000
+Birch Bow: 21500 -> -1
+Birch Crossbow: 15000 -> 4100
+Birch Fire Staff: 17500 -> 5000
+Birch Log: 68 -> 60
+Birch Lumber: 360 -> 330
+Birch Nature Staff: 18000 -> 2400
+Birch Shield: 6000 -> -1
+Birch Water Staff: 14000 -> 5000
+Bishop's Codex: 98000000 -> 45000000
+Bishop's Scroll: 7400000 -> 7200000
+Black Bear Fluff: 48000 -> 40000
+Black Bear Shoes: 200000 -> 66000
+Black Tea Leaf: 16 -> -1
+Blackberry: 47 -> 39
+Blackberry Cake: 295 -> 94
+Blackberry Donut: 340 -> 190
+Blessed Tea: 780 -> 740
+Blue Key Fragment: 190000 -> 175000
+Blueberry: 39 -> 32
+Blueberry Cake: 320 -> 80
+Blueberry Donut: 270 -> 115
+Brewing Tea: 96 -> -1
+Brown Key Fragment: 680000 -> 660000
+Burble Boots: 31000 -> 3000
+Burble Brush: 33000 -> 22000
+Burble Buckler: 38000 -> -1
+Burble Bulwark: 18000 -> -1
+Burble Cheese: 540 -> 410
+Burble Chisel: 49000 -> -1
+Burble Enhancer: 45000 -> -1
+Burble Gauntlets: 35000 -> 3000
+Burble Hammer: 44000 -> -1
+Burble Hatchet: 54000 -> 21000
+Burble Helmet: 32000 -> 15500
+Burble Mace: -1 -> 30000
+Burble Milk: 130 -> 125
+Burble Needle: 45000 -> -1
+Burble Plate Body: 92000 -> 20500
+Burble Plate Legs: 48000 -> -1
+Burble Pot: 49000 -> -1
+Burble Shears: 47000 -> 29500
+Burble Spatula: 47000 -> 16500
+Burble Spear: 58000 -> 11500
+Burble Sword: 58000 -> 14000
+Burble Tea Leaf: 39 -> 33
+Burning Key Fragment: 1050000 -> 980000
+Cedar Bow: 29500 -> 21000
+Cedar Crossbow: 28000 -> 3200
+Cedar Fire Staff: 35000 -> 5000
+Cedar Log: 58 -> 46
+Cedar Lumber: 430 -> 390
+Cedar Nature Staff: 35000 -> 10000
+Cedar Shield: 10500 -> -1
+Cedar Water Staff: 33000 -> -1
+Centaur Boots: -1 -> -1
+Centaur Hoof: 215000 -> 195000
+Channeling Coffee: 1450 -> 1250
+Chaotic Chain: 8600000 -> 6600000
+Chaotic Flail: -1 -> 125000000
+Cheese: 150 -> 135
+Cheese Boots: 1600 -> 500
+Cheese Brush: 1900 -> -1
+Cheese Buckler: 390 -> -1
+Cheese Bulwark: 320 -> -1
+Cheese Chisel: 8400 -> -1
+Cheese Enhancer: 7000 -> -1
+Cheese Gauntlets: 3000 -> 500
+Cheese Hammer: 8000 -> -1
+Cheese Hatchet: 4100 -> -1
+Cheese Helmet: 1050 -> 580
+Cheese Mace: 34000 -> -1
+Cheese Needle: 3300 -> -1
+Cheese Plate Body: 3400 -> 500
+Cheese Plate Legs: 2600 -> 640
+Cheese Pot: 3200 -> 860
+Cheese Shears: 2750 -> -1
+Cheese Spatula: 2350 -> 1000
+Cheese Spear: 7000 -> -1
+Cheese Sword: 1950 -> 520
+Cheesesmithing Tea: 450 -> 50
+Chimerical Essence: 680 -> 660
+Chimerical Key: 1350000 -> 1300000
+Chrono Gloves: 3600000 -> 2550000
+Chrono Sphere: 360000 -> 350000
+Cleave: 130000 -> 120000
+Cocoon: 185 -> 170
+Collector's Boots: 1850000 -> 1500000
+Colossus Core: 275000 -> 245000
+Colossus Plate Body: 3500000 -> -1
+Colossus Plate Legs: 3500000 -> -1
+Cooking Tea: 370 -> 140
+Cotton: 29 -> 20
+Cotton Boots: 500 -> -1
+Cotton Fabric: 200 -> 84
+Cotton Gloves: 6400 -> -1
+Cotton Hat: 34000 -> 1150
+Cotton Robe Bottoms: 6600 -> 200
+Cotton Robe Top: 3400 -> -1
+Crab Pincer: 6600 -> 6000
+Crafting Tea: 1000 -> -1
+Crimson Boots: 45000 -> 18000
+Crimson Brush: -1 -> 26000
+Crimson Buckler: 60000 -> -1
+Crimson Bulwark: 25000 -> -1
+Crimson Cheese: 480 -> 410
+Crimson Chisel: 70000 -> -1
+Crimson Enhancer: 68000 -> -1
+Crimson Gauntlets: 66000 -> -1
+Crimson Hammer: 80000 -> 49000
+Crimson Hatchet: 68000 -> 44000
+Crimson Helmet: 60000 -> 39000
+Crimson Mace: 86000 -> -1
+Crimson Milk: 90 -> 84
+Crimson Needle: 64000 -> -1
+Crimson Plate Body: 70000 -> 60000
+Crimson Plate Legs: 68000 -> -1
+Crimson Pot: 74000 -> 22000
+Crimson Shears: 76000 -> 42000
+Crimson Spatula: 70000 -> 43000
+Crimson Spear: 125000 -> 27500
+Crimson Sword: -1 -> 14000
+Crippling Slash: 92000 -> 66000
+Critical Aura: 9600000 -> 7400000
+Critical Coffee: 2300 -> 2050
+Crushed Amber: 390 -> 330
+Crushed Amethyst: 4300 -> 4100
+Crushed Garnet: 1100 -> 1050
+Crushed Jade: 1600 -> 1350
+Crushed Moonstone: 1250 -> 1050
+Crushed Pearl: 1000 -> 840
+Cupcake: 205 -> 9
+Cursed Ball: 4200000 -> 3300000
+Cursed Bow: -1 -> 20000000
+Dark Key Fragment: 1050000 -> 880000
+Defense Coffee: 450 -> 370
+Demonic Core: 620000 -> 580000
+Demonic Plate Body: -1 -> -1
+Demonic Plate Legs: 7800000 -> -1
+Dodocamel Gauntlets: 45000000 -> 10500000
+Dodocamel Plume: 4500000 -> 4200000
+Donut: 155 -> 80
+Dragon Fruit: 125 -> 115
+Dragon Fruit Gummy: 450 -> 440
+Dragon Fruit Yogurt: 580 -> 560
+Earrings Of Armor: 2750000 -> -1
+Earrings Of Gathering: 4600000 -> 3800000
+Earrings Of Rare Find: 4300000 -> 4000000
+Earrings Of Regeneration: 4900000 -> 4200000
+Earrings Of Resistance: 1200000 -> 31000
+Earrings Of Threat: 7800000 -> -1
+Efficiency Tea: 600 -> 540
+Egg: 22 -> 21
+Elemental Affinity: 640000 -> 620000
+Elusiveness: 12000 -> 9000
+Emp Tea Leaf: 84 -> 82
+Enchanted Essence: 2350 -> 2250
+Enchanted Gloves: 4300000 -> 3000000
+Enchanted Key: 4400000 -> 4300000
+Enhancing Tea: 400 -> 220
+Entangle: 3800 -> 3500
+Excelsa Coffee Bean: 350 -> 320
+Eye Of The Watcher: 300000 -> 205000
+Eye Watch: 2950000 -> 2000000
+Eyessence: 120 -> 96
+Fierce Aura: 9000000 -> 7200000
+Fieriosa Coffee Bean: 300 -> 285
+Fighter Necklace: 6400000 -> 960000
+Fireball: 15500 -> 15000
+Firestorm: 660000 -> 600000
+Flame Arrow: 70000 -> 13000
+Flame Aura: 4600000 -> 3400000
+Flame Blast: 180000 -> 170000
+Flaming Cloth: 16000 -> 13500
+Flaming Robe Bottoms: 270000 -> 40000
+Flaming Robe Top: 155000 -> 60000
+Flax: 105 -> 68
+Fluffy Red Hat: 1750000 -> 900000
+Foraging Tea: 390 -> 120
+Frenzy: 200000 -> 150000
+Frost Sphere: 520000 -> 500000
+Frost Staff: 11500000 -> 5000000
+Frost Surge: 820000 -> 760000
+Garnet: 17000 -> 16000
+Gathering Tea: 370 -> 310
+Gator Vest: 6800 -> 6400
+Giant Pouch: 6400000 -> 5600000
+Ginkgo Bow: 64000 -> 36000
+Ginkgo Crossbow: 96000 -> 49000
+Ginkgo Fire Staff: 96000 -> 56000
+Ginkgo Log: 66 -> 43
+Ginkgo Lumber: 440 -> 380
+Ginkgo Nature Staff: 165000 -> 46000
+Ginkgo Shield: 49000 -> -1
+Ginkgo Water Staff: 80000 -> 29000
+Gobo Boomstick: 20500 -> -1
+Gobo Boots: 22500 -> -1
+Gobo Bracers: 23000 -> -1
+Gobo Chaps: 36000 -> -1
+Gobo Defender: 170000 -> 110000
+Gobo Essence: 78 -> 72
+Gobo Hide: 14 -> 13
+Gobo Hood: 29500 -> 15000
+Gobo Leather: 400 -> 270
+Gobo Rag: 160000 -> 155000
+Gobo Shooter: 29500 -> 20500
+Gobo Slasher: 21500 -> -1
+Gobo Smasher: 24000 -> -1
+Gobo Stabber: 21500 -> 20500
+Gobo Tunic: 37000 -> -1
+Goggles: 47000 -> 41000
+Golem Essence: 145 -> 135
+Gourmet Tea: 520 -> 310
+Granite Bludgeon: 12000000 -> 7000000
+Green Key Fragment: 46000 -> 39000
+Green Tea Leaf: 16 -> 14
+Griffin Chaps: 5600000 -> -1
+Griffin Leather: 680000 -> 660000
+Griffin Tunic: 6400000 -> -1
+Grizzly Bear Fluff: 62000 -> 48000
+Grizzly Bear Shoes: 350000 -> 66000
+Gummy: 210 -> 38
+Heal: 215000 -> 145000
+Holy Boots: 290000 -> -1
+Holy Brush: 195000 -> -1
+Holy Buckler: 250000 -> 200000
+Holy Bulwark: 240000 -> -1
+Holy Cheese: 1250 -> 1100
+Holy Chisel: 195000 -> 140000
+Holy Enhancer: 240000 -> 215000
+Holy Gauntlets: 165000 -> 135000
+Holy Hammer: 200000 -> 180000
+Holy Hatchet: 210000 -> 160000
+Holy Helmet: 240000 -> -1
+Holy Mace: 370000 -> 240000
+Holy Milk: 370 -> 350
+Holy Needle: 200000 -> 165000
+Holy Plate Body: 290000 -> 190000
+Holy Plate Legs: 260000 -> 140000
+Holy Pot: 160000 -> 150000
+Holy Shears: 230000 -> 150000
+Holy Spatula: 230000 -> 220000
+Holy Spear: 400000 -> 80000
+Holy Sword: 300000 -> 210000
+Ice Spear: 22000 -> 19500
+Icy Cloth: 14500 -> 11500
+Icy Robe Bottoms: 180000 -> 40000
+Icy Robe Top: 86000 -> 60000
+Impale: 10500 -> 7200
+Infernal Battlestaff: 28000000 -> -1
+Infernal Ember: 1350000 -> 1300000
+Insanity: 6800000 -> 4000000
+Intelligence Coffee: 480 -> 360
+Invincible: 2000000 -> 1550000
+Jackalope Antler: 1700000 -> 1550000
+Jackalope Staff: 50000000 -> 13500000
+Jade: 24000 -> 22500
+Jungle Essence: 60 -> 48
+Knight's Aegis: 52000000 -> 32000000
+Knight's Ingot: 4500000 -> 4000000
+Large Pouch: 720000 -> 520000
+Liberica Coffee Bean: 290 -> 265
+Linen Boots: 26000 -> 1200
+Linen Fabric: 430 -> 370
+Linen Gloves: 8600 -> 4500
+Linen Hat: 13000 -> 7000
+Linen Robe Bottoms: 16500 -> 1150
+Linen Robe Top: 19500 -> 1250
+Living Granite: 490000 -> 430000
+Log: 22 -> 18
+Lucky Coffee: 1300 -> 1100
+Lumber: 140 -> 125
+Luna Robe Bottoms: 1000000 -> -1
+Luna Robe Top: 1250000 -> -1
+Luna Wing: 90000 -> 80000
+Magic Coffee: 500 -> 420
+Magician's Cloth: 6200000 -> 5800000
+Magician's Hat: -1 -> 60000000
+Magnet: 68000 -> 62000
+Magnetic Gloves: 620000 -> -1
+Magnifying Glass: 1150000 -> 1050000
+Maim: 86000 -> 78000
+Mana Spring: 1000000 -> 900000
+Manticore Shield: 16000000 -> 11000000
+Manticore Sting: 1550000 -> 1400000
+Marine Chaps: -1 -> -1
+Marine Scale: 18000 -> 16500
+Marine Tunic: 110000 -> -1
+Marsberry: 54 -> 50
+Marsberry Cake: 580 -> 540
+Marsberry Donut: 470 -> 460
+Medium Pouch: 98000 -> 60000
+Milk: 43 -> 34
+Milking Tea: 290 -> 180
+Minor Heal: 7600 -> 4900
+Mirror Of Protection: 8000000 -> 7600000
+Mooberry: 82 -> 72
+Mooberry Cake: 470 -> 370
+Mooberry Donut: 490 -> 360
+Moolong Tea Leaf: 36 -> 32
+Moonstone: 20000 -> 18500
+Nature's Veil: 1450000 -> 660000
+Necklace Of Efficiency: 7400000 -> -1
+Necklace Of Wisdom: 7800000 -> 7000000
+Orange: 28 -> 10
+Orange Gummy: 33 -> 22
+Orange Key Fragment: 275000 -> 220000
+Orange Yogurt: 245 -> 145
+Panda Fluff: 58000 -> 46000
+Panda Gloves: 380000 -> 80000
+Peach: 40 -> 35
+Peach Gummy: 420 -> 360
+Peach Yogurt: 370 -> 350
+Pearl: 14000 -> 13500
+Penetrating Shot: 900000 -> 860000
+Penetrating Strike: 235000 -> 225000
+Pestilent Shot: 29500 -> 20500
+Pincer Gloves: 24500 -> 10000
+Plum: 84 -> 76
+Plum Gummy: 98 -> 86
+Plum Yogurt: 285 -> 250
+Poke: 7200 -> 7000
+Polar Bear Fluff: 70000 -> 66000
+Polar Bear Shoes: 380000 -> 150000
+Power Coffee: 520 -> 460
+Precision: 7400 -> 2550
+Processing Tea: 880 -> 740
+Provoke: 280000 -> 185000
+Puncture: 155000 -> 140000
+Purple Key Fragment: 245000 -> 235000
+Purpleheart Bow: 64000 -> -1
+Purpleheart Crossbow: 86000 -> 7000
+Purpleheart Fire Staff: 82000 -> 14000
+Purpleheart Log: 94 -> 82
+Purpleheart Lumber: 470 -> 410
+Purpleheart Nature Staff: 66000 -> 12500
+Purpleheart Shield: 34000 -> -1
+Purpleheart Water Staff: 78000 -> 16000
+Quick Aid: 500000 -> 460000
+Quick Shot: 3900 -> 2400
+Radiant Boots: 78000 -> 22500
+Radiant Fabric: 1550 -> 1400
+Radiant Fiber: 430 -> 410
+Radiant Gloves: 165000 -> 22500
+Radiant Hat: 195000 -> 170000
+Radiant Robe Bottoms: 300000 -> 240000
+Radiant Robe Top: 245000 -> 200000
+Rain Of Arrows: 245000 -> 240000
+Rainbow Boots: 98000 -> -1
+Rainbow Brush: 250000 -> 82000
+Rainbow Buckler: 100000 -> 23000
+Rainbow Bulwark: 125000 -> -1
+Rainbow Cheese: 470 -> 430
+Rainbow Chisel: -1 -> 35000
+Rainbow Enhancer: 105000 -> 32000
+Rainbow Gauntlets: -1 -> 35000
+Rainbow Hammer: 92000 -> 27500
+Rainbow Hatchet: 92000 -> 30000
+Rainbow Helmet: 100000 -> 62000
+Rainbow Mace: -1 -> 105000
+Rainbow Milk: 170 -> 140
+Rainbow Needle: 90000 -> 30000
+Rainbow Plate Body: 125000 -> 64000
+Rainbow Plate Legs: 110000 -> 70000
+Rainbow Pot: 105000 -> 30000
+Rainbow Shears: 88000 -> 64000
+Rainbow Spatula: 100000 -> 45000
+Rainbow Spear: 140000 -> 80000
+Rainbow Sword: -1 -> 96000
+Ranged Coffee: 580 -> 520
+Ranger Necklace: 7200000 -> 940000
+Red Chef's Hat: 2200000 -> 1200000
+Red Panda Fluff: 115000 -> 60000
+Red Tea Leaf: 54 -> 49
+Redwood Bow: 140000 -> 70000
+Redwood Crossbow: 98000 -> 72000
+Redwood Fire Staff: 140000 -> -1
+Redwood Log: 42 -> 24
+Redwood Lumber: 360 -> 290
+Redwood Nature Staff: 74000 -> -1
+Redwood Shield: 62000 -> -1
+Redwood Water Staff: -1 -> 70000
+Regal Jewel: 11000000 -> 8000000
+Regal Sword: 285000000 -> -1
+Rejuvenate: 700000 -> 520000
+Reptile Boots: 8600 -> 3200
+Reptile Bracers: 19000 -> -1
+Reptile Chaps: 15000 -> -1
+Reptile Hide: 12 -> 7
+Reptile Hood: 7000 -> 2700
+Reptile Leather: 175 -> 125
+Reptile Tunic: 15000 -> 1250
+Revenant Anima: 740000 -> 680000
+Revenant Chaps: -1 -> -1
+Revenant Tunic: 7800000 -> -1
+Revive: 1150000 -> 700000
+Ring Of Armor: 2500000 -> 980000
+Ring Of Gathering: 4400000 -> 3500000
+Ring Of Rare Find: 4500000 -> 4000000
+Ring Of Regeneration: 4900000 -> 3000000
+Ring Of Resistance: 600000 -> 185000
+Ring Of Threat: 2800000 -> -1
+Robusta Coffee Bean: 225 -> 175
+Rough Boots: 2350 -> -1
+Rough Bracers: 1300 -> -1
+Rough Chaps: 4700 -> -1
+Rough Hide: 50 -> 44
+Rough Hood: 2950 -> -1
+Rough Leather: 285 -> 205
+Rough Tunic: 8400 -> -1
+Royal Cloth: 7200000 -> 6800000
+Royal Fire Robe Bottoms: 88000000 -> 30000000
+Royal Fire Robe Top: -1 -> -1
+Royal Nature Robe Bottoms: 64000000 -> 40000000
+Royal Nature Robe Top: 80000000 -> 50000000
+Royal Water Robe Bottoms: 90000000 -> 28000000
+Royal Water Robe Top: -1 -> 38000000
+Scratch: 3200 -> 1150
+Shard Of Protection: 43000 -> 42000
+Shoebill Feather: 38000 -> 28000
+Shoebill Shoes: -1 -> 100000
+Sighted Bracers: 300000 -> 76000
+Silencing Shot: 78000 -> 40000
+Silk Boots: 40000 -> 8400
+Silk Fabric: 820 -> 800
+Silk Gloves: 56000 -> 45000
+Silk Hat: 76000 -> 56000
+Silk Robe Bottoms: 92000 -> 82000
+Silk Robe Top: 100000 -> 90000
+Sinister Essence: 780 -> 720
+Sinister Key: 2400000 -> 2250000
+Smack: 2300 -> 1200
+Small Pouch: 8000 -> 5600
+Smoke Burst: 86000 -> 78000
+Snail Shell: 4700 -> 3300
+Snail Shell Helmet: 6200 -> -1
+Snake Fang: 3200 -> 2450
+Snake Fang Dirk: 17000 -> 5000
+Sorcerer Boots: 220000 -> 96000
+Sorcerer Essence: 170 -> 155
+Sorcerer's Sole: 76000 -> 74000
+Soul Fragment: 350000 -> 320000
+Soul Hunter Crossbow: 7200000 -> -1
+Spaceberry: 210 -> 200
+Spaceberry Cake: 1000 -> 940
+Spaceberry Donut: 860 -> 840
+Spacia Coffee Bean: 600 -> 560
+Speed Aura: 7200000 -> 6000000
+Spike Shell: 200000 -> 195000
+Spiked Bulwark: 10000000 -> 2000000
+Stalactite Shard: 470000 -> 450000
+Stalactite Spear: 10000000 -> -1
+Stamina Coffee: 380 -> 280
+Star Fragment: 7600 -> 7000
+Star Fruit: 350 -> 340
+Star Fruit Gummy: 700 -> 680
+Star Fruit Yogurt: 900 -> 880
+Steady Shot: 620000 -> 430000
+Stone Key Fragment: 2300000 -> 2200000
+Strawberry: 66 -> 56
+Strawberry Cake: 300 -> 260
+Strawberry Donut: 295 -> 260
+Stunning Blow: 580000 -> 540000
+Sugar: 8 -> 7
+Sundering Crossbow: 250000000 -> -1
+Sundering Jewel: 11000000 -> 10000000
+Super Attack Coffee: 1350 -> 840
+Super Brewing Tea: 1950 -> 80
+Super Cheesesmithing Tea: 2950 -> 1350
+Super Cooking Tea: 1350 -> -1
+Super Crafting Tea: 2950 -> 1450
+Super Defense Coffee: 1400 -> 1250
+Super Enhancing Tea: 1350 -> 1050
+Super Foraging Tea: 1500 -> 1200
+Super Intelligence Coffee: 1950 -> 1650
+Super Magic Coffee: 5000 -> 4800
+Super Milking Tea: -1 -> 1100
+Super Power Coffee: 2700 -> 2400
+Super Ranged Coffee: 2850 -> 2600
+Super Stamina Coffee: 1850 -> 1700
+Super Tailoring Tea: 8000 -> 2150
+Super Woodcutting Tea: 1850 -> 1450
+Swamp Essence: 27 -> 22
+Sweep: 96000 -> 86000
+Swiftness Coffee: 1350 -> 1250
+Sylvan Aura: 6000000 -> 3600000
+Tailoring Tea: 360 -> 175
+Taunt: 32000 -> 19500
+Tome Of Healing: 32000 -> 10500
+Tome Of The Elements: 110000 -> 105000
+Toughness: 21500 -> 21000
+Toxic Pollen: 125000 -> 120000
+Treant Bark: 8400 -> 4300
+Treant Shield: 37000 -> -1
+Turtle Shell: 12000 -> 3800
+Turtle Shell Body: 23500 -> 9000
+Turtle Shell Legs: -1 -> 6000
+Twilight Essence: 115 -> 110
+Umbral Boots: 48000 -> 36000
+Umbral Bracers: 58000 -> -1
+Umbral Chaps: 135000 -> 100000
+Umbral Hide: 90 -> 52
+Umbral Hood: 130000 -> 80000
+Umbral Leather: 780 -> 700
+Umbral Tunic: 140000 -> 110000
+Vampire Fang: 220000 -> 200000
+Vampire Fang Dirk: 4200000 -> 1850000
+Vampiric Bow: 4500000 -> -1
+Vampirism: 82000 -> 64000
+Verdant Boots: 29000 -> -1
+Verdant Brush: 19000 -> -1
+Verdant Buckler: 2500 -> -1
+Verdant Bulwark: 4900 -> -1
+Verdant Cheese: 310 -> 275
+Verdant Chisel: 12500 -> 600
+Verdant Enhancer: 36000 -> -1
+Verdant Gauntlets: 12000 -> -1
+Verdant Hammer: 10000 -> 600
+Verdant Hatchet: 10500 -> 2800
+Verdant Helmet: 4200 -> -1
+Verdant Mace: 17000 -> 2000
+Verdant Milk: 66 -> 56
+Verdant Needle: 11000 -> 880
+Verdant Plate Body: 16000 -> -1
+Verdant Plate Legs: 14500 -> 600
+Verdant Pot: 24000 -> 560
+Verdant Shears: 11500 -> 10000
+Verdant Spatula: 25500 -> -1
+Verdant Spear: 9000 -> 2300
+Verdant Sword: 8000 -> 760
+Vision Helmet: 54000 -> -1
+Vision Shield: 1300000 -> 860000
+Watchful Relic: 2700000 -> 1350000
+Water Strike: 16000 -> 15000
+Werewolf Claw: 185000 -> 145000
+Werewolf Slasher: 3400000 -> 2500000
+Wheat: 20 -> 18
+White Key Fragment: 740000 -> 720000
+Wisdom Coffee: 940 -> 900
+Wisdom Tea: 500 -> 490
+Wizard Necklace: 6600000 -> 5400000
+Woodcutting Tea: 300 -> 175
+Wooden Bow: 8600 -> -1
+Wooden Crossbow: 4900 -> -1
+Wooden Fire Staff: 8800 -> 2250
+Wooden Nature Staff: 3100 -> -1
+Wooden Shield: 760 -> -1
+Wooden Water Staff: 3900 -> 1700
+Yogurt: 100 -> 5
+Done with requests, writing to file
+File prepared, sending data out if possible
+Data dump Fri Aug 9 12:51:43 UTC 2024
