@@ -652,8 +652,8 @@ Send: 639/640 /items/yogurt
 Abyssal Essence: 120 -> 110
 Acrobatic Hood: -1 -> 41000000
 Acrobat's Ribbon: 4200000 -> 3900000
-Amber: 8600 -> 6800
-Amethyst: 60000 -> 56000
+Amber: 8400 -> 6800
+Amethyst: 58000 -> 56000
 Apple: 15 -> 6
 Apple Gummy: 11 -> 10
 Apple Yogurt: 980 -> 74
@@ -665,7 +665,7 @@ Arcane Bow: 440000 -> 260000
 Arcane Crossbow: 460000 -> 360000
 Arcane Fire Staff: 440000 -> 165000
 Arcane Log: 490 -> 460
-Arcane Lumber: 1950 -> 1850
+Arcane Lumber: 1900 -> 1850
 Arcane Nature Staff: 360000 -> 255000
 Arcane Reflection: 31000 -> 12000
 Arcane Shield: 66000 -> -1
@@ -676,7 +676,7 @@ Azure Boots: 22000 -> -1
 Azure Brush: -1 -> -1
 Azure Buckler: 43000 -> 4000
 Azure Bulwark: 78000 -> 3600
-Azure Cheese: 600 -> 580
+Azure Cheese: 600 -> 560
 Azure Chisel: 32000 -> 21000
 Azure Enhancer: -1 -> 24500
 Azure Gauntlets: 32000 -> 1250
@@ -695,7 +695,7 @@ Azure Spear: -1 -> 22500
 Azure Sword: -1 -> 5200
 Bag Of 10 Cowbells: 380000 -> 370000
 Bamboo Boots: 8600 -> 2550
-Bamboo Branch: 26 -> 18
+Bamboo Branch: 25 -> 18
 Bamboo Fabric: 200 -> 155
 Bamboo Gloves: -1 -> 2500
 Bamboo Hat: -1 -> 12000
@@ -710,7 +710,7 @@ Beast Hood: 290000 -> 41000
 Beast Leather: 600 -> 580
 Beast Tunic: 115000 -> 50000
 Berserk: 400000 -> 390000
-Birch Bow: 21500 -> 5800
+Birch Bow: 20000 -> 5800
 Birch Crossbow: 20000 -> 9000
 Birch Fire Staff: 39000 -> -1
 Birch Log: 50 -> 25
@@ -723,7 +723,7 @@ Bishop's Scroll: 4900000 -> 4600000
 Black Bear Fluff: 29500 -> 29000
 Black Bear Shoes: 210000 -> 60000
 Black Tea Leaf: 20 -> 18
-Blackberry: 68 -> 60
+Blackberry: 66 -> 62
 Blackberry Cake: 6800 -> 410
 Blackberry Donut: 840 -> 180
 Blessed Tea: 700 -> 500
@@ -746,7 +746,7 @@ Burble Hatchet: 60000 -> -1
 Burble Helmet: -1 -> 34000
 Burble Mace: -1 -> 62000
 Burble Milk: 180 -> 175
-Burble Needle: -1 -> -1
+Burble Needle: 5200 -> -1
 Burble Plate Body: -1 -> 43000
 Burble Plate Legs: 60000 -> 30000
 Burble Pot: -1 -> 25000
@@ -755,7 +755,7 @@ Burble Spatula: 76000 -> 21000
 Burble Spear: -1 -> 64000
 Burble Sword: 370000 -> -1
 Burble Tea Leaf: 38 -> 31
-Burning Key Fragment: 660000 -> 580000
+Burning Key Fragment: 660000 -> 620000
 Cedar Bow: 54000 -> -1
 Cedar Crossbow: 33000 -> 20500
 Cedar Fire Staff: 47000 -> -1
@@ -799,12 +799,12 @@ Cleave: 105000 -> 84000
 Cocoon: 225 -> 200
 Collector's Boots: 2400000 -> 2100000
 Colossus Core: 195000 -> 185000
-Colossus Plate Body: -1 -> 1850000
+Colossus Plate Body: -1 -> 400000
 Colossus Plate Legs: 3900000 -> 1650000
 Cooking Tea: 320 -> 100
 Cotton: 28 -> 14
 Cotton Boots: 1750 -> -1
-Cotton Fabric: 260 -> 76
+Cotton Fabric: 260 -> 72
 Cotton Gloves: 2850 -> 370
 Cotton Hat: 1450 -> 340
 Cotton Robe Bottoms: 1850 -> 490
@@ -846,7 +846,7 @@ Cursed Ball: 1700000 -> 420000
 Cursed Bow: 26000000 -> 2000000
 Dark Key Fragment: 680000 -> 620000
 Defense Coffee: 700 -> 430
-Demonic Core: 280000 -> 260000
+Demonic Core: 275000 -> 260000
 Demonic Plate Body: 4300000 -> 500000
 Demonic Plate Legs: 4100000 -> -1
 Dodocamel Gauntlets: 46000000 -> 32000000
@@ -864,7 +864,7 @@ Earrings Of Threat: 1650000 -> 420000
 Efficiency Tea: 920 -> 880
 Egg: 25 -> 20
 Elemental Affinity: 520000 -> 500000
-Elusiveness: 15000 -> 5000
+Elusiveness: 14000 -> 5000
 Emp Tea Leaf: 90 -> 84
 Enchanted Chest Key: 2250000 -> 2050000
 Enchanted Entry Key: 520000 -> 490000
@@ -877,11 +877,11 @@ Eye Of The Watcher: 190000 -> 135000
 Eye Watch: -1 -> 1000000
 Eyessence: 68 -> 66
 Fierce Aura: 8200000 -> 7800000
-Fieriosa Coffee Bean: 410 -> 380
+Fieriosa Coffee Bean: 410 -> 390
 Fighter Necklace: 6000000 -> 56000
 Fireball: 16500 -> 16000
 Firestorm: 540000 -> 520000
-Flame Arrow: 13500 -> 9200
+Flame Arrow: 13000 -> 9200
 Flame Aura: 3000000 -> 2400000
 Flame Blast: 160000 -> 155000
 Flaming Cloth: 23000 -> 20500
@@ -890,13 +890,13 @@ Flaming Robe Top: 110000 -> 62000
 Flax: 96 -> 66
 Fluffy Red Hat: 1450000 -> 1200000
 Foraging Tea: 300 -> 200
-Frenzy: 205000 -> 180000
+Frenzy: 200000 -> 180000
 Frost Sphere: 330000 -> 320000
 Frost Staff: 5800000 -> 600000
 Frost Surge: 540000 -> 520000
-Garnet: 13000 -> 12000
+Garnet: 12500 -> 12000
 Gathering Tea: 680 -> 410
-Gator Vest: 13000 -> 5800
+Gator Vest: 12500 -> 5800
 Giant Pouch: 7000000 -> 6400000
 Ginkgo Bow: 88000 -> 47000
 Ginkgo Crossbow: 175000 -> 62000
@@ -909,13 +909,13 @@ Ginkgo Water Staff: -1 -> 66000
 Gobo Boomstick: 20500 -> -1
 Gobo Boots: -1 -> 24000
 Gobo Bracers: 48000 -> 12000
-Gobo Chaps: 58000 -> 35000
+Gobo Chaps: 58000 -> 36000
 Gobo Defender: 115000 -> 105000
 Gobo Essence: 100 -> 82
 Gobo Hide: 44 -> 12
-Gobo Hood: -1 -> 24000
+Gobo Hood: -1 -> 24500
 Gobo Leather: 450 -> 350
-Gobo Rag: 220000 -> 215000
+Gobo Rag: 220000 -> 210000
 Gobo Shooter: 20500 -> -1
 Gobo Slasher: 23000 -> -1
 Gobo Smasher: 21000 -> 20000
@@ -948,15 +948,15 @@ Holy Hammer: 380000 -> 320000
 Holy Hatchet: 330000 -> 64000
 Holy Helmet: 275000 -> 170000
 Holy Mace: 660000 -> 290000
-Holy Milk: 450 -> 420
+Holy Milk: 440 -> 420
 Holy Needle: 295000 -> 180000
 Holy Plate Body: 450000 -> 350000
 Holy Plate Legs: 360000 -> -1
-Holy Pot: 800000 -> 350000
+Holy Pot: 360000 -> 350000
 Holy Shears: 370000 -> 320000
 Holy Spatula: 370000 -> 330000
 Holy Spear: 800000 -> 285000
-Holy Sword: 390000 -> 360000
+Holy Sword: 480000 -> 360000
 Ice Spear: 15500 -> 14500
 Icy Cloth: 26000 -> 20500
 Icy Robe Bottoms: 130000 -> 45000
@@ -966,11 +966,11 @@ Infernal Battlestaff: 18000000 -> 13000000
 Infernal Ember: 820000 -> 800000
 Insanity: 4900000 -> 4500000
 Intelligence Coffee: 400 -> 370
-Invincible: 1300000 -> 900000
+Invincible: 1250000 -> 900000
 Jackalope Antler: 1750000 -> 1650000
 Jackalope Staff: 34000000 -> 28000000
 Jade: 24000 -> 23500
-Jungle Essence: 62 -> 54
+Jungle Essence: 62 -> 56
 Knight's Aegis: 39000000 -> 17000000
 Knight's Ingot: 3300000 -> 2950000
 Large Pouch: 620000 -> 540000
@@ -988,9 +988,9 @@ Lumber: 620 -> 215
 Luna Robe Bottoms: -1 -> -1
 Luna Robe Top: 2500000 -> -1
 Luna Wing: 125000 -> 110000
-Magic Coffee: 800 -> 760
-Magician's Cloth: 4500000 -> 3900000
-Magician's Hat: -1 -> 36000000
+Magic Coffee: 820 -> 760
+Magician's Cloth: 4500000 -> 4000000
+Magician's Hat: -1 -> 10000000
 Magnet: 50000 -> 25500
 Magnetic Gloves: 500000 -> -1
 Magnifying Glass: 430000 -> 380000
@@ -1002,39 +1002,39 @@ Marine Chaps: -1 -> -1
 Marine Scale: 17000 -> 8000
 Marine Tunic: 760000 -> -1
 Marsberry: 140 -> 98
-Marsberry Cake: 840 -> 800
+Marsberry Cake: 880 -> 800
 Marsberry Donut: 720 -> 640
 Medium Pouch: 70000 -> -1
 Milk: 30 -> 26
-Milking Tea: 360 -> -1
-Minor Heal: 25000 -> 12500
+Milking Tea: 390 -> -1
+Minor Heal: 24500 -> 12500
 Mirror Of Protection: 7200000 -> 6800000
 Mooberry: 155 -> 110
-Mooberry Cake: 740 -> 660
+Mooberry Cake: 720 -> 660
 Mooberry Donut: 620 -> 480
 Moolong Tea Leaf: 39 -> 32
-Moonstone: 41000 -> 33000
+Moonstone: 42000 -> 34000
 Nature's Veil: 860000 -> 800000
 Necklace Of Efficiency: 7600000 -> -1
 Necklace Of Wisdom: 7800000 -> 5800000
 Orange: 8 -> -1
 Orange Gummy: 32 -> 22
-Orange Key Fragment: 78000 -> 74000
-Orange Yogurt: 980 -> 255
+Orange Key Fragment: 84000 -> 74000
+Orange Yogurt: 980 -> 310
 Panda Fluff: 64000 -> 8200
 Panda Gloves: 245000 -> -1
 Peach: 68 -> 40
-Peach Gummy: 275 -> 225
-Peach Yogurt: 680 -> 580
-Pearl: 9800 -> 7200
+Peach Gummy: 280 -> 225
+Peach Yogurt: 700 -> 580
+Pearl: 9800 -> 7400
 Penetrating Shot: 480000 -> 430000
 Penetrating Strike: 115000 -> 90000
-Pestilent Shot: 27500 -> 18000
+Pestilent Shot: 27500 -> 18500
 Pincer Gloves: 19500 -> 10000
 Plum: 155 -> 140
-Plum Gummy: 90 -> 66
+Plum Gummy: 90 -> 68
 Plum Yogurt: 800 -> 400
-Poke: 2150 -> 1350
+Poke: 2100 -> 1350
 Polar Bear Fluff: 58000 -> 56000
 Polar Bear Shoes: 450000 -> 66000
 Power Coffee: 660 -> 580
@@ -1042,7 +1042,7 @@ Precision: 7600 -> 6600
 Processing Tea: 1900 -> 1200
 Provoke: 94000 -> 86000
 Puncture: 92000 -> 70000
-Purple Key Fragment: 205000 -> 200000
+Purple Key Fragment: 215000 -> 200000
 Purpleheart Bow: 72000 -> 28500
 Purpleheart Crossbow: 100000 -> 29000
 Purpleheart Fire Staff: 125000 -> 45000
@@ -1051,7 +1051,7 @@ Purpleheart Lumber: 490 -> 450
 Purpleheart Nature Staff: 130000 -> -1
 Purpleheart Shield: -1 -> 30000
 Purpleheart Water Staff: -1 -> 50000
-Quick Aid: 660000 -> 480000
+Quick Aid: 640000 -> 480000
 Quick Shot: 2900 -> 2400
 Radiant Boots: 31000 -> 22500
 Radiant Fabric: 1750 -> 1700
@@ -1073,7 +1073,7 @@ Rainbow Hammer: 175000 -> 30000
 Rainbow Hatchet: 260000 -> 76000
 Rainbow Helmet: -1 -> 100000
 Rainbow Mace: -1 -> 105000
-Rainbow Milk: 280 -> 260
+Rainbow Milk: 280 -> 265
 Rainbow Needle: 390000 -> 30000
 Rainbow Plate Body: 190000 -> 145000
 Rainbow Plate Legs: -1 -> 110000
@@ -1085,7 +1085,7 @@ Rainbow Sword: 320000 -> 170000
 Ranged Coffee: 700 -> 680
 Ranger Necklace: 7400000 -> 74000
 Red Chef's Hat: 1600000 -> 1300000
-Red Panda Fluff: 120000 -> 115000
+Red Panda Fluff: 125000 -> 115000
 Red Tea Leaf: 58 -> 50
 Redwood Bow: 90000 -> 48000
 Redwood Crossbow: 140000 -> 54000
@@ -1094,6 +1094,175 @@ Redwood Log: 33 -> 28
 Redwood Lumber: 440 -> 410
 Redwood Nature Staff: 140000 -> 90000
 Redwood Shield: 100000000 -> -1
+Redwood Water Staff: 140000 -> 86000
+Regal Jewel: 7200000 -> 6800000
+Regal Sword: -1 -> 48000000
+Rejuvenate: 660000 -> 580000
+Reptile Boots: 11000 -> -1
+Reptile Bracers: 96000 -> 3100
+Reptile Chaps: -1 -> 4600
+Reptile Hide: 42 -> 20
+Reptile Hood: 43000 -> -1
+Reptile Leather: 390 -> 300
+Reptile Tunic: 10500 -> -1
+Revenant Anima: 940000 -> 880000
+Revenant Chaps: 8000000 -> 6000000
+Revenant Tunic: 9400000 -> 7600000
+Revive: 300000 -> 245000
+Ring Of Armor: 4000000 -> 900000
+Ring Of Gathering: -1 -> 3300000
+Ring Of Rare Find: 3800000 -> -1
+Ring Of Regeneration: 4400000 -> 4100000
+Ring Of Resistance: 2850000 -> 31000
+Ring Of Threat: 1850000 -> 400000
+Robusta Coffee Bean: 250 -> 170
+Rough Boots: 5600 -> 720
+Rough Bracers: 3300 -> 490
+Rough Chaps: -1 -> 1400
+Rough Hide: 64 -> 47
+Rough Hood: 5800 -> 82
+Rough Leather: 410 -> 270
+Rough Tunic: 4000 -> 1600
+Royal Cloth: 5200000 -> 5000000
+Royal Fire Robe Bottoms: -1 -> -1
+Royal Fire Robe Top: 60000000 -> 32000000
+Royal Nature Robe Bottoms: -1 -> -1
+Royal Nature Robe Top: 50000000 -> 1600000
+Royal Water Robe Bottoms: -1 -> -1
+Royal Water Robe Top: -1 -> -1
+Scratch: 3600 -> 3300
+Shard Of Protection: 38000 -> 37000
+Shoebill Feather: 44000 -> 27000
+Shoebill Shoes: 390000 -> -1
+Sighted Bracers: -1 -> 240000
+Silencing Shot: 49000 -> 31000
+Silk Boots: 78000 -> 39000
+Silk Fabric: 1150 -> 980
+Silk Gloves: 98000 -> 45000
+Silk Hat: 88000 -> 49000
+Silk Robe Bottoms: -1 -> 84000
+Silk Robe Top: 145000 -> 54000
+Sinister Chest Key: 1300000 -> 1250000
+Sinister Entry Key: 490000 -> 310000
+Sinister Essence: 340 -> 310
+Smack: 1650 -> 1400
+Small Pouch: 10000 -> 7400
+Smoke Burst: 145000 -> 80000
+Snail Shell: 6000 -> 3800
+Snail Shell Helmet: 6600 -> 6200
+Snake Fang: 2200 -> 2050
+Snake Fang Dirk: 20000 -> 2550
+Sorcerer Boots: 220000 -> 50000
+Sorcerer Essence: 92 -> 90
+Sorcerer's Sole: 66000 -> 64000
+Soul Fragment: 135000 -> 130000
+Soul Hunter Crossbow: 3800000 -> 2200000
+Spaceberry: 215 -> 200
+Spaceberry Cake: 1200 -> 1100
+Spaceberry Donut: 860 -> 840
+Spacia Coffee Bean: 680 -> 660
+Speed Aura: 5000000 -> 4000000
+Spike Shell: 235000 -> 130000
+Spiked Bulwark: -1 -> 500000
+Stalactite Shard: 285000 -> 135000
+Stalactite Spear: -1 -> 2700000
+Stamina Coffee: 420 -> 350
+Star Fragment: 7400 -> 7200
+Star Fruit: 390 -> 380
+Star Fruit Gummy: 960 -> 840
+Star Fruit Yogurt: 1300 -> 1250
+Steady Shot: 620000 -> 320000
+Stone Key Fragment: 1150000 -> 1050000
+Strawberry: 78 -> 56
+Strawberry Cake: 900 -> 480
+Strawberry Donut: 340 -> 250
+Stunning Blow: 440000 -> 410000
+Sugar: 8 -> 7
+Sundering Crossbow: 195000000 -> 130000000
+Sundering Jewel: 7600000 -> 7400000
+Super Attack Coffee: 1900 -> 1600
+Super Brewing Tea: 1450 -> 82
+Super Cheesesmithing Tea: 3400 -> -1
+Super Cooking Tea: 1950 -> 82
+Super Crafting Tea: 2950 -> -1
+Super Defense Coffee: 2550 -> 1450
+Super Enhancing Tea: 6800 -> 1450
+Super Foraging Tea: 2550 -> 1150
+Super Intelligence Coffee: 2100 -> 1800
+Super Magic Coffee: 4900 -> 4800
+Super Milking Tea: -1 -> 1000
+Super Power Coffee: 2750 -> 2700
+Super Ranged Coffee: 3300 -> 3200
+Super Stamina Coffee: 1950 -> 1900
+Super Tailoring Tea: 5800 -> 2500
+Super Woodcutting Tea: 3400 -> 780
+Swamp Essence: 24 -> 23
+Sweep: 86000 -> 84000
+Swiftness Coffee: 1850 -> 1700
+Sylvan Aura: -1 -> 4200000
+Tailoring Tea: 940 -> 420
+Taunt: 7800 -> 5200
+Tome Of Healing: 16500 -> 15000
+Tome Of The Elements: 135000 -> 105000
+Toughness: 9400 -> 9200
+Toxic Pollen: 150000 -> 135000
+Treant Bark: 7200 -> 4400
+Treant Shield: 35000 -> -1
+Turtle Shell: 15000 -> 13000
+Turtle Shell Body: 23500 -> -1
+Turtle Shell Legs: 45000 -> -1
+Twilight Essence: 115 -> 110
+Umbral Boots: 96000 -> -1
+Umbral Bracers: 270000 -> 64000
+Umbral Chaps: 200000 -> 115000
+Umbral Hide: 88 -> 70
+Umbral Hood: 490000 -> 155000
+Umbral Leather: 1000 -> 980
+Umbral Tunic: 195000 -> 125000
+Vampire Fang: 64000 -> 52000
+Vampire Fang Dirk: 2000000 -> 500000
+Vampiric Bow: 820000 -> 400000
+Vampirism: 47000 -> 32000
+Verdant Boots: -1 -> -1
+Verdant Brush: 15000 -> 5600
+Verdant Buckler: 10000 -> -1
+Verdant Bulwark: 3000 -> -1
+Verdant Cheese: 370 -> 340
+Verdant Chisel: 11000 -> 5000
+Verdant Enhancer: 14500 -> 6000
+Verdant Gauntlets: 16500 -> 2100
+Verdant Hammer: 16000 -> -1
+Verdant Hatchet: 12500 -> -1
+Verdant Helmet: -1 -> -1
+Verdant Mace: -1 -> 10000
+Verdant Milk: 90 -> 56
+Verdant Needle: 17500 -> 3200
+Verdant Plate Body: -1 -> 10500
+Verdant Plate Legs: -1 -> 4200
+Verdant Pot: 18500 -> 5000
+Verdant Shears: 21500 -> 580
+Verdant Spatula: 17500 -> -1
+Verdant Spear: 50000 -> 11000
+Verdant Sword: -1 -> 13500
+Vision Helmet: 28500 -> -1
+Vision Shield: 560000 -> 100000
+Watchful Relic: -1 -> 1200000
+Water Strike: 14000 -> 13500
+Werewolf Claw: 76000 -> 58000
+Werewolf Slasher: 2000000 -> 500000
+Wheat: 39 -> 33
+White Key Fragment: 540000 -> 490000
+Wisdom Coffee: 1150 -> 1100
+Wisdom Tea: 800 -> 620
+Wizard Necklace: 7400000 -> 6800000
+Woodcutting Tea: 450 -> 225
+Wooden Bow: 5800 -> 1250
+Wooden Crossbow: 5800 -> 1500
+Wooden Fire Staff: 4600 -> 1250
+Wooden Nature Staff: 4300 -> 160
+Wooden Shield: 4800 -> -1
+Wooden Water Staff: 5400 -> 1350
+Yogurt: 380 -> 64
 Done with requests, writing to file
 File prepared, sending data out if possible
-Data dump Thu Oct 10 12:22:02 UTC 2024
+Data dump Thu Oct 10 12:51:53 UTC 2024
