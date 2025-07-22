@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html><head>
+<title>Mooket</title>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="src/mooket.js"></script>
+<script type="module">
+  import { load } from "./dist/sql-httpvfs.js"
+  window.loadDB = load;
+  window.onload = function() {
+    async function startup() {
+      Promise.all([ window.loadDB("https://holychikenz.github.io/MWIApi/market.db") ]).then(
+        data => {
+          let viewer = new mooket(data[0]);
+        })
+    }
+    startup();
+  }
+</script>
+  </head>
+</body>
+<div id="mainMooket">Cow say moo!</div>
+<textarea id="query" name="query" rows=10 cols=50>
+SELECT DATETIME(time,"unixepoch") AS time, 
+"Holy Cheese", "Holy Milk",
+("Holy Cheese" - "Holy Milk"*2) AS "Margin"
+FROM ask
+</textarea><br />
+<button id="datago">Query</button>
+<div id="plot" style="display:flex;"></div>
+</body>
+</html>
